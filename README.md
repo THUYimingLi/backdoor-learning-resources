@@ -49,11 +49,11 @@ Markdown format:
 - Hidden Trigger Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1910.00033.pdf)
   [[code]](https://github.com/UMBCvision/Hidden-Trigger-Backdoor-Attacks)
-  - Aniruddha Saha, Akshayvarun Subramanya, and Hamed Pirsiavash. *AAAI 2020*
+  - Aniruddha Saha, Akshayvarun Subramanya, and Hamed Pirsiavash. *AAAI 2020*.
 
 - Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation.
   [[pdf]](https://arxiv.org/pdf/1808.10307.pdf)
-  - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY 2020*
+  - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY 2020*.
 
 - Blind Backdoors in Deep Learning Models. 
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
@@ -105,15 +105,15 @@ Markdown format:
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
-  - Keita Kurita, Paul Michel, and Graham Neubig. *ACL 2020*
+  - Keita Kurita, Paul Michel, and Graham Neubig. *ACL 2020*.
 
 - Clean-Label Backdoor Attacks on Video Recognition Models.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.pdf)
-  - Shihao Zhao, Xingjun Ma, Xiang Zheng, James Bailey, Jingjing Chen, and Yu-Gang Jiang. *CVPR 2020*
+  - Shihao Zhao, Xingjun Ma, Xiang Zheng, James Bailey, Jingjing Chen, and Yu-Gang Jiang. *CVPR 2020*.
 
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
-  - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN 2020*
+  - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN 2020*.
     
 - BadNL: Backdoor Attacks Against NLP Models.
   [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
