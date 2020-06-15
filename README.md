@@ -64,6 +64,10 @@ Markdown format:
   - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv 2020.  
 
 #### 2019
+- A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning.
+  [[pdf]](https://arxiv.org/pdf/1902.11237.pdf)
+  - M.Barni, K.Kallas, and B.Tondi. *ICIP 2019*.
+
 - Bypassing Backdoor Detection Algorithms in Deep Learning.
   [[pdf]](https://arxiv.org/pdf/1905.13409.pdf)
   - Te Juin Lester Tan, and Reza Shokri. arXiv 2019.
@@ -89,13 +93,18 @@ Markdown format:
 
 
 ### Non-poisoning-based Attack
-#### 2020
+- Backdooring and Poisoning Neural Networks with Image-Scaling Attacks.
+  [[pdf]](https://arxiv.org/pdf/2003.08633.pdf)
+  - Erwin Quiring, and Konrad Rieck. *IEEE DLS 2020*.
+  
+- TrojanNet: Embedding Hidden Trojan Horse Models in Neural Network.
+  [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
+  - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv 2020.
 
-#### 2019
-
-#### 2018
-
-
+- Backdooring Convolutional Neural Networks via TargetedWeight Perturbations.
+  [[pdf]](https://arxiv.org/pdf/1812.03128.pdf)
+  - Jacob Dumford, and Walter Scheirer. arXiv 2018.
+  
 ### Backdoor Defense
 #### 2020
 
@@ -106,6 +115,10 @@ Markdown format:
 
 ## Attack and Defense Towards Other Tasks
 ### 2020
+- Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
+  - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, Tianle Chen. *IEEE Transactions on Services Computing 2020*.
+
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
