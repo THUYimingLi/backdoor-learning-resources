@@ -34,7 +34,7 @@ Markdown format:
   - [Non-poisoning-based Attack](#non-poisoning-based-attack)
   - [Backdoor Defense](#backdoor-defense)
 - [Attack and Defense Towards Other Tasks](#other-task)  
-- [Properties Discussion](#properties-discussion)
+- [Properties Discussion and Evaluation](#properties-discussion)
 - [Application in other Tasks](#application-in-other-tasks)
 
 
@@ -164,7 +164,7 @@ Markdown format:
   - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. arXiv 2019.
 
 
-## Properties Discussion
+## Properties Discussion and Evaluation
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv 2020.
