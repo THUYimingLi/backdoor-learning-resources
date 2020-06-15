@@ -101,7 +101,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
   - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv 2020.
 
-- Backdooring Convolutional Neural Networks via TargetedWeight Perturbations.
+- Backdooring Convolutional Neural Networks via Targeted Weight Perturbations.
   [[pdf]](https://arxiv.org/pdf/1812.03128.pdf)
   - Jacob Dumford, and Walter Scheirer. arXiv 2018.
   
