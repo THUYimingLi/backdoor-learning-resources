@@ -117,7 +117,7 @@ Markdown format:
 ### 2020
 - Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
   [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
-  - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, Tianle Chen. *IEEE Transactions on Services Computing 2020*.
+  - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, and Tianle Chen. *IEEE Transactions on Services Computing 2020*.
 
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
