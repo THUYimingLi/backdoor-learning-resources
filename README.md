@@ -64,6 +64,10 @@ Markdown format:
   - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv 2020.  
 
 #### 2019
+- Bypassing Backdoor Detection Algorithms in Deep Learning.
+  [[pdf]](https://arxiv.org/pdf/1905.13409.pdf)
+  - Te Juin Lester Tan, and Reza Shokri. arXiv 2019.
+  
 - Label-Consistent Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1912.02771.pdf)
   - Alexander Turner, Dimitris Tsipras, and Aleksander Madry. arXiv 2019.
