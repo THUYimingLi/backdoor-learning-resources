@@ -33,8 +33,8 @@ Markdown format:
   - [Poisoning-based Attack](#poisoning-based-attack)
   - [Non-poisoning-based Attack](#non-poisoning-based-attack)
   - [Backdoor Defense](#backdoor-defense)
-- [Attack and Defense Towards Other Tasks](#other-task)  
-- [Properties Discussion and Evaluation](#properties-discussion)
+- [Attack and Defense Towards Other Tasks](#attack-and-defense-towards-other-tasks)  
+- [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
 - [Application in other Tasks](#application-in-other-tasks)
 
 
