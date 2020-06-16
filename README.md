@@ -55,6 +55,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1808.10307.pdf)
   - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY 2020*.
 
+- Backdooring and Poisoning Neural Networks with Image-Scaling Attacks.
+  [[pdf]](https://arxiv.org/pdf/2003.08633.pdf)
+  - Erwin Quiring, and Konrad Rieck. *IEEE DLS 2020*.
+
 - Blind Backdoors in Deep Learning Models. 
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
   - Eugene Bagdasaryan, and Vitaly Shmatikov. arXiv 2020.
@@ -92,11 +96,7 @@ Markdown format:
   - Xinyun Chen, Chang Liu, Bo Li, Kimberly Lu, and Dawn Song. arXiv 2017.
 
 
-### Non-poisoning-based Attack
-- Backdooring and Poisoning Neural Networks with Image-Scaling Attacks.
-  [[pdf]](https://arxiv.org/pdf/2003.08633.pdf)
-  - Erwin Quiring, and Konrad Rieck. *IEEE DLS 2020*.
-  
+### Non-poisoning-based Attack  
 - TrojanNet: Embedding Hidden Trojan Horse Models in Neural Network.
   [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
   - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv 2020.
