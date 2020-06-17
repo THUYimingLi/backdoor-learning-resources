@@ -97,7 +97,7 @@ Markdown format:
   
 - Trojaning Attack on Neural Networks.
   [[pdf]](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2782&context=cstech)
-  - Yingqi Liu, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, Juan Zhai. 2017.
+  - Yingqi Liu, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, and Juan Zhai. 2017.
 
 
 ### Non-poisoning-based Attack  
