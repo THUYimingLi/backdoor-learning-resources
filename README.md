@@ -145,7 +145,15 @@ Markdown format:
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
   - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN 2020*.
-    
+
+- Backdoor Attacks to Graph Neural Networks. 
+  [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
+  - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. arXiv 2020.
+  
+- Backdoor Attacks on Federated Meta-Learning. 
+  [[pdf]](https://arxiv.org/pdf/2006.07026.pdf)
+  - Chien-Lun Chen, Leana Golubchik, and Marco Paolieri. arXiv 2020. 
+
 - BadNL: Backdoor Attacks Against NLP Models.
   [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
   - Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv 2020.
