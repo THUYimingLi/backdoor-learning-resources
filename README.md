@@ -55,6 +55,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1808.10307.pdf)
   - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY 2020*.
 
+- Live Trojan Attacks on Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2004.11370.pdf)
+  [[code]](https://github.com/robbycostales/live-trojans)
+  - Robby Costales, Chengzhi Mao, Raphael Norwitz, Bryan Kim, and Junfeng Yang. *CVPRW 2020*.
+
 - Backdooring and Poisoning Neural Networks with Image-Scaling Attacks.
   [[pdf]](https://arxiv.org/pdf/2003.08633.pdf)
   - Erwin Quiring, and Konrad Rieck. *IEEE DLS 2020*.
@@ -97,10 +102,15 @@ Markdown format:
   
 - Trojaning Attack on Neural Networks.
   [[pdf]](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2782&context=cstech)
-  - Yingqi Liu, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, and Juan Zhai. 2017.
+  - Yingqi Liu, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, and Juan Zhai. *NDSS 2017*.
 
 
 ### Non-poisoning-based Attack  
+- TBT: Targeted Neural Network Attack with Bit Trojan.
+  [[pdf]](https://arxiv.org/abs/1909.05193)
+  [[code]](https://github.com/adnansirajrakin/TBT-CVPR2020)
+  - Adnan Siraj Rakin, Zhezhi He, and Deliang Fan. *CVPR 2020*.
+
 - TrojanNet: Embedding Hidden Trojan Horse Models in Neural Network.
   [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
   - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv 2020.
@@ -175,7 +185,13 @@ Markdown format:
 
 
 ## Application in other Tasks
+- Turning Your Weakness into a Strength: Watermarking Deep Neural Networks by Backdooring.
+  [[pdf]](https://arxiv.org/pdf/1802.04633.pdf)
+  [[code]](https://github.com/adiyoss/WatermarkNN)
+  - Yossi Adi, Carsten Baum, Moustapha Cisse, Benny Pinkas, and Joseph Keshet. *USENIX Security 2018*. 
 
-
-
+- Towards Probabilistic Verification of Machine Unlearning.
+  [[pdf]](https://arxiv.org/pdf/2003.04247.pdf)
+  [[code]](https://github.com/inspire-group/unlearning-verification)
+  - David Marco Sommer, Liwei Song, Sameer Wagh, and Prateek Mittal. arXiv 2020. 
 
