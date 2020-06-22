@@ -51,6 +51,10 @@ Markdown format:
   [[code]](https://github.com/UMBCvision/Hidden-Trigger-Backdoor-Attacks)
   - Aniruddha Saha, Akshayvarun Subramanya, and Hamed Pirsiavash. *AAAI 2020*.
 
+- Bypassing Backdoor Detection Algorithms in Deep Learning.
+  [[pdf]](https://arxiv.org/pdf/1905.13409.pdf)
+  - Te Juin Lester Tan, and Reza Shokri. *EuroS&P 2020*.
+
 - Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation.
   [[pdf]](https://arxiv.org/pdf/1808.10307.pdf)
   - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY 2020*.
@@ -76,10 +80,6 @@ Markdown format:
 - A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning.
   [[pdf]](https://arxiv.org/pdf/1902.11237.pdf)
   - M.Barni, K.Kallas, and B.Tondi. *ICIP 2019*.
-
-- Bypassing Backdoor Detection Algorithms in Deep Learning.
-  [[pdf]](https://arxiv.org/pdf/1905.13409.pdf)
-  - Te Juin Lester Tan, and Reza Shokri. arXiv 2019.
   
 - Label-Consistent Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1912.02771.pdf)
