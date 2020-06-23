@@ -106,6 +106,11 @@ Markdown format:
 
 
 ### Non-poisoning-based Attack  
+- An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2006.08131.pdf)
+  [[code]](https://github.com/trx14/TrojanNet)
+  - Ruixiang Tang, Mengnan Du, Ninghao Liu, Fan Yang, and Xia Hu. *KDD 2020*.
+
 - TBT: Targeted Neural Network Attack with Bit Trojan.
   [[pdf]](https://arxiv.org/abs/1909.05193)
   [[code]](https://github.com/adnansirajrakin/TBT-CVPR2020)
