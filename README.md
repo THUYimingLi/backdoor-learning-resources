@@ -62,7 +62,7 @@ Markdown format:
 - Live Trojan Attacks on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2004.11370.pdf)
   [[code]](https://github.com/robbycostales/live-trojans)
-  - Robby Costales, Chengzhi Mao, Raphael Norwitz, Bryan Kim, and Junfeng Yang. *CVPRW 2020*.
+  - Robby Costales, Chengzhi Mao, Raphael Norwitz, Bryan Kim, and Junfeng Yang. *CVPR Workshop 2020*.
 
 - Backdooring and Poisoning Neural Networks with Image-Scaling Attacks.
   [[pdf]](https://arxiv.org/pdf/2003.08633.pdf)
