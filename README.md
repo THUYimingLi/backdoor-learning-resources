@@ -1,15 +1,12 @@
 # Awesome Backdoor Learning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-<p align="center">
-  <img width="250" src="https://camo.githubusercontent.com/1131548cf666e1150ebd2a52f44776d539f06324/68747470733a2f2f63646e2e7261776769742e636f6d2f73696e647265736f726875732f617765736f6d652f6d61737465722f6d656469612f6c6f676f2e737667" "Awesome!">
-</p>
 
-A curated list of awesome Backdoor Learning resources (**Still under development**). Inspired by [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers).
+A curated list of awesome **Backdoor Learning** resources. Inspired by [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers).
 
 #### Why Backdoor Learning?
 Backdoor learning is an emerging research area, which discusses the security issues of the training process towards machine learning algorithms. It is critical for safely adopting third-party algorithms in reality.  Although backdoor learning shares certain similarity with adversarial learning (which concentrates on the security issues of the inference process), they do have essential differences and can be easily distinguished.
 
-Note: *Backdoor* is also commonly called the *Neural Trojan*.
+Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## Contributing
@@ -302,6 +299,15 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
   - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. arXiv 2020.
 
+- Learning to Detect Malicious Clients for Robust Federated Learning. 
+  [[pdf]](https://arxiv.org/pdf/2002.00211.pdf)
+  - Suyi Li, Yong Cheng, Wei Wang, Yang Liu, and Tianjian Chen. arXiv 2020.
+
+- Bias Busters: Robustifying DL-based Lithographic Hotspot Detectors Against Backdooring Attacks.
+  [[pdf]](https://arxiv.org/pdf/2004.12492.pdf)
+  - Kang Liu, Benjamin Tan, Gaurav Rajavendra Reddy, Siddharth Garg, Yiorgos Makris, and Ramesh Karri. arXiv 2020.
+
+
 ### 2019
 - A Backdoor Attack Against LSTM-based Text Classification Systems.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
@@ -315,7 +321,15 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN 2019*.
 
+- Can You Really Backdoor Federated Learning?
+  [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
+  - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS 2019 Workshop*
 
+- Attack-Resistant Federated Learning with Residual-based Reweighting.
+  [[pdf]](https://arxiv.org/pdf/1912.11464.pdf)
+  [[code]](https://github.com/fushuhao6/Attack-Resistant-Federated-Learning)
+  - Shuhao Fu, Chulin Xie, Bo Li, and Qifeng Chen. arXiv 2019.
+  
 ### 2018
 - How to Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
