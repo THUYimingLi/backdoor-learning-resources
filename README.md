@@ -197,7 +197,7 @@ Markdown format:
 
 - Neural Network Laundering: Removing Black-Box Backdoor Watermarks from Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2004.11368.pdf)
-  - William Aiken, Hyoungshick Kim, and Simon Woo. arXiv 2019.
+  - William Aiken, Hyoungshick Kim, and Simon Woo. arXiv 2020.
 
 
 #### Model Diagnosis based Empirical Defense
