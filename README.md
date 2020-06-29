@@ -341,6 +341,11 @@ Markdown format:
 
 
 ## Properties Discussion and Evaluation
+- A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models.
+  [[pdf]](https://arxiv.org/pdf/1911.01559.pdf)
+  [[code]](https://github.com/alps-lab/imc)
+  - Ren Pang, Hua Shen, Xinyang Zhang, Shouling Ji, Yevgeniy Vorobeychik, Xiapu Luo, Alex Liu, and Ting Wang. *CCS 2020*.
+
 - Systematic Evaluation of Backdoor Data Poisoning Attacks on Image Classiﬁers.
   [[pdf]](https://arxiv.org/pdf/2004.11514.pdf)
   - Loc Truong, Chace Jones, Brian Hutchinson, Andrew August, Brenda Praggastis, Robert Jasper, Nicole Nichols, and Aaron Tuor. *CVPR Workshop 2020*
