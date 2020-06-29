@@ -168,6 +168,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2003.00865.pdf)
   - Ezekiel Soremekun, Sakshi Udeshi, and Sudipta Chattopadhyay. arXiv 2020.
 
+- A Unified Framework for Analyzing and Detecting Malicious Examples of DNN Models.
+  [[pdf]](https://arxiv.org/pdf/2006.14871.pdf)
+  - Kaidi Jin, Tianwei Zhang, Chao Shen, Yufei Chen, Ming Fan, Chenhao Lin, and Ting Liu. arXiv 2020.
+
 - Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection.
   [[pdf]](https://arxiv.org/pdf/1908.00686.pdf)
   - Di Tang, XiaoFeng Wang, Haixu Tang, and Kehuan Zhang. arXiv 2019.
