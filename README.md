@@ -345,6 +345,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv 2020.
 
+- Backdoor Attacks on Facial Recognition in the Physical World.
+  [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
+  - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. arXiv 2020.
 
 ## Application in other Tasks
 - Turning Your Weakness into a Strength: Watermarking Deep Neural Networks by Backdooring.
