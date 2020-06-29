@@ -69,6 +69,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
   - Eugene Bagdasaryan, and Vitaly Shmatikov. arXiv 2020.
 
+- FaceHack: Triggering backdoored facial recognition systems using facial characteristics.
+  [[pdf]](https://arxiv.org/pdf/2006.11623.pdf)
+  - Esha Sarkar, Hadjer Benkraouda, and Michail Maniatakos. arXiv 2020.
+
 - Dynamic Backdoor Attacks Against Machine Learning Models. 
   [[pdf]](https://arxiv.org/pdf/2003.03675.pdf)
   - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv 2020.  
