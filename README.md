@@ -348,6 +348,11 @@ Markdown format:
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv 2020.
+  
+- Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.
+  [[pdf]](https://arxiv.org/pdf/2006.12557.pdf)
+  [[code]](https://github.com/aks2203/poisoning-benchmark)
+  - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P Dickerson, and Tom Goldstein. arXiv 2020.
 
 - Backdoor Attacks on Facial Recognition in the Physical World.
   [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
