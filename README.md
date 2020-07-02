@@ -345,8 +345,7 @@ Markdown format:
 ### 2018
 - How to Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
-  - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. arXiv 2019.
-
+  - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS 2020* (arXiv 2018).
 
 ## Properties Discussion and Evaluation
 - A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models.
