@@ -264,9 +264,6 @@ Markdown format:
   [[code]](https://github.com/AI-secure/Robustness-Against-Backdoor-Attacks)
   - Maurice Weber, Xiaojun Xu, Bojan Karlas, Ce Zhang, and Bo Li. arXiv 2020.
 
-- Analyzing Accuracy Loss in Randomized Smoothing Defenses.
-  [[pdf]](https://arxiv.org/pdf/2003.01595.pdf)
-  - Yue Gao, Harrison Rosenberg, Kassem Fawaz, Somesh Jha, and Justin Hsu. arXiv 2020.
 
 ## Attack and Defense Towards Other Tasks
 ### 2020
