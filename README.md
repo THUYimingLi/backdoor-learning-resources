@@ -63,7 +63,7 @@ Markdown format:
 
 - Backdooring and Poisoning Neural Networks with Image-Scaling Attacks.
   [[pdf]](https://arxiv.org/pdf/2003.08633.pdf)
-  - Erwin Quiring, and Konrad Rieck. *IEEE DLS 2020*.
+  - Erwin Quiring, and Konrad Rieck. *IEEE S&P Workshop 2020*.
 
 - Blind Backdoors in Deep Learning Models. 
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
