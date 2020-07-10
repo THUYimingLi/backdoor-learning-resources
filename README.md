@@ -276,6 +276,10 @@ Markdown format:
   [[code]](https://github.com/neulab/RIPPLe)
   - Keita Kurita, Paul Michel, and Graham Neubig. *ACL 2020*.
 
+- DBA: Distributed Backdoor Attacks against Federated Learning.
+  [[pdf]](https://openreview.net/pdf?id=rkgyS0VFvr)
+  - Chulin Xie, Keli Huang, Pinyu Chen, and Bo Li. *ICLR 2020*.
+
 - Clean-Label Backdoor Attacks on Video Recognition Models.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.pdf)
   - Shihao Zhao, Xingjun Ma, Xiang Zheng, James Bailey, Jingjing Chen, and Yu-Gang Jiang. *CVPR 2020*.
@@ -283,7 +287,11 @@ Markdown format:
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
   - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN 2020*.
-  
+
+- Backdoor Attacks and Defenses in Feature-partitioned Collaborative Learning.
+  [[pdf]](https://arxiv.org/pdf/2007.03608.pdf)
+  - Yang Liu, Zhihao Yi, and Tianjian Chen. *ICML Workshop*.
+
 - Graph Backdoor.
   [[pdf]](https://arxiv.org/pdf/2006.11890.pdf)
   - Zhaohan Xi, Ren Pang, Shouling Ji, and Ting Wang. arXiv 2020.
@@ -292,9 +300,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. arXiv 2020.
 
-- Backdoor attacks and defenses in feature-partitioned collaborative learning.
-  [[pdf]](https://arxiv.org/pdf/2007.03608.pdf)
-  - Yang Liu, Zhihao Yi, and Tianjian Chen. *ICML Workshop*.
 
 - Backdoor Attacks on Federated Meta-Learning. 
   [[pdf]](https://arxiv.org/pdf/2006.07026.pdf)
