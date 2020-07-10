@@ -291,10 +291,18 @@ Markdown format:
 - Backdoor Attacks to Graph Neural Networks. 
   [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. arXiv 2020.
-  
+
+- Backdoor attacks and defenses in feature-partitioned collaborative learning.
+  [[pdf]](https://arxiv.org/pdf/2007.03608.pdf)
+  - Yang Liu, Zhihao Yi, and Tianjian Chen. *ICML Workshop*.
+
 - Backdoor Attacks on Federated Meta-Learning. 
   [[pdf]](https://arxiv.org/pdf/2006.07026.pdf)
   - Chien-Lun Chen, Leana Golubchik, and Marco Paolieri. arXiv 2020. 
+
+- Defending Against Backdoors in Federated Learning with Robust Learning Rate.
+  [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
+  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. arXiv 2020.
 
 - BadNL: Backdoor Attacks Against NLP Models.
   [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
