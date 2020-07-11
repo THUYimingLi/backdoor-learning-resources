@@ -56,6 +56,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1808.10307.pdf)
   - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY 2020*.
 
+- Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2007.02343.pdf)
+  - Yunfei Liu, Xingjun Ma, James Bailey, and Feng Lu. *ECCV 2020*.
+
+
 - Live Trojan Attacks on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2004.11370.pdf)
   [[code]](https://github.com/robbycostales/live-trojans)
