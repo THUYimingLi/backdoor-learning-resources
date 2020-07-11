@@ -254,6 +254,10 @@ Markdown format:
   [[code]](https://github.com/UsmannK/TABOR)
   - Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, and Dawn Song. arXiv 2019.
 
+- Scalable Backdoor Detection in Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2006.05646.pdf)
+  - Haripriya Harikumar, Vuong Le, Santu Rana, Sourangshu Bhattacharya, Sunil Gupta, and Svetha Venkatesh. arXiv 2020.
+
 - NNoculation: Broad Spectrum and Targeted Treatment of Backdoored DNNs.
   [[pdf]](https://arxiv.org/pdf/2002.08313.pdf)
   [[code]](https://github.com/akshajkumarv/NNoculation)
