@@ -290,7 +290,7 @@ Markdown format:
 
 - Backdoor Attacks and Defenses in Feature-partitioned Collaborative Learning.
   [[pdf]](https://arxiv.org/pdf/2007.03608.pdf)
-  - Yang Liu, Zhihao Yi, and Tianjian Chen. *ICML Workshop*.
+  - Yang Liu, Zhihao Yi, and Tianjian Chen. *ICML Workshop 2020*.
 
 - Graph Backdoor.
   [[pdf]](https://arxiv.org/pdf/2006.11890.pdf)
