@@ -140,6 +140,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv 2020.
 
+- ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2007.00711.pdf)
+  - Miguel Villarreal-Vasquez, and Bharat Bhargava. arXiv 2020.
+
 - Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems.
   [[pdf]](https://arxiv.org/pdf/1908.03369.pdf)
   - Bao Gia Doan, Ehsan Abbasnejad, and Damith C. Ranasinghe. arXiv 2019.
