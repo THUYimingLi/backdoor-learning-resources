@@ -313,14 +313,13 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. arXiv 2020.
 
+- Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2007.05084.pdf)
+  - Hongyi Wang, Kartik Sreenivasan, Shashank Rajput, Harit Vishwakarma, Saurabh Agarwal, Jy-yong Sohn, Kangwook Lee, and Dimitris Papailiopoulos. arXiv 2020.
 
 - Backdoor Attacks on Federated Meta-Learning. 
   [[pdf]](https://arxiv.org/pdf/2006.07026.pdf)
   - Chien-Lun Chen, Leana Golubchik, and Marco Paolieri. arXiv 2020. 
-
-- Defending Against Backdoors in Federated Learning with Robust Learning Rate.
-  [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
-  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. arXiv 2020.
 
 - BadNL: Backdoor Attacks Against NLP Models.
   [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
@@ -333,6 +332,10 @@ Markdown format:
 - Exploring Backdoor Poisoning Attacks Against Malware Classifiers.
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
   - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. arXiv 2020.
+
+- Defending Against Backdoors in Federated Learning with Robust Learning Rate.
+  [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
+  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. arXiv 2020.
 
 - Learning to Detect Malicious Clients for Robust Federated Learning. 
   [[pdf]](https://arxiv.org/pdf/2002.00211.pdf)
