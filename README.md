@@ -347,7 +347,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.00211.pdf)
   - Suyi Li, Yong Cheng, Wei Wang, Yang Liu, and Tianjian Chen. arXiv 2020.
   
- - Attack-Resistant Federated Learning with Residual-based Reweighting.
+- Attack-Resistant Federated Learning with Residual-based Reweighting.
   [[pdf]](https://arxiv.org/pdf/1912.11464.pdf)
   [[code]](https://github.com/fushuhao6/Attack-Resistant-Federated-Learning)
   - Shuhao Fu, Chulin Xie, Bo Li, and Qifeng Chen. arXiv 2019. 
@@ -367,6 +367,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
   - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN 2020*.
 
+- Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
+  [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
+  - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN 2019*.
+
 - Targeted Forgetting and False Memory Formation in Continual Learners through Adversarial Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2002.07111.pdf)
   - Muhammad Umer, Glenn Dawson, Robi Polikar. arXiv 2020.
@@ -379,9 +383,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2004.12492.pdf)
   - Kang Liu, Benjamin Tan, Gaurav Rajavendra Reddy, Siddharth Garg, Yiorgos Makris, and Ramesh Karri. arXiv 2020.
 
-- Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
-  [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
-  - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN 2019*.
+
 
 
 ## Properties Discussion and Evaluation
