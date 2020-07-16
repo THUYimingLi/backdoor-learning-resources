@@ -305,6 +305,10 @@ Markdown format:
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. arXiv 2020. 
   
 ### Reinforcement Learning
+- Trojdrl: Trojan attacks on deep reinforcement learning agents.
+  [[pdf]](https://arxiv.org/pdf/1903.06638.pdf)
+  - Panagiota Kiourti, Kacper Wardega, Susmit Jha, and Wenchao Li. arXiv 2019.
+  
 - Design of Intentional Backdoors in Sequential Models.
   [[pdf]](https://arxiv.org/pdf/1902.09972.pdf)
   - Zhaoyuan Yang, Naresh Iyer, Johan Reimann, and Nurali Virani. arXiv 2019.
