@@ -26,11 +26,11 @@ Markdown format:
 
 ## Table of Contents
 - [Survey](#survey)
-- [Image Classification](#image-classification) 
+- [Image and Video Classification](#image-and-video-classification) 
   - [Poisoning-based Attack](#poisoning-based-attack)
   - [Non-poisoning-based Attack](#non-poisoning-based-attack)
   - [Backdoor Defense](#backdoor-defense)
-- [Attack and Defense Towards Other Tasks](#attack-and-defense-towards-other-tasks)  
+- [Attack and Defense Towards Other Tasks and Paradigms](#attack-and-defense-towards-other-tasks-and-paradigms)  
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
 - [Application in other Tasks](#application-in-other-tasks)
 
@@ -40,7 +40,7 @@ Markdown format:
   [[pdf]](https://eprint.iacr.org/2020/201.pdf)
   - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. 2020.
 
-## Image Classification
+## Image and Video Classification
 ### Poisoning-based Attack
 #### 2020
 - Hidden Trigger Backdoor Attacks.
@@ -60,6 +60,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.02343.pdf)
   - Yunfei Liu, Xingjun Ma, James Bailey, and Feng Lu. *ECCV 2020*.
 
+- Clean-Label Backdoor Attacks on Video Recognition Models.
+  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.pdf)
+  - Shihao Zhao, Xingjun Ma, Xiang Zheng, James Bailey, Jingjing Chen, and Yu-Gang Jiang. *CVPR 2020*.
 
 - Live Trojan Attacks on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2004.11370.pdf)
@@ -277,7 +280,7 @@ Markdown format:
   - Maurice Weber, Xiaojun Xu, Bojan Karlas, Ce Zhang, and Bo Li. arXiv 2020.
 
 
-## Attack and Defense Towards Other Tasks
+## Attack and Defense Towards Other Tasks and Paradigms
 ### 2020
 - Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
   [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
@@ -291,10 +294,6 @@ Markdown format:
 - DBA: Distributed Backdoor Attacks against Federated Learning.
   [[pdf]](https://openreview.net/pdf?id=rkgyS0VFvr)
   - Chulin Xie, Keli Huang, Pinyu Chen, and Bo Li. *ICLR 2020*.
-
-- Clean-Label Backdoor Attacks on Video Recognition Models.
-  [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.pdf)
-  - Shihao Zhao, Xingjun Ma, Xiang Zheng, James Bailey, Jingjing Chen, and Yu-Gang Jiang. *CVPR 2020*.
 
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
