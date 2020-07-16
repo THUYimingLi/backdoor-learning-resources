@@ -152,6 +152,79 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1908.02203.pdf)
   - Sakshi Udeshi, Shanshan Peng, Gerald Woo, Lionell Loh, Louth Rawshan, and Sudipta Chattopadhyay. arXiv 2019.
 
+#### Model Reconstruction based Empirical Defense
+- Neural Trojans.
+  [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
+  - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD 2017*.
+  
+- Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/1805.12185.pdf)
+  [[code]](https://github.com/kangliucn/Fine-pruning-defense)
+  - Kang Liu, Brendan Dolan-Gavitt, and Siddharth Garg. *RAID 2018*.   
+  
+- Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness.
+  [[pdf]](https://arxiv.org/pdf/2005.00060.pdf)
+  [[code]](https://github.com/IBM/model-sanitization)
+  - Pu Zhao, Pin-Yu Chen, Payel Das, Karthikeyan Natesan Ramamurthy, and Xue Lin. *ICLR 2020*.
+
+- Defending against Backdoor Attack on Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2002.12162.pdf)
+  - Hao Cheng, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, and Xue Lin. *KDD Workshop 2019*.
+
+- Neural Network Laundering: Removing Black-Box Backdoor Watermarks from Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2004.11368.pdf)
+  - William Aiken, Hyoungshick Kim, and Simon Woo. arXiv 2020.
+
+
+#### Trigger Synthesis based Empirical Defense
+- Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks.
+  [[pdf]](https://gangw.web.illinois.edu/class/cs598/papers/sp19-poisoning-backdoor.pdf)
+  [[code]](https://github.com/bolunwang/backdoor)
+  - Bolun Wang, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, Ben Y. Zhao. *IEEE S&P 2019*。
+
+- Defending Neural Backdoors via Generative Distribution Modeling.
+  [[pdf]](https://arxiv.org/pdf/1910.04749.pdf)
+  [[code]](https://github.com/superrrpotato/Defending-Neural-Backdoors-via-Generative-Distribution-Modeling)
+  - Ximing Qiao, Yukun Yang, and Hai Li. *NeurIPS 2019*.
+
+- TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems.
+  [[pdf]](https://arxiv.org/pdf/1908.01763.pdf)
+  [[code]](https://github.com/UsmannK/TABOR)
+  - Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, and Dawn Song. arXiv 2019.
+
+- Scalable Backdoor Detection in Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2006.05646.pdf)
+  - Haripriya Harikumar, Vuong Le, Santu Rana, Sourangshu Bhattacharya, Sunil Gupta, and Svetha Venkatesh. arXiv 2020.
+
+- NNoculation: Broad Spectrum and Targeted Treatment of Backdoored DNNs.
+  [[pdf]](https://arxiv.org/pdf/2002.08313.pdf)
+  [[code]](https://github.com/akshajkumarv/NNoculation)
+  - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv 2020.
+
+#### Model Diagnosis based Empirical Defense
+- Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs.
+  [[pdf]](https://arxiv.org/pdf/1906.10842.pdf)
+  [[code]](https://umbcvision.github.io/Universal-Litmus-Patterns/)
+  - Soheil Kolouri, Aniruddha Saha, Hamed Pirsiavash, and Heiko Hoffmann. *CVPR 2020*.
+
+- NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations.
+  [[pdf]](https://arxiv.org/pdf/1911.07399.pdf)
+  - Xijie Huang, Moustafa Alzantot, and Mani Srivastava. arXiv 2019.
+
+- Detecting AI Trojans Using Meta Neural Analysis.
+  [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
+  - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. arXiv 2019.
+
+#### Poison Suppression based Empirical Defense
+- Robust Anomaly Detection and Backdoor Attack Detection via Differential Privacy.
+  [[pdf]](https://arxiv.org/pdf/1911.07116.pdf)
+  [[code]](https://www.dropbox.com/sh/rt8qzii7wr07g6n/AAAbwokv2sfBeE9XAL2pXv_Aa?dl=0)
+  - Min Du, Ruoxi Jia, and Dawn Song. *ICLR 2020*.  
+  
+- On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping.
+  [[pdf]](https://arxiv.org/pdf/2002.11497.pdf)
+  [[code]](https://github.com/Sanghyun-Hong/Gradient-Shaping)
+  - Sanghyun Hong, Varun Chandrasekaran, Yiğitcan Kaya, Tudor Dumitraş, and Nicolas Papernot. arXiv 2020.  
 
 #### Sample Filtering based Empirical Defense
 - Spectral Signatures in Backdoor Attacks.
@@ -193,80 +266,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.08040.pdf)
   - Alvin Chan, and Yew-Soon Ong. arXiv 2019.  
   
-#### Model Reconstruction based Empirical Defense
-- Neural Trojans.
-  [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
-  - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD 2017*.
-  
-- Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/1805.12185.pdf)
-  [[code]](https://github.com/kangliucn/Fine-pruning-defense)
-  - Kang Liu, Brendan Dolan-Gavitt, and Siddharth Garg. *RAID 2018*.   
-  
-- Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness.
-  [[pdf]](https://arxiv.org/pdf/2005.00060.pdf)
-  [[code]](https://github.com/IBM/model-sanitization)
-  - Pu Zhao, Pin-Yu Chen, Payel Das, Karthikeyan Natesan Ramamurthy, and Xue Lin. *ICLR 2020*.
-
-- Defending against Backdoor Attack on Deep Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2002.12162.pdf)
-  - Hao Cheng, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, and Xue Lin. *KDD Workshop 2019*.
-
-- Neural Network Laundering: Removing Black-Box Backdoor Watermarks from Deep Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2004.11368.pdf)
-  - William Aiken, Hyoungshick Kim, and Simon Woo. arXiv 2020.
-
-
-#### Model Diagnosis based Empirical Defense
-- Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs.
-  [[pdf]](https://arxiv.org/pdf/1906.10842.pdf)
-  [[code]](https://umbcvision.github.io/Universal-Litmus-Patterns/)
-  - Soheil Kolouri, Aniruddha Saha, Hamed Pirsiavash, and Heiko Hoffmann. *CVPR 2020*.
-
-- NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations.
-  [[pdf]](https://arxiv.org/pdf/1911.07399.pdf)
-  - Xijie Huang, Moustafa Alzantot, and Mani Srivastava. arXiv 2019.
-
-- Detecting AI Trojans Using Meta Neural Analysis.
-  [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
-  - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. arXiv 2019.
-
-#### Poison Suppression based Empirical Defense
-- Robust Anomaly Detection and Backdoor Attack Detection via Differential Privacy.
-  [[pdf]](https://arxiv.org/pdf/1911.07116.pdf)
-  [[code]](https://www.dropbox.com/sh/rt8qzii7wr07g6n/AAAbwokv2sfBeE9XAL2pXv_Aa?dl=0)
-  - Min Du, Ruoxi Jia, and Dawn Song. *ICLR 2020*.  
-  
-- On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping.
-  [[pdf]](https://arxiv.org/pdf/2002.11497.pdf)
-  [[code]](https://github.com/Sanghyun-Hong/Gradient-Shaping)
-  - Sanghyun Hong, Varun Chandrasekaran, Yiğitcan Kaya, Tudor Dumitraş, and Nicolas Papernot. arXiv 2020.  
-
-#### Trigger Reconstruction based Empirical Defense
-- Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks.
-  [[pdf]](https://gangw.web.illinois.edu/class/cs598/papers/sp19-poisoning-backdoor.pdf)
-  [[code]](https://github.com/bolunwang/backdoor)
-  - Bolun Wang, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, Ben Y. Zhao. *IEEE S&P 2019*。
-
-- Defending Neural Backdoors via Generative Distribution Modeling.
-  [[pdf]](https://arxiv.org/pdf/1910.04749.pdf)
-  [[code]](https://github.com/superrrpotato/Defending-Neural-Backdoors-via-Generative-Distribution-Modeling)
-  - Ximing Qiao, Yukun Yang, and Hai Li. *NeurIPS 2019*.
-
-- TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems.
-  [[pdf]](https://arxiv.org/pdf/1908.01763.pdf)
-  [[code]](https://github.com/UsmannK/TABOR)
-  - Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, and Dawn Song. arXiv 2019.
-
-- Scalable Backdoor Detection in Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2006.05646.pdf)
-  - Haripriya Harikumar, Vuong Le, Santu Rana, Sourangshu Bhattacharya, Sunil Gupta, and Svetha Venkatesh. arXiv 2020.
-
-- NNoculation: Broad Spectrum and Targeted Treatment of Backdoored DNNs.
-  [[pdf]](https://arxiv.org/pdf/2002.08313.pdf)
-  [[code]](https://github.com/akshajkumarv/NNoculation)
-  - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv 2020.
-
 #### Certificated Defense
 - On Certifying Robustness against Backdoor Attacks via Randomized Smoothing.
   [[pdf]](https://arxiv.org/pdf/2002.11750.pdf)
