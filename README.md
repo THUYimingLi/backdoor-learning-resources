@@ -1,7 +1,7 @@
-# Awesome Backdoor Learning[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+# Backdoor Learning Resources
 
 
-A curated list of awesome **Backdoor Learning** resources. Inspired by [awesome-self-supervised-learning](https://github.com/jason718/awesome-self-supervised-learning), [awesome-deep-vision](https://github.com/kjw0612/awesome-deep-vision), [awesome-adversarial-machine-learning](https://github.com/yenchenlin/awesome-adversarial-machine-learning), and [awesome-deep-learning-papers](https://github.com/terryum/awesome-deep-learning-papers).
+A curated list of **Backdoor Learning** resources.
 
 #### Why Backdoor Learning?
 Backdoor learning is an emerging research area, which discusses the security issues of the training process towards machine learning algorithms. It is critical for safely adopting third-party algorithms in reality.  Although backdoor learning shares certain similarity with adversarial learning (which concentrates on the security issues of the inference process), they do have essential differences and can be easily distinguished.
