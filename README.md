@@ -281,35 +281,51 @@ Markdown format:
 
 
 ## Attack and Defense Towards Other Tasks and Paradigms
-### 2020
-- Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
-  [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
-  - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, and Tianle Chen. *IEEE Transactions on Services Computing 2020*.
-
+### Natural Language Processing
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
   - Keita Kurita, Paul Michel, and Graham Neubig. *ACL 2020*.
-
-- DBA: Distributed Backdoor Attacks against Federated Learning.
-  [[pdf]](https://openreview.net/pdf?id=rkgyS0VFvr)
-  - Chulin Xie, Keli Huang, Pinyu Chen, and Bo Li. *ICLR 2020*.
-
-- NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
-  [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
-  - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN 2020*.
-
-- Backdoor Attacks and Defenses in Feature-partitioned Collaborative Learning.
-  [[pdf]](https://arxiv.org/pdf/2007.03608.pdf)
-  - Yang Liu, Zhihao Yi, and Tianjian Chen. *ICML Workshop 2020*.
-
+  
+- A Backdoor Attack Against LSTM-based Text Classification Systems.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
+  - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access 2019*.
+  
+- BadNL: Backdoor Attacks Against NLP Models.
+  [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
+  - Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv 2020.
+  
+### Graph Neural Networks
 - Graph Backdoor.
   [[pdf]](https://arxiv.org/pdf/2006.11890.pdf)
   - Zhaohan Xi, Ren Pang, Shouling Ji, and Ting Wang. arXiv 2020.
   
 - Backdoor Attacks to Graph Neural Networks. 
   [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
-  - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. arXiv 2020.
+  - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. arXiv 2020. 
+  
+### Reinforcement Learning
+- Design of Intentional Backdoors in Sequential Models.
+  [[pdf]](https://arxiv.org/pdf/1902.09972.pdf)
+  - Zhaoyuan Yang, Naresh Iyer, Johan Reimann, and Nurali Virani. arXiv 2019.
+  
+  
+### Collaborative Learning
+- How to Backdoor Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
+  - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS 2020* (arXiv 2018).
+  
+- DBA: Distributed Backdoor Attacks against Federated Learning.
+  [[pdf]](https://openreview.net/pdf?id=rkgyS0VFvr)
+  - Chulin Xie, Keli Huang, Pinyu Chen, and Bo Li. *ICLR 2020*.
+
+- Backdoor Attacks and Defenses in Feature-partitioned Collaborative Learning.
+  [[pdf]](https://arxiv.org/pdf/2007.03608.pdf)
+  - Yang Liu, Zhihao Yi, and Tianjian Chen. *ICML Workshop 2020*.
+
+- Can You Really Backdoor Federated Learning?
+  [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
+  - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS 2019 Workshop*
 
 - Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2007.05084.pdf)
@@ -319,9 +335,33 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.07026.pdf)
   - Chien-Lun Chen, Leana Golubchik, and Marco Paolieri. arXiv 2020. 
 
-- BadNL: Backdoor Attacks Against NLP Models.
-  [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
-  - Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv 2020.
+- Defending Against Backdoors in Federated Learning with Robust Learning Rate.
+  [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
+  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. arXiv 2020.
+
+- Learning to Detect Malicious Clients for Robust Federated Learning. 
+  [[pdf]](https://arxiv.org/pdf/2002.00211.pdf)
+  - Suyi Li, Yong Cheng, Wei Wang, Yang Liu, and Tianjian Chen. arXiv 2020.
+  
+ - Attack-Resistant Federated Learning with Residual-based Reweighting.
+  [[pdf]](https://arxiv.org/pdf/1912.11464.pdf)
+  [[code]](https://github.com/fushuhao6/Attack-Resistant-Federated-Learning)
+  - Shuhao Fu, Chulin Xie, Bo Li, and Qifeng Chen. arXiv 2019. 
+  
+### Transfer Learning
+- Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
+  - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, and Tianle Chen. *IEEE Transactions on Services Computing 2020*.
+
+- Weight Poisoning Attacks on Pre-trained Models.
+  [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
+  [[code]](https://github.com/neulab/RIPPLe)
+  - Keita Kurita, Paul Michel, and Graham Neubig. *ACL 2020*.
+
+### Others
+- NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
+  [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
+  - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN 2020*.
 
 - Targeted Forgetting and False Memory Formation in Continual Learners through Adversarial Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2002.07111.pdf)
@@ -331,45 +371,14 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
   - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. arXiv 2020.
 
-- Defending Against Backdoors in Federated Learning with Robust Learning Rate.
-  [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
-  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. arXiv 2020.
-
-- Learning to Detect Malicious Clients for Robust Federated Learning. 
-  [[pdf]](https://arxiv.org/pdf/2002.00211.pdf)
-  - Suyi Li, Yong Cheng, Wei Wang, Yang Liu, and Tianjian Chen. arXiv 2020.
-
 - Bias Busters: Robustifying DL-based Lithographic Hotspot Detectors Against Backdooring Attacks.
   [[pdf]](https://arxiv.org/pdf/2004.12492.pdf)
   - Kang Liu, Benjamin Tan, Gaurav Rajavendra Reddy, Siddharth Garg, Yiorgos Makris, and Ramesh Karri. arXiv 2020.
-
-
-### 2019
-- A Backdoor Attack Against LSTM-based Text Classification Systems.
-  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
-  - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access 2019*.
-
-- Design of Intentional Backdoors in Sequential Models.
-  [[pdf]](https://arxiv.org/pdf/1902.09972.pdf)
-  - Zhaoyuan Yang, Naresh Iyer, Johan Reimann, and Nurali Virani. arXiv 2019.
 
 - Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN 2019*.
 
-- Can You Really Backdoor Federated Learning?
-  [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
-  - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS 2019 Workshop*
-
-- Attack-Resistant Federated Learning with Residual-based Reweighting.
-  [[pdf]](https://arxiv.org/pdf/1912.11464.pdf)
-  [[code]](https://github.com/fushuhao6/Attack-Resistant-Federated-Learning)
-  - Shuhao Fu, Chulin Xie, Bo Li, and Qifeng Chen. arXiv 2019.
-  
-### 2018
-- How to Backdoor Federated Learning.
-  [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
-  - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS 2020* (arXiv 2018).
 
 ## Properties Discussion and Evaluation
 - A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models.
