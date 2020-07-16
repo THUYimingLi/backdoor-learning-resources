@@ -131,7 +131,7 @@ Markdown format:
   - Jacob Dumford, and Walter Scheirer. arXiv 2018.
   
 ### Backdoor Defense
-#### Inference Proprocessing based Empirical Defense
+#### Proprocessing based Empirical Defense
 - Neural Trojans.
   [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
   - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD 2017*.
