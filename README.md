@@ -433,3 +433,11 @@ Markdown format:
   [[code]](https://github.com/inspire-group/unlearning-verification)
   - David Marco Sommer, Liwei Song, Sameer Wagh, and Prateek Mittal. arXiv 2020. 
 
+- Using Honeypots to Catch Adversarial Attacks on Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/1904.08554.pdf)
+  - Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao. *CCS 2020*.
+
+- Fawkes: Protecting Privacy against Unauthorized Deep Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2002.08327.pdf)
+  [[code]](https://github.com/Shawn-Shan/fawkes)
+  - Shawn Shan, Emily Wenger, Jiayun Zhang, Huiying Li, Haitao Zheng, Ben Y. Zhao. *USENIX Security 2020*.
