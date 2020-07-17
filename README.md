@@ -210,6 +210,11 @@ Markdown format:
   [[code]](https://umbcvision.github.io/Universal-Litmus-Patterns/)
   - Soheil Kolouri, Aniruddha Saha, Hamed Pirsiavash, and Heiko Hoffmann. *CVPR 2020*.
 
+- Odyssey: Creation, Analysis and Detection of Trojan Models.
+  [[pdf]](https://arxiv.org/pdf/2007.08142.pdf)
+  [[dataset]](https://lcwn-lab.github.io/Odessey/)
+  - Marzieh Edraki, Nazmul Karim, Nazanin Rahnavard, Ajmal Mian, and Mubarak Shah. arXiv 2020.
+
 - NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations.
   [[pdf]](https://arxiv.org/pdf/1911.07399.pdf)
   - Xijie Huang, Moustafa Alzantot, and Mani Srivastava. arXiv 2019.
