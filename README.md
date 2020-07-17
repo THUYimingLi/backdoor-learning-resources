@@ -36,10 +36,13 @@ Markdown format:
 
 
 ## Survey
+- Backdoor Learning: A Survey.
+  [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
+  - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. 2020.
+
 - Deep Learning Backdoors.
   [[pdf]](https://arxiv.org/pdf/2007.08273.pdf)
   - Shaofeng Li, Shiqing Ma, Minhui Xue, and Benjamin Zi Hao Zhao. arXiv 2020.
-
 
 - A Survey on Neural Trojans. 
   [[pdf]](https://eprint.iacr.org/2020/201.pdf)
