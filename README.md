@@ -36,6 +36,11 @@ Markdown format:
 
 
 ## Survey
+- Deep Learning Backdoors.
+  [[pdf]](https://arxiv.org/pdf/2007.08273.pdf)
+  - Shaofeng Li, Shiqing Ma, Minhui Xue, and Benjamin Zi Hao Zhao. arXiv 2020.
+
+
 - A Survey on Neural Trojans. 
   [[pdf]](https://eprint.iacr.org/2020/201.pdf)
   - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. 2020.
