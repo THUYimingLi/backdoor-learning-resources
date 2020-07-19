@@ -203,6 +203,10 @@ Markdown format:
   [[code]](https://github.com/UsmannK/TABOR)
   - Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, and Dawn Song. arXiv 2019.
 
+- DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks.
+  [[pdf]](https://www.ijcai.org/proceedings/2019/0647.pdf)
+  - Huili Chen, Cheng Fu, Jishen Zhao, Farinaz Koushanfar. IJCAI 2019.
+
 - Scalable Backdoor Detection in Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2006.05646.pdf)
   - Haripriya Harikumar, Vuong Le, Santu Rana, Sourangshu Bhattacharya, Sunil Gupta, and Svetha Venkatesh. arXiv 2020.
@@ -292,6 +296,9 @@ Markdown format:
   [[code]](https://github.com/AI-secure/Robustness-Against-Backdoor-Attacks)
   - Maurice Weber, Xiaojun Xu, Bojan Karlas, Ce Zhang, and Bo Li. arXiv 2020.
 
+- Certified Robustness to Label-Flipping Attacks via Randomized Smoothing.
+  [[pdf]](https://arxiv.org/pdf/2002.03018.pdf)
+  - Elan Rosenfeld, Ezra Winston, Pradeep Ravikumar, J. Zico Kolter. ICML 2020.
 
 ## Attack and Defense Towards Other Tasks and Paradigms
 ### Natural Language Processing
@@ -436,8 +443,3 @@ Markdown format:
 - Using Honeypots to Catch Adversarial Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/1904.08554.pdf)
   - Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao. *CCS 2020*.
-
-- Fawkes: Protecting Privacy against Unauthorized Deep Learning Models.
-  [[pdf]](https://arxiv.org/pdf/2002.08327.pdf)
-  [[code]](https://github.com/Shawn-Shan/fawkes)
-  - Shawn Shan, Emily Wenger, Jiayun Zhang, Huiying Li, Haitao Zheng, Ben Y. Zhao. *USENIX Security 2020*.
