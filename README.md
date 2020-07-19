@@ -198,14 +198,14 @@ Markdown format:
   [[code]](https://github.com/superrrpotato/Defending-Neural-Backdoors-via-Generative-Distribution-Modeling)
   - Ximing Qiao, Yukun Yang, and Hai Li. *NeurIPS 2019*.
 
+- DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks.
+  [[pdf]](https://www.ijcai.org/proceedings/2019/0647.pdf)
+  - Huili Chen, Cheng Fu, Jishen Zhao, Farinaz Koushanfar. *IJCAI 2019*.
+
 - TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems.
   [[pdf]](https://arxiv.org/pdf/1908.01763.pdf)
   [[code]](https://github.com/UsmannK/TABOR)
   - Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, and Dawn Song. arXiv 2019.
-
-- DeepInspect: A Black-box Trojan Detection and Mitigation Framework for Deep Neural Networks.
-  [[pdf]](https://www.ijcai.org/proceedings/2019/0647.pdf)
-  - Huili Chen, Cheng Fu, Jishen Zhao, Farinaz Koushanfar. IJCAI 2019.
 
 - Scalable Backdoor Detection in Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2006.05646.pdf)
@@ -287,6 +287,10 @@ Markdown format:
   - Alvin Chan, and Yew-Soon Ong. arXiv 2019.  
   
 #### Certificated Defense
+- Certified Robustness to Label-Flipping Attacks via Randomized Smoothing.
+  [[pdf]](https://arxiv.org/pdf/2002.03018.pdf)
+  - Elan Rosenfeld, Ezra Winston, Pradeep Ravikumar, J. Zico Kolter. ICML 2020.
+
 - On Certifying Robustness against Backdoor Attacks via Randomized Smoothing.
   [[pdf]](https://arxiv.org/pdf/2002.11750.pdf)
   - Binghui Wang, Xiaoyu Cao, Jinyuan jia, and Neil Zhenqiang Gong. *CVPR Workshop 2020*.
@@ -296,9 +300,7 @@ Markdown format:
   [[code]](https://github.com/AI-secure/Robustness-Against-Backdoor-Attacks)
   - Maurice Weber, Xiaojun Xu, Bojan Karlas, Ce Zhang, and Bo Li. arXiv 2020.
 
-- Certified Robustness to Label-Flipping Attacks via Randomized Smoothing.
-  [[pdf]](https://arxiv.org/pdf/2002.03018.pdf)
-  - Elan Rosenfeld, Ezra Winston, Pradeep Ravikumar, J. Zico Kolter. ICML 2020.
+
 
 ## Attack and Defense Towards Other Tasks and Paradigms
 ### Natural Language Processing
@@ -430,6 +432,10 @@ Markdown format:
   - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. arXiv 2020.
 
 ## Application in other Tasks
+- Using Honeypots to Catch Adversarial Attacks on Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/1904.08554.pdf)
+  - Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao. *CCS 2020*.
+  
 - Turning Your Weakness into a Strength: Watermarking Deep Neural Networks by Backdooring.
   [[pdf]](https://arxiv.org/pdf/1802.04633.pdf)
   [[code]](https://github.com/adiyoss/WatermarkNN)
@@ -440,6 +446,4 @@ Markdown format:
   [[code]](https://github.com/inspire-group/unlearning-verification)
   - David Marco Sommer, Liwei Song, Sameer Wagh, and Prateek Mittal. arXiv 2020. 
 
-- Using Honeypots to Catch Adversarial Attacks on Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/1904.08554.pdf)
-  - Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao. *CCS 2020*.
+
