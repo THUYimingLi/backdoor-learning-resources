@@ -37,8 +37,8 @@ Markdown format:
 
 ## Survey
 - Backdoor Learning: A Survey.
-  [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
-  - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. 2020.
+  [[pdf]](https://arxiv.org/pdf/2007.08745.pdf)
+  - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv 2020.
 
 - Deep Learning Backdoors.
   [[pdf]](https://arxiv.org/pdf/2007.08273.pdf)
