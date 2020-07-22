@@ -40,6 +40,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.08745.pdf)
   - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv 2020.
 
+- Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
+  [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
+  - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv 2020.
+
 - Deep Learning Backdoors.
   [[pdf]](https://arxiv.org/pdf/2007.08273.pdf)
   - Shaofeng Li, Shiqing Ma, Minhui Xue, and Benjamin Zi Hao Zhao. arXiv 2020.
