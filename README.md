@@ -316,7 +316,11 @@ Markdown format:
 - A Backdoor Attack Against LSTM-based Text Classification Systems.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
   - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access 2019*.
-  
+
+- Mitigating Backdoor Attacks in LSTM-based Text Classification Systems by Backdoor Keyword Identification.
+  [[pdf]](https://arxiv.org/pdf/2007.12070.pdf)
+  - Chuanshuai Chen, and Jiazhu Dai. arXiv 2020.
+
 - BadNL: Backdoor Attacks Against NLP Models.
   [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
   - Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv 2020.
