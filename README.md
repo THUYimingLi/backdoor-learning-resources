@@ -335,6 +335,10 @@ Markdown format:
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. arXiv 2020. 
   
 ### Reinforcement Learning
+- Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-based Traffic Congestion Control Systems.
+  [[pdf]](https://arxiv.org/pdf/2003.07859.pdf)
+  - Yue Wang, Esha Sarkar, Michail Maniatakos, and Saif Eddin Jabari. arXiv 2020.
+
 - Trojdrl: Trojan attacks on deep reinforcement learning agents.
   [[pdf]](https://arxiv.org/pdf/1903.06638.pdf)
   - Panagiota Kiourti, Kacper Wardega, Susmit Jha, and Wenchao Li. arXiv 2019.
