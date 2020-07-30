@@ -225,7 +225,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1906.10842.pdf)
   [[code]](https://umbcvision.github.io/Universal-Litmus-Patterns/)
   - Soheil Kolouri, Aniruddha Saha, Hamed Pirsiavash, and Heiko Hoffmann. *CVPR 2020*.
-
+  
+- Cassandra: Detecting Trojaned Networks from Adversarial Perturbations.
+  [[pdf]](https://arxiv.org/pdf/2007.14433.pdf)
+  - Xiaoyu Zhang, Ajmal Mian, Rohit Gupta, Nazanin Rahnavard, and Mubarak Shah. arXiv 2020.
+  
 - Odyssey: Creation, Analysis and Detection of Trojan Models.
   [[pdf]](https://arxiv.org/pdf/2007.08142.pdf)
   [[dataset]](https://lcwn-lab.github.io/Odessey/)
