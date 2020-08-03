@@ -225,7 +225,12 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1906.10842.pdf)
   [[code]](https://umbcvision.github.io/Universal-Litmus-Patterns/)
   - Soheil Kolouri, Aniruddha Saha, Hamed Pirsiavash, and Heiko Hoffmann. *CVPR 2020*.
-  
+
+- Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases.
+  [[pdf]](https://arxiv.org/pdf/2007.15802.pdf)
+  [[code]](https://github.com/wangren09/TrojanNetDetector)
+  - Ren Wang, Gaoyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, and Meng Wang. *ECCV 2020*.
+
 - Cassandra: Detecting Trojaned Networks from Adversarial Perturbations.
   [[pdf]](https://arxiv.org/pdf/2007.14433.pdf)
   - Xiaoyu Zhang, Ajmal Mian, Rohit Gupta, Nazanin Rahnavard, and Mubarak Shah. arXiv 2020.
@@ -234,6 +239,8 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.08142.pdf)
   [[dataset]](https://lcwn-lab.github.io/Odessey/)
   - Marzieh Edraki, Nazmul Karim, Nazanin Rahnavard, Ajmal Mian, and Mubarak Shah. arXiv 2020.
+
+
 
 - NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations.
   [[pdf]](https://arxiv.org/pdf/1911.07399.pdf)
