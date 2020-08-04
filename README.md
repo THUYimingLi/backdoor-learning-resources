@@ -89,9 +89,13 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
   - Eugene Bagdasaryan, and Vitaly Shmatikov. arXiv 2020.
 
-- FaceHack: Triggering backdoored facial recognition systems using facial characteristics.
+- FaceHack: Triggering Backdoored Facial Recognition Systems Using Facial Characteristics.
   [[pdf]](https://arxiv.org/pdf/2006.11623.pdf)
   - Esha Sarkar, Hadjer Benkraouda, and Michail Maniatakos. arXiv 2020.
+
+- Class-Oriented Poisoning Attack.
+  [[pdf]](https://arxiv.org/pdf/2008.00047.pdf)
+  - Bingyin Zhao, and Yingjie Lao. arXiv 2020.
 
 - Dynamic Backdoor Attacks Against Machine Learning Models. 
   [[pdf]](https://arxiv.org/pdf/2003.03675.pdf)
@@ -331,6 +335,10 @@ Markdown format:
 - Mitigating Backdoor Attacks in LSTM-based Text Classification Systems by Backdoor Keyword Identification.
   [[pdf]](https://arxiv.org/pdf/2007.12070.pdf)
   - Chuanshuai Chen, and Jiazhu Dai. arXiv 2020.
+
+- Trojaning Language Models for Fun and Profit.
+  [[pdf]](https://arxiv.org/pdf/2008.00312.pdf)
+  - Xinyang Zhang, Zheng Zhang, and Ting Wang. arXiv 2020.
 
 - BadNL: Backdoor Attacks Against NLP Models.
   [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
