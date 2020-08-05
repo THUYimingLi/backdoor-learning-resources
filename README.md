@@ -269,6 +269,9 @@ Markdown format:
 - Spectral Signatures in Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1811.00636.pdf)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS 2018*.
+- SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems.
+  [[pdf]](https://arxiv.org/pdf/1812.00292.pdf)
+  - Edward Chou, Florian Tramèr, and Giancarlo Pellegrino. *IEEE S&P Workshop 2020*.
 
 - Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering.
   [[pdf]](https://arxiv.org/pdf/1811.03728.pdf)
