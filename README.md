@@ -70,10 +70,12 @@ Markdown format:
 
 - Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2007.02343.pdf)
+  [[code]](https://github.com/DreamtaleCore/Refool)
   - Yunfei Liu, Xingjun Ma, James Bailey, and Feng Lu. *ECCV 2020*.
 
 - Clean-Label Backdoor Attacks on Video Recognition Models.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.pdf)
+  [[code]](https://github.com/ShihaoZhaoZSH/Video-Backdoor-Attack)
   - Shihao Zhao, Xingjun Ma, Xiang Zheng, James Bailey, Jingjing Chen, and Yu-Gang Jiang. *CVPR 2020*.
 
 - Live Trojan Attacks on Deep Neural Networks.
@@ -102,6 +104,10 @@ Markdown format:
   - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv 2020.  
 
 #### 2019
+- Latent Backdoor Attacks on Deep Neural Networks.
+  [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
+  Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS 2020*.
+
 - A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning.
   [[pdf]](https://arxiv.org/pdf/1902.11237.pdf)
   - M.Barni, K.Kallas, and B.Tondi. *ICIP 2019*.
@@ -268,6 +274,7 @@ Markdown format:
 #### Sample Filtering based Empirical Defense
 - Spectral Signatures in Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1811.00636.pdf)
+  [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS 2018*.
 - SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems.
   [[pdf]](https://arxiv.org/pdf/1812.00292.pdf)
