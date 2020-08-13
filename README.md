@@ -50,7 +50,7 @@ Markdown format:
 
 - A Survey on Neural Trojans. 
   [[pdf]](https://eprint.iacr.org/2020/201.pdf)
-  - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. 2020.
+  - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. *ISQED 2020*.
 
 ## Image and Video Classification
 ### Poisoning-based Attack
@@ -67,6 +67,10 @@ Markdown format:
 - Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation.
   [[pdf]](https://arxiv.org/pdf/1808.10307.pdf)
   - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY 2020*.
+
+- Latent Backdoor Attacks on Deep Neural Networks.
+  [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
+  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS 2020*.
 
 - Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2007.02343.pdf)
@@ -104,10 +108,6 @@ Markdown format:
   - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv 2020.  
 
 #### 2019
-- Latent Backdoor Attacks on Deep Neural Networks.
-  [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
-  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS 2020*.
-
 - A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning.
   [[pdf]](https://arxiv.org/pdf/1902.11237.pdf)
   - M.Barni, K.Kallas, and B.Tondi. *ICIP 2019*.
