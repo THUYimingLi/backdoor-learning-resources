@@ -236,6 +236,11 @@ Markdown format:
   [[code]](https://umbcvision.github.io/Universal-Litmus-Patterns/)
   - Soheil Kolouri, Aniruddha Saha, Hamed Pirsiavash, and Heiko Hoffmann. *CVPR 2020*.
 
+- One-Pixel Signature: Characterizing CNN Models for Backdoor Detection.
+  [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720324.pdf)
+  - Shanjiaoyang Huang, Weiqi Peng, Zhiwei Jia, and Zhuowen Tu. *ECCV 2020*.
+  
+
 - Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases.
   [[pdf]](https://arxiv.org/pdf/2007.15802.pdf)
   [[code]](https://github.com/wangren09/TrojanNetDetector)
