@@ -501,6 +501,10 @@ Markdown format:
   [[code]](https://github.com/adiyoss/WatermarkNN)
   - Yossi Adi, Carsten Baum, Moustapha Cisse, Benny Pinkas, and Joseph Keshet. *USENIX Security 2018*. 
 
+- WAFFLE: Watermarking in Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2008.07298.pdf)
+  - Buse Gul Atli, Yuxi Xia, Samuel Marchal, and N. Asokan. arXiv 2020. 
+
 - Towards Probabilistic Verification of Machine Unlearning.
   [[pdf]](https://arxiv.org/pdf/2003.04247.pdf)
   [[code]](https://github.com/inspire-group/unlearning-verification)
