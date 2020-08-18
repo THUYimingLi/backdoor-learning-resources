@@ -281,6 +281,10 @@ Markdown format:
   [[code]](https://github.com/Sanghyun-Hong/Gradient-Shaping)
   - Sanghyun Hong, Varun Chandrasekaran, Yiğitcan Kaya, Tudor Dumitraş, and Nicolas Papernot. arXiv 2020.  
 
+- Removing Backdoor-Based Watermarks in Neural Networks with Limited Data.
+  [[pdf]](https://arxiv.org/pdf/2008.00407.pdf)
+  - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. arXiv 2020.  
+
 #### Sample Filtering based Empirical Defense
 - Spectral Signatures in Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1811.00636.pdf)
