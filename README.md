@@ -77,6 +77,10 @@ Markdown format:
   [[code]](https://github.com/DreamtaleCore/Refool)
   - Yunfei Liu, Xingjun Ma, James Bailey, and Feng Lu. *ECCV 2020*.
 
+- Can Adversarial Weight Perturbations Inject Neural Backdoors?
+  [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
+  - Siddhant Garg, Adarsh Kumar, Vibhor Goel, and Yingyu Liang. *CIKM 2020*.
+
 - Clean-Label Backdoor Attacks on Video Recognition Models.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.pdf)
   [[code]](https://github.com/ShihaoZhaoZSH/Video-Backdoor-Attack)
