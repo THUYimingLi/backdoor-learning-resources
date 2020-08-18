@@ -244,7 +244,6 @@ Markdown format:
   [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123720324.pdf)
   - Shanjiaoyang Huang, Weiqi Peng, Zhiwei Jia, and Zhuowen Tu. *ECCV 2020*.
   
-
 - Practical Detection of Trojan Neural Networks: Data-Limited and Data-Free Cases.
   [[pdf]](https://arxiv.org/pdf/2007.15802.pdf)
   [[code]](https://github.com/wangren09/TrojanNetDetector)
@@ -259,7 +258,9 @@ Markdown format:
   [[dataset]](https://lcwn-lab.github.io/Odessey/)
   - Marzieh Edraki, Nazmul Karim, Nazanin Rahnavard, Ajmal Mian, and Mubarak Shah. arXiv 2020.
 
-
+- Noise-response Analysis for Rapid Detection of Backdoors in Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2008.00123.pdf)
+  - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv 2020.
 
 - NeuronInspect: Detecting Backdoors in Neural Networks via Output Explanations.
   [[pdf]](https://arxiv.org/pdf/1911.07399.pdf)
@@ -490,6 +491,10 @@ Markdown format:
 - Backdoor Attacks on Facial Recognition in the Physical World.
   [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
   - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. arXiv 2020.
+
+- Noise-response Analysis for Rapid Detection of Backdoors in Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2008.00123.pdf)
+  - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv 2020.
 
 ## Application in other Tasks
 - Using Honeypots to Catch Adversarial Attacks on Neural Networks.
