@@ -286,17 +286,20 @@ Markdown format:
   - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. arXiv 2020.  
 
 #### Sample Filtering based Empirical Defense
-- Spectral Signatures in Backdoor Attacks.
-  [[pdf]](https://arxiv.org/pdf/1811.00636.pdf)
-  [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
-  - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS 2018*.
+- CLEANN: Accelerated Trojan Shield for Embedded Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2009.02326.pdf)
+  - Mojan Javaheripi, Mohammad Samragh, Gregory Fields, Tara Javidi, and Farinaz Koushanfar. *ICCAD 2020*.
+
+
+- Robust Anomaly Detection and Backdoor Attack Detection via Differential Privacy.
+  [[pdf]](https://arxiv.org/pdf/1911.07116.pdf)
+  [[code]](https://www.dropbox.com/sh/rt8qzii7wr07g6n/AAAbwokv2sfBeE9XAL2pXv_Aa?dl=0)
+  - Min Du, Ruoxi Jia, and Dawn Song. *ICLR 2020*.  
+  
+
 - SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems.
   [[pdf]](https://arxiv.org/pdf/1812.00292.pdf)
   - Edward Chou, Florian Tramèr, and Giancarlo Pellegrino. *IEEE S&P Workshop 2020*.
-
-- Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering.
-  [[pdf]](https://arxiv.org/pdf/1811.03728.pdf)
-  - Bryant Chen, Wilka Carvalho, Nathalie Baracaldo, Heiko Ludwig, Benjamin Edwards, Taesung Lee, Ian Molloy, and Biplav Srivastava. *AAAI Workshop 2019*
 
 - STRIP: A Defence Against Trojan Attacks on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/1902.06531.pdf)
@@ -304,14 +307,20 @@ Markdown format:
   [[code]](https://github.com/garrisongys/STRIP)
   - Yansong Gao, Chang Xu, Derui Wang, Shiping Chen, Damith C. Ranasinghe, and Surya Nepal. *ACSAC 2019*.
 
+- Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering.
+  [[pdf]](https://arxiv.org/pdf/1811.03728.pdf)
+  - Bryant Chen, Wilka Carvalho, Nathalie Baracaldo, Heiko Ludwig, Benjamin Edwards, Taesung Lee, Ian Molloy, and Biplav Srivastava. *AAAI Workshop 2019*
+
+
 - Deep Probabilistic Models to Detect Data Poisoning Attacks.
   [[pdf]](https://arxiv.org/pdf/1912.01206.pdf)
   - Mahesh Subedar, Nilesh Ahuja, Ranganath Krishnan, Ibrahima J. Ndiour, and Omesh Tickoo. *NeurIPS Workshop 2019)*  
 
-- Robust Anomaly Detection and Backdoor Attack Detection via Differential Privacy.
-  [[pdf]](https://arxiv.org/pdf/1911.07116.pdf)
-  [[code]](https://www.dropbox.com/sh/rt8qzii7wr07g6n/AAAbwokv2sfBeE9XAL2pXv_Aa?dl=0)
-  - Min Du, Ruoxi Jia, and Dawn Song. *ICLR 2020*.  
+- Spectral Signatures in Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/1811.00636.pdf)
+  [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
+  - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS 2018*.
+  
 
 - Exposing Backdoors in Robust Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2003.00865.pdf)
