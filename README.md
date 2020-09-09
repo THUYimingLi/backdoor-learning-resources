@@ -423,6 +423,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS 2019 Workshop*
 
+- Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy.
+  [[pdf]](https://arxiv.org/pdf/2009.03561.pdf)
+  - Mohammad Naseri, Jamie Hayes, and Emiliano De Cristofaro. arXiv 2020.
+
 - Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2007.05084.pdf)
   - Hongyi Wang, Kartik Sreenivasan, Shashank Rajput, Harit Vishwakarma, Saurabh Agarwal, Jy-yong Sohn, Kangwook Lee, and Dimitris Papailiopoulos. arXiv 2020.
