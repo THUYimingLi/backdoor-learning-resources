@@ -206,6 +206,10 @@ Markdown format:
 
 
 #### Trigger Synthesis based Empirical Defense
+- GangSweep: Sweep out Neural Backdoors by GAN.
+  [[pdf]](https://www.lions.odu.edu/~h1wu/paper/gangsweep.pdf)
+  - Liuwan Zhu, Rui Ning, Cong Wang, Chunsheng Xin, and Hongyi Wu. *ACM MM 2020*.
+
 - Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks.
   [[pdf]](https://gangw.web.illinois.edu/class/cs598/papers/sp19-poisoning-backdoor.pdf)
   [[code]](https://github.com/bolunwang/backdoor)
