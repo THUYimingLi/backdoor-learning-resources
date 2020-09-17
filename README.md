@@ -103,6 +103,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.11623.pdf)
   - Esha Sarkar, Hadjer Benkraouda, and Michail Maniatakos. arXiv 2020.
 
+- Light Can Hack Your Face! Black-box Backdoor Attack on Face Recognition Systems.
+  [[pdf]](https://arxiv.org/pdf/2009.06996.pdf)
+  - Haoliang Li, Yufei Wang, Xiaofei Xie, Yang Liu, Shiqi Wang, Renjie Wan, Lap-Pui Chau, and Alex C. Kot. arXiv 2020.
+
 - Class-Oriented Poisoning Attack.
   [[pdf]](https://arxiv.org/pdf/2008.00047.pdf)
   - Bingyin Zhao, and Yingjie Lao. arXiv 2020.
