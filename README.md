@@ -86,6 +86,11 @@ Markdown format:
   [[code]](https://github.com/ShihaoZhaoZSH/Video-Backdoor-Attack)
   - Shihao Zhao, Xingjun Ma, Xiang Zheng, James Bailey, Jingjing Chen, and Yu-Gang Jiang. *CVPR 2020*.
 
+- Escaping Backdoor Attack Detection of Deep Learning.
+  [[link]](https://link.springer.com/chapter/10.1007/978-3-030-58201-2_29)
+  - Yayuan Xiong, Fengyuan Xu, Sheng Zhong, and Qun Li. *IFIP SEC 2020*.
+
+
 - Live Trojan Attacks on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2004.11370.pdf)
   [[code]](https://github.com/robbycostales/live-trojans)
@@ -529,8 +534,7 @@ Markdown format:
 - Using Honeypots to Catch Adversarial Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/1904.08554.pdf)
   - Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao. *CCS 2020*.
-  
-**Note:** Unfortunately, it was broken by Nicholas Carlini most recently. [[arXiv]](https://arxiv.org/pdf/2009.10975.pdf)
+  - **Note:** Unfortunately, it was broken by Nicholas Carlini most recently. [[arXiv]](https://arxiv.org/pdf/2009.10975.pdf)
   
 - Turning Your Weakness into a Strength: Watermarking Deep Neural Networks by Backdooring.
   [[pdf]](https://arxiv.org/pdf/1802.04633.pdf)
