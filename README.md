@@ -215,6 +215,12 @@ Markdown format:
 
 
 #### Trigger Synthesis based Empirical Defense
+- Towards Inspecting and Eliminating Trojan Backdoors in Deep Neural Networks.
+  [[pdf]](http://www.personal.psu.edu/wzg13/publications/icdm20.pdf)
+  [[previous version]](https://arxiv.org/pdf/1908.01763.pdf)
+  [[code]](https://github.com/UsmannK/TABOR)
+  - Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, and Dawn Song. ICDM 2020.
+
 - GangSweep: Sweep out Neural Backdoors by GAN.
   [[pdf]](https://www.lions.odu.edu/~h1wu/paper/gangsweep.pdf)
   - Liuwan Zhu, Rui Ning, Cong Wang, Chunsheng Xin, and Hongyi Wu. *ACM MM 2020*.
@@ -233,10 +239,6 @@ Markdown format:
   [[pdf]](https://www.ijcai.org/proceedings/2019/0647.pdf)
   - Huili Chen, Cheng Fu, Jishen Zhao, Farinaz Koushanfar. *IJCAI 2019*.
 
-- TABOR: A Highly Accurate Approach to Inspecting and Restoring Trojan Backdoors in AI Systems.
-  [[pdf]](https://arxiv.org/pdf/1908.01763.pdf)
-  [[code]](https://github.com/UsmannK/TABOR)
-  - Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, and Dawn Song. arXiv 2019.
 
 - Scalable Backdoor Detection in Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2006.05646.pdf)
