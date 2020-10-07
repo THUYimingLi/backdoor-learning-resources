@@ -380,6 +380,11 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
   - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access 2019*.
 
+- Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
+  [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
+  - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings 2020*.
+
+
 - Mitigating Backdoor Attacks in LSTM-based Text Classification Systems by Backdoor Keyword Identification.
   [[pdf]](https://arxiv.org/pdf/2007.12070.pdf)
   - Chuanshuai Chen, and Jiazhu Dai. arXiv 2020.
