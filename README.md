@@ -431,6 +431,11 @@ Markdown format:
   [[code]](https://github.com/DistributedML/FoolsGold)
   - Clement Fung, Chris J.M. Yoon, and Ivan Beschastnikh. *RAID 2020* (arXiv 2018).
   
+- Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2007.05084.pdf)
+  - Hongyi Wang, Kartik Sreenivasan, Shashank Rajput, Harit Vishwakarma, Saurabh Agarwal, Jy-yong Sohn, Kangwook Lee, and Dimitris Papailiopoulos. *NeurIPS 2020*.
+  
+  
 - DBA: Distributed Backdoor Attacks against Federated Learning.
   [[pdf]](https://openreview.net/pdf?id=rkgyS0VFvr)
   - Chulin Xie, Keli Huang, Pinyu Chen, and Bo Li. *ICLR 2020*.
@@ -446,10 +451,6 @@ Markdown format:
 - Toward Robustness and Privacy in Federated Learning: Experimenting with Local and Central Differential Privacy.
   [[pdf]](https://arxiv.org/pdf/2009.03561.pdf)
   - Mohammad Naseri, Jamie Hayes, and Emiliano De Cristofaro. arXiv 2020.
-
-- Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.
-  [[pdf]](https://arxiv.org/pdf/2007.05084.pdf)
-  - Hongyi Wang, Kartik Sreenivasan, Shashank Rajput, Harit Vishwakarma, Saurabh Agarwal, Jy-yong Sohn, Kangwook Lee, and Dimitris Papailiopoulos. arXiv 2020.
 
 - Backdoor Attacks on Federated Meta-Learning. 
   [[pdf]](https://arxiv.org/pdf/2006.07026.pdf)
