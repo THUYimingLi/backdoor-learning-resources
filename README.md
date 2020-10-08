@@ -164,6 +164,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
   - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv 2020.
 
+- Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2010.03282.pdf)
+  - Ahmed Salem, Michael Backes, and Yang Zhang. arXiv 2020.
+
 - Backdooring Convolutional Neural Networks via Targeted Weight Perturbations.
   [[pdf]](https://arxiv.org/pdf/1812.03128.pdf)
   - Jacob Dumford, and Walter Scheirer. arXiv 2018.
@@ -488,13 +492,19 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
   - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN 2020*.
 
+
 - Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN 2019*.
 
+- BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2010.03007.pdf)
+  - Ahmed Salem, Yannick Sautter, Michael Backes, Mathias Humbert, and Yang Zhang. arXiv 2020.
+
 - Targeted Forgetting and False Memory Formation in Continual Learners through Adversarial Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2002.07111.pdf)
   - Muhammad Umer, Glenn Dawson, Robi Polikar. arXiv 2020.
+
 
 - Exploring Backdoor Poisoning Attacks Against Malware Classifiers.
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
