@@ -558,6 +558,10 @@ Markdown format:
   [[code]](https://github.com/adiyoss/WatermarkNN)
   - Yossi Adi, Carsten Baum, Moustapha Cisse, Benny Pinkas, and Joseph Keshet. *USENIX Security 2018*. 
 
+- Open-sourced Dataset Protection via Backdoor Watermarking.
+  [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
+  - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. arXiv 2020. 
+
 - WAFFLE: Watermarking in Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2008.07298.pdf)
   - Buse Gul Atli, Yuxi Xia, Samuel Marchal, and N. Asokan. arXiv 2020. 
