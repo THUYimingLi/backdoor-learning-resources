@@ -460,6 +460,14 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.07026.pdf)
   - Chien-Lun Chen, Leana Golubchik, and Marco Paolieri. arXiv 2020. 
 
+- Federated Learning in Adversarial Settings.
+  [[pdf]](https://arxiv.org/pdf/2010.07808.pdf)
+  - Raouf Kerkouche, Gergely Ács, and Claude Castelluccia. arXiv 2020.
+
+- BlockFLA: Accountable Federated Learning via Hybrid Blockchain Architecture.
+  [[pdf]](https://arxiv.org/pdf/2010.07427.pdf)
+  - Harsh Bimal Desai, Mustafa Safa Ozdayi, and Murat Kantarcioglu. arXiv 2020.
+
 - Defending Against Backdoors in Federated Learning with Robust Learning Rate.
   [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
   - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. arXiv 2020.
