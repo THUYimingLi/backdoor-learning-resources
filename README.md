@@ -57,6 +57,7 @@ Markdown format:
 #### 2020
 - Input-Aware Dynamic Backdoor Attack. 
   [[pdf]](https://arxiv.org/pdf/2010.08138.pdf)
+  [[code]](https://github.com/VinAIResearch/input-aware-backdoor-attack-release)
   - Anh Nguyen, and Anh Tran. *NeurIPS 2020*.
   
 - Hidden Trigger Backdoor Attacks.
