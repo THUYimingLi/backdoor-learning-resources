@@ -55,6 +55,10 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2020
+- Input-Aware Dynamic Backdoor Attack. 
+  [[pdf]](https://arxiv.org/pdf/2010.08138.pdf)
+  - Anh Nguyen, and Anh Tran. *NeurIPS 2020*.
+  
 - Hidden Trigger Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1910.00033.pdf)
   [[code]](https://github.com/UMBCvision/Hidden-Trigger-Backdoor-Attacks)
