@@ -505,10 +505,13 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
   - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN 2020*.
 
-
 - Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN 2019*.
+
+- Embedding and Synthesis of Knowledge in Tree Ensemble Classifiers.
+  [[pdf]](https://arxiv.org/pdf/2010.08281.pdf)
+  - Wei Huang, Xingyu Zhao, and Xiaowei Huang. arXiv 2020.
 
 - BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2010.03007.pdf)
