@@ -521,6 +521,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.07111.pdf)
   - Muhammad Umer, Glenn Dawson, Robi Polikar. arXiv 2020.
 
+- Backdoors in Neural Models of Source Code.
+  [[pdf]](https://arxiv.org/pdf/2006.06841)
+  - Goutham Ramakrishnan, and Aws Albarghouthi. arXiv 2020.
+
 
 - Exploring Backdoor Poisoning Attacks Against Malware Classifiers.
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
