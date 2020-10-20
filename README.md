@@ -561,10 +561,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
   - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. arXiv 2020.
 
-- What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
-  [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
-  - Yi-Shan Lin, Wen-Chuan Lee, and Z. Berkay Celik. arXiv 2020.
-
 - Noise-response Analysis for Rapid Detection of Backdoors in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2008.00123.pdf)
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv 2020.
@@ -582,6 +578,10 @@ Markdown format:
 - Open-sourced Dataset Protection via Backdoor Watermarking.
   [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
   - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. arXiv 2020. 
+
+- What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
+  [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
+  - Yi-Shan Lin, Wen-Chuan Lee, and Z. Berkay Celik. arXiv 2020.
 
 - WAFFLE: Watermarking in Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2008.07298.pdf)
