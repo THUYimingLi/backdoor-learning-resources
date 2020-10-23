@@ -248,6 +248,9 @@ Markdown format:
   [[pdf]](https://www.ijcai.org/proceedings/2019/0647.pdf)
   - Huili Chen, Cheng Fu, Jishen Zhao, Farinaz Koushanfar. *IJCAI 2019*.
 
+- L-RED: Efficient Post-Training Detection of Imperceptible Backdoor Attacks without Access to the Training Set.
+  [[pdf]](https://arxiv.org/pdf/2010.09987.pdf)
+  - Zhen Xiang, David J. Miller, and George Kesidis. arXiv 2020.
 
 - Scalable Backdoor Detection in Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2006.05646.pdf)
@@ -508,6 +511,10 @@ Markdown format:
 - Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN 2019*.
+
+- Backdoor Attack against Speaker Verification
+  [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
+  - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. arXiv 2020.
 
 - Embedding and Synthesis of Knowledge in Tree Ensemble Classifiers.
   [[pdf]](https://arxiv.org/pdf/2010.08281.pdf)
