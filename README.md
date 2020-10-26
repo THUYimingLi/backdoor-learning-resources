@@ -572,6 +572,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
   - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. arXiv 2020.
 
+- On Evaluating Neural Network Backdoor Defenses.
+  [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
+  - Akshaj Veldanda, and Siddharth Garg. arXiv 2020.
+
 - Noise-response Analysis for Rapid Detection of Backdoors in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2008.00123.pdf)
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv 2020.
