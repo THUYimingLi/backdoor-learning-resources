@@ -554,6 +554,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2004.11514.pdf)
   - Loc Truong, Chace Jones, Brian Hutchinson, Andrew August, Brenda Praggastis, Robert Jasper, Nicole Nichols, and Aaron Tuor. *CVPR Workshop 2020*
 
+- On Evaluating Neural Network Backdoor Defenses.
+  [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
+  - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop 2020*.
+
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv 2020.  
@@ -572,9 +576,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
   - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. arXiv 2020.
 
-- On Evaluating Neural Network Backdoor Defenses.
-  [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
-  - Akshaj Veldanda, and Siddharth Garg. arXiv 2020.
 
 - Noise-response Analysis for Rapid Detection of Backdoors in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2008.00123.pdf)
@@ -592,7 +593,7 @@ Markdown format:
 
 - Open-sourced Dataset Protection via Backdoor Watermarking.
   [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
-  - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. arXiv 2020. 
+  - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *NeurIPS Workshop 2020*.
 
 - What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
   [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
