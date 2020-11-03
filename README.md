@@ -38,7 +38,7 @@ Markdown format:
 ## Survey
 - Backdoor Learning: A Survey.
   [[pdf]](https://arxiv.org/pdf/2007.08745.pdf)
-  - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv 2020.
+  - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
 
 - Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
   [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
