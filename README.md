@@ -476,6 +476,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.07427.pdf)
   - Harsh Bimal Desai, Mustafa Safa Ozdayi, and Murat Kantarcioglu. arXiv, 2020.
 
+- Mitigating Backdoor Attacks in Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2011.01767.pdf)
+  - Chen Wu, Xian Yang, Sencun Zhu, and Prasenjit Mitra. arXiv, 2020.
+
 - Defending Against Backdoors in Federated Learning with Robust Learning Rate.
   [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
   - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. arXiv, 2020.
