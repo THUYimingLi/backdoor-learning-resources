@@ -480,6 +480,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2011.01767.pdf)
   - Chen Wu, Xian Yang, Sencun Zhu, and Prasenjit Mitra. arXiv, 2020.
 
+- BaFFLe: Backdoor detection via Feedback-based Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2011.02167.pdf)
+  - ebastien Andreina, Giorgia Azzurra Marson, Helen Möllering, and Ghassan Karame. arXiv, 2020.
+
 - Defending Against Backdoors in Federated Learning with Robust Learning Rate.
   [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
   - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. arXiv, 2020.
