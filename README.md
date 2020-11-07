@@ -55,6 +55,10 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2020
+- Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3372297.3423362)
+  - Junyu Lin, Lei Xu, Yingqi Liu, Xiangyu Zhang. *CCS*, 2020.
+
 - Input-Aware Dynamic Backdoor Attack. 
   [[pdf]](https://arxiv.org/pdf/2010.08138.pdf)
   [[code]](https://github.com/VinAIResearch/input-aware-backdoor-attack-release)
@@ -75,7 +79,7 @@ Markdown format:
 
 - Latent Backdoor Attacks on Deep Neural Networks.
   [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
-  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2020.
+  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
 
 - Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2007.02343.pdf)
