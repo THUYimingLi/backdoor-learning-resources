@@ -557,9 +557,11 @@ Markdown format:
   - Kang Liu, Benjamin Tan, Gaurav Rajavendra Reddy, Siddharth Garg, Yiorgos Makris, and Ramesh Karri. arXiv, 2020.
 
 
-
-
 ## Properties Discussion and Evaluation
+- On the Trade-off between Adversarial and Backdoor Robustness.
+  [[pdf]](https://papers.nips.cc/paper/2020/file/8b4066554730ddfaa0266346bdc1b202-Paper.pdf)
+  - Cheng-Hsin Weng, Yan-Ting Lee, and Shan-Hung Wu. *NeurIPS*, 2020.
+
 - A Tale of Evil Twins: Adversarial Inputs versus Poisoned Models.
   [[pdf]](https://arxiv.org/pdf/1911.01559.pdf)
   [[code]](https://github.com/alps-lab/imc)
