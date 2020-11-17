@@ -472,6 +472,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.07026.pdf)
   - Chien-Lun Chen, Leana Golubchik, and Marco Paolieri. arXiv, 2020. 
 
+- Dynamic backdoor attacks against federated learning.
+  [[pdf]](https://arxiv.org/pdf/2011.07429.pdf)
+  - Anbu Huang. arXiv, 2020.
+
 - Federated Learning in Adversarial Settings.
   [[pdf]](https://arxiv.org/pdf/2010.07808.pdf)
   - Raouf Kerkouche, Gergely Ács, and Claude Castelluccia. arXiv, 2020.
