@@ -316,6 +316,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.00407.pdf)
   - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. arXiv, 2020.  
 
+- Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Trade-off.
+  [[pdf]](https://arxiv.org/pdf/2011.09527.pdf)
+  - Eitan Borgnia, Valeriia Cherepanova, Liam Fowl, Amin Ghiasi, Jonas Geiping, Micah Goldblum, Tom Goldstein, and Arjun Gupta. arXiv, 2020.
+
+
 #### Sample Filtering based Empirical Defense
 - CLEANN: Accelerated Trojan Shield for Embedded Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2009.02326.pdf)
