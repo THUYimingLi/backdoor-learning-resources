@@ -545,6 +545,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.08281.pdf)
   - Wei Huang, Xingyu Zhao, and Xiaowei Huang. arXiv, 2020.
 
+- Backdoor Attacks on the DNN Interpretation System.
+  [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
+  - Shihong Fang, and Anna Choromanska. arXiv, 2020.
+
+
 - BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2010.03007.pdf)
   - Ahmed Salem, Yannick Sautter, Michael Backes, Mathias Humbert, and Yang Zhang. arXiv, 2020.
