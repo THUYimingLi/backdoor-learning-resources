@@ -136,6 +136,7 @@ Markdown format:
   
 - Label-Consistent Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1912.02771.pdf)
+  [[code]](https://github.com/MadryLab/label-consistent-backdoor-code)
   - Alexander Turner, Dimitris Tsipras, and Aleksander Madry. arXiv, 2019.
 
 - Invisible Backdoor Attacks Against Deep Neural Networks.
