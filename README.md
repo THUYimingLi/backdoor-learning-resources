@@ -206,19 +206,23 @@ Markdown format:
   - Sakshi Udeshi, Shanshan Peng, Gerald Woo, Lionell Loh, Louth Rawshan, and Sudipta Chattopadhyay. arXiv, 2019.
 
 #### Model Reconstruction based Empirical Defense
-- Neural Trojans.
-  [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
-  - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD*, 2017.
-  
-- Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/1805.12185.pdf)
-  [[code]](https://github.com/kangliucn/Fine-pruning-defense)
-  - Kang Liu, Brendan Dolan-Gavitt, and Siddharth Garg. *RAID*, 2018.   
-  
 - Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness.
   [[pdf]](https://arxiv.org/pdf/2005.00060.pdf)
   [[code]](https://github.com/IBM/model-sanitization)
   - Pu Zhao, Pin-Yu Chen, Payel Das, Karthikeyan Natesan Ramamurthy, and Xue Lin. *ICLR*, 2020.
+
+- Fine-Pruning: Defending Against Backdooring Attacks on Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/1805.12185.pdf)
+  [[code]](https://github.com/kangliucn/Fine-pruning-defense)
+  - Kang Liu, Brendan Dolan-Gavitt, and Siddharth Garg. *RAID*, 2018.   
+
+- Neural Trojans.
+  [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
+  - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD*, 2017.
+  
+- Disabling Backdoor and Identifying Poison Data by using Knowledge Distillation in Backdoor Attacks on Deep Neural Networks.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3411508.3421375)
+  - Kota Yoshida, and Takeshi Fujino. *CCS Workshop*, 2020.
 
 - Defending against Backdoor Attack on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2002.12162.pdf)
