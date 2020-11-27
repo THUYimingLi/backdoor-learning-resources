@@ -272,6 +272,10 @@ Markdown format:
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
 #### Model Diagnosis based Empirical Defense
+- Detecting Backdoor Attacks via Class Difference in Deep Neural Networks.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9233317)
+  - Hyun Kwon. *IEEE Access*, 2020.
+
 - Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs.
   [[pdf]](https://arxiv.org/pdf/1906.10842.pdf)
   [[code]](https://umbcvision.github.io/Universal-Litmus-Patterns/)
