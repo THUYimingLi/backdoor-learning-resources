@@ -597,6 +597,7 @@ Markdown format:
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.  
+    
   
 - Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.
   [[pdf]](https://arxiv.org/pdf/2006.12557.pdf)
@@ -608,8 +609,14 @@ Markdown format:
   [[code]](https://github.com/locuslab/breaking-poisoned-classifier)
   - Mingjie Sun, Siddhant Agarwal, and J. Zico Kolter. arXiv, 2020.
 
+- Trembling Triggers: Exploring the Sensitivity of Backdoors in DNN-based Face Recognition.
+  [[pdf]](https://link.springer.com/article/10.1186/s13635-020-00104-z)
+  - Cecilia Pasquini, and Rainer Böhme. *EURASIP Journal on Information Security*, 2020. 
+
+
 - Backdoor Attacks on Facial Recognition in the Physical World.
   [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
+  [[Master Thesis]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
   - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. arXiv, 2020.
 
 
