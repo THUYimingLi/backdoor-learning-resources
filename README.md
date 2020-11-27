@@ -258,9 +258,9 @@ Markdown format:
   [[pdf]](https://www.ijcai.org/proceedings/2019/0647.pdf)
   - Huili Chen, Cheng Fu, Jishen Zhao, Farinaz Koushanfar. *IJCAI*, 2019.
 
-- L-RED: Efficient Post-Training Detection of Imperceptible Backdoor Attacks without Access to the Training Set.
-  [[pdf]](https://arxiv.org/pdf/2010.09987.pdf)
-  - Zhen Xiang, David J. Miller, and George Kesidis. arXiv, 2020.
+- Revealing Perceptible Backdoors in DNNs Without the Training Set via the Maximum Achievable Misclassification Fraction Statistic.
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
+  - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
 
 - Scalable Backdoor Detection in Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2006.05646.pdf)
