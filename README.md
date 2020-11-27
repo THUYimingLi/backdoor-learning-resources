@@ -56,9 +56,9 @@ Markdown format:
 ### Poisoning-based Attack
 #### 2020
 - Invisible Backdoor Attacks on Deep Neural Networks via Steganography and Regularization.
- [[pdf]](https://ieeexplore.ieee.org/abstract/document/9186317/)
- [[arXiv Version (2019)]](https://arxiv.org/pdf/1909.02742.pdf)
- - Shaofeng Li, Minhui Xue, Benjamin Zi Hao Zhao, Haojin Zhu, and Xinpeng Zhang. *IEEE Transactions on Dependable and Secure Computing*, 2020.
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9186317/)
+  [[arXiv Version (2019)]](https://arxiv.org/pdf/1909.02742.pdf)
+  - Shaofeng Li, Minhui Xue, Benjamin Zi Hao Zhao, Haojin Zhu, and Xinpeng Zhang. *IEEE Transactions on Dependable and Secure Computing*, 2020.
 
 - Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3372297.3423362)
