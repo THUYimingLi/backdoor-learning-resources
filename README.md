@@ -401,11 +401,7 @@ Markdown format:
 
 
 ## Attack and Defense Towards Other Tasks and Paradigms
-### Natural Language Processing
-- Detecting Universal Trigger’s Adversarial Attack with Honeypot.
-  [[pdf]](https://arxiv.org/abs/2011.10492)
-  - Thai Le, Noseong Park, Dongwon Lee. arXiv, 2020.
-  
+### Natural Language Processing  
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
@@ -418,6 +414,10 @@ Markdown format:
 - Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
+
+- Detecting Universal Trigger’s Adversarial Attack with Honeypot.
+  [[pdf]](https://arxiv.org/abs/2011.10492)
+  - Thai Le, Noseong Park, Dongwon Lee. arXiv, 2020.  
 
 - ONION: A Simple and Effective Defense Against Textual Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2011.10369.pdf)
