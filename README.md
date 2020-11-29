@@ -272,9 +272,9 @@ Markdown format:
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
 #### Model Diagnosis based Empirical Defense
-- Detecting Backdoor Attacks via Class Difference in Deep Neural Networks.
-  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9233317)
-  - Hyun Kwon. *IEEE Access*, 2020.
+- Detecting AI Trojans Using Meta Neural Analysis.
+  [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
+  - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. *IEEE S&P*, 2021.
 
 - Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs.
   [[pdf]](https://arxiv.org/pdf/1906.10842.pdf)
@@ -289,6 +289,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.15802.pdf)
   [[code]](https://github.com/wangren09/TrojanNetDetector)
   - Ren Wang, Gaoyuan Zhang, Sijia Liu, Pin-Yu Chen, Jinjun Xiong, and Meng Wang. *ECCV*, 2020.
+
+- Detecting Backdoor Attacks via Class Difference in Deep Neural Networks.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9233317)
+  - Hyun Kwon. *IEEE Access*, 2020.
 
 - Cassandra: Detecting Trojaned Networks from Adversarial Perturbations.
   [[pdf]](https://arxiv.org/pdf/2007.14433.pdf)
@@ -307,9 +311,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07399.pdf)
   - Xijie Huang, Moustafa Alzantot, and Mani Srivastava. arXiv, 2019.
 
-- Detecting AI Trojans Using Meta Neural Analysis.
-  [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
-  - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. arXiv, 2019.
 
 #### Poison Suppression based Empirical Defense
 - Robust Anomaly Detection and Backdoor Attack Detection via Differential Privacy.
