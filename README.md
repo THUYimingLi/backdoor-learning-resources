@@ -402,6 +402,10 @@ Markdown format:
 
 ## Attack and Defense Towards Other Tasks and Paradigms
 ### Natural Language Processing
+- Detecting Universal Trigger’s Adversarial Attack with Honeypot.
+  [[pdf]](https://arxiv.org/abs/2011.10492)
+  - Thai Le, Noseong Park, Dongwon Lee. arXiv, 2020.
+  
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
