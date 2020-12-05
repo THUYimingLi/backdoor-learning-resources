@@ -624,6 +624,11 @@ Markdown format:
   [[code]](https://github.com/locuslab/breaking-poisoned-classifier)
   - Mingjie Sun, Siddhant Agarwal, and J. Zico Kolter. arXiv, 2020.
 
+- Effect of Backdoor Attacks over the Complexity of the Latent Space Distribution.
+  [[pdf]](https://arxiv.org/pdf/2012.01931.pdf)
+  [[code]](https://github.com/henrychacon/Backdoor_attacks/tree/main/D-Vine_copula_auto_encoder)
+  - Henry D. Chacon, and Paul Rad. arXiv, 2020.
+
 - Trembling Triggers: Exploring the Sensitivity of Backdoors in DNN-based Face Recognition.
   [[pdf]](https://link.springer.com/article/10.1186/s13635-020-00104-z)
   - Cecilia Pasquini, and Rainer Böhme. *EURASIP Journal on Information Security*, 2020. 
