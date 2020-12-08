@@ -68,7 +68,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.08138.pdf)
   [[code]](https://github.com/VinAIResearch/input-aware-backdoor-attack-release)
   - Anh Nguyen, and Anh Tran. *NeurIPS 2020*.
-  
+
+- Latent Backdoor Attacks on Deep Neural Networks.
+  [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
+  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
+
 - Hidden Trigger Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1910.00033.pdf)
   [[code]](https://github.com/UMBCvision/Hidden-Trigger-Backdoor-Attacks)
@@ -82,9 +86,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1808.10307.pdf)
   - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY*, 2020.
 
-- Latent Backdoor Attacks on Deep Neural Networks.
-  [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
-  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
 
 - Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2007.02343.pdf)
@@ -103,7 +104,6 @@ Markdown format:
 - Escaping Backdoor Attack Detection of Deep Learning.
   [[link]](https://link.springer.com/chapter/10.1007/978-3-030-58201-2_29)
   - Yayuan Xiong, Fengyuan Xu, Sheng Zhong, and Qun Li. *IFIP SEC*, 2020.
-
 
 - Live Trojan Attacks on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2004.11370.pdf)
