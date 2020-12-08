@@ -114,6 +114,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2003.08633.pdf)
   - Erwin Quiring, and Konrad Rieck. *IEEE S&P Workshop*, 2020.
 
+- Backdoor Attack with Sample-Specific Triggers.
+  [[pdf]](https://arxiv.org/abs/2012.03816)
+  - Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, and Siwei Lyu. arXiv, 2020.
+
+
 - Blind Backdoors in Deep Learning Models. 
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
   - Eugene Bagdasaryan, and Vitaly Shmatikov. arXiv, 2020.
