@@ -69,10 +69,6 @@ Markdown format:
   [[code]](https://github.com/VinAIResearch/input-aware-backdoor-attack-release)
   - Anh Nguyen, and Anh Tran. *NeurIPS 2020*.
 
-- Latent Backdoor Attacks on Deep Neural Networks.
-  [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
-  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
-
 - Hidden Trigger Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1910.00033.pdf)
   [[code]](https://github.com/UMBCvision/Hidden-Trigger-Backdoor-Attacks)
@@ -140,6 +136,10 @@ Markdown format:
   - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv, 2020.  
 
 #### 2019
+- Latent Backdoor Attacks on Deep Neural Networks.
+  [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
+  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
+
 - A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning.
   [[pdf]](https://arxiv.org/pdf/1902.11237.pdf)
   - M.Barni, K.Kallas, and B.Tondi. *ICIP*, 2019.
@@ -551,7 +551,7 @@ Markdown format:
 
 - Latent Backdoor Attacks on Deep Neural Networks.
   [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
-  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2020.
+  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
 
 ### Others
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
