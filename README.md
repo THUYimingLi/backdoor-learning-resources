@@ -371,7 +371,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1811.03728.pdf)
   - Bryant Chen, Wilka Carvalho, Nathalie Baracaldo, Heiko Ludwig, Benjamin Edwards, Taesung Lee, Ian Molloy, and Biplav Srivastava. *AAAI Workshop*, 2019.
 
-
 - Deep Probabilistic Models to Detect Data Poisoning Attacks.
   [[pdf]](https://arxiv.org/pdf/1912.01206.pdf)
   - Mahesh Subedar, Nilesh Ahuja, Ranganath Krishnan, Ibrahima J. Ndiour, and Omesh Tickoo. *NeurIPS Workshop*, 2019.  
@@ -379,8 +378,7 @@ Markdown format:
 - Spectral Signatures in Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/1811.00636.pdf)
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
-  - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.
-  
+  - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
 
 - Exposing Backdoors in Robust Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2003.00865.pdf)
@@ -562,6 +560,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
 
+- Backdoor Attacks on the DNN Interpretation System.
+  [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
+  - Shihong Fang, and Anna Choromanska. *NeurIPS Workshop*, 2020.
+
 - Backdoor Attack against Speaker Verification
   [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
   - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. arXiv, 2020.
@@ -569,11 +571,6 @@ Markdown format:
 - Embedding and Synthesis of Knowledge in Tree Ensemble Classifiers.
   [[pdf]](https://arxiv.org/pdf/2010.08281.pdf)
   - Wei Huang, Xingyu Zhao, and Xiaowei Huang. arXiv, 2020.
-
-- Backdoor Attacks on the DNN Interpretation System.
-  [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
-  - Shihong Fang, and Anna Choromanska. arXiv, 2020.
-
 
 - BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2010.03007.pdf)
@@ -620,13 +617,12 @@ Markdown format:
 
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
-  - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.  
-    
+  - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.      
   
 - Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.
   [[pdf]](https://arxiv.org/pdf/2006.12557.pdf)
   [[code]](https://github.com/aks2203/poisoning-benchmark)
-  - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P Dickerson, and Tom Goldstein. arXiv, 2020.
+  - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P Dickerson, and Tom Goldstein. *NeurIPS Workshop*, 2020.
 
 - Poisoned Classifiers are Not Only Backdoored, They are Fundamentally Broken.
   [[pdf]](https://arxiv.org/pdf/2010.09080.pdf)
@@ -642,12 +638,10 @@ Markdown format:
   [[pdf]](https://link.springer.com/article/10.1186/s13635-020-00104-z)
   - Cecilia Pasquini, and Rainer Böhme. *EURASIP Journal on Information Security*, 2020. 
 
-
 - Backdoor Attacks on Facial Recognition in the Physical World.
   [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
   [[Master Thesis]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
   - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. arXiv, 2020.
-
 
 - Noise-response Analysis for Rapid Detection of Backdoors in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2008.00123.pdf)
