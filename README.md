@@ -55,6 +55,10 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2020
+- One-to-N & N-to-One: Two Advanced Backdoor Attacks against Deep Learning Models.
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9211729)
+  - Mingfu Xue, Can He, Jian Wang, and Weiqiang Liu. *IEEE Transactions on Dependable and Secure Computing*, 2020.
+
 - Invisible Backdoor Attacks on Deep Neural Networks via Steganography and Regularization.
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9186317/)
   [[arXiv Version (2019)]](https://arxiv.org/pdf/1909.02742.pdf)
