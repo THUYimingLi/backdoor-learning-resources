@@ -201,6 +201,10 @@ Markdown format:
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.
+  
+- DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation.
+  [[pdf]](https://arxiv.org/pdf/2012.07006.pdf)
+  - Yi Zeng, Han Qiu, Shangwei Guo, Tianwei Zhang, Meikang Qiu, and Bhavani Thuraisingham. arXiv, 2020.
 
 - ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2007.00711.pdf)
