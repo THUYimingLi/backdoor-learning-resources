@@ -118,10 +118,13 @@ Markdown format:
   [[pdf]](https://arxiv.org/abs/2012.03816)
   - Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, and Siwei Lyu. arXiv, 2020.
 
-
 - Blind Backdoors in Deep Learning Models. 
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
   - Eugene Bagdasaryan, and Vitaly Shmatikov. arXiv, 2020.
+
+- HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios.
+  [[pdf]](https://arxiv.org/pdf/2012.07474.pdf)
+  - Hassan Ali, Surya Nepal, Salil S. Kanhere, and Sanjay Jha. arXiv, 2020.
 
 - FaceHack: Triggering Backdoored Facial Recognition Systems Using Facial Characteristics.
   [[pdf]](https://arxiv.org/pdf/2006.11623.pdf)
@@ -244,6 +247,10 @@ Markdown format:
 - Neural Network Laundering: Removing Black-Box Backdoor Watermarks from Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2004.11368.pdf)
   - William Aiken, Hyoungshick Kim, and Simon Woo. arXiv, 2020.
+
+- HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios.
+  [[pdf]](https://arxiv.org/pdf/2012.07474.pdf)
+  - Hassan Ali, Surya Nepal, Salil S. Kanhere, and Sanjay Jha. arXiv, 2020.
 
 
 #### Trigger Synthesis based Empirical Defense
@@ -396,6 +403,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.14871.pdf)
   - Kaidi Jin, Tianwei Zhang, Chao Shen, Yufei Chen, Ming Fan, Chenhao Lin, and Ting Liu. arXiv, 2020.
 
+- HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios.
+  [[pdf]](https://arxiv.org/pdf/2012.07474.pdf)
+  - Hassan Ali, Surya Nepal, Salil S. Kanhere, and Sanjay Jha. arXiv, 2020.
 
 - Poison as a Cure: Detecting & Neutralizing Variable-Sized Backdoor Attacks in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/1911.08040.pdf)
