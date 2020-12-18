@@ -636,7 +636,11 @@ Markdown format:
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.      
-  
+
+- TROJANZOO: Everything You Ever Wanted to Know about Neural Backdoors (But were Afraid to Ask).
+  [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
+  - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. arXiv, 2020.
+ 
 - Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.
   [[pdf]](https://arxiv.org/pdf/2006.12557.pdf)
   [[code]](https://github.com/aks2203/poisoning-benchmark)
