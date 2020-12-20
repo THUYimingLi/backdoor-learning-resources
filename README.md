@@ -633,6 +633,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
 
+- Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.
+  [[pdf]](https://arxiv.org/pdf/2006.12557.pdf)
+  [[code]](https://github.com/aks2203/poisoning-benchmark)
+  - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P Dickerson, and Tom Goldstein. *NeurIPS Workshop*, 2020.
+
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.      
@@ -640,11 +645,6 @@ Markdown format:
 - TROJANZOO: Everything You Ever Wanted to Know about Neural Backdoors (But were Afraid to Ask).
   [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
   - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. arXiv, 2020.
- 
-- Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.
-  [[pdf]](https://arxiv.org/pdf/2006.12557.pdf)
-  [[code]](https://github.com/aks2203/poisoning-benchmark)
-  - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P Dickerson, and Tom Goldstein. *NeurIPS Workshop*, 2020.
 
 - Poisoned Classifiers are Not Only Backdoored, They are Fundamentally Broken.
   [[pdf]](https://arxiv.org/pdf/2010.09080.pdf)
