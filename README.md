@@ -644,6 +644,7 @@ Markdown format:
 
 - TROJANZOO: Everything You Ever Wanted to Know about Neural Backdoors (But were Afraid to Ask).
   [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
+  [[code]](https://github.com/ain-soph/trojanzoo)
   - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. arXiv, 2020.
 
 - Poisoned Classifiers are Not Only Backdoored, They are Fundamentally Broken.
