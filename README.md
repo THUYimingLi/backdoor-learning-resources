@@ -54,6 +54,12 @@ Markdown format:
 
 ## Image and Video Classification
 ### Poisoning-based Attack
+#### 2021
+- Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification.
+  [[pdf]](https://arxiv.org/pdf/2012.11212.pdf)
+  [[code]](https://github.com/Megum1/DFST)
+  - Siyuan Cheng, Yingqi Liu, Shiqing Ma, and Xiangyu Zhang. *AAAI*, 2021.
+
 #### 2020
 - One-to-N & N-to-One: Two Advanced Backdoor Attacks against Deep Learning Models.
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9211729)
