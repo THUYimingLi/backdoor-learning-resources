@@ -504,21 +504,24 @@ Markdown format:
 - How to Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
   - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS*, 2020 (arXiv, 2018).
+  
+- Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2007.05084.pdf)
+  - Hongyi Wang, Kartik Sreenivasan, Shashank Rajput, Harit Vishwakarma, Saurabh Agarwal, Jy-yong Sohn, Kangwook Lee, and Dimitris Papailiopoulos. *NeurIPS*, 2020.
+  
+- DBA: Distributed Backdoor Attacks against Federated Learning.
+  [[pdf]](https://openreview.net/pdf?id=rkgyS0VFvr)
+  - Chulin Xie, Keli Huang, Pinyu Chen, and Bo Li. *ICLR*, 2020.
+  
+- Defending Against Backdoors in Federated Learning with Robust Learning Rate.
+  [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
+  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. AAAI, 2021.
 
 - The Limitations of Federated Learning in Sybil Settings.
   [[pdf]](https://www.cs.ubc.ca/~bestchai/papers/foolsgold-raid2020.pdf)
   [[extension]](https://arxiv.org/pdf/1808.04866.pdf)
   [[code]](https://github.com/DistributedML/FoolsGold)
   - Clement Fung, Chris J.M. Yoon, and Ivan Beschastnikh. *RAID*, 2020 (arXiv, 2018).
-  
-- Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.
-  [[pdf]](https://arxiv.org/pdf/2007.05084.pdf)
-  - Hongyi Wang, Kartik Sreenivasan, Shashank Rajput, Harit Vishwakarma, Saurabh Agarwal, Jy-yong Sohn, Kangwook Lee, and Dimitris Papailiopoulos. *NeurIPS*, 2020.
-  
-  
-- DBA: Distributed Backdoor Attacks against Federated Learning.
-  [[pdf]](https://openreview.net/pdf?id=rkgyS0VFvr)
-  - Chulin Xie, Keli Huang, Pinyu Chen, and Bo Li. *ICLR*, 2020.
 
 - Backdoor Attacks and Defenses in Feature-partitioned Collaborative Learning.
   [[pdf]](https://arxiv.org/pdf/2007.03608.pdf)
@@ -555,10 +558,6 @@ Markdown format:
 - BaFFLe: Backdoor detection via Feedback-based Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2011.02167.pdf)
   - ebastien Andreina, Giorgia Azzurra Marson, Helen Möllering, and Ghassan Karame. arXiv, 2020.
-
-- Defending Against Backdoors in Federated Learning with Robust Learning Rate.
-  [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
-  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. arXiv, 2020.
 
 - Learning to Detect Malicious Clients for Robust Federated Learning. 
   [[pdf]](https://arxiv.org/pdf/2002.00211.pdf)
