@@ -59,6 +59,10 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2021
+- WaNet - Imperceptible Warping-based Backdoor Attack.
+  [[pdf]](https://openreview.net/pdf?id=eEn8KTtJOx)
+  - Tuan Anh Nguyen, and Anh Tuan Tran. *ICLR*, 2021.
+
 - Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification.
   [[pdf]](https://arxiv.org/pdf/2012.11212.pdf)
   [[code]](https://github.com/Megum1/DFST)
@@ -232,6 +236,10 @@ Markdown format:
   - Sakshi Udeshi, Shanshan Peng, Gerald Woo, Lionell Loh, Louth Rawshan, and Sudipta Chattopadhyay. arXiv, 2019.
 
 #### Model Reconstruction based Empirical Defense
+- Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks.
+  [[pdf]](https://openreview.net/pdf?id=9l0K4OM-oXE)
+  - Yige Li, Xingjun Ma, Nodens Koren, Lingjuan Lyu, Xixiang Lyu, and Bo Li. *ICLR*, 2021.
+
 - Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness.
   [[pdf]](https://arxiv.org/pdf/2005.00060.pdf)
   [[code]](https://github.com/IBM/model-sanitization)
