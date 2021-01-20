@@ -597,6 +597,11 @@ Markdown format:
 - Latent Backdoor Attacks on Deep Neural Networks.
   [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
   - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
+  
+- Red Alarm for Pre-trained Models: Universal Vulnerabilities by Neuron-Level Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2101.06969.pdf)
+  [[code]](https://github.com/thunlp/NeuBA)
+  - Zhengyan Zhang, Guangxuan Xiao, Yongwei Li, Tian Lv, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Xin Jiang, and Maosong Sun. arXiv, 2021.
 
 ### Others
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
