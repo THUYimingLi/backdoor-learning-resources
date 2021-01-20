@@ -197,6 +197,10 @@ Markdown format:
   [[code]](https://github.com/adnansirajrakin/TBT-CVPR2020)
   - Adnan Siraj Rakin, Zhezhi He, and Deliang Fan. *CVPR*, 2020.
 
+- DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection.
+  [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
+  - Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, and Yunxin Liu. *ICSE*, 2021.
+
 - TrojanNet: Embedding Hidden Trojan Horse Models in Neural Network.
   [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
   - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv, 2020.
@@ -712,6 +716,10 @@ Markdown format:
 - Open-sourced Dataset Protection via Backdoor Watermarking.
   [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
   - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *NeurIPS Workshop*, 2020.
+
+- What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space.
+  [[pdf]](https://arxiv.org/pdf/2101.06898.pdf)
+  - Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li, and Yu-Gang Jiang. arXiv, 2021.
 
 - What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
   [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
