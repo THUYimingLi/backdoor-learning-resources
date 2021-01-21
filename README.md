@@ -543,6 +543,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- On Provable Backdoor Defense in Collaborative Learning.
+  [[pdf]](https://arxiv.org/pdf/2101.08177.pdf)
+  - Ximing Qiao, Yuhua Bai, Siping Hu, Ang Li, Yiran Chen, and Hai Li. arXiv, 2021.
+
 - FLGUARD: Secure and Private Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2101.02281.pdf)
   - Thien Duc Nguyen, Phillip Rieger, Hossein Yalame, Helen Möllering, Hossein Fereidooni, Samuel Marchal, Markus Miettinen, Azalia Mirhoseini, Ahmad-Reza Sadeghi, Thomas Schneider, and Shaza Zeitouni. arXiv, 2021.
