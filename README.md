@@ -250,6 +250,7 @@ Markdown format:
 #### Model Reconstruction based Empirical Defense
 - Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks.
   [[pdf]](https://openreview.net/pdf?id=9l0K4OM-oXE)
+  [[code]](https://github.com/bboylyg/NAD)
   - Yige Li, Xingjun Ma, Nodens Koren, Lingjuan Lyu, Xixiang Lyu, and Bo Li. *ICLR*, 2021.
 
 - Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness.
