@@ -617,6 +617,10 @@ Markdown format:
   - Zhengyan Zhang, Guangxuan Xiao, Yongwei Li, Tian Lv, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Xin Jiang, and Maosong Sun. arXiv, 2021.
 
 ### Others
+- Backdoor Attack against Speaker Verification
+  [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
+  - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2021.
+  
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
   - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN*, 2020.
@@ -632,10 +636,6 @@ Markdown format:
 - Backdoor Attacks on the DNN Interpretation System.
   [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
   - Shihong Fang, and Anna Choromanska. *NeurIPS Workshop*, 2020.
-
-- Backdoor Attack against Speaker Verification
-  [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
-  - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. arXiv, 2020.
 
 - Embedding and Synthesis of Knowledge in Tree Ensemble Classifiers.
   [[pdf]](https://arxiv.org/pdf/2010.08281.pdf)
