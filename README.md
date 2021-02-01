@@ -619,6 +619,7 @@ Markdown format:
 ### Others
 - Backdoor Attack against Speaker Verification
   [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
+  [[code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
   - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2021.
   
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
