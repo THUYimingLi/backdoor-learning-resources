@@ -525,7 +525,11 @@ Markdown format:
 - How to Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
   - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS*, 2020 (arXiv, 2018).
-  
+
+- Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2102.00655.pdf)
+  - Syed Zawad, Ahsan Ali, Pin-Yu Chen, Ali Anwar, Yi Zhou, Nathalie Baracaldo, Yuan Tian, and Feng Yan. *AAAI*, 2021.
+
 - Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2007.05084.pdf)
   - Hongyi Wang, Kartik Sreenivasan, Shashank Rajput, Harit Vishwakarma, Saurabh Agarwal, Jy-yong Sohn, Kangwook Lee, and Dimitris Papailiopoulos. *NeurIPS*, 2020.
