@@ -32,7 +32,7 @@ Markdown format:
   - [Backdoor Defense](#backdoor-defense)
 - [Attack and Defense Towards Other Tasks and Paradigms](#attack-and-defense-towards-other-tasks-and-paradigms)  
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
-- [Application in other Tasks](#application-in-other-tasks)
+- [Attack for Good](#application-in-other-tasks)
 
 
 ## Survey
@@ -726,7 +726,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.00123.pdf)
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv, 2020.
 
-## Application in other Tasks
+## Attack for Good
 - Using Honeypots to Catch Adversarial Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/1904.08554.pdf)
   - Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao. *CCS*, 2020. (**Note:** Unfortunately, it was broken by Nicholas Carlini most recently. [[arXiv]](https://arxiv.org/pdf/2009.10975.pdf))
@@ -747,10 +747,6 @@ Markdown format:
 - What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
   [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
   - Yi-Shan Lin, Wen-Chuan Lee, and Z. Berkay Celik. arXiv, 2020.
-
-- WAFFLE: Watermarking in Federated Learning.
-  [[pdf]](https://arxiv.org/pdf/2008.07298.pdf)
-  - Buse Gul Atli, Yuxi Xia, Samuel Marchal, and N. Asokan. arXiv, 2020. 
 
 - Towards Probabilistic Verification of Machine Unlearning.
   [[pdf]](https://arxiv.org/pdf/2003.04247.pdf)
