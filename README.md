@@ -25,7 +25,7 @@ Markdown format:
 ```
 
 ## Table of Contents
-- [Survey](#survey)
+- [Related Survey](#related-survey)
 - [Image and Video Classification](#image-and-video-classification) 
   - [Poisoning-based Attack](#poisoning-based-attack)
   - [Non-poisoning-based Attack](#non-poisoning-based-attack)
@@ -35,7 +35,7 @@ Markdown format:
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
 
 
-## Survey
+## Related Survey
 - Backdoor Learning: A Survey.
   [[pdf]](https://arxiv.org/pdf/2007.08745.pdf)
   - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
