@@ -32,7 +32,7 @@ Markdown format:
   - [Backdoor Defense](#backdoor-defense)
 - [Attack and Defense Towards Other Tasks and Paradigms](#attack-and-defense-towards-other-tasks-and-paradigms)  
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
-- [Attack for Good](#application-in-other-tasks)
+- [Backdoor Attack for Good](#backdoor-attack-for-good)
 
 
 ## Survey
@@ -726,7 +726,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.00123.pdf)
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv, 2020.
 
-## Attack for Good
+## Backdoor Attack for Good
 - Using Honeypots to Catch Adversarial Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/1904.08554.pdf)
   - Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao. *CCS*, 2020. (**Note:** Unfortunately, it was broken by Nicholas Carlini most recently. [[arXiv]](https://arxiv.org/pdf/2009.10975.pdf))
