@@ -288,7 +288,7 @@ Markdown format:
 #### Trigger Synthesis based Empirical Defense
 - Detection of Backdoors in Trained Classiﬁers Without Access to the Training Set.
   [[pdf]](http://arxiv.org/pdf/1908.10498)
-  - Z Xiang, DJ Miller, and G Kesidis. *IEEE TNNLS*, 2020.
+  - Z Xiang, DJ Miller, and G Kesidis. *IEEE Transactions on Neural Networks and Learning Systems*, 2020.
 
 - Towards Inspecting and Eliminating Trojan Backdoors in Deep Neural Networks.
   [[pdf]](http://www.personal.psu.edu/wzg13/publications/icdm20.pdf)
