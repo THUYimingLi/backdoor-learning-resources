@@ -378,6 +378,10 @@ Markdown format:
   [[code]](https://www.dropbox.com/sh/rt8qzii7wr07g6n/AAAbwokv2sfBeE9XAL2pXv_Aa?dl=0)
   - Min Du, Ruoxi Jia, and Dawn Song. *ICLR*, 2020.  
   
+  - Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Trade-off.
+  [[pdf]](https://arxiv.org/pdf/2011.09527.pdf)
+  - Eitan Borgnia, Valeriia Cherepanova, Liam Fowl, Amin Ghiasi, Jonas Geiping, Micah Goldblum, Tom Goldstein, and Arjun Gupta. *ICASSP*, 2021.
+  
 - On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping.
   [[pdf]](https://arxiv.org/pdf/2002.11497.pdf)
   [[code]](https://github.com/Sanghyun-Hong/Gradient-Shaping)
@@ -387,9 +391,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.00407.pdf)
   - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. arXiv, 2020.  
 
-- Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Trade-off.
-  [[pdf]](https://arxiv.org/pdf/2011.09527.pdf)
-  - Eitan Borgnia, Valeriia Cherepanova, Liam Fowl, Amin Ghiasi, Jonas Geiping, Micah Goldblum, Tom Goldstein, and Arjun Gupta. arXiv, 2020.
 
 
 #### Sample Filtering based Empirical Defense
@@ -485,7 +486,6 @@ Markdown format:
 - ONION: A Simple and Effective Defense Against Textual Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2011.10369.pdf)
   - Fanchao Qi, Yangyi Chen, Mukai Li, Zhiyuan Liu, and Maosong Sun. arXiv, 2020.
-
 
 - Mitigating Backdoor Attacks in LSTM-based Text Classification Systems by Backdoor Keyword Identification.
   [[pdf]](https://arxiv.org/pdf/2007.12070.pdf)
