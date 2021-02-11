@@ -561,6 +561,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2101.08177.pdf)
   - Ximing Qiao, Yuhua Bai, Siping Hu, Ang Li, Yiran Chen, and Hai Li. arXiv, 2021.
 
+- Robust Federated Learning with Attack-Adaptive Aggregation.
+  [[pdf]](https://arxiv.org/pdf/2102.05257.pdf)
+  [[code]](https://github.com/cpwan/Attack-Adaptive-Aggregation)
+  - Ching Pui Wan, and Qifeng Chen. arXiv, 2021.
+
 - Meta Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2102.05561.pdf)
   - Omid Aramoon, Pin-Yu Chen, Gang Qu, and Yuan Tian. arXiv, 2021.
