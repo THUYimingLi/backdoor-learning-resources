@@ -319,6 +319,10 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
   - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
 
+- Backdoor Scanning for Deep Neural Networks through K-Arm Optimization.
+  [[pdf]](https://arxiv.org/pdf/2102.05123.pdf)
+  - Guangyu Shen, Yingqi Liu, Guanhong Tao, Shengwei An, Qiuling Xu, Siyuan Cheng, Shiqing Ma, and Xiangyu Zhang. arXiv, 2021.
+
 - Scalable Backdoor Detection in Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2006.05646.pdf)
   - Haripriya Harikumar, Vuong Le, Santu Rana, Sourangshu Bhattacharya, Sunil Gupta, and Svetha Venkatesh. arXiv, 2020.
