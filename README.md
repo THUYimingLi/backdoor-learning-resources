@@ -34,6 +34,7 @@ Markdown format:
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
 - [Toolbox](#toolbox)
+- [Competition](#competition)
 
 
 ## Related Survey
@@ -765,3 +766,6 @@ Markdown format:
 
 ## Toolbox
 - [TrojanZoo](https://github.com/ain-soph/trojanzoo)
+
+## Competition
+- [IARPA TrojAI Competition](https://pages.nist.gov/trojai/docs/about.html)
