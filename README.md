@@ -225,6 +225,10 @@ Markdown format:
   
 ### Backdoor Defense
 #### Preprocessing based Empirical Defense
+- ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2007.00711.pdf)
+  - Miguel Villarreal-Vasquez, and Bharat Bhargava. *AsiaCCS*, 2021.
+
 - Neural Trojans.
   [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
   - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD*, 2017.
@@ -237,9 +241,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2012.07006.pdf)
   - Yi Zeng, Han Qiu, Shangwei Guo, Tianwei Zhang, Meikang Qiu, and Bhavani Thuraisingham. arXiv, 2020.
 
-- ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2007.00711.pdf)
-  - Miguel Villarreal-Vasquez, and Bharat Bhargava. arXiv, 2020.
 
 - Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems.
   [[pdf]](https://arxiv.org/pdf/1908.03369.pdf)
