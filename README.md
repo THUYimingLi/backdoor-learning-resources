@@ -515,7 +515,7 @@ Markdown format:
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *NeurIPS Workshop*, 2020.  
   
 ### Reinforcement Learning
-- Trojdrl: Trojan attacks on deep reinforcement learning agents.
+- TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning.
   [[pdf]](https://arxiv.org/pdf/1903.06638.pdf)
   - Panagiota Kiourti, Kacper Wardega, Susmit Jha, and Wenchao Li. *DAC*, 2020.
 
