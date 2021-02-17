@@ -225,10 +225,6 @@ Markdown format:
   
 ### Backdoor Defense
 #### Preprocessing based Empirical Defense
-- DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation.
-  [[pdf]](https://arxiv.org/pdf/2012.07006.pdf)
-  - Yi Zeng, Han Qiu, Shangwei Guo, Tianwei Zhang, Meikang Qiu, and Bhavani Thuraisingham. *AsiaCCS*, 2021.
-
 - Neural Trojans.
   [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
   - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD*, 2017.
@@ -237,14 +233,18 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.
 
-- ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2007.00711.pdf)
-  - Miguel Villarreal-Vasquez, and Bharat Bhargava. arXiv, 2021.
+- DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation.
+  [[pdf]](https://arxiv.org/pdf/2012.07006.pdf)
+  - Yi Zeng, Han Qiu, Shangwei Guo, Tianwei Zhang, Meikang Qiu, and Bhavani Thuraisingham. *AsiaCCS*, 2021.
 
 - Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3427228.3427264)
   [[code]](https://februustrojandefense.github.io/)
   - Bao Gia Doan, Ehsan Abbasnejad, and Damith C. Ranasinghe. *ACSAC*, 2020.
+
+- ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2007.00711.pdf)
+  - Miguel Villarreal-Vasquez, and Bharat Bhargava. arXiv, 2021.
   
 - Model Agnostic Defense against Backdoor Attacks in Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1908.02203.pdf)
