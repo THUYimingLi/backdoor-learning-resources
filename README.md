@@ -242,8 +242,9 @@ Markdown format:
   - Miguel Villarreal-Vasquez, and Bharat Bhargava. arXiv, 2021.
 
 - Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems.
-  [[pdf]](https://arxiv.org/pdf/1908.03369.pdf)
-  - Bao Gia Doan, Ehsan Abbasnejad, and Damith C. Ranasinghe. arXiv, 2019.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3427228.3427264)
+  [[code]](https://februustrojandefense.github.io/)
+  - Bao Gia Doan, Ehsan Abbasnejad, and Damith C. Ranasinghe. *ACSAC*, 2020.
   
 - Model Agnostic Defense against Backdoor Attacks in Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1908.02203.pdf)
