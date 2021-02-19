@@ -305,7 +305,7 @@ Markdown format:
 - Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks.
   [[pdf]](https://gangw.web.illinois.edu/class/cs598/papers/sp19-poisoning-backdoor.pdf)
   [[code]](https://github.com/bolunwang/backdoor)
-  - Bolun Wang, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, Ben Y. Zhao. *IEEE S&P*, 2019。
+  - Bolun Wang, Yuanshun Yao, Shawn Shan, Huiying Li, Bimal Viswanath, Haitao Zheng, Ben Y. Zhao. *IEEE S&P*, 2019.
 
 - Defending Neural Backdoors via Generative Distribution Modeling.
   [[pdf]](https://arxiv.org/pdf/1910.04749.pdf)
