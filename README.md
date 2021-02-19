@@ -744,18 +744,18 @@ Markdown format:
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv, 2020.
 
 ## Backdoor Attack for Good
+- Open-sourced Dataset Protection via Backdoor Watermarking.
+  [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
+  - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *NeurIPS Workshop*, 2020.
+
 - Using Honeypots to Catch Adversarial Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/1904.08554.pdf)
-  - Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao. *CCS*, 2020. (**Note:** Unfortunately, it was broken by Nicholas Carlini most recently. [[arXiv]](https://arxiv.org/pdf/2009.10975.pdf))
+  - Shawn Shan, Emily Wenger, Bolun Wang, Bo Li, Haitao Zheng, Ben Y. Zhao. *CCS*, 2020. (**Note:** Unfortunately, it was bypassed by Nicholas Carlini most recently. [[arXiv]](https://arxiv.org/pdf/2009.10975.pdf))
   
 - Turning Your Weakness into a Strength: Watermarking Deep Neural Networks by Backdooring.
   [[pdf]](https://arxiv.org/pdf/1802.04633.pdf)
   [[code]](https://github.com/adiyoss/WatermarkNN)
   - Yossi Adi, Carsten Baum, Moustapha Cisse, Benny Pinkas, and Joseph Keshet. *USENIX Security*, 2018. 
-
-- Open-sourced Dataset Protection via Backdoor Watermarking.
-  [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
-  - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *NeurIPS Workshop*, 2020.
 
 - What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space.
   [[pdf]](https://arxiv.org/pdf/2101.06898.pdf)
