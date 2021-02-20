@@ -225,10 +225,6 @@ Markdown format:
   
 ### Backdoor Defense
 #### Preprocessing based Empirical Defense
-- Neural Trojans.
-  [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
-  - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD*, 2017.
-
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.
@@ -242,6 +238,10 @@ Markdown format:
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3427228.3427264)
   [[code]](https://februustrojandefense.github.io/)
   - Bao Gia Doan, Ehsan Abbasnejad, and Damith C. Ranasinghe. *ACSAC*, 2020.
+
+- Neural Trojans.
+  [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
+  - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD*, 2017.
 
 - ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2007.00711.pdf)
