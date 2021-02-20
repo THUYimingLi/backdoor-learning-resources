@@ -235,6 +235,7 @@ Markdown format:
 
 - DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation.
   [[pdf]](https://arxiv.org/pdf/2012.07006.pdf)
+  [[code]](https://github.com/YiZeng623/DeepSweep)
   - Yi Zeng, Han Qiu, Shangwei Guo, Tianwei Zhang, Meikang Qiu, and Bhavani Thuraisingham. *AsiaCCS*, 2021.
 
 - Februus: Input Purification Defense Against Trojan Attacks on Deep Neural Network Systems.
