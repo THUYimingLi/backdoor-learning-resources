@@ -535,6 +535,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
   - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS*, 2020 (arXiv, 2018).
 
+- Stability-Based Analysis and Defense against Backdoor Attacks on Edge Computing Services.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9354927)
+  - Yi Zhao, Ke Xu, Haiyang Wang, Bo Li, and Ruoxi Jia. *IEEE Network*, 2021.
+
 - Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2102.00655.pdf)
   - Syed Zawad, Ahsan Ali, Pin-Yu Chen, Ali Anwar, Yi Zhou, Nathalie Baracaldo, Yuan Tian, and Feng Yan. *AAAI*, 2021.
