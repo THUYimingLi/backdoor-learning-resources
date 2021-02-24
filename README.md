@@ -553,7 +553,7 @@ Markdown format:
   
 - Defending Against Backdoors in Federated Learning with Robust Learning Rate.
   [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
-  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. AAAI, 2021.
+  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. *AAAI*, 2021.
 
 - The Limitations of Federated Learning in Sybil Settings.
   [[pdf]](https://www.cs.ubc.ca/~bestchai/papers/foolsgold-raid2020.pdf)
