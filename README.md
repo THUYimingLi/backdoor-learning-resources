@@ -78,6 +78,10 @@ Markdown format:
   [[link]](https://link.springer.com/article/10.1007/s12083-020-01031-z)
   - Mingfu Xue, Can He, Jian Wang, and Weiqiang Liu. *Peer-to-Peer Networking and Applications*, 2021. 
 
+- Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks.
+  [[pdf]](https://www.lions.odu.edu/~h1wu/paper/infocom21.pdf)
+  - Rui Ning, Jiang Li, ChunSheng Xin, and Hongyi Wu. *INFOCOM*, 2021.
+
 #### 2020
 - One-to-N & N-to-One: Two Advanced Backdoor Attacks against Deep Learning Models.
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9211729)
