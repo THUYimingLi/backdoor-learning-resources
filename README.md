@@ -398,6 +398,10 @@ Markdown format:
   [[code]](https://github.com/Sanghyun-Hong/Gradient-Shaping)
   - Sanghyun Hong, Varun Chandrasekaran, Yiğitcan Kaya, Tudor Dumitraş, and Nicolas Papernot. arXiv, 2020.  
 
+- What Doesn't Kill You Makes You Robust(er): Adversarial Training against Poisons and Backdoors.
+  [[pdf]](https://arxiv.org/pdf/2102.13624.pdf)
+  - Jonas Geiping, Liam Fowl, Gowthami Somepalli, Micah Goldblum, Michael Moeller, and Tom Goldstein. arXiv, 2021.
+
 - Removing Backdoor-Based Watermarks in Neural Networks with Limited Data.
   [[pdf]](https://arxiv.org/pdf/2008.00407.pdf)
   - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. arXiv, 2020.  
