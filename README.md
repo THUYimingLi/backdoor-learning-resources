@@ -402,6 +402,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2102.13624.pdf)
   - Jonas Geiping, Liam Fowl, Gowthami Somepalli, Micah Goldblum, Michael Moeller, and Tom Goldstein. arXiv, 2021.
 
+- DP-InstaHide: Provably Defusing Poisoning and Backdoor Attacks with Differentially Private Data Augmentations.
+  [[pdf]](https://arxiv.org/pdf/2103.02079.pdf)
+  - Eitan Borgnia, Jonas Geiping, Valeriia Cherepanova, Liam Fowl, Arjun Gupta, Amin Ghiasi, Furong Huang, Micah Goldblum, and Tom Goldstein. arXiv, 2021.
+
+
 - Removing Backdoor-Based Watermarks in Neural Networks with Limited Data.
   [[pdf]](https://arxiv.org/pdf/2008.00407.pdf)
   - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. arXiv, 2020.  
