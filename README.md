@@ -499,6 +499,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
+  - [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
+  - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. arXiv, 2021.
+
 - Detecting Universal Trigger’s Adversarial Attack with Honeypot.
   [[pdf]](https://arxiv.org/abs/2011.10492)
   - Thai Le, Noseong Park, Dongwon Lee. arXiv, 2020.  
@@ -676,6 +680,10 @@ Markdown format:
 - Backdoor Attacks on the DNN Interpretation System.
   [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
   - Shihong Fang, and Anna Choromanska. *NeurIPS Workshop*, 2020.
+
+- Hidden Backdoor Attack against Semantic Segmentation Models.
+  - [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
+  - Yiming Li, Yanjie Li, Yalei Lv, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. arXiv, 2021.
 
 - Embedding and Synthesis of Knowledge in Tree Ensemble Classifiers.
   [[pdf]](https://arxiv.org/pdf/2010.08281.pdf)
