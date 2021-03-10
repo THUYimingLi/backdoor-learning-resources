@@ -416,6 +416,7 @@ Markdown format:
 #### Sample Filtering based Empirical Defense
 - Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection.
   [[pdf]](https://arxiv.org/pdf/1908.00686.pdf)
+  [[code]](https://github.com/TDteach/backdoor)
   - Di Tang, XiaoFeng Wang, Haixu Tang, and Kehuan Zhang. *USENIX Security*, 2021.
 
 - CLEANN: Accelerated Trojan Shield for Embedded Neural Networks.
