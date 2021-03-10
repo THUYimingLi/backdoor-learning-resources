@@ -455,6 +455,7 @@ Markdown format:
 
 - Detecting Backdoor Attacks on Deep Neural Networks by Activation Clustering.
   [[pdf]](https://arxiv.org/pdf/1811.03728.pdf)
+  [[code]](https://github.com/Trusted-AI/adversarial-robustness-toolbox/blob/main/art/defences/detector/poison/activation_defence.py)
   - Bryant Chen, Wilka Carvalho, Nathalie Baracaldo, Heiko Ludwig, Benjamin Edwards, Taesung Lee, Ian Molloy, and Biplav Srivastava. *AAAI Workshop*, 2019.
 
 - Deep Probabilistic Models to Detect Data Poisoning Attacks.
