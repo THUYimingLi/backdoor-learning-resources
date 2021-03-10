@@ -486,7 +486,11 @@ Markdown format:
 
 
 ## Attack and Defense Towards Other Tasks and Paradigms
-### Natural Language Processing  
+### Natural Language Processing 
+- T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
+  [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
+  - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
+
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
@@ -499,10 +503,6 @@ Markdown format:
 - Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
-
-- T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
-  [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
-  - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
 
 - Detecting Universal Trigger’s Adversarial Attack with Honeypot.
   [[pdf]](https://arxiv.org/abs/2011.10492)
@@ -665,7 +665,12 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
   [[code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
   - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2021.
-  
+  - 
+- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
+  [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
+  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
+ 
+ 
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
   - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN*, 2020.
@@ -705,10 +710,6 @@ Markdown format:
 - EEG-Based Brain-Computer Interfaces Are Vulnerable to Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2011.00101.pdf)
   - Lubin Meng, Jian Huang, Zhigang Zeng, Xue Jiang, Shan Yu, Tzyy-Ping Jung, Chin-Teng Lin, Ricardo Chavarriaga, and Dongrui Wu. arXiv, 2020.
-
-- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
-  [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
-  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
 
 - Bias Busters: Robustifying DL-based Lithographic Hotspot Detectors Against Backdooring Attacks.
   [[pdf]](https://arxiv.org/pdf/2004.12492.pdf)
