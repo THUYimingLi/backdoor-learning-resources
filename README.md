@@ -9,6 +9,18 @@ Backdoor learning is an emerging research area, which discusses the security iss
 Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
+## Citation
+If our repo or survey is useful for your research, please cite our paper as follows:
+```
+@article{li2020backdoor,
+  title={Backdoor learning: A survey},
+  author={Li, Yiming and Wu, Baoyuan and Jiang, Yong and Li, Zhifeng and Xia, Shu-Tao},
+  journal={arXiv preprint arXiv:2007.08745},
+  year={2020}
+}
+```
+
+
 ## Contributing
 <p align="center">
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
@@ -22,16 +34,6 @@ Markdown format:
   [[pdf]](link) 
   [[code]](link)
   - Author 1, Author 2, and Author 3. *Conference/Journal*, Year.
-```
-## Citation
-If our repo or survey is useful for your research, please cite our paper as follows:
-```
-@article{li2020backdoor,
-  title={Backdoor learning: A survey},
-  author={Li, Yiming and Wu, Baoyuan and Jiang, Yong and Li, Zhifeng and Xia, Shu-Tao},
-  journal={arXiv preprint arXiv:2007.08745},
-  year={2020}
-}
 ```
 
 
