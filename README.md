@@ -501,7 +501,7 @@ Markdown format:
 
 - T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
-  - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. arXiv, 2021.
+  - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
 
 - Detecting Universal Trigger’s Adversarial Attack with Honeypot.
   [[pdf]](https://arxiv.org/abs/2011.10492)
@@ -705,9 +705,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2011.00101.pdf)
   - Lubin Meng, Jian Huang, Zhigang Zeng, Xue Jiang, Shan Yu, Tzyy-Ping Jung, Chin-Teng Lin, Ricardo Chavarriaga, and Dongrui Wu. arXiv, 2020.
 
-- Exploring Backdoor Poisoning Attacks Against Malware Classifiers.
+- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
-  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. arXiv, 2020.
+  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
 
 - Bias Busters: Robustifying DL-based Lithographic Hotspot Detectors Against Backdooring Attacks.
   [[pdf]](https://arxiv.org/pdf/2004.12492.pdf)
