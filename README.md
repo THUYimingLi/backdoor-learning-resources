@@ -374,6 +374,11 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9233317)
   - Hyun Kwon. *IEEE Access*, 2020.
 
+- EX-RAY: Distinguishing Injected Backdoor from Natural Features in Neural Networks by Examining Differential Feature Symmetry.
+  [[pdf]](https://arxiv.org/pdf/2103.08820.pdf)
+  - Yingqi Liu, Guangyu Shen, Guanhong Tao, Zhenting Wang, Shiqing Ma, and Xiangyu Zhang. arXiv, 2021.
+
+
 - Detecting Trojaned DNNs Using Counterfactual Attributions.
   [[pdf]](https://arxiv.org/pdf/2012.02275.pdf)
   - Karan Sikka, Indranil Sur, Susmit Jha, Anirban Roy, and Ajay Divakaran. arXiv, 2020.
