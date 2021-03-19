@@ -378,6 +378,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.08820.pdf)
   - Yingqi Liu, Guangyu Shen, Guanhong Tao, Zhenting Wang, Shiqing Ma, and Xiangyu Zhang. arXiv, 2021.
 
+- TOP: Backdoor Detection in Neural Networks via Transferability of Perturbation.
+  [[pdf]](https://arxiv.org/pdf/2103.10274.pdf)
+  - Todd Huster and Emmanuel Ekwedike. arXiv, 2021.
 
 - Detecting Trojaned DNNs Using Counterfactual Attributions.
   [[pdf]](https://arxiv.org/pdf/2012.02275.pdf)
