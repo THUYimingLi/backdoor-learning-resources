@@ -196,6 +196,12 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1912.02771.pdf)
   [[code]](https://github.com/MadryLab/label-consistent-backdoor-code)
   - Alexander Turner, Dimitris Tsipras, and Aleksander Madry. arXiv, 2019.
+
+#### 2018
+
+- Trojaning Attack on Neural Networks.
+  [[pdf]](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2782&context=cstech)
+  - Yingqi Liu, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, and Juan Zhai. *NDSS*, 2018.
  
 #### 2017
 - BadNets: Identifying Vulnerabilities in the Machine Learning Model Supply Chain.
@@ -206,12 +212,7 @@ Markdown format:
 - Targeted Backdoor Attacks on Deep Learning Systems Using Data Poisoning.
   [[pdf]](https://arxiv.org/pdf/1712.05526.pdf)
   [[code]](https://github.com/GeorgePisl/backdoor-attacks-based-on-deep-learning)
-  - Xinyun Chen, Chang Liu, Bo Li, Kimberly Lu, and Dawn Song. arXiv, 2017.
-  
-- Trojaning Attack on Neural Networks.
-  [[pdf]](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2782&context=cstech)
-  - Yingqi Liu, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, and Juan Zhai. *NDSS*, 2017.
-
+  - Xinyun Chen, Chang Liu, Bo Li, Kimberly Lu, and Dawn Song. arXiv, 2017.  
 
 ### Non-poisoning-based Attack  
 - An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks.
