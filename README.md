@@ -9,6 +9,18 @@ Backdoor learning is an emerging research area, which discusses the security iss
 Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
+## Citation
+If our repo or survey is useful for your research, please cite our paper as follows:
+```
+@article{li2020backdoor,
+  title={Backdoor learning: A survey},
+  author={Li, Yiming and Wu, Baoyuan and Jiang, Yong and Li, Zhifeng and Xia, Shu-Tao},
+  journal={arXiv preprint arXiv:2007.08745},
+  year={2020}
+}
+```
+
+
 ## Contributing
 <p align="center">
   <img src="http://cdn1.sportngin.com/attachments/news_article/7269/5172/needyou_small.jpg" alt="We Need You!">
@@ -23,6 +35,7 @@ Markdown format:
   [[code]](link)
   - Author 1, Author 2, and Author 3. *Conference/Journal*, Year.
 ```
+
 
 ## Table of Contents
 - [Related Survey](#related-survey)
@@ -361,6 +374,14 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9233317)
   - Hyun Kwon. *IEEE Access*, 2020.
 
+- EX-RAY: Distinguishing Injected Backdoor from Natural Features in Neural Networks by Examining Differential Feature Symmetry.
+  [[pdf]](https://arxiv.org/pdf/2103.08820.pdf)
+  - Yingqi Liu, Guangyu Shen, Guanhong Tao, Zhenting Wang, Shiqing Ma, and Xiangyu Zhang. arXiv, 2021.
+
+- TOP: Backdoor Detection in Neural Networks via Transferability of Perturbation.
+  [[pdf]](https://arxiv.org/pdf/2103.10274.pdf)
+  - Todd Huster and Emmanuel Ekwedike. arXiv, 2021.
+
 - Detecting Trojaned DNNs Using Counterfactual Attributions.
   [[pdf]](https://arxiv.org/pdf/2012.02275.pdf)
   - Karan Sikka, Indranil Sur, Susmit Jha, Anirban Roy, and Ajay Divakaran. arXiv, 2020.
@@ -487,7 +508,11 @@ Markdown format:
 
 
 ## Attack and Defense Towards Other Tasks and Paradigms
-### Natural Language Processing  
+### Natural Language Processing 
+- T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
+  [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
+  - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
+
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
@@ -500,10 +525,6 @@ Markdown format:
 - Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
-
-- T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
-  [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
-  - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
 
 - Detecting Universal Trigger’s Adversarial Attack with Honeypot.
   [[pdf]](https://arxiv.org/abs/2011.10492)
@@ -666,7 +687,12 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
   [[code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
   - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2021.
-  
+  - 
+- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
+  [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
+  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
+ 
+ 
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
   - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN*, 2020.
@@ -706,10 +732,6 @@ Markdown format:
 - EEG-Based Brain-Computer Interfaces Are Vulnerable to Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2011.00101.pdf)
   - Lubin Meng, Jian Huang, Zhigang Zeng, Xue Jiang, Shan Yu, Tzyy-Ping Jung, Chin-Teng Lin, Ricardo Chavarriaga, and Dongrui Wu. arXiv, 2020.
-
-- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
-  [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
-  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
 
 - Bias Busters: Robustifying DL-based Lithographic Hotspot Detectors Against Backdooring Attacks.
   [[pdf]](https://arxiv.org/pdf/2004.12492.pdf)
