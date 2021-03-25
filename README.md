@@ -339,6 +339,10 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
   - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
 
+- Black-box Detection of Backdoor Attacks with Limited Information and Data.
+  [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
+  - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. arXiv, 2021.
+
 - Backdoor Scanning for Deep Neural Networks through K-Arm Optimization.
   [[pdf]](https://arxiv.org/pdf/2102.05123.pdf)
   - Guangyu Shen, Yingqi Liu, Guanhong Tao, Shengwei An, Qiuling Xu, Siyuan Cheng, Shiqing Ma, and Xiangyu Zhang. arXiv, 2021.
@@ -374,6 +378,10 @@ Markdown format:
 - Detecting Backdoor Attacks via Class Difference in Deep Neural Networks.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9233317)
   - Hyun Kwon. *IEEE Access*, 2020.
+
+- Black-box Detection of Backdoor Attacks with Limited Information and Data.
+  [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
+  - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. arXiv, 2021.
 
 - EX-RAY: Distinguishing Injected Backdoor from Natural Features in Neural Networks by Examining Differential Feature Symmetry.
   [[pdf]](https://arxiv.org/pdf/2103.08820.pdf)
