@@ -128,11 +128,6 @@ Markdown format:
   - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY*, 2020.
 
 
-- Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2007.02343.pdf)
-  [[code]](https://github.com/DreamtaleCore/Refool)
-  - Yunfei Liu, Xingjun Ma, James Bailey, and Feng Lu. *ECCV*, 2020.
-
 - Can Adversarial Weight Perturbations Inject Neural Backdoors?
   [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
   - Siddhant Garg, Adarsh Kumar, Vibhor Goel, and Yingyu Liang. *CIKM*, 2020.
@@ -145,6 +140,11 @@ Markdown format:
 - Escaping Backdoor Attack Detection of Deep Learning.
   [[link]](https://link.springer.com/chapter/10.1007/978-3-030-58201-2_29)
   - Yayuan Xiong, Fengyuan Xu, Sheng Zhong, and Qun Li. *IFIP SEC*, 2020.
+
+- Reflection Backdoor: A Natural Backdoor Attack on Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2007.02343.pdf)
+  [[code]](https://github.com/DreamtaleCore/Refool)
+  - Yunfei Liu, Xingjun Ma, James Bailey, and Feng Lu. *ECCV*, 2020.
 
 - Live Trojan Attacks on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2004.11370.pdf)
