@@ -701,9 +701,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
   - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
  
- - Hidden Backdoor Attack against Semantic Segmentation Models.
+- Hidden Backdoor Attack against Semantic Segmentation Models.
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
   - Yiming Li, Yanjie Li, Yalei Lv, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
+
 
 - Explainability Matters: Backdoor Attacks on Medical Imaging.
   [[pdf]](https://arxiv.org/pdf/2101.00008.pdf)
