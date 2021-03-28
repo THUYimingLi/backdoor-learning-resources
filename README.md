@@ -703,7 +703,7 @@ Markdown format:
  
 - Hidden Backdoor Attack against Semantic Segmentation Models.
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
-  - Yiming Li, Yanjie Li, Yalei Lv, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
+  - Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
 
 
 - Explainability Matters: Backdoor Attacks on Medical Imaging.
