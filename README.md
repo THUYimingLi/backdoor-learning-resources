@@ -526,7 +526,12 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
   - Keita Kurita, Paul Michel, and Graham Neubig. *ACL*, 2020.
-  
+
+- Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models.
+  [[pdf]](https://arxiv.org/pdf/2103.15543.pdf)
+  [[code]](https://github.com/lancopku/Embedding-Poisoning)
+  - Wenkai Yang, Lei Li, Zhiyuan Zhang, Xuancheng Ren, Xu Sun, and Bin He. *NAACL-HLT*, 2021.
+
 - A Backdoor Attack Against LSTM-based Text Classification Systems.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
   - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access*, 2019.
@@ -534,6 +539,7 @@ Markdown format:
 - Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
+
 
 - Detecting Universal Trigger’s Adversarial Attack with Honeypot.
   [[pdf]](https://arxiv.org/abs/2011.10492)
