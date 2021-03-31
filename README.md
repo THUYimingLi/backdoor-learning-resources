@@ -711,7 +711,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
   - Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
 
-
 - Explainability Matters: Backdoor Attacks on Medical Imaging.
   [[pdf]](https://arxiv.org/pdf/2101.00008.pdf)
   - Munachiso Nwadike, Takumi Miyawaki, Esha Sarkar, Michail Maniatakos, and Farah Shamout. *AAAI Workshop*, 2021.
@@ -727,6 +726,10 @@ Markdown format:
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
   - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN*, 2020.
+
+- PointBA: Towards Backdoor Attacks in 3D Point Cloud.
+  [[pdf]](https://arxiv.org/pdf/2103.16074.pdf)
+  - Xinke Li, Zhiru Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, and Joey Tianyi Zhou. arXiv, 2021.
 
 
 - Embedding and Synthesis of Knowledge in Tree Ensemble Classifiers.
