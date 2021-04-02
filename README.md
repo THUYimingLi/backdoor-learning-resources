@@ -201,6 +201,7 @@ Markdown format:
 
 - Trojaning Attack on Neural Networks.
   [[pdf]](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2782&context=cstech)
+  [[code]](https://github.com/PurduePAML/TrojanNN)
   - Yingqi Liu, Shiqing Ma, Yousra Aafer, Wen-Chuan Lee, and Juan Zhai. *NDSS*, 2018.
  
 #### 2017
