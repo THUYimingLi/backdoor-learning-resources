@@ -94,6 +94,10 @@ Markdown format:
 - Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks.
   [[pdf]](https://www.lions.odu.edu/~h1wu/paper/infocom21.pdf)
   - Rui Ning, Jiang Li, ChunSheng Xin, and Hongyi Wu. *INFOCOM*, 2021.
+ 
+- RABA: A Robust Avatar Backdoor Attack on Deep Neural Network.
+  [[pdf]](https://arxiv.org/pdf/2104.01026.pdf)
+  - Ying He, Zhili Shen, Chang Xia, Jingyu Hua, Wei Tong, and Sheng Zhong. arXiv, 2021.
 
 #### 2020
 - One-to-N & N-to-One: Two Advanced Backdoor Attacks against Deep Learning Models.
