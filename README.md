@@ -493,6 +493,10 @@ Markdown format:
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
 
+- Online Defense of Trojaned Models using Misattributions.
+  [[pdf]](https://arxiv.org/pdf/2103.15918.pdf)
+  - Panagiota Kiourti, Wenchao Li, Anirban Roy, Karan Sikka, and Susmit Jha. arXiv, 2021.
+
 - Exposing Backdoors in Robust Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2003.00865.pdf)
   - Ezekiel Soremekun, Sakshi Udeshi, and Sudipta Chattopadhyay. arXiv, 2020.
