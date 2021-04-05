@@ -361,6 +361,10 @@ Markdown format:
   [[code]](https://github.com/akshajkumarv/NNoculation)
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
+- TAD: Trigger Approximation based Black-box Trojan Detection for AI.
+  [[pdf]](https://arxiv.org/pdf/2102.01815.pdf)
+  - Xinqiao Zhang, Huili Chen, and Farinaz Koushanfar. arXiv, 2021.
+
 #### Model Diagnosis based Empirical Defense
 - Detecting AI Trojans Using Meta Neural Analysis.
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
