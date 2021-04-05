@@ -402,7 +402,7 @@ Markdown format:
 
 - Detecting Trojaned DNNs Using Counterfactual Attributions.
   [[pdf]](https://arxiv.org/pdf/2012.02275.pdf)
-  - Karan Sikka, Indranil Sur, Susmit Jha, Anirban Roy, and Ajay Divakaran. arXiv, 2020.
+  - Karan Sikka, Indranil Sur, Susmit Jha, Anirban Roy, and Ajay Divakaran. arXiv, 2021.
 
 - Cassandra: Detecting Trojaned Networks from Adversarial Perturbations.
   [[pdf]](https://arxiv.org/pdf/2007.14433.pdf)
