@@ -352,6 +352,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2102.05123.pdf)
   - Guangyu Shen, Yingqi Liu, Guanhong Tao, Shengwei An, Qiuling Xu, Siyuan Cheng, Shiqing Ma, and Xiangyu Zhang. arXiv, 2021.
 
+- TAD: Trigger Approximation based Black-box Trojan Detection for AI.
+  [[pdf]](https://arxiv.org/pdf/2102.01815.pdf)
+  - Xinqiao Zhang, Huili Chen, and Farinaz Koushanfar. arXiv, 2021.
+
 - Scalable Backdoor Detection in Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2006.05646.pdf)
   - Haripriya Harikumar, Vuong Le, Santu Rana, Sourangshu Bhattacharya, Sunil Gupta, and Svetha Venkatesh. arXiv, 2020.
@@ -360,10 +364,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.08313.pdf)
   [[code]](https://github.com/akshajkumarv/NNoculation)
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
-
-- TAD: Trigger Approximation based Black-box Trojan Detection for AI.
-  [[pdf]](https://arxiv.org/pdf/2102.01815.pdf)
-  - Xinqiao Zhang, Huili Chen, and Farinaz Koushanfar. arXiv, 2021.
 
 #### Model Diagnosis based Empirical Defense
 - Detecting AI Trojans Using Meta Neural Analysis.
