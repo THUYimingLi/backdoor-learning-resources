@@ -74,19 +74,24 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2021
-- A Master Key Backdoor for Universal Impersonation Attack against DNN-based Face Verification.
-  [[link]](https://www.sciencedirect.com/science/article/pii/S0167865521000210)
-  - WeiGuo, Benedetta Tondi, and Mauro Barni. *Pattern Recognition Letters*, 2021.
+- Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification.
+  [[pdf]](https://arxiv.org/pdf/2012.11212.pdf)
+  [[code]](https://github.com/Megum1/DFST)
+  - Siyuan Cheng, Yingqi Liu, Shiqing Ma, and Xiangyu Zhang. *AAAI*, 2021.
 
 - WaNet - Imperceptible Warping-based Backdoor Attack.
   [[pdf]](https://openreview.net/pdf?id=eEn8KTtJOx)
   - Tuan Anh Nguyen, and Anh Tuan Tran. *ICLR*, 2021.
 
-- Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification.
-  [[pdf]](https://arxiv.org/pdf/2012.11212.pdf)
-  [[code]](https://github.com/Megum1/DFST)
-  - Siyuan Cheng, Yingqi Liu, Shiqing Ma, and Xiangyu Zhang. *AAAI*, 2021.
-  
+- Backdoor Attack in the Physical World. 
+  [[pdf]](https://arxiv.org/pdf/2104.02361.pdf)
+  [[extension]](https://arxiv.org/pdf/2004.04692.pdf)
+  - Yiming Li, Tongqing Zhai, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. *ICLR Workshop*, 2021.
+ 
+- A Master Key Backdoor for Universal Impersonation Attack against DNN-based Face Verification.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0167865521000210)
+  - WeiGuo, Benedetta Tondi, and Mauro Barni. *Pattern Recognition Letters*, 2021.
+ 
 - Backdoors Hidden in Facial Features: A Novel Invisible Backdoor Attack against Face Recognition Systems.
   [[link]](https://link.springer.com/article/10.1007/s12083-020-01031-z)
   - Mingfu Xue, Can He, Jian Wang, and Weiqiang Liu. *Peer-to-Peer Networking and Applications*, 2021. 
