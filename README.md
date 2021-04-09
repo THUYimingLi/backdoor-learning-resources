@@ -587,7 +587,11 @@ Markdown format:
 - Backdoor Attacks to Graph Neural Networks. 
   [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *NeurIPS Workshop*, 2020.  
-  
+
+- Explainability-based Backdoor Attacks Against Graph Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2104.03674.pdf)
+  - Jing Xu, Minhui, Xue, and Stjepan Picek. arXiv, 2021.
+
 ### Reinforcement Learning
 - TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning.
   [[pdf]](https://arxiv.org/pdf/1903.06638.pdf)
