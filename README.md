@@ -811,6 +811,10 @@ Markdown format:
   [[code]](https://github.com/ain-soph/trojanzoo)
   - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. arXiv, 2020.
 
+- Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.
+  [[pdf]](https://arxiv.org/pdf/2104.03413.pdf)
+  - Yi Zeng, Won Park, Z. Morley Mao, and Ruoxi Jia. arXiv, 2021.
+
 - Poisoned Classifiers are Not Only Backdoored, They are Fundamentally Broken.
   [[pdf]](https://arxiv.org/pdf/2010.09080.pdf)
   [[code]](https://github.com/locuslab/breaking-poisoned-classifier)
