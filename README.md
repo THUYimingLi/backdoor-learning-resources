@@ -104,6 +104,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.01026.pdf)
   - Ying He, Zhili Shen, Chang Xia, Jingyu Hua, Wei Tong, and Sheng Zhong. arXiv, 2021.
 
+- Robust Backdoor Attacks against Deep Neural Networks in Real Physical World.
+  [[pdf]](https://arxiv.org/pdf/2104.07395.pdf)
+  - Mingfu Xue, Can He, Shichang Sun, Jian Wang, and Weiqiang Liu. arXiv, 2021.
+
 #### 2020
 - One-to-N & N-to-One: Two Advanced Backdoor Attacks against Deep Learning Models.
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9211729)
