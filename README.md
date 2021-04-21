@@ -74,6 +74,10 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2021
+- Blind Backdoors in Deep Learning Models. 
+  [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
+  - Eugene Bagdasaryan, and Vitaly Shmatikov. *USENIX Security*, 2021.
+
 - Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification.
   [[pdf]](https://arxiv.org/pdf/2012.11212.pdf)
   [[code]](https://github.com/Megum1/DFST)
@@ -171,10 +175,6 @@ Markdown format:
 - Backdoor Attack with Sample-Specific Triggers.
   [[pdf]](https://arxiv.org/abs/2012.03816)
   - Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, and Siwei Lyu. arXiv, 2020.
-
-- Blind Backdoors in Deep Learning Models. 
-  [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
-  - Eugene Bagdasaryan, and Vitaly Shmatikov. arXiv, 2020.
 
 - HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios.
   [[pdf]](https://arxiv.org/pdf/2012.07474.pdf)
