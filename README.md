@@ -243,6 +243,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
   - Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, and Yunxin Liu. *ICSE*, 2021.
 
+- Manipulating SGD with Data Ordering Attacks.
+  [[pdf]](https://arxiv.org/pdf/2104.09667.pdf)
+  - Ilia Shumailov, Zakhar Shumaylov, Dmitry Kazhdan, Yiren Zhao, Nicolas Papernot, Murat A. Erdogdu, and Ross Anderson. arXiv, 2021.
+
 - TrojanNet: Embedding Hidden Trojan Horse Models in Neural Network.
   [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
   - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv, 2020.
@@ -501,6 +505,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1811.00636.pdf)
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
+
+- SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics.
+  [[pdf]](https://arxiv.org/pdf/2104.11315.pdf)
+  - Jonathan Hayase, Weihao Kong, Raghav Somani, and Sewoong Oh. arXiv, 2021.
 
 - Online Defense of Trojaned Models using Misattributions.
   [[pdf]](https://arxiv.org/pdf/2103.15918.pdf)
