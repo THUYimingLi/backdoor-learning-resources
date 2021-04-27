@@ -78,6 +78,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
   - Eugene Bagdasaryan, and Vitaly Shmatikov. *USENIX Security*, 2021.
 
+- Backdoor Attacks Against Deep Learning Systems in the Physical World.
+  [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
+  [[Master Thesis]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
+  - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. *CVPR*, 2021.
+
 - Deep Feature Space Trojan Attack of Neural Networks by Controlled Detoxification.
   [[pdf]](https://arxiv.org/pdf/2012.11212.pdf)
   [[code]](https://github.com/Megum1/DFST)
@@ -143,7 +148,6 @@ Markdown format:
 - Backdoor Embedding in Convolutional Neural Network Models via Invisible Perturbation.
   [[pdf]](https://arxiv.org/pdf/1808.10307.pdf)
   - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY*, 2020.
-
 
 - Can Adversarial Weight Perturbations Inject Neural Backdoors?
   [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
@@ -795,6 +799,11 @@ Markdown format:
 
 
 ## Properties Discussion and Evaluation
+- Backdoor Attacks Against Deep Learning Systems in the Physical World.
+  [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
+  [[Master Thesis]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
+  - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. *CVPR*, 2021.
+
 - On the Trade-off between Adversarial and Backdoor Robustness.
   [[pdf]](https://papers.nips.cc/paper/2020/file/8b4066554730ddfaa0266346bdc1b202-Paper.pdf)
   - Cheng-Hsin Weng, Yan-Ting Lee, and Shan-Hung Wu. *NeurIPS*, 2020.
@@ -843,11 +852,6 @@ Markdown format:
 - Trembling Triggers: Exploring the Sensitivity of Backdoors in DNN-based Face Recognition.
   [[pdf]](https://link.springer.com/article/10.1186/s13635-020-00104-z)
   - Cecilia Pasquini, and Rainer Böhme. *EURASIP Journal on Information Security*, 2020. 
-
-- Backdoor Attacks on Facial Recognition in the Physical World.
-  [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
-  [[Master Thesis]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
-  - Emily Wenger, Josephine Passanati, Yuanshun Yao, Haitao Zheng, and Ben Y. Zhao. arXiv, 2020.
 
 - Noise-response Analysis for Rapid Detection of Backdoors in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2008.00123.pdf)
