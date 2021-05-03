@@ -251,6 +251,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.09667.pdf)
   - Ilia Shumailov, Zakhar Shumaylov, Dmitry Kazhdan, Yiren Zhao, Nicolas Papernot, Murat A. Erdogdu, and Ross Anderson. arXiv, 2021.
 
+- Stealthy Backdoors as Compression Artifacts.
+  [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
+  - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
+
 - TrojanNet: Embedding Hidden Trojan Horse Models in Neural Network.
   [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
   - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv, 2020.
@@ -764,6 +768,10 @@ Markdown format:
 - NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
   [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
   - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN*, 2020.
+
+- Stealthy Backdoors as Compression Artifacts.
+  [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
+  - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
 
 - A Backdoor Attack against 3D Point Cloud Classifiers. 
   [[pdf]](https://arxiv.org/pdf/2104.05808.pdf)
