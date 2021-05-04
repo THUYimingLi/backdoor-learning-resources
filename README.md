@@ -578,6 +578,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- Hidden Backdoors in Human-Centric Language Models.
+  [[pdf]](https://arxiv.org/pdf/2105.00164.pdf)
+  - Shaofeng Li, Hui Liu, Tian Dong, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu, and Jialiang Lu. arXiv, 2021.
 
 - Detecting Universal Trigger’s Adversarial Attack with Honeypot.
   [[pdf]](https://arxiv.org/abs/2011.10492)
@@ -613,6 +616,11 @@ Markdown format:
   - Jing Xu, Minhui, Xue, and Stjepan Picek. arXiv, 2021.
 
 ### Reinforcement Learning
+- BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning.
+  [[pdf]](https://arxiv.org/pdf/2105.00579.pdf)
+  - Lun Wang, Zaynah Javed, Xian Wu, Wenbo Guo, Xinyu Xing, and Dawn Song. *IJCAI*, 2021.
+
+
 - TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning.
   [[pdf]](https://arxiv.org/pdf/1903.06638.pdf)
   - Panagiota Kiourti, Kacper Wardega, Susmit Jha, and Wenchao Li. *DAC*, 2020.
