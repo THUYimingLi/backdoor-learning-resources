@@ -247,6 +247,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
   - Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, and Yunxin Liu. *ICSE*, 2021.
 
+- Subnet Replacement: Deployment-stage Backdoor Attack against Deep Neural Networks in Gray-box Setting.
+  [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/35.pdf)
+  - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
+
 - Manipulating SGD with Data Ordering Attacks.
   [[pdf]](https://arxiv.org/pdf/2104.09667.pdf)
   - Ilia Shumailov, Zakhar Shumaylov, Dmitry Kazhdan, Yiren Zhao, Nicolas Papernot, Murat A. Erdogdu, and Ross Anderson. arXiv, 2021.
@@ -409,6 +413,10 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9233317)
   - Hyun Kwon. *IEEE Access*, 2020.
 
+- Baseline Pruning-Based Approach to Trojan Detection in Neural Networks.
+  [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/17.pdf)
+  - Peter Bajcsy and Michael Majurski. *ICLR Workshop*, 2021.
+
 - Black-box Detection of Backdoor Attacks with Limited Information and Data.
   [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
   - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. arXiv, 2021.
@@ -452,15 +460,15 @@ Markdown format:
 - Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Trade-off.
   [[pdf]](https://arxiv.org/pdf/2011.09527.pdf)
   - Eitan Borgnia, Valeriia Cherepanova, Liam Fowl, Amin Ghiasi, Jonas Geiping, Micah Goldblum, Tom Goldstein, and Arjun Gupta. *ICASSP*, 2021.
-  
+
+- What Doesn't Kill You Makes You Robust(er): Adversarial Training against Poisons and Backdoors.
+  [[pdf]](https://arxiv.org/pdf/2102.13624.pdf)
+  - Jonas Geiping, Liam Fowl, Gowthami Somepalli, Micah Goldblum, Michael Moeller, and Tom Goldstein. *ICLR Workshop*, 2021.
+
 - On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping.
   [[pdf]](https://arxiv.org/pdf/2002.11497.pdf)
   [[code]](https://github.com/Sanghyun-Hong/Gradient-Shaping)
   - Sanghyun Hong, Varun Chandrasekaran, Yiğitcan Kaya, Tudor Dumitraş, and Nicolas Papernot. arXiv, 2020.  
-
-- What Doesn't Kill You Makes You Robust(er): Adversarial Training against Poisons and Backdoors.
-  [[pdf]](https://arxiv.org/pdf/2102.13624.pdf)
-  - Jonas Geiping, Liam Fowl, Gowthami Somepalli, Micah Goldblum, Michael Moeller, and Tom Goldstein. arXiv, 2021.
 
 - DP-InstaHide: Provably Defusing Poisoning and Backdoor Attacks with Differentially Private Data Augmentations.
   [[pdf]](https://arxiv.org/pdf/2103.02079.pdf)
@@ -620,10 +628,13 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2105.00579.pdf)
   - Lun Wang, Zaynah Javed, Xian Wu, Wenbo Guo, Xinyu Xing, and Dawn Song. *IJCAI*, 2021.
 
-
 - TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning.
   [[pdf]](https://arxiv.org/pdf/1903.06638.pdf)
   - Panagiota Kiourti, Kacper Wardega, Susmit Jha, and Wenchao Li. *DAC*, 2020.
+
+- Poisoning Deep Reinforcement Learning Agents with In-Distribution Triggers.
+  [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/11.pdf) 
+  - Chace Ashcraft and Kiran Karra. *ICLR Workshop*, 2021.
 
 - Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-based Traffic Congestion Control Systems.
   [[pdf]](https://arxiv.org/pdf/2003.07859.pdf)
@@ -858,7 +869,7 @@ Markdown format:
 - Poisoned Classifiers are Not Only Backdoored, They are Fundamentally Broken.
   [[pdf]](https://arxiv.org/pdf/2010.09080.pdf)
   [[code]](https://github.com/locuslab/breaking-poisoned-classifier)
-  - Mingjie Sun, Siddhant Agarwal, and J. Zico Kolter. arXiv, 2020.
+  - Mingjie Sun, Siddhant Agarwal, and J. Zico Kolter. *ICLR Workshop*, 2021.
 
 - Effect of Backdoor Attacks over the Complexity of the Latent Space Distribution.
   [[pdf]](https://arxiv.org/pdf/2012.01931.pdf)
