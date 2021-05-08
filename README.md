@@ -215,7 +215,6 @@ Markdown format:
   - Alexander Turner, Dimitris Tsipras, and Aleksander Madry. arXiv, 2019.
 
 #### 2018
-
 - Trojaning Attack on Neural Networks.
   [[pdf]](https://docs.lib.purdue.edu/cgi/viewcontent.cgi?referer=&httpsredir=1&article=2782&context=cstech)
   [[code]](https://github.com/PurduePAML/TrojanNN)
@@ -347,6 +346,10 @@ Markdown format:
   [[code]](https://github.com/UsmannK/TABOR)
   - Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, and Dawn Song. *ICDM*, 2020.
 
+- Backdoor Scanning for Deep Neural Networks through K-Arm Optimization.
+  [[pdf]](https://arxiv.org/pdf/2102.05123.pdf)
+  - Guangyu Shen, Yingqi Liu, Guanhong Tao, Shengwei An, Qiuling Xu, Siyuan Cheng, Shiqing Ma, and Xiangyu Zhang. *ICML*, 2021.
+
 - GangSweep: Sweep out Neural Backdoors by GAN.
   [[pdf]](https://www.lions.odu.edu/~h1wu/paper/gangsweep.pdf)
   - Liuwan Zhu, Rui Ning, Cong Wang, Chunsheng Xin, and Hongyi Wu. *ACM MM*, 2020.
@@ -373,9 +376,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
   - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. arXiv, 2021.
 
-- Backdoor Scanning for Deep Neural Networks through K-Arm Optimization.
-  [[pdf]](https://arxiv.org/pdf/2102.05123.pdf)
-  - Guangyu Shen, Yingqi Liu, Guanhong Tao, Shengwei An, Qiuling Xu, Siyuan Cheng, Shiqing Ma, and Xiangyu Zhang. arXiv, 2021.
 
 - TAD: Trigger Approximation based Black-box Trojan Detection for AI.
   [[pdf]](https://arxiv.org/pdf/2102.01815.pdf)
@@ -487,10 +487,13 @@ Markdown format:
   [[code]](https://github.com/TDteach/backdoor)
   - Di Tang, XiaoFeng Wang, Haixu Tang, and Kehuan Zhang. *USENIX Security*, 2021.
 
+- SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics.
+  [[pdf]](https://arxiv.org/pdf/2104.11315.pdf)
+  - Jonathan Hayase, Weihao Kong, Raghav Somani, and Sewoong Oh. *ICML*, 2021.
+
 - CLEANN: Accelerated Trojan Shield for Embedded Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2009.02326.pdf)
   - Mojan Javaheripi, Mohammad Samragh, Gregory Fields, Tara Javidi, and Farinaz Koushanfar. *ICCAD*, 2020.
-
 
 - Robust Anomaly Detection and Backdoor Attack Detection via Differential Privacy.
   [[pdf]](https://arxiv.org/pdf/1911.07116.pdf)
@@ -521,10 +524,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1811.00636.pdf)
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
-
-- SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics.
-  [[pdf]](https://arxiv.org/pdf/2104.11315.pdf)
-  - Jonathan Hayase, Weihao Kong, Raghav Somani, and Sewoong Oh. arXiv, 2021.
 
 - Online Defense of Trojaned Models using Misattributions.
   [[pdf]](https://arxiv.org/pdf/2103.15918.pdf)
