@@ -791,6 +791,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
   - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
 
+- Poisoning MorphNet for Clean-Label Backdoor Attack to Point Clouds.
+  [[pdf]](https://arxiv.org/pdf/2105.04839.pdf)
+  - Guiyu Tian, Wenhao Jiang, Wei Liu, and Yadong Mu. arXiv, 2021.
+
 - A Backdoor Attack against 3D Point Cloud Classifiers. 
   [[pdf]](https://arxiv.org/pdf/2104.05808.pdf)
   - Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, and George Kesidis. arXiv, 2021.
