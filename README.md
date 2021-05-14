@@ -757,6 +757,20 @@ Markdown format:
   [[code]](https://github.com/thunlp/NeuBA)
   - Zhengyan Zhang, Guangxuan Xiao, Yongwei Li, Tian Lv, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Xin Jiang, and Maosong Sun. arXiv, 2021.
 
+### Point Cloud
+- Poisoning MorphNet for Clean-Label Backdoor Attack to Point Clouds.
+  [[pdf]](https://arxiv.org/pdf/2105.04839.pdf)
+  - Guiyu Tian, Wenhao Jiang, Wei Liu, and Yadong Mu. arXiv, 2021.
+
+- A Backdoor Attack against 3D Point Cloud Classifiers. 
+  [[pdf]](https://arxiv.org/pdf/2104.05808.pdf)
+  - Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, and George Kesidis. arXiv, 2021.
+
+- PointBA: Towards Backdoor Attacks in 3D Point Cloud.
+  [[pdf]](https://arxiv.org/pdf/2103.16074.pdf)
+  - Xinke Li, Zhiru Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, and Joey Tianyi Zhou. arXiv, 2021.
+
+
 ### Others
 - Backdoor Attack against Speaker Verification
   [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
@@ -791,18 +805,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
   - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
 
-- Poisoning MorphNet for Clean-Label Backdoor Attack to Point Clouds.
-  [[pdf]](https://arxiv.org/pdf/2105.04839.pdf)
-  - Guiyu Tian, Wenhao Jiang, Wei Liu, and Yadong Mu. arXiv, 2021.
-
-- A Backdoor Attack against 3D Point Cloud Classifiers. 
-  [[pdf]](https://arxiv.org/pdf/2104.05808.pdf)
-  - Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, and George Kesidis. arXiv, 2021.
-
-- PointBA: Towards Backdoor Attacks in 3D Point Cloud.
-  [[pdf]](https://arxiv.org/pdf/2103.16074.pdf)
-  - Xinke Li, Zhiru Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, and Joey Tianyi Zhou. arXiv, 2021.
-
 - Embedding and Synthesis of Knowledge in Tree Ensemble Classifiers.
   [[pdf]](https://arxiv.org/pdf/2010.08281.pdf)
   - Wei Huang, Xingyu Zhao, and Xiaowei Huang. arXiv, 2020.
@@ -810,6 +812,10 @@ Markdown format:
 - BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2010.03007.pdf)
   - Ahmed Salem, Yannick Sautter, Michael Backes, Mathias Humbert, and Yang Zhang. arXiv, 2020.
+
+- DeepObliviate: A Powerful Charm for Erasing Data Residual Memory in Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2105.06209.pdf)
+  - Yingzhe He, Guozhu Meng, Kai Chen, Jinwen He, and Xingbo Hu. arXiv, 2021.
 
 - Targeted Forgetting and False Memory Formation in Continual Learners through Adversarial Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2002.07111.pdf)
