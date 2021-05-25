@@ -805,6 +805,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
   - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
 
+- Backdoor Attacks on Self-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/2105.10123)
+  - Aniruddha Saha, Ajinkya Tejankar, Soroush Abbasi Koohpayegani, and Hamed Pirsiavash. arXiv, 2021.
+
 - Embedding and Synthesis of Knowledge in Tree Ensemble Classifiers.
   [[pdf]](https://arxiv.org/pdf/2010.08281.pdf)
   - Wei Huang, Xingyu Zhao, and Xiaowei Huang. arXiv, 2020.
