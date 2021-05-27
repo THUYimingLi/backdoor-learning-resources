@@ -567,6 +567,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
   - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
 
+- Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger.
+  [[pdf]](https://arxiv.org/pdf/2105.12400.pdf)
+  [[code]](https://github.com/thunlp/HiddenKiller)
+  - Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, and Maosong Sun. *ACL*, 2021.
+
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
