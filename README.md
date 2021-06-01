@@ -529,6 +529,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.15918.pdf)
   - Panagiota Kiourti, Wenchao Li, Anirban Roy, Karan Sikka, and Susmit Jha. arXiv, 2021.
 
+- Detecting Backdoor in Deep Neural Networks via Intentional Adversarial Perturbations.
+  [[pdf]](https://arxiv.org/pdf/2105.14259.pdf)
+  - Mingfu Xue, Yinghao Wu, Zhiyu Wu, Jian Wang, Yushu Zhang, and Weiqiang Liu. arXiv, 2021.
+
 - Exposing Backdoors in Robust Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2003.00865.pdf)
   - Ezekiel Soremekun, Sakshi Udeshi, and Sudipta Chattopadhyay. arXiv, 2020.
