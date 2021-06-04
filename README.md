@@ -594,6 +594,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- Defending against Backdoor Attacks in Natural Language Generation.
+  [[pdf]](https://arxiv.org/pdf/2106.01810.pdf)
+  [[code]](https://github.com/ShannonAI/backdoor_nlg)
+  - Chun Fan, Xiaoya Li, Yuxian Meng, Xiaofei Sun, Xiang Ao, Fei Wu, Jiwei Li, and Tianwei Zhang. arXiv, 2021.
+
 - Hidden Backdoors in Human-Centric Language Models.
   [[pdf]](https://arxiv.org/pdf/2105.00164.pdf)
   - Shaofeng Li, Hui Liu, Tian Dong, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu, and Jialiang Lu. arXiv, 2021.
