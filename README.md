@@ -880,6 +880,10 @@ Markdown format:
   [[code]](https://github.com/aks2203/poisoning-benchmark)
   - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P Dickerson, and Tom Goldstein. *NeurIPS Workshop*, 2020.
 
+- Backdoor Attacks in Neural Networks.
+  [[pdf]](https://repository.tudelft.nl/islandora/object/uuid:b830b4a2-b700-4c93-8d1d-88dc0191c468)
+  - Stefanos Koffas. *Master Thesis in Delft University of Technology*, 2021.
+
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.      
