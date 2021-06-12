@@ -46,9 +46,9 @@ Markdown format:
 - [Attack and Defense Towards Other Tasks and Paradigms](#attack-and-defense-towards-other-tasks-and-paradigms)  
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
+- [Dissertation and Thesis](#dissertation-and-thesis)
 - [Toolbox](#toolbox)
 - [Competition](#competition)
-- [Dissertation and Thesis](#dissertation-and-thesis)
 
 
 ## Related Survey
@@ -530,6 +530,14 @@ Markdown format:
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
 
+- A Unified Framework for Task-Driven Data Quality Management.
+  [[pdf]](https://arxiv.org/pdf/2106.05484.pdf)
+  - Tianhao Wang, Yi Zeng, Ming Jin, and Ruoxi Jia. arXiv, 2021.
+  
+- Provable Guarantees against Data Poisoning Using Self-Expansion and Compatibility.
+  [[pdf]](https://arxiv.org/pdf/2105.03692.pdf)
+  - Charles Jin, Melinda Sun, and Martin Rinard. arXiv, 2021.
+  
 - Online Defense of Trojaned Models using Misattributions.
   [[pdf]](https://arxiv.org/pdf/2103.15918.pdf)
   - Panagiota Kiourti, Wenchao Li, Anirban Roy, Karan Sikka, and Susmit Jha. arXiv, 2021.
