@@ -39,6 +39,7 @@ Markdown format:
 
 ## Table of Contents
 - [Related Survey](#related-survey)
+- [Dissertation and Thesis](#dissertation-and-thesis)
 - [Image and Video Classification](#image-and-video-classification) 
   - [Poisoning-based Attack](#poisoning-based-attack)
   - [Non-poisoning-based Attack](#non-poisoning-based-attack)
@@ -46,7 +47,6 @@ Markdown format:
 - [Attack and Defense Towards Other Tasks and Paradigms](#attack-and-defense-towards-other-tasks-and-paradigms)  
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
-- [Dissertation and Thesis](#dissertation-and-thesis)
 - [Toolbox](#toolbox)
 - [Competition](#competition)
 
@@ -71,6 +71,26 @@ Markdown format:
 - A Survey on Neural Trojans. 
   [[pdf]](https://eprint.iacr.org/2020/201.pdf)
   - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. *ISQED*, 2020.
+
+
+## Dissertation and Thesis
+- Backdoor Attacks in Neural Networks.
+  [[pdf]](https://repository.tudelft.nl/islandora/object/uuid:b830b4a2-b700-4c93-8d1d-88dc0191c468)
+  - Stefanos Koffas. *Master Thesis at Delft University of Technology*, 2021.
+
+- Geometric Properties of Backdoored Neural Networks.
+  [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-78.pdf)
+  - Dominic Carrano. *Master Thesis at University of California at Berkeley*, 2021.
+
+- Detecting Backdoored Neural Networks with Structured Adversarial Attacks.
+  [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-90.pdf)
+  - Charles Yang. *Master Thesis at University of California at Berkeley*, 2021.
+
+- Backdoor Attacks Against Deep Learning Systems in the Physical World.
+  [[pdf]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
+  - Emily Wenger. *Master Thesis at University of Chicago*, 2020.
+
+
 
 ## Image and Video Classification
 ### Poisoning-based Attack
@@ -952,22 +972,6 @@ Markdown format:
   [[code]](https://github.com/inspire-group/unlearning-verification)
   - David Marco Sommer, Liwei Song, Sameer Wagh, and Prateek Mittal. arXiv, 2020. 
 
-## Dissertation and Thesis
-- Backdoor Attacks in Neural Networks.
-  [[pdf]](https://repository.tudelft.nl/islandora/object/uuid:b830b4a2-b700-4c93-8d1d-88dc0191c468)
-  - Stefanos Koffas. *Master Thesis at Delft University of Technology*, 2021.
-
-- Geometric Properties of Backdoored Neural Networks.
-  [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-78.pdf)
-  - Dominic Carrano. *Master Thesis at University of California at Berkeley*, 2021.
-
-- Detecting Backdoored Neural Networks with Structured Adversarial Attacks.
-  [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-90.pdf)
-  - Charles Yang. *Master Thesis at University of California at Berkeley*, 2021.
-
-- Backdoor Attacks Against Deep Learning Systems in the Physical World.
-  [[pdf]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
-  - Emily Wenger. *Master Thesis at University of Chicago*, 2020.
  
 
 ## Toolbox
