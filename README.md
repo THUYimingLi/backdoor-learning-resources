@@ -604,6 +604,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
   - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
 
+- Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution.
+  [[pdf]](https://arxiv.org/pdf/2106.06361.pdf)
+  - Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, and Maosong Sun. *ACL*, 2021.
+
 - Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger.
   [[pdf]](https://arxiv.org/pdf/2105.12400.pdf)
   [[code]](https://github.com/thunlp/HiddenKiller)
