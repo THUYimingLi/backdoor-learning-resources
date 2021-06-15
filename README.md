@@ -94,7 +94,7 @@ Markdown format:
 #### 2021
 - Defense-Resistant Backdoor Attacks against Deep Neural Networks in Outsourced Cloud Environment.
   [[Link]](https://ieeexplore.ieee.org/abstract/document/9450029/authors#authors)
-  - Xueluan Gong, Yanjiao Chen, Qian Wang, Huayang Huang, Lingshuo Meng, Chao Shen and Qian Zhang. *IEEE Journal on Selected Areas in Communications*, 2021.
+  - Xueluan Gong, Yanjiao Chen, Qian Wang, Huayang Huang, Lingshuo Meng, Chao Shen, and Qian Zhang. *IEEE Journal on Selected Areas in Communications*, 2021.
 
 - Blind Backdoors in Deep Learning Models. 
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
