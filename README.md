@@ -74,9 +74,6 @@ Markdown format:
 
 
 ## Dissertation and Thesis
-- Backdoor Attacks in Neural Networks.
-  [[pdf]](https://repository.tudelft.nl/islandora/object/uuid:b830b4a2-b700-4c93-8d1d-88dc0191c468)
-  - Stefanos Koffas. *Master Thesis at Delft University of Technology*, 2021.
 
 - Geometric Properties of Backdoored Neural Networks.
   [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-78.pdf)
@@ -441,6 +438,10 @@ Markdown format:
 - Baseline Pruning-Based Approach to Trojan Detection in Neural Networks.
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/17.pdf)
   - Peter Bajcsy and Michael Majurski. *ICLR Workshop*, 2021.
+
+- Topological Detection of Trojaned Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2106.06469.pdf)
+  - Songzhu Zheng, Yikai Zhang, Hubert Wagner, Mayank Goswami, and Chao Chen. arXiv, 2021.
 
 - Black-box Detection of Backdoor Attacks with Limited Information and Data.
   [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
@@ -917,6 +918,9 @@ Markdown format:
   [[code]](https://github.com/aks2203/poisoning-benchmark)
   - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P Dickerson, and Tom Goldstein. *NeurIPS Workshop*, 2020.
 
+- Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions.
+  [[pdf]](https://arxiv.org/pdf/2106.07214.pdf)
+  - Antonio Emanuele Cinà, Kathrin Grosse, Sebastiano Vascon, Ambra Demontis, Battista Biggio, Fabio Roli, and Marcello Pelillo. arXiv, 2021.
 
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
