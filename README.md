@@ -402,6 +402,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
   - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. arXiv, 2021.
 
+- Detect and Remove Watermark in Deep Neural Networks via Generative Adversarial Networks.
+  [[pdf]](https://arxiv.org/pdf/2106.08104.pdf)
+  - Haoqi Wang, Mingfu Xue, Shichang Sun, Yushu Zhang, Jian Wang, and Weiqiang Liu. arXiv, 2021.
 
 - TAD: Trigger Approximation based Black-box Trojan Detection for AI.
   [[pdf]](https://arxiv.org/pdf/2102.01815.pdf)
@@ -710,6 +713,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9354927)
   - Yi Zhao, Ke Xu, Haiyang Wang, Bo Li, and Ruoxi Jia. *IEEE Network*, 2021.
 
+- CRFL: Certifiably Robust Federated Learning against Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2106.08283.pdf)
+  - Chulin Xie, Minghao Chen, Pin-Yu Chen, and Bo Li. *ICML*, 2021.
+
 - Curse or Redemption? How Data Heterogeneity Affects the Robustness of Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2102.00655.pdf)
   - Syed Zawad, Ahsan Ali, Pin-Yu Chen, Ali Anwar, Yi Zhou, Nathalie Baracaldo, Yuan Tian, and Feng Yan. *AAAI*, 2021.
@@ -840,6 +847,10 @@ Markdown format:
 - Hidden Backdoor Attack against Semantic Segmentation Models.
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
   - Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
+
+- Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks.
+  [[pdf]](https://arxiv.org/pdf/2106.07925.pdf)
+  - Byunggill Joe, Akshay Mehra, Insik Shin, and Jihun Hamm. *AAAI Workshop*, 2021.
 
 - Explainability Matters: Backdoor Attacks on Medical Imaging.
   [[pdf]](https://arxiv.org/pdf/2101.00008.pdf)
