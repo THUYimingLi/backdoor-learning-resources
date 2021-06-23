@@ -877,6 +877,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
   - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
 
+- Poisoning and Backdooring Contrastive Learning.
+  [[pdf]](https://arxiv.org/pdf/2106.09667.pdf)
+  - Nicholas Carlini and Andreas Terzis. arXiv, 2021.
+
 - Backdoor Attacks on Self-Supervised Learning.
   [[pdf]](https://arxiv.org/pdf/2105.10123)
   - Aniruddha Saha, Ajinkya Tejankar, Soroush Abbasi Koohpayegani, and Hamed Pirsiavash. arXiv, 2021.
@@ -990,6 +994,10 @@ Markdown format:
 - What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space.
   [[pdf]](https://arxiv.org/pdf/2101.06898.pdf)
   - Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li, and Yu-Gang Jiang. arXiv, 2021.
+
+- A Stealthy and Robust Fingerprinting Scheme for Generative Models.
+  [[pdf]](https://arxiv.org/pdf/2106.11760.pdf)
+  - Guanlin Li, Shangwei Guo, Run Wang, Guowen Xu, and Tianwei Zhang. arXiv, 2021.
 
 - What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
   [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
