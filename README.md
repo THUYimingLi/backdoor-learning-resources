@@ -840,6 +840,10 @@ Markdown format:
 
 
 ### Others
+- Backdoor Attack on Machine Learning Based Android Malware Detectors.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
+  - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
+
 - Backdoor Attack against Speaker Verification
   [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
   [[code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
