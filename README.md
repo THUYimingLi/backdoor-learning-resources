@@ -519,6 +519,10 @@ Markdown format:
 
 
 #### Sample Filtering based Empirical Defense
+- Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.
+  [[pdf]](https://arxiv.org/pdf/2104.03413.pdf)
+  - Yi Zeng, Won Park, Z. Morley Mao, and Ruoxi Jia. *ICCV*, 2021.
+
 - Demon in the Variant: Statistical Analysis of DNNs for Robust Backdoor Contamination Detection.
   [[pdf]](https://arxiv.org/pdf/1908.00686.pdf)
   [[code]](https://github.com/TDteach/backdoor)
