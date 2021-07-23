@@ -92,6 +92,10 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2021
+- Invisible Backdoor Attack with Sample-Specific Triggers.
+  [[pdf]](https://arxiv.org/abs/2012.03816)
+  - Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, and Siwei Lyu. *ICCV*, 2021.
+
 - Defense-Resistant Backdoor Attacks against Deep Neural Networks in Outsourced Cloud Environment.
   [[Link]](https://ieeexplore.ieee.org/abstract/document/9450029/authors#authors)
   - Xueluan Gong, Yanjiao Chen, Qian Wang, Huayang Huang, Lingshuo Meng, Chao Shen, and Qian Zhang. *IEEE Journal on Selected Areas in Communications*, 2021.
@@ -202,10 +206,6 @@ Markdown format:
 - Backdooring and Poisoning Neural Networks with Image-Scaling Attacks.
   [[pdf]](https://arxiv.org/pdf/2003.08633.pdf)
   - Erwin Quiring, and Konrad Rieck. *IEEE S&P Workshop*, 2020.
-
-- Backdoor Attack with Sample-Specific Triggers.
-  [[pdf]](https://arxiv.org/abs/2012.03816)
-  - Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, and Siwei Lyu. arXiv, 2020.
 
 - HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios.
   [[pdf]](https://arxiv.org/pdf/2012.07474.pdf)
@@ -643,6 +643,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- Spinning Sequence-to-Sequence Models with Meta-Backdoors.
+  [[pdf]](https://arxiv.org/pdf/2107.10443.pdf)
+  - Eugene Bagdasaryan and Vitaly Shmatikov. arXiv, 2021.
+
 - Defending against Backdoor Attacks in Natural Language Generation.
   [[pdf]](https://arxiv.org/pdf/2106.01810.pdf)
   [[code]](https://github.com/ShannonAI/backdoor_nlg)
@@ -918,6 +922,10 @@ Markdown format:
 
 
 ## Properties Discussion and Evaluation
+- Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.
+  [[pdf]](https://arxiv.org/pdf/2104.03413.pdf)
+  - Yi Zeng, Won Park, Z. Morley Mao, and Ruoxi Jia. *ICCV*, 2021.
+
 - Backdoor Attacks Against Deep Learning Systems in the Physical World.
   [[pdf]](https://arxiv.org/pdf/2006.14580.pdf)
   [[Master Thesis]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
@@ -958,9 +966,6 @@ Markdown format:
   [[code]](https://github.com/ain-soph/trojanzoo)
   - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. arXiv, 2020.
 
-- Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.
-  [[pdf]](https://arxiv.org/pdf/2104.03413.pdf)
-  - Yi Zeng, Won Park, Z. Morley Mao, and Ruoxi Jia. arXiv, 2021.
 
 - Poisoned Classifiers are Not Only Backdoored, They are Fundamentally Broken.
   [[pdf]](https://arxiv.org/pdf/2010.09080.pdf)
