@@ -833,6 +833,10 @@ Markdown format:
   - Zhengyan Zhang, Guangxuan Xiao, Yongwei Li, Tian Lv, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Xin Jiang, and Maosong Sun. arXiv, 2021.
 
 ### Point Cloud
+- PointBA: Towards Backdoor Attacks in 3D Point Cloud.
+  [[pdf]](https://arxiv.org/pdf/2103.16074.pdf)
+  - Xinke Li, Zhiru Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, and Joey Tianyi Zhou. *ICCV*, 2021.
+
 - Poisoning MorphNet for Clean-Label Backdoor Attack to Point Clouds.
   [[pdf]](https://arxiv.org/pdf/2105.04839.pdf)
   - Guiyu Tian, Wenhao Jiang, Wei Liu, and Yadong Mu. arXiv, 2021.
@@ -841,24 +845,30 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.05808.pdf)
   - Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, and George Kesidis. arXiv, 2021.
 
-- PointBA: Towards Backdoor Attacks in 3D Point Cloud.
-  [[pdf]](https://arxiv.org/pdf/2103.16074.pdf)
-  - Xinke Li, Zhiru Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, and Joey Tianyi Zhou. arXiv, 2021.
-
-
-### Others
+### Malware Detection
 - Backdoor Attack on Machine Learning Based Android Malware Detectors.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
   - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
 
+- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
+  [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
+  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
+
+### Self-Supervised Learning
+- Poisoning and Backdooring Contrastive Learning.
+  [[pdf]](https://arxiv.org/pdf/2106.09667.pdf)
+  - Nicholas Carlini and Andreas Terzis. arXiv, 2021.
+
+- Backdoor Attacks on Self-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/2105.10123)
+  - Aniruddha Saha, Ajinkya Tejankar, Soroush Abbasi Koohpayegani, and Hamed Pirsiavash. arXiv, 2021.
+
+
+### Others
 - Backdoor Attack against Speaker Verification
   [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
   [[code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
   - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2021.
- 
-- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
-  [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
-  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
  
 - Hidden Backdoor Attack against Semantic Segmentation Models.
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
@@ -887,14 +897,6 @@ Markdown format:
 - Stealthy Backdoors as Compression Artifacts.
   [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
   - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
-
-- Poisoning and Backdooring Contrastive Learning.
-  [[pdf]](https://arxiv.org/pdf/2106.09667.pdf)
-  - Nicholas Carlini and Andreas Terzis. arXiv, 2021.
-
-- Backdoor Attacks on Self-Supervised Learning.
-  [[pdf]](https://arxiv.org/pdf/2105.10123)
-  - Aniruddha Saha, Ajinkya Tejankar, Soroush Abbasi Koohpayegani, and Hamed Pirsiavash. arXiv, 2021.
 
 - Embedding and Synthesis of Knowledge in Tree Ensemble Classifiers.
   [[pdf]](https://arxiv.org/pdf/2010.08281.pdf)
