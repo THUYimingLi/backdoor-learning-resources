@@ -36,8 +36,6 @@ Markdown format:
   - Author 1, Author 2, and Author 3. *Conference/Journal*, Year.
 ```
 
-[TOC]
-
 
 ## Table of Contents
 - [Related Survey](#related-survey)
