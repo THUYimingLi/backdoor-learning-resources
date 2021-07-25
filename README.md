@@ -49,6 +49,8 @@ Markdown format:
     - [Trigger Synthesis based Empirical Defense](#trigger-synthesis-based-empirical-defense)
     - [Model Diagnosis based Empirical Defense](#model-diagnosis-based-empirical-defense)
     - [Poison Suppression based Empirical Defense](#poison-suppression-based-empirical-defense)
+    - [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense)
+    - [Certificated Defense](#certificated-defense)
 - [Attack and Defense Towards Other Tasks and Paradigms](#attack-and-defense-towards-other-tasks-and-paradigms)  
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
