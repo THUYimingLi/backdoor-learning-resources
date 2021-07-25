@@ -51,7 +51,9 @@ Markdown format:
     - [Poison Suppression based Empirical Defense](#poison-suppression-based-empirical-defense)
     - [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense)
     - [Certificated Defense](#certificated-defense)
-- [Attack and Defense Towards Other Tasks and Paradigms](#attack-and-defense-towards-other-tasks-and-paradigms)  
+- [Attack and Defense Towards Other Tasks and Paradigms](#attack-and-defense-towards-other-tasks-and-paradigms) 
+  - [Natural Language Processing](#natural-language-processing)
+  - [Collaborative Learning](#collaborative-learning) 
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
 - [Toolbox](#toolbox)
@@ -687,42 +689,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
   - Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv, 2020.
   
-### Graph Neural Networks
-- Graph Backdoor.
-  [[pdf]](https://arxiv.org/pdf/2006.11890.pdf)
-  - Zhaohan Xi, Ren Pang, Shouling Ji, and Ting Wang. *USENIX Security*, 2021.
-  
-- Backdoor Attacks to Graph Neural Networks. 
-  [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
-  - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *NeurIPS Workshop*, 2020.  
 
-- Explainability-based Backdoor Attacks Against Graph Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2104.03674.pdf)
-  - Jing Xu, Minhui, Xue, and Stjepan Picek. arXiv, 2021.
-
-### Reinforcement Learning
-- BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning.
-  [[pdf]](https://arxiv.org/pdf/2105.00579.pdf)
-  - Lun Wang, Zaynah Javed, Xian Wu, Wenbo Guo, Xinyu Xing, and Dawn Song. *IJCAI*, 2021.
-
-- TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning.
-  [[pdf]](https://arxiv.org/pdf/1903.06638.pdf)
-  - Panagiota Kiourti, Kacper Wardega, Susmit Jha, and Wenchao Li. *DAC*, 2020.
-
-- Poisoning Deep Reinforcement Learning Agents with In-Distribution Triggers.
-  [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/11.pdf) 
-  - Chace Ashcraft and Kiran Karra. *ICLR Workshop*, 2021.
-
-- Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-based Traffic Congestion Control Systems.
-  [[pdf]](https://arxiv.org/pdf/2003.07859.pdf)
-  - Yue Wang, Esha Sarkar, Michail Maniatakos, and Saif Eddin Jabari. arXiv, 2020.
-
-  
-- Design of Intentional Backdoors in Sequential Models.
-  [[pdf]](https://arxiv.org/pdf/1902.09972.pdf)
-  - Zhaoyuan Yang, Naresh Iyer, Johan Reimann, and Nurali Virani. arXiv, 2019.
-  
-  
 ### Collaborative Learning
 - How to Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
@@ -820,24 +787,18 @@ Markdown format:
   [[code]](https://github.com/fushuhao6/Attack-Resistant-Federated-Learning)
   - Shuhao Fu, Chulin Xie, Bo Li, and Qifeng Chen. arXiv, 2019.
   
-### Transfer Learning
-- Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
-  [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
-  - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, and Tianle Chen. *IEEE Transactions on Services Computing*, 2020.
-
-- Weight Poisoning Attacks on Pre-trained Models.
-  [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
-  [[code]](https://github.com/neulab/RIPPLe)
-  - Keita Kurita, Paul Michel, and Graham Neubig. *ACL*, 2020.
-
-- Latent Backdoor Attacks on Deep Neural Networks.
-  [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
-  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
+### Graph Neural Networks
+- Graph Backdoor.
+  [[pdf]](https://arxiv.org/pdf/2006.11890.pdf)
+  - Zhaohan Xi, Ren Pang, Shouling Ji, and Ting Wang. *USENIX Security*, 2021.
   
-- Red Alarm for Pre-trained Models: Universal Vulnerabilities by Neuron-Level Backdoor Attacks.
-  [[pdf]](https://arxiv.org/pdf/2101.06969.pdf)
-  [[code]](https://github.com/thunlp/NeuBA)
-  - Zhengyan Zhang, Guangxuan Xiao, Yongwei Li, Tian Lv, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Xin Jiang, and Maosong Sun. arXiv, 2021.
+- Backdoor Attacks to Graph Neural Networks. 
+  [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
+  - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *NeurIPS Workshop*, 2020.  
+
+- Explainability-based Backdoor Attacks Against Graph Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2104.03674.pdf)
+  - Jing Xu, Minhui, Xue, and Stjepan Picek. arXiv, 2021.
 
 ### Point Cloud
 - PointBA: Towards Backdoor Attacks in 3D Point Cloud.
@@ -860,6 +821,47 @@ Markdown format:
 - Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
   - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
+
+### Transfer Learning
+- Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
+  - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, and Tianle Chen. *IEEE Transactions on Services Computing*, 2020.
+
+- Weight Poisoning Attacks on Pre-trained Models.
+  [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
+  [[code]](https://github.com/neulab/RIPPLe)
+  - Keita Kurita, Paul Michel, and Graham Neubig. *ACL*, 2020.
+
+- Latent Backdoor Attacks on Deep Neural Networks.
+  [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
+  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
+  
+- Red Alarm for Pre-trained Models: Universal Vulnerabilities by Neuron-Level Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2101.06969.pdf)
+  [[code]](https://github.com/thunlp/NeuBA)
+  - Zhengyan Zhang, Guangxuan Xiao, Yongwei Li, Tian Lv, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Xin Jiang, and Maosong Sun. arXiv, 2021.
+
+### Reinforcement Learning
+- BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning.
+  [[pdf]](https://arxiv.org/pdf/2105.00579.pdf)
+  - Lun Wang, Zaynah Javed, Xian Wu, Wenbo Guo, Xinyu Xing, and Dawn Song. *IJCAI*, 2021.
+
+- TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning.
+  [[pdf]](https://arxiv.org/pdf/1903.06638.pdf)
+  - Panagiota Kiourti, Kacper Wardega, Susmit Jha, and Wenchao Li. *DAC*, 2020.
+
+- Poisoning Deep Reinforcement Learning Agents with In-Distribution Triggers.
+  [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/11.pdf) 
+  - Chace Ashcraft and Kiran Karra. *ICLR Workshop*, 2021.
+
+- Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-based Traffic Congestion Control Systems.
+  [[pdf]](https://arxiv.org/pdf/2003.07859.pdf)
+  - Yue Wang, Esha Sarkar, Michail Maniatakos, and Saif Eddin Jabari. arXiv, 2020.
+  
+- Design of Intentional Backdoors in Sequential Models.
+  [[pdf]](https://arxiv.org/pdf/1902.09972.pdf)
+  - Zhaoyuan Yang, Naresh Iyer, Johan Reimann, and Nurali Virani. arXiv, 2019.
+
 
 ### Self-Supervised Learning
 - Poisoning and Backdooring Contrastive Learning.
@@ -896,10 +898,6 @@ Markdown format:
 - Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
-
-- NeuroAttack: Undermining Spiking Neural Networks Security through Externally Triggered Bit-Flips.
-  [[pdf]](https://arxiv.org/pdf/2005.08041.pdf)
-  - Valerio Venceslai, Alberto Marchisio, Ihsen Alouani, Maurizio Martina, and Muhammad Shafique. *IJCNN*, 2020.
 
 - Stealthy Backdoors as Compression Artifacts.
   [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
