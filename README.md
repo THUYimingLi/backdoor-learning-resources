@@ -1,7 +1,6 @@
 # Backdoor Learning Resources
+This Github repository summarizes a curated list of **Backdoor Learning** resources. For more details and the categorization criteria, please refer to our [survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey).
 
-
-A curated list of **Backdoor Learning** resources. For more details and the categorization criteria, please refer to our [survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey).
 
 #### Why Backdoor Learning?
 Backdoor learning is an emerging research area, which discusses the security issues of the training process towards machine learning algorithms. It is critical for safely adopting third-party algorithms in reality.  Although backdoor learning shares certain similarity with adversarial learning (which concentrates on the security issues of the inference process), they do have essential differences and can be easily distinguished.
