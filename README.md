@@ -38,7 +38,7 @@ Markdown format:
 
 
 ## Table of Contents
-- [Related Survey](#related-survey)
+- [Survey](#survey)
 - [Dissertation and Thesis](#dissertation-and-thesis)
 - [Image and Video Classification](#image-and-video-classification) 
   - [Poisoning-based Attack](#poisoning-based-attack)
@@ -53,14 +53,19 @@ Markdown format:
     - [Certificated Defense](#certificated-defense)
 - [Attack and Defense Towards Other Tasks and Paradigms](#attack-and-defense-towards-other-tasks-and-paradigms) 
   - [Natural Language Processing](#natural-language-processing)
-  - [Collaborative Learning](#collaborative-learning) 
+  - [Collaborative Learning](#collaborative-learning)
+  - [Graph Neural Networks](#graph-neural-networks)
+  - [Point Cloud](#point-cloud)
+  - [Malware Detection](#malware-detection)
+  - [Transfer Learning](#transfer-learning) 
+  - [Reinforcement Learning](#reinforcement-learning)
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
 - [Toolbox](#toolbox)
 - [Competition](#competition)
 
 
-## Related Survey
+## Survey
 - Backdoor Learning: A Survey.
   [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
   - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
