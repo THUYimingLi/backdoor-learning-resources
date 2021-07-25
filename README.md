@@ -59,7 +59,6 @@ Markdown format:
   - [Natural Language Processing](#natural-language-processing)
   - [Graph Neural Networks](#graph-neural-networks)
   - [Point Cloud](#point-cloud)
-  - [Malware Detection](#malware-detection)
   - [Others](#others)
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
@@ -871,7 +870,14 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.05808.pdf)
   - Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, and George Kesidis. arXiv, 2021.
 
-### Malware Detection
+
+
+### Others
+- Backdoor Attack against Speaker Verification
+  [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
+  [[code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
+  - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2021.
+
 - Backdoor Attack on Machine Learning Based Android Malware Detectors.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
   - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
@@ -880,13 +886,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
   - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
 
-
-### Others
-- Backdoor Attack against Speaker Verification
-  [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
-  [[code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
-  - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2021.
- 
 - Hidden Backdoor Attack against Semantic Segmentation Models.
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
   - Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
@@ -906,14 +905,6 @@ Markdown format:
 - Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
-
-- Stealthy Backdoors as Compression Artifacts.
-  [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
-  - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
-
-- Embedding and Synthesis of Knowledge in Tree Ensemble Classifiers.
-  [[pdf]](https://arxiv.org/pdf/2010.08281.pdf)
-  - Wei Huang, Xingyu Zhao, and Xiaowei Huang. arXiv, 2020.
 
 - BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2010.03007.pdf)
