@@ -51,14 +51,16 @@ Markdown format:
     - [Poison Suppression based Empirical Defense](#poison-suppression-based-empirical-defense)
     - [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense)
     - [Certificated Defense](#certificated-defense)
-- [Attack and Defense Towards Other Tasks and Paradigms](#attack-and-defense-towards-other-tasks-and-paradigms) 
-  - [Natural Language Processing](#natural-language-processing)
+- [Attack and Defense Towards Other Paradigms and Tasks](#attack-and-defense-towards-other-paradigms-and-tasks) 
   - [Collaborative Learning](#collaborative-learning)
+  - [Transfer Learning](#transfer-learning) 
+  - [Reinforcement Learning](#reinforcement-learning)
+  - [Self-Supervised Learning](#self-supervised-learning)
+  - [Natural Language Processing](#natural-language-processing)
   - [Graph Neural Networks](#graph-neural-networks)
   - [Point Cloud](#point-cloud)
   - [Malware Detection](#malware-detection)
-  - [Transfer Learning](#transfer-learning) 
-  - [Reinforcement Learning](#reinforcement-learning)
+  - [Others](#others)
 - [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
 - [Toolbox](#toolbox)
@@ -628,7 +630,7 @@ Markdown format:
 
 
 
-## Attack and Defense Towards Other Tasks and Paradigms
+## Attack and Defense Towards Other Paradigms and Tasks
 ### Natural Language Processing 
 - T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
