@@ -371,6 +371,10 @@ Markdown format:
   [[pdf]](http://arxiv.org/pdf/1908.10498)
   - Z Xiang, DJ Miller, and G Kesidis. *IEEE Transactions on Neural Networks and Learning Systems*, 2020.
 
+- Black-box Detection of Backdoor Attacks with Limited Information and Data.
+  [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
+  - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. *ICCV*, 2021.
+
 - Towards Inspecting and Eliminating Trojan Backdoors in Deep Neural Networks.
   [[pdf]](http://www.personal.psu.edu/wzg13/publications/icdm20.pdf)
   [[previous version]](https://arxiv.org/pdf/1908.01763.pdf)
@@ -402,10 +406,6 @@ Markdown format:
 - Revealing Perceptible Backdoors in DNNs Without the Training Set via the Maximum Achievable Misclassification Fraction Statistic.
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
   - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
-
-- Black-box Detection of Backdoor Attacks with Limited Information and Data.
-  [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
-  - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. arXiv, 2021.
 
 - Detect and Remove Watermark in Deep Neural Networks via Generative Adversarial Networks.
   [[pdf]](https://arxiv.org/pdf/2106.08104.pdf)
