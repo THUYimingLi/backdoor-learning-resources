@@ -631,72 +631,6 @@ Markdown format:
 
 
 ## Attack and Defense Towards Other Paradigms and Tasks
-### Natural Language Processing 
-- T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
-  [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
-  - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
-
-- Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution.
-  [[pdf]](https://arxiv.org/pdf/2106.06361.pdf)
-  - Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, and Maosong Sun. *ACL*, 2021.
-
-- Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger.
-  [[pdf]](https://arxiv.org/pdf/2105.12400.pdf)
-  [[code]](https://github.com/thunlp/HiddenKiller)
-  - Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, and Maosong Sun. *ACL*, 2021.
-
-- Weight Poisoning Attacks on Pre-trained Models.
-  [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
-  [[code]](https://github.com/neulab/RIPPLe)
-  - Keita Kurita, Paul Michel, and Graham Neubig. *ACL*, 2020.
-
-- Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models.
-  [[pdf]](https://arxiv.org/pdf/2103.15543.pdf)
-  [[code]](https://github.com/lancopku/Embedding-Poisoning)
-  - Wenkai Yang, Lei Li, Zhiyuan Zhang, Xuancheng Ren, Xu Sun, and Bin He. *NAACL-HLT*, 2021.
-
-- A Backdoor Attack Against LSTM-based Text Classification Systems.
-  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
-  - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access*, 2019.
-
-- Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
-  [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
-  - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
-
-- Spinning Sequence-to-Sequence Models with Meta-Backdoors.
-  [[pdf]](https://arxiv.org/pdf/2107.10443.pdf)
-  - Eugene Bagdasaryan and Vitaly Shmatikov. arXiv, 2021.
-
-- Defending against Backdoor Attacks in Natural Language Generation.
-  [[pdf]](https://arxiv.org/pdf/2106.01810.pdf)
-  [[code]](https://github.com/ShannonAI/backdoor_nlg)
-  - Chun Fan, Xiaoya Li, Yuxian Meng, Xiaofei Sun, Xiang Ao, Fei Wu, Jiwei Li, and Tianwei Zhang. arXiv, 2021.
-
-- Hidden Backdoors in Human-Centric Language Models.
-  [[pdf]](https://arxiv.org/pdf/2105.00164.pdf)
-  - Shaofeng Li, Hui Liu, Tian Dong, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu, and Jialiang Lu. arXiv, 2021.
-
-- Detecting Universal Trigger’s Adversarial Attack with Honeypot.
-  [[pdf]](https://arxiv.org/abs/2011.10492)
-  - Thai Le, Noseong Park, Dongwon Lee. arXiv, 2020.  
-
-- ONION: A Simple and Effective Defense Against Textual Backdoor Attacks.
-  [[pdf]](https://arxiv.org/pdf/2011.10369.pdf)
-  - Fanchao Qi, Yangyi Chen, Mukai Li, Zhiyuan Liu, and Maosong Sun. arXiv, 2020.
-
-- Mitigating Backdoor Attacks in LSTM-based Text Classification Systems by Backdoor Keyword Identification.
-  [[pdf]](https://arxiv.org/pdf/2007.12070.pdf)
-  - Chuanshuai Chen, and Jiazhu Dai. arXiv, 2020.
-
-- Trojaning Language Models for Fun and Profit.
-  [[pdf]](https://arxiv.org/pdf/2008.00312.pdf)
-  - Xinyang Zhang, Zheng Zhang, and Ting Wang. arXiv, 2020.
-
-- BadNL: Backdoor Attacks Against NLP Models.
-  [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
-  - Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv, 2020.
-  
-
 ### Collaborative Learning
 - How to Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
@@ -793,41 +727,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1912.11464.pdf)
   [[code]](https://github.com/fushuhao6/Attack-Resistant-Federated-Learning)
   - Shuhao Fu, Chulin Xie, Bo Li, and Qifeng Chen. arXiv, 2019.
-  
-### Graph Neural Networks
-- Graph Backdoor.
-  [[pdf]](https://arxiv.org/pdf/2006.11890.pdf)
-  - Zhaohan Xi, Ren Pang, Shouling Ji, and Ting Wang. *USENIX Security*, 2021.
-  
-- Backdoor Attacks to Graph Neural Networks. 
-  [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
-  - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *NeurIPS Workshop*, 2020.  
 
-- Explainability-based Backdoor Attacks Against Graph Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2104.03674.pdf)
-  - Jing Xu, Minhui, Xue, and Stjepan Picek. arXiv, 2021.
-
-### Point Cloud
-- PointBA: Towards Backdoor Attacks in 3D Point Cloud.
-  [[pdf]](https://arxiv.org/pdf/2103.16074.pdf)
-  - Xinke Li, Zhiru Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, and Joey Tianyi Zhou. *ICCV*, 2021.
-
-- Poisoning MorphNet for Clean-Label Backdoor Attack to Point Clouds.
-  [[pdf]](https://arxiv.org/pdf/2105.04839.pdf)
-  - Guiyu Tian, Wenhao Jiang, Wei Liu, and Yadong Mu. arXiv, 2021.
-
-- A Backdoor Attack against 3D Point Cloud Classifiers. 
-  [[pdf]](https://arxiv.org/pdf/2104.05808.pdf)
-  - Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, and George Kesidis. arXiv, 2021.
-
-### Malware Detection
-- Backdoor Attack on Machine Learning Based Android Malware Detectors.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
-  - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
-
-- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
-  [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
-  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
 
 ### Transfer Learning
 - Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
@@ -878,6 +778,107 @@ Markdown format:
 - Backdoor Attacks on Self-Supervised Learning.
   [[pdf]](https://arxiv.org/pdf/2105.10123)
   - Aniruddha Saha, Ajinkya Tejankar, Soroush Abbasi Koohpayegani, and Hamed Pirsiavash. arXiv, 2021.
+
+
+### Natural Language Processing 
+- T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
+  [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
+  - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
+
+- Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution.
+  [[pdf]](https://arxiv.org/pdf/2106.06361.pdf)
+  - Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, and Maosong Sun. *ACL*, 2021.
+
+- Hidden Killer: Invisible Textual Backdoor Attacks with Syntactic Trigger.
+  [[pdf]](https://arxiv.org/pdf/2105.12400.pdf)
+  [[code]](https://github.com/thunlp/HiddenKiller)
+  - Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, and Maosong Sun. *ACL*, 2021.
+
+- Weight Poisoning Attacks on Pre-trained Models.
+  [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
+  [[code]](https://github.com/neulab/RIPPLe)
+  - Keita Kurita, Paul Michel, and Graham Neubig. *ACL*, 2020.
+
+- Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models.
+  [[pdf]](https://arxiv.org/pdf/2103.15543.pdf)
+  [[code]](https://github.com/lancopku/Embedding-Poisoning)
+  - Wenkai Yang, Lei Li, Zhiyuan Zhang, Xuancheng Ren, Xu Sun, and Bin He. *NAACL-HLT*, 2021.
+
+- A Backdoor Attack Against LSTM-based Text Classification Systems.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
+  - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access*, 2019.
+
+- Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
+  [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
+  - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
+
+- Spinning Sequence-to-Sequence Models with Meta-Backdoors.
+  [[pdf]](https://arxiv.org/pdf/2107.10443.pdf)
+  - Eugene Bagdasaryan and Vitaly Shmatikov. arXiv, 2021.
+
+- Defending against Backdoor Attacks in Natural Language Generation.
+  [[pdf]](https://arxiv.org/pdf/2106.01810.pdf)
+  [[code]](https://github.com/ShannonAI/backdoor_nlg)
+  - Chun Fan, Xiaoya Li, Yuxian Meng, Xiaofei Sun, Xiang Ao, Fei Wu, Jiwei Li, and Tianwei Zhang. arXiv, 2021.
+
+- Hidden Backdoors in Human-Centric Language Models.
+  [[pdf]](https://arxiv.org/pdf/2105.00164.pdf)
+  - Shaofeng Li, Hui Liu, Tian Dong, Benjamin Zi Hao Zhao, Minhui Xue, Haojin Zhu, and Jialiang Lu. arXiv, 2021.
+
+- Detecting Universal Trigger’s Adversarial Attack with Honeypot.
+  [[pdf]](https://arxiv.org/abs/2011.10492)
+  - Thai Le, Noseong Park, Dongwon Lee. arXiv, 2020.  
+
+- ONION: A Simple and Effective Defense Against Textual Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2011.10369.pdf)
+  - Fanchao Qi, Yangyi Chen, Mukai Li, Zhiyuan Liu, and Maosong Sun. arXiv, 2020.
+
+- Mitigating Backdoor Attacks in LSTM-based Text Classification Systems by Backdoor Keyword Identification.
+  [[pdf]](https://arxiv.org/pdf/2007.12070.pdf)
+  - Chuanshuai Chen, and Jiazhu Dai. arXiv, 2020.
+
+- Trojaning Language Models for Fun and Profit.
+  [[pdf]](https://arxiv.org/pdf/2008.00312.pdf)
+  - Xinyang Zhang, Zheng Zhang, and Ting Wang. arXiv, 2020.
+
+- BadNL: Backdoor Attacks Against NLP Models.
+  [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
+  - Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv, 2020.
+
+### Graph Neural Networks
+- Graph Backdoor.
+  [[pdf]](https://arxiv.org/pdf/2006.11890.pdf)
+  - Zhaohan Xi, Ren Pang, Shouling Ji, and Ting Wang. *USENIX Security*, 2021.
+  
+- Backdoor Attacks to Graph Neural Networks. 
+  [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
+  - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *NeurIPS Workshop*, 2020.  
+
+- Explainability-based Backdoor Attacks Against Graph Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2104.03674.pdf)
+  - Jing Xu, Minhui, Xue, and Stjepan Picek. arXiv, 2021.
+
+### Point Cloud
+- PointBA: Towards Backdoor Attacks in 3D Point Cloud.
+  [[pdf]](https://arxiv.org/pdf/2103.16074.pdf)
+  - Xinke Li, Zhiru Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, and Joey Tianyi Zhou. *ICCV*, 2021.
+
+- Poisoning MorphNet for Clean-Label Backdoor Attack to Point Clouds.
+  [[pdf]](https://arxiv.org/pdf/2105.04839.pdf)
+  - Guiyu Tian, Wenhao Jiang, Wei Liu, and Yadong Mu. arXiv, 2021.
+
+- A Backdoor Attack against 3D Point Cloud Classifiers. 
+  [[pdf]](https://arxiv.org/pdf/2104.05808.pdf)
+  - Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, and George Kesidis. arXiv, 2021.
+
+### Malware Detection
+- Backdoor Attack on Machine Learning Based Android Malware Detectors.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
+  - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
+
+- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
+  [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
+  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
 
 
 ### Others
