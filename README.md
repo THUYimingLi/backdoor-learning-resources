@@ -59,7 +59,7 @@ Markdown format:
   - [Graph Neural Networks](#graph-neural-networks)
   - [Point Cloud](#point-cloud)
   - [Others](#others)
-- [Properties Discussion and Evaluation](#properties-discussion-and-evaluation)
+- [Discussion and Evaluation](#discussion-and-evaluation)
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
 - [Toolbox](#toolbox)
 - [Competition](#competition)
@@ -930,7 +930,7 @@ Markdown format:
   - Kang Liu, Benjamin Tan, Gaurav Rajavendra Reddy, Siddharth Garg, Yiorgos Makris, and Ramesh Karri. arXiv, 2020.
 
 
-## Properties Discussion and Evaluation
+## Discussion and Evaluation
 - Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.
   [[pdf]](https://arxiv.org/pdf/2104.03413.pdf)
   - Yi Zeng, Won Park, Z. Morley Mao, and Ruoxi Jia. *ICCV*, 2021.
