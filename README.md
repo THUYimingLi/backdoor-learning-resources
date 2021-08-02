@@ -58,6 +58,7 @@ Markdown format:
   - [Natural Language Processing](#natural-language-processing)
   - [Graph Neural Networks](#graph-neural-networks)
   - [Point Cloud](#point-cloud)
+  - [Acoustics Signal Processing](#acoustics-signal-processing)
   - [Others](#others)
 - [Discussion and Evaluation](#discussion-and-evaluation)
 - [Backdoor Attack for Good](#backdoor-attack-for-good)
@@ -768,7 +769,7 @@ Markdown format:
   - Zhaoyuan Yang, Naresh Iyer, Johan Reimann, and Nurali Virani. arXiv, 2019.
 
 
-### Self-Supervised Learning
+### Self-Supervised Learning  
 - Poisoning and Backdooring Contrastive Learning.
   [[pdf]](https://arxiv.org/pdf/2106.09667.pdf)
   - Nicholas Carlini and Andreas Terzis. arXiv, 2021.
@@ -869,13 +870,18 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2105.04839.pdf)
   - Guiyu Tian, Wenhao Jiang, Wei Liu, and Yadong Mu. arXiv, 2021.
 
-
-### Others
+### Acoustics Signal Processing
 - Backdoor Attack against Speaker Verification
   [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
   [[code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
   - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2021.
 
+- Can You Hear It? Backdoor Attacks via Ultrasonic Triggers.
+  [[pdf]](https://arxiv.org/pdf/2107.14569.pdf)
+  - Stefanos Koffas, Jing Xu, Mauro Conti, and Stjepan Picek. arXiv, 2021.
+
+
+### Others
 - Backdoor Attack on Machine Learning Based Android Malware Detectors.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
   - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
