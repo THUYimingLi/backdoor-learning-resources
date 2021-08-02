@@ -784,6 +784,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
   - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
 
+- Rethinking Stealthiness of Backdoor Attack against NLP Models.
+  [[pdf]](https://aclanthology.org/2021.acl-long.431.pdf)
+  [[code]](https://github.com/lancopku/SOS)
+  - Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou, and Xu Sun. *ACL*, 2021.
+
 - Turn the Combination Lock: Learnable Textual Backdoor Attacks via Word Substitution.
   [[pdf]](https://arxiv.org/pdf/2106.06361.pdf)
   - Fanchao Qi, Yuan Yao, Sophia Xu, Zhiyuan Liu, and Maosong Sun. *ACL*, 2021.
