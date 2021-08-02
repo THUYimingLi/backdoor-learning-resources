@@ -61,7 +61,7 @@ Markdown format:
   - [Acoustics Signal Processing](#acoustics-signal-processing)
   - [Others](#others)
 - [Discussion and Evaluation](#discussion-and-evaluation)
-- [Backdoor Attack for Good](#backdoor-attack-for-good)
+- [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes)
 - [Toolbox](#toolbox)
 - [Competition](#competition)
 
@@ -999,7 +999,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.00123.pdf)
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv, 2020.
 
-## Backdoor Attack for Good
+## Backdoor Attack for Positive Purposes
 - Open-sourced Dataset Protection via Backdoor Watermarking.
   [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
   - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *NeurIPS Workshop*, 2020.
