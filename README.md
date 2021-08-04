@@ -920,6 +920,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
 
+- The Devil is in the GAN: Defending Deep Generative Models Against Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2108.01644.pdf)
+  - Ambrish Rawat, Killian Levacher, and Mathieu Sinn. arXiv, 2021.
+
 - BAAAN: Backdoor Attacks Against Autoencoder and GAN-Based Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2010.03007.pdf)
   - Ahmed Salem, Yannick Sautter, Michael Backes, Mathias Humbert, and Yang Zhang. arXiv, 2020.
