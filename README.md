@@ -390,15 +390,16 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
   - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. *ICCV*, 2021.
 
+- Backdoor Scanning for Deep Neural Networks through K-Arm Optimization.
+  [[pdf]](https://arxiv.org/pdf/2102.05123.pdf)
+  [[code]](https://github.com/PurduePAML/K-ARM_Backdoor_Optimization)
+  - Guangyu Shen, Yingqi Liu, Guanhong Tao, Shengwei An, Qiuling Xu, Siyuan Cheng, Shiqing Ma, and Xiangyu Zhang. *ICML*, 2021.
+
 - Towards Inspecting and Eliminating Trojan Backdoors in Deep Neural Networks.
   [[pdf]](http://www.personal.psu.edu/wzg13/publications/icdm20.pdf)
   [[previous version]](https://arxiv.org/pdf/1908.01763.pdf)
   [[code]](https://github.com/UsmannK/TABOR)
   - Wenbo Guo, Lun Wang, Xinyu Xing, Min Du, and Dawn Song. *ICDM*, 2020.
-
-- Backdoor Scanning for Deep Neural Networks through K-Arm Optimization.
-  [[pdf]](https://arxiv.org/pdf/2102.05123.pdf)
-  - Guangyu Shen, Yingqi Liu, Guanhong Tao, Shengwei An, Qiuling Xu, Siyuan Cheng, Shiqing Ma, and Xiangyu Zhang. *ICML*, 2021.
 
 - GangSweep: Sweep out Neural Backdoors by GAN.
   [[pdf]](https://www.lions.odu.edu/~h1wu/paper/gangsweep.pdf)
