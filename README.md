@@ -150,6 +150,10 @@ Markdown format:
   [[pdf]](https://www.lions.odu.edu/~h1wu/paper/infocom21.pdf)
   - Rui Ning, Jiang Li, ChunSheng Xin, and Hongyi Wu. *INFOCOM*, 2021.
 
+- Poison Ink: Robust and Invisible Backdoor Attack.
+  [[pdf]](https://arxiv.org/pdf/2108.02488.pdf)
+  - Jie zhang, Dongdong Chen, Jing Liao, Qidong Huang, Gang Hua, Weiming Zhang, and Nenghai Yu. arXiv, 2021.
+
 - Sleeper Agent: Scalable Hidden Trigger Backdoors for Neural Networks Trained from Scratch.
   [[pdf]](https://arxiv.org/pdf/2106.08970.pdf)
   [[code]](https://github.com/hsouri/Sleeper-Agent)
