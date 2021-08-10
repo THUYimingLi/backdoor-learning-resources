@@ -550,6 +550,7 @@ Markdown format:
 
 - SPECTRE: Defending Against Backdoor Attacks Using Robust Statistics.
   [[pdf]](https://arxiv.org/pdf/2104.11315.pdf)
+  [[code]](https://github.com/SewoongLab/spectre-defense)
   - Jonathan Hayase, Weihao Kong, Raghav Somani, and Sewoong Oh. *ICML*, 2021.
 
 - CLEANN: Accelerated Trojan Shield for Embedded Neural Networks.
