@@ -791,6 +791,11 @@ Markdown format:
 
 
 ### Natural Language Processing 
+- Text Backdoor Detection Using An Interpretable RNN Abstract Model.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9508422)
+  - Ming Fan, Ziliang Si, Xiaofei Xie, Yang Liu, and Ting Liu. IEEE Transactions on Information Forensics and Security, 2021.
+  
+
 - T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
   - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
