@@ -869,6 +869,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
   - Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv, 2020.
 
+- BDDR: An Effective Defense Against Textual Backdoor Attacks.
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0167404821002571)
+  - Kun Shao, Junan Yang, Yang Ai, Hui Liu, and Yu Zhang. *Computers & Security*, 2021.
+
 ### Graph Neural Networks
 - Graph Backdoor.
   [[pdf]](https://arxiv.org/pdf/2006.11890.pdf)
