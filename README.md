@@ -798,7 +798,10 @@ Markdown format:
 - Text Backdoor Detection Using An Interpretable RNN Abstract Model.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9508422)
   - Ming Fan, Ziliang Si, Xiaofei Xie, Yang Liu, and Ting Liu. IEEE Transactions on Information Forensics and Security, 2021.
-  
+
+- BDDR: An Effective Defense Against Textual Backdoor Attacks.
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0167404821002571)
+  - Kun Shao, Junan Yang, Yang Ai, Hui Liu, and Yu Zhang. *Computers & Security*, 2021.
 
 - T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
@@ -869,9 +872,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
   - Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv, 2020.
 
-- BDDR: An Effective Defense Against Textual Backdoor Attacks.
-  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0167404821002571)
-  - Kun Shao, Junan Yang, Yang Ai, Hui Liu, and Yu Zhang. *Computers & Security*, 2021.
+
 
 ### Graph Neural Networks
 - Graph Backdoor.
