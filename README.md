@@ -562,6 +562,10 @@ Markdown format:
   [[code]](https://www.dropbox.com/sh/rt8qzii7wr07g6n/AAAbwokv2sfBeE9XAL2pXv_Aa?dl=0)
   - Min Du, Ruoxi Jia, and Dawn Song. *ICLR*, 2020.  
   
+- Simple, Attack-Agnostic Defense Against Targeted Training Set Attacks Using Cosine Similarity.
+  [[pdf]](http://www.gatsby.ucl.ac.uk/~balaji/udl2021/accepted-papers/UDL2021-paper-029.pdf)
+  [[code]](https://github.com/ZaydH/cosin)
+  - Zayd Hammoudeh and Daniel Lowd. *ICML Workshop*, 2021.
 
 - SentiNet: Detecting Localized Universal Attacks Against Deep Learning Systems.
   [[pdf]](https://arxiv.org/pdf/1812.00292.pdf)
