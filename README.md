@@ -921,6 +921,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
   - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
 
+- Multi-Target Invisibly Trojaned Networks for Visual Recognition and Detection.
+  [[pdf]](https://www.ijcai.org/proceedings/2021/0477.pdf)
+  - Xinzhe Zhou, Wenhao Jiang, Sheng Qi, and Yadong Mu. *IJCAI*, 2021.
+
 - Hidden Backdoor Attack against Semantic Segmentation Models.
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
   - Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
