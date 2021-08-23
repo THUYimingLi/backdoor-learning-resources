@@ -296,6 +296,10 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/35.pdf)
   - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
 
+- Quantization Backdoors to Deep Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2108.09187.pdf)
+  - Hua Ma, Huming Qiu, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said Al-Sarawi, and Derek Abbott. arXiv, 2021.
+
 - Handcrafted Backdoors in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2106.04690.pdf)
   - Sanghyun Hong, Nicholas Carlini, and Alexey Kurakin. arXiv, 2021.
