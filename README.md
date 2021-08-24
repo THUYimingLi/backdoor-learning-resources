@@ -59,6 +59,7 @@ Markdown format:
   - [Graph Neural Networks](#graph-neural-networks)
   - [Point Cloud](#point-cloud)
   - [Acoustics Signal Processing](#acoustics-signal-processing)
+  - [Medical Science](#medical-science)
   - [Others](#others)
 - [Discussion and Evaluation](#discussion-and-evaluation)
 - [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes)
@@ -915,6 +916,19 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2107.14569.pdf)
   - Stefanos Koffas, Jing Xu, Mauro Conti, and Stjepan Picek. arXiv, 2021.
 
+### Medical Science
+- Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks.
+  [[pdf]](https://arxiv.org/pdf/2106.07925.pdf)
+  - Byunggill Joe, Akshay Mehra, Insik Shin, and Jihun Hamm. *AAAI Workshop*, 2021.
+
+- Explainability Matters: Backdoor Attacks on Medical Imaging.
+  [[pdf]](https://arxiv.org/pdf/2101.00008.pdf)
+  - Munachiso Nwadike, Takumi Miyawaki, Esha Sarkar, Michail Maniatakos, and Farah Shamout. *AAAI Workshop*, 2021.
+
+- TRAPDOOR: Repurposing Backdoors to Detect Dataset Bias in Machine Learning-based Genomic Analysis.
+  [[pdf]](https://arxiv.org/pdf/2108.10132.pdf)
+  - Esha Sarkar and Michail Maniatakos. arXiv, 2021.
+
 
 ### Others
 - Backdoor Attack on Machine Learning Based Android Malware Detectors.
@@ -933,13 +947,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
   - Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
 
-- Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks.
-  [[pdf]](https://arxiv.org/pdf/2106.07925.pdf)
-  - Byunggill Joe, Akshay Mehra, Insik Shin, and Jihun Hamm. *AAAI Workshop*, 2021.
-
-- Explainability Matters: Backdoor Attacks on Medical Imaging.
-  [[pdf]](https://arxiv.org/pdf/2101.00008.pdf)
-  - Munachiso Nwadike, Takumi Miyawaki, Esha Sarkar, Michail Maniatakos, and Farah Shamout. *AAAI Workshop*, 2021.
 
 - Backdoor Attacks on the DNN Interpretation System.
   [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
