@@ -947,7 +947,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
   - Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
 
-
 - Backdoor Attacks on the DNN Interpretation System.
   [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
   - Shihong Fang, and Anna Choromanska. *NeurIPS Workshop*, 2020.
@@ -955,6 +954,10 @@ Markdown format:
 - Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
+
+- Backdoor Attacks on Network Certification via Data Poisoning.
+  [[pdf]](https://arxiv.org/pdf/2108.11299.pdf)
+  - Tobias Lorenz, Marta Kwiatkowska, and Mario Fritz. arXiv, 2021.
 
 - The Devil is in the GAN: Defending Deep Generative Models Against Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2108.01644.pdf)
