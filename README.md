@@ -151,6 +151,10 @@ Markdown format:
   [[pdf]](https://www.lions.odu.edu/~h1wu/paper/infocom21.pdf)
   - Rui Ning, Jiang Li, ChunSheng Xin, and Hongyi Wu. *INFOCOM*, 2021.
 
+- Simtrojan: Stealthy Backdoor Attack.
+  [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506313)
+  - Yankun Ren, Longfei Li, and Jun Zhou. *ICIP*, 2021.
+
 - Poison Ink: Robust and Invisible Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2108.02488.pdf)
   - Jie zhang, Dongdong Chen, Jing Liao, Qidong Huang, Gang Hua, Weiming Zhang, and Nenghai Yu. arXiv, 2021.
