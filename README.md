@@ -997,6 +997,11 @@ Markdown format:
 
 
 ## Discussion and Evaluation
+- Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.
+  [[pdf]](https://arxiv.org/pdf/2006.12557.pdf)
+  [[code]](https://github.com/aks2203/poisoning-benchmark)
+  - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P Dickerson, and Tom Goldstein. *ICML*, 2021.
+
 - Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.
   [[pdf]](https://arxiv.org/pdf/2104.03413.pdf)
   - Yi Zeng, Won Park, Z. Morley Mao, and Ruoxi Jia. *ICCV*, 2021.
@@ -1023,10 +1028,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
 
-- Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.
-  [[pdf]](https://arxiv.org/pdf/2006.12557.pdf)
-  [[code]](https://github.com/aks2203/poisoning-benchmark)
-  - Avi Schwarzschild, Micah Goldblum, Arjun Gupta, John P Dickerson, and Tom Goldstein. *NeurIPS Workshop*, 2020.
 
 - Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions.
   [[pdf]](https://arxiv.org/pdf/2106.07214.pdf)
