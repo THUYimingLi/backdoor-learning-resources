@@ -816,6 +816,10 @@ Markdown format:
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0167404821002571)
   - Kun Shao, Junan Yang, Yang Ai, Hui Liu, and Yu Zhang. *Computers & Security*, 2021.
 
+- Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning.
+  [[pdf]](https://arxiv.org/pdf/2108.13888.pdf)
+  - Linyang Li, Demin Song, Xiaonan Li, Jiehang Zeng, Ruotian Ma, and Xipeng Qiu. *EMNLP*, 2021.
+
 - T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
   - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
