@@ -1036,6 +1036,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
 
+- Excess Capacity and Backdoor Poisoning.
+  [[pdf]](https://arxiv.org/pdf/2109.00685.pdf)
+  - Naren Sarayu Manoj and Avrim Blum. arXiv, 2021.
+
 
 - Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions.
   [[pdf]](https://arxiv.org/pdf/2106.07214.pdf)
