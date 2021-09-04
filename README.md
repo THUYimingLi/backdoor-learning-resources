@@ -658,6 +658,10 @@ Markdown format:
 
 ## Attack and Defense Towards Other Paradigms and Tasks
 ### Collaborative Learning
+- Privacy-Enhanced Federated Learning against Poisoning Adversaries.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9524709/)
+  - Xiaoyuan Liu, Hongwei Li, Guowen Xu, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. *IEEE Transactions on Information Forensics and Security*, 2021.
+
 - How to Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
   - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS*, 2020 (arXiv, 2018).
