@@ -204,10 +204,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1808.10307.pdf)
   - Cong Liao, Haoti Zhong, Anna Squicciarini, Sencun Zhu, and David Miller. *ACM CODASPY*, 2020.
 
-- Can Adversarial Weight Perturbations Inject Neural Backdoors?
-  [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
-  - Siddhant Garg, Adarsh Kumar, Vibhor Goel, and Yingyu Liang. *CIKM*, 2020.
-
 - Clean-Label Backdoor Attacks on Video Recognition Models.
   [[pdf]](http://openaccess.thecvf.com/content_CVPR_2020/papers/Zhao_Clean-Label_Backdoor_Attacks_on_Video_Recognition_Models_CVPR_2020_paper.pdf)
   [[code]](https://github.com/ShihaoZhaoZSH/Video-Backdoor-Attack)
@@ -293,6 +289,10 @@ Markdown format:
   [[code]](https://github.com/adnansirajrakin/TBT-CVPR2020)
   - Adnan Siraj Rakin, Zhezhi He, and Deliang Fan. *CVPR*, 2020.
 
+- Can Adversarial Weight Perturbations Inject Neural Backdoors?
+  [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
+  - Siddhant Garg, Adarsh Kumar, Vibhor Goel, and Yingyu Liang. *CIKM*, 2020.
+
 - DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection.
   [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
   - Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, and Yunxin Liu. *ICSE*, 2021.
@@ -300,6 +300,10 @@ Markdown format:
 - Subnet Replacement: Deployment-stage Backdoor Attack against Deep Neural Networks in Gray-box Setting.
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/35.pdf)
   - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
+
+- How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
+  [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
+  - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. arXiv, 2021.
 
 - Quantization Backdoors to Deep Learning Models.
   [[pdf]](https://arxiv.org/pdf/2108.09187.pdf)
@@ -1044,6 +1048,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2109.00685.pdf)
   - Naren Sarayu Manoj and Avrim Blum. arXiv, 2021.
 
+- How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
+  [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
+  - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. arXiv, 2021.
 
 - Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions.
   [[pdf]](https://arxiv.org/pdf/2106.07214.pdf)
