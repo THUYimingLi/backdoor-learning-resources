@@ -134,6 +134,10 @@ Markdown format:
   [[pdf]](https://openreview.net/pdf?id=eEn8KTtJOx)
   - Tuan Anh Nguyen, and Anh Tuan Tran. *ICLR*, 2021.
 
+- Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks.
+  [[pdf]](https://www.lions.odu.edu/~h1wu/paper/infocom21.pdf)
+  - Rui Ning, Jiang Li, ChunSheng Xin, and Hongyi Wu. *INFOCOM*, 2021.
+
 - Backdoor Attack in the Physical World. 
   [[pdf]](https://arxiv.org/pdf/2104.02361.pdf)
   [[extension]](https://arxiv.org/pdf/2004.04692.pdf)
@@ -147,9 +151,11 @@ Markdown format:
   [[link]](https://link.springer.com/article/10.1007/s12083-020-01031-z)
   - Mingfu Xue, Can He, Jian Wang, and Weiqiang Liu. *Peer-to-Peer Networking and Applications*, 2021. 
 
-- Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks.
-  [[pdf]](https://www.lions.odu.edu/~h1wu/paper/infocom21.pdf)
-  - Rui Ning, Jiang Li, ChunSheng Xin, and Hongyi Wu. *INFOCOM*, 2021.
+- Use Procedural Noise to Achieve Backdoor Attack.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9529206)
+  [[code]](https://github.com/928082786/pnoiseattack)
+  - Xuan Chen, Yuena Ma, and Shiwei Lu. *IEEE Access*, 2021.
+
 
 - Simtrojan: Stealthy Backdoor Attack.
   [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506313)
