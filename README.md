@@ -983,6 +983,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2108.11299.pdf)
   - Tobias Lorenz, Marta Kwiatkowska, and Mario Fritz. arXiv, 2021.
 
+- Backdoor Attack and Defense for Deep Regression.
+  [[pdf]](https://arxiv.org/pdf/2109.02381.pdf)
+  - Xi Li, George Kesidis, David J. Miller, and Vladimir Lucic. arXiv, 2021.
+
 - The Devil is in the GAN: Defending Deep Generative Models Against Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2108.01644.pdf)
   - Ambrish Rawat, Killian Levacher, and Mathieu Sinn. arXiv, 2021.
