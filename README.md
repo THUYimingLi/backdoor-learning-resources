@@ -494,6 +494,10 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/17.pdf)
   - Peter Bajcsy and Michael Majurski. *ICLR Workshop*, 2021.
 
+- Trojan Signatures in DNN Weights.
+  [[pdf]](https://arxiv.org/pdf/2109.02836.pdf)
+  - Greg Fields, Mohammad Samragh, Mojan Javaheripi, Farinaz Koushanfar, and Tara Javidi. arXiv, 2021.
+
 - Topological Detection of Trojaned Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2106.06469.pdf)
   - Songzhu Zheng, Yikai Zhang, Hubert Wagner, Mayank Goswami, and Chao Chen. arXiv, 2021.
