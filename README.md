@@ -132,6 +132,7 @@ Markdown format:
 
 - WaNet - Imperceptible Warping-based Backdoor Attack.
   [[pdf]](https://openreview.net/pdf?id=eEn8KTtJOx)
+  [[code]](https://github.com/VinAIResearch/Warping-based_Backdoor_Attack-release)
   - Tuan Anh Nguyen, and Anh Tuan Tran. *ICLR*, 2021.
 
 - Invisible Poison: A Blackbox Clean Label Backdoor Attack to Deep Neural Networks.
