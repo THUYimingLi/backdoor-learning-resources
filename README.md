@@ -109,7 +109,7 @@ Markdown format:
 ### Poisoning-based Attack
 #### 2021
 - Invisible Backdoor Attack with Sample-Specific Triggers.
-  [[pdf]](https://arxiv.org/abs/2012.03816)
+  [[pdf]](https://arxiv.org/pdf/2012.03816.pdf)
   [[code]](https://github.com/yuezunli/ISSBA)
   - Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, and Siwei Lyu. *ICCV*, 2021.
 
