@@ -445,7 +445,7 @@ Markdown format:
   - Huili Chen, Cheng Fu, Jishen Zhao, Farinaz Koushanfar. *IJCAI*, 2019.
 
 - Identifying Physically Realizable Triggers for Backdoored Face Recognition Networks.
-  [link](https://ieeexplore.ieee.org/abstract/document/9506564)
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9506564)
   - Ankita Raj, Ambar Pal, and Chetan Arora. *ICIP*, 2021.
 
 - Revealing Perceptible Backdoors in DNNs Without the Training Set via the Maximum Achievable Misclassification Fraction Statistic.
