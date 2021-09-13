@@ -560,6 +560,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.00407.pdf)
   - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. *ICIP*, 2021. 
 
+- SanitAIs: Unsupervised Data Augmentation to Sanitize Trojaned Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2109.04566.pdf)
+  - Kiran Karra and Chace Ashcraft. arXiv, 2021.
+
 - On the Effectiveness of Mitigating Data Poisoning Attacks with Gradient Shaping.
   [[pdf]](https://arxiv.org/pdf/2002.11497.pdf)
   [[code]](https://github.com/Sanghyun-Hong/Gradient-Shaping)
