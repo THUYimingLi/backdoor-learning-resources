@@ -163,6 +163,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506313)
   - Yankun Ren, Longfei Li, and Jun Zhou. *ICIP*, 2021.
 
+- Check Your Other Door! Establishing Backdoor Attacks in the Frequency Domain.
+  [[pdf]](https://arxiv.org/pdf/2109.05507.pdf)
+  - Hasan Abed Al Kader Hammoud and Bernard Ghanem. arXiv, 2021.
+
 - Poison Ink: Robust and Invisible Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2108.02488.pdf)
   - Jie zhang, Dongdong Chen, Jing Liao, Qidong Huang, Gang Hua, Weiming Zhang, and Nenghai Yu. arXiv, 2021.
@@ -370,6 +374,10 @@ Markdown format:
   - Sakshi Udeshi, Shanshan Peng, Gerald Woo, Lionell Loh, Louth Rawshan, and Sudipta Chattopadhyay. arXiv, 2019.
 
 #### Model Reconstruction based Empirical Defense
+- Interpretability-Guided Defense against Backdoor Attacks to Deep Neural Networks.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9530722/)
+  - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, and Ziwei Song. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
+
 - Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks.
   [[pdf]](https://openreview.net/pdf?id=9l0K4OM-oXE)
   [[code]](https://github.com/bboylyg/NAD)
