@@ -690,6 +690,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9524709/)
   - Xiaoyuan Liu, Hongwei Li, Guowen Xu, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. *IEEE Transactions on Information Forensics and Security*, 2021.
 
+- Mitigating the Backdoor Attack by Federated Filters for Industrial IoT Applications.
+  [[link]]()
+  - Boyu Hou, Jiqiang Gao, Xiaojie Guo, Thar Baker, Ying Zhang, Yanlong Wen, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2021.
+
 - How to Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
   - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS*, 2020 (arXiv, 2018).
