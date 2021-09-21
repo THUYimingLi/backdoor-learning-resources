@@ -1007,6 +1007,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
 
+- Clean-label Backdoor Attack against Deep Hashing based Retrieval.
+  [[pdf]](https://arxiv.org/pdf/2109.08868.pdf)
+  - Kuofeng Gao, Jiawang Bai, Bin Chen, Dongxian Wu, and Shu-Tao Xia. arXiv, 2021.
+
 - Backdoor Attacks on Network Certification via Data Poisoning.
   [[pdf]](https://arxiv.org/pdf/2108.11299.pdf)
   - Tobias Lorenz, Marta Kwiatkowska, and Mario Fritz. arXiv, 2021.
