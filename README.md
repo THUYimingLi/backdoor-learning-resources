@@ -480,7 +480,7 @@ Markdown format:
 #### Model Diagnosis based Empirical Defense
 - Adversarial examples are useful too!
   [[pdf]](https://arxiv.org/pdf/2005.06107.pdf)
-  - XBorji A. arXiv preprint arXiv, 2020.
+  - XBorji A. arXiv, 2020.
   
 - Detecting AI Trojans Using Meta Neural Analysis.
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
