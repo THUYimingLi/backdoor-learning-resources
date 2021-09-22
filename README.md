@@ -477,11 +477,7 @@ Markdown format:
   [[code]](https://github.com/akshajkumarv/NNoculation)
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
-#### Model Diagnosis based Empirical Defense
-- Adversarial examples are useful too!
-  [[pdf]](https://arxiv.org/pdf/2005.06107.pdf)
-  - XBorji A. arXiv, 2020.
-  
+#### Model Diagnosis based Empirical Defense  
 - Detecting AI Trojans Using Meta Neural Analysis.
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
   - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. *IEEE S&P*, 2021.
@@ -531,6 +527,11 @@ Markdown format:
 - Detecting Trojaned DNNs Using Counterfactual Attributions.
   [[pdf]](https://arxiv.org/pdf/2012.02275.pdf)
   - Karan Sikka, Indranil Sur, Susmit Jha, Anirban Roy, and Ajay Divakaran. arXiv, 2021.
+
+- Adversarial examples are useful too!
+  [[pdf]](https://arxiv.org/pdf/2005.06107.pdf)
+  [[code]](https://github.com/aliborji/Backdoor_defense)
+  - XBorji A. arXiv, 2020.
 
 - Cassandra: Detecting Trojaned Networks from Adversarial Perturbations.
   [[pdf]](https://arxiv.org/pdf/2007.14433.pdf)
