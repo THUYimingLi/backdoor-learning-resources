@@ -478,6 +478,10 @@ Markdown format:
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
 #### Model Diagnosis based Empirical Defense
+- Adversarial examples are useful too!
+  [[pdf]](https://arxiv.org/pdf/2005.06107.pdf)
+  - XBorji A. arXiv, 2020.
+  
 - Detecting AI Trojans Using Meta Neural Analysis.
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
   - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. *IEEE S&P*, 2021.
