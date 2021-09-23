@@ -90,6 +90,9 @@ Markdown format:
 
 
 ## Dissertation and Thesis
+- Countermeasures Against Backdoor, Data Poisoning, and Adversarial Attacks.
+  [[pdf]](https://www.proquest.com/docview/2572565404)
+  - Henry Daniel. *Ph.D. Dissertation at University of Texas at San Antonio*, 2021.
 
 - Geometric Properties of Backdoored Neural Networks.
   [[pdf]](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2021/EECS-2021-78.pdf)
