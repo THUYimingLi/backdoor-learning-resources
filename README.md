@@ -90,6 +90,14 @@ Markdown format:
 
 
 ## Dissertation and Thesis
+- Toward Robust and Communication Efficient Distributed Machine Learning.
+  [[pdf]](https://www.proquest.com/docview/2572595657)
+  - Hongyi Wang. *Ph.D. Dissertation at University of Wisconsin–Madison*, 2021.
+
+- Towards Robust Image Classification with Deep Learning and Real-Time DNN Inference on Mobile.
+  [[pdf]](https://www.proquest.com/docview/2572970976)
+  - Pu Zhao. *Ph.D. Dissertation at Northeastern University*, 2021.
+
 - Countermeasures Against Backdoor, Data Poisoning, and Adversarial Attacks.
   [[pdf]](https://www.proquest.com/docview/2572565404)
   - Henry Daniel. *Ph.D. Dissertation at University of Texas at San Antonio*, 2021.
