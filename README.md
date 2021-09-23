@@ -752,6 +752,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- Backdoor Attacks on Federated Learning with Lottery Ticket Hypothesis.
+  [[pdf]](https://arxiv.org/pdf/2109.10512.pdf)
+  - Zihang Zou, Boqing Gong, and Liqiang Wang. arXiv, 2021.
+
 - On Provable Backdoor Defense in Collaborative Learning.
   [[pdf]](https://arxiv.org/pdf/2101.08177.pdf)
   - Ximing Qiao, Yuhua Bai, Siping Hu, Ang Li, Yiran Chen, and Hai Li. arXiv, 2021.
@@ -893,6 +897,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2105.12400.pdf)
   [[code]](https://github.com/thunlp/HiddenKiller)
   - Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, and Maosong Sun. *ACL*, 2021.
+
+- BFClass: A Backdoor-free Text Classification Framework.
+  [[pdf]](https://arxiv.org/pdf/2109.10855.pdf)
+  [[code]](https://github.com/dheeraj7596/BFClass)
+  - Zichao Li, Dheeraj Mekala, Chengyu Dong, and Jingbo Shang. *EMNLP-Findings*, 2021.
 
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
