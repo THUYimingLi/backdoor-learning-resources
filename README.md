@@ -119,6 +119,11 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2021
+- AdvDoor: Adversarial Backdoor Attack of Deep Learning System.
+  [[pdf]](http://www.wingtecher.com/themes/WingTecherResearch/assets/papers/issta21_learning.pdf)
+  [[code]](https://github.com/AdvDoor/AdvDoor)
+  - Quan Zhang, Yifeng Ding, Yongqiang Tian, Jianmin Guo, Min Yuan, and Yu Jiang. *ISSTA*, 2021.
+  
 - Invisible Backdoor Attack with Sample-Specific Triggers.
   [[pdf]](https://arxiv.org/pdf/2012.03816.pdf)
   [[code]](https://github.com/yuezunli/ISSBA)
