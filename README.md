@@ -863,6 +863,10 @@ Markdown format:
   [[code]](https://github.com/jjy1994/BadEncoder)
   - Jinyuan Jia, Yupei Liu, and Neil Zhenqiang Gong. *IEEE S&P*, 2022.
 
+- Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9551983)
+  - Zhicong Yan, Jun Wu, Gaolei Li, Shenghong Li, and Mohsen Guizani. *IEEE Transactions on Information Forensics and Security*, 2021.
+
 - DeHiB: Deep Hidden Backdoor Attack on Semi-supervised Learning via adversarial Perturbation.
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/17266)
   - Zhicong Yan, Gaolei Li, Yuan Tian, Jun Wu, Shenghong Li, Mingzhe Chen, and H. Vincent Poor. *AAAI*, 2021.
