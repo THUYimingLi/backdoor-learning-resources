@@ -54,7 +54,7 @@ Markdown format:
   - [Collaborative Learning](#collaborative-learning)
   - [Transfer Learning](#transfer-learning) 
   - [Reinforcement Learning](#reinforcement-learning)
-  - [Self-Supervised Learning](#self-supervised-learning)
+  - [Semi-Supervised and Self-Supervised Learning](#semi-supervised-and-self-supervised-learning)
   - [Natural Language Processing](#natural-language-processing)
   - [Graph Neural Networks](#graph-neural-networks)
   - [Point Cloud](#point-cloud)
