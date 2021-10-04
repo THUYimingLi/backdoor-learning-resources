@@ -857,11 +857,15 @@ Markdown format:
   - Zhaoyuan Yang, Naresh Iyer, Johan Reimann, and Nurali Virani. arXiv, 2019.
 
 
-### Self-Supervised Learning
+### Semi-Supervised and Self-Supervised Learning
 - BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning.
   [[pdf]](https://arxiv.org/pdf/2108.00352.pdf)
   [[code]](https://github.com/jjy1994/BadEncoder)
   - Jinyuan Jia, Yupei Liu, and Neil Zhenqiang Gong. *IEEE S&P*, 2022.
+
+- DeHiB: Deep Hidden Backdoor Attack on Semi-supervised Learning via adversarial Perturbation.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/17266)
+  - Zhicong Yan, Gaolei Li, Yuan Tian, Jun Wu, Shenghong Li, Mingzhe Chen, and H. Vincent Poor. *AAAI*, 2021.
 
 - Poisoning and Backdooring Contrastive Learning.
   [[pdf]](https://arxiv.org/pdf/2106.09667.pdf)
