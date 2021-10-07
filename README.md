@@ -934,6 +934,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.
+  [[pdf]](https://arxiv.org/pdf/2110.02467.pdf)
+  - Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, and Chun Fan. arXiv, 2021.
+
 - Spinning Sequence-to-Sequence Models with Meta-Backdoors.
   [[pdf]](https://arxiv.org/pdf/2107.10443.pdf)
   - Eugene Bagdasaryan and Vitaly Shmatikov. arXiv, 2021.
