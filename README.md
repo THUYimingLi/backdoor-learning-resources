@@ -124,6 +124,10 @@ Markdown format:
   [[code]](https://github.com/yuezunli/ISSBA)
   - Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, and Siwei Lyu. *ICCV*, 2021.
 
+- LIRA: Learnable, Imperceptible and Robust Backdoor Attacks.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Doan_LIRA_Learnable_Imperceptible_and_Robust_Backdoor_Attacks_ICCV_2021_paper.pdf)
+  - Khoa Doan, Yingjie Lao, Weijie Zhao, and Ping Li. *ICCV*, 2021.
+
 - Defense-Resistant Backdoor Attacks against Deep Neural Networks in Outsourced Cloud Environment.
   [[Link]](https://ieeexplore.ieee.org/abstract/document/9450029/authors#authors)
   - Xueluan Gong, Yanjiao Chen, Qian Wang, Huayang Huang, Lingshuo Meng, Chao Shen, and Qian Zhang. *IEEE Journal on Selected Areas in Communications*, 2021.
