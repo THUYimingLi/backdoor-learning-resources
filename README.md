@@ -1145,6 +1145,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
   - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. arXiv, 2021.
 
+- Widen The Backdoor To Let More Attackers In.
+  [[pdf]](https://arxiv.org/pdf/2110.04571.pdf)
+  - Siddhartha Datta, Giulio Lovisotto, Ivan Martinovic, and Nigel Shadbolt. arXiv, 2021.
+
 - Backdoor Learning Curves: Explaining Backdoor Poisoning Beyond Influence Functions.
   [[pdf]](https://arxiv.org/pdf/2106.07214.pdf)
   - Antonio Emanuele Cinà, Kathrin Grosse, Sebastiano Vascon, Ambra Demontis, Battista Biggio, Fabio Roli, and Marcello Pelillo. arXiv, 2021.
