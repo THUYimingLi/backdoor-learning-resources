@@ -316,6 +316,11 @@ Markdown format:
   [[code]](https://github.com/trx14/TrojanNet)
   - Ruixiang Tang, Mengnan Du, Ninghao Liu, Fan Yang, and Xia Hu. *KDD*, 2020.
 
+- ProFlip: Targeted Trojan Attack with Progressive Bit Flips. 
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ProFlip_Targeted_Trojan_Attack_With_Progressive_Bit_Flips_ICCV_2021_paper.pdf)
+  - Huili Chen, Cheng Fu, Jishen Zhao, and Farinaz Koushanfar. *iCCV*, 2021.
+
+
 - TBT: Targeted Neural Network Attack with Bit Trojan.
   [[pdf]](https://arxiv.org/abs/1909.05193)
   [[code]](https://github.com/adnansirajrakin/TBT-CVPR2020)
