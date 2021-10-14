@@ -1217,6 +1217,7 @@ Markdown format:
 
 ## Toolbox
 - [TrojanZoo](https://github.com/ain-soph/trojanzoo)
+- [backdoors101](https://github.com/ebagdasa/backdoors101)
 
 ## Competition
 - [IARPA TrojAI Competition](https://pages.nist.gov/trojai/docs/about.html)
