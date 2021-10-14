@@ -670,7 +670,11 @@ Markdown format:
 - A Unified Framework for Task-Driven Data Quality Management.
   [[pdf]](https://arxiv.org/pdf/2106.05484.pdf)
   - Tianhao Wang, Yi Zeng, Ming Jin, and Ruoxi Jia. arXiv, 2021.
-  
+
+- Traceback of Data Poisoning Attacks in Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2110.06904.pdf)
+  - Shawn Shan, Arjun Nitin Bhagoji, Haitao Zheng, and Ben Y. Zhao. arXiv, 2021.
+
 - Provable Guarantees against Data Poisoning Using Self-Expansion and Compatibility.
   [[pdf]](https://arxiv.org/pdf/2105.03692.pdf)
   - Charles Jin, Melinda Sun, and Martin Rinard. arXiv, 2021.
