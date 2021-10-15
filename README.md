@@ -911,6 +911,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
   - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
 
+- Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer.
+  [pdf](https://arxiv.org/pdf/2110.07139.pdf)
+  [code](https://github.com/thunlp/StyleAttack)
+  - Fanchao Qi, Yangyi Chen, Xurui Zhang, Mukai Li, Zhiyuan Liu, and Maosong Sun. *EMNLP*, 2021.
+
 - Rethinking Stealthiness of Backdoor Attack against NLP Models.
   [[pdf]](https://aclanthology.org/2021.acl-long.431.pdf)
   [[code]](https://github.com/lancopku/SOS)
