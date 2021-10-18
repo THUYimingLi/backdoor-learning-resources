@@ -726,7 +726,7 @@ Markdown format:
   - Xiaoyuan Liu, Hongwei Li, Guowen Xu, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. *IEEE Transactions on Information Forensics and Security*, 2021.
 
 - Mitigating the Backdoor Attack by Federated Filters for Industrial IoT Applications.
-  [[link]]()
+  [[link]](https://ieeexplore.ieee.org/document/9536411/)
   - Boyu Hou, Jiqiang Gao, Xiaojie Guo, Thar Baker, Ying Zhang, Yanlong Wen, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2021.
 
 - How to Backdoor Federated Learning.
@@ -911,6 +911,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
   - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
 
+- RAP: Robustness-Aware Perturbations for Defending against Backdoor Attacks on NLP Models.
+  [[pdf]](https://arxiv.org/pdf/2110.07831.pdf)
+  [[code]](https://github.com/lancopku/RAP)
+  - Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou, and Xu Sun. *EMNLP*, 2021.
+
 - Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer.
   [[pdf]](https://arxiv.org/pdf/2110.07139.pdf)
   [[code]](https://github.com/thunlp/StyleAttack)
@@ -956,6 +961,10 @@ Markdown format:
 - BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.
   [[pdf]](https://arxiv.org/pdf/2110.02467.pdf)
   - Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, and Chun Fan. arXiv, 2021.
+
+- Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks.
+  [[pdf]](https://arxiv.org/pdf/2110.08247.pdf)
+  - Yangyi Chen, Fanchao Qi, Zhiyuan Liu, and Maosong Sun. arXiv, 2021.
 
 - Spinning Sequence-to-Sequence Models with Meta-Backdoors.
   [[pdf]](https://arxiv.org/pdf/2107.10443.pdf)
