@@ -671,6 +671,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2106.05484.pdf)
   - Tianhao Wang, Yi Zeng, Ming Jin, and Ruoxi Jia. arXiv, 2021.
 
+- TESDA: Transform Enabled Statistical Detection of Attacks in Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2110.08447.pdf)
+  - Chandramouli Amarnath, Aishwarya H. Balwani, Kwondo Ma, and Abhijit Chatterjee. arXiv, 2021.
+
 - Traceback of Data Poisoning Attacks in Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2110.06904.pdf)
   - Shawn Shan, Arjun Nitin Bhagoji, Haitao Zheng, and Ben Y. Zhao. arXiv, 2021.
