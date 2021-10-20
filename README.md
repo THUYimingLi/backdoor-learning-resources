@@ -533,6 +533,10 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/17.pdf)
   - Peter Bajcsy and Michael Majurski. *ICLR Workshop*, 2021.
 
+- Trigger Hunting with a Topological Prior for Trojan Detection.
+  [[pdf]](https://arxiv.org/pdf/2110.08335.pdf)
+  - Xiaoling Hu, Xiao Lin, Michael Cogswell, Yi Yao, Susmit Jha, and Chao Chen. arXiv, 2021.
+
 - Trojan Signatures in DNN Weights.
   [[pdf]](https://arxiv.org/pdf/2109.02836.pdf)
   - Greg Fields, Mohammad Samragh, Mojan Javaheripi, Farinaz Koushanfar, and Tara Javidi. arXiv, 2021.
