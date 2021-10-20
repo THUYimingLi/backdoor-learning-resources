@@ -324,7 +324,6 @@ Markdown format:
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ProFlip_Targeted_Trojan_Attack_With_Progressive_Bit_Flips_ICCV_2021_paper.pdf)
   - Huili Chen, Cheng Fu, Jishen Zhao, and Farinaz Koushanfar. *iCCV*, 2021.
 
-
 - TBT: Targeted Neural Network Attack with Bit Trojan.
   [[pdf]](https://arxiv.org/abs/1909.05193)
   [[code]](https://github.com/adnansirajrakin/TBT-CVPR2020)
@@ -341,6 +340,10 @@ Markdown format:
 - Subnet Replacement: Deployment-stage Backdoor Attack against Deep Neural Networks in Gray-box Setting.
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/35.pdf)
   - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
+
+- An Optimization Perspective on Realizing Backdoor Injection Attacks on Deep Neural Networks in Hardware.
+  [[pdf]](https://arxiv.org/pdf/2110.07683.pdf)
+  - M. Caner Tol, Saad Islam, Berk Sunar, and Ziming Zhang. arXiv, 2021.
 
 - How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
   [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
