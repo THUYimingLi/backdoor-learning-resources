@@ -88,6 +88,9 @@ Markdown format:
   [[pdf]](https://eprint.iacr.org/2020/201.pdf)
   - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. *ISQED*, 2020.
 
+- Trojan Attacks and Defense for Speech Recognition.
+  [[pdf]](https://manuscriptlink-society-file.s3.ap-northeast-1.amazonaws.com/kiisc/conference/mobisec2021/abs/7-1.pdf)
+  - Wei Zong, Yang-Wai Chow, Willy Susilo, and Jongkil Kim. *MobiSec*, 2021.
 
 ## Dissertation and Thesis
 - Toward Robust and Communication Efficient Distributed Machine Learning.
