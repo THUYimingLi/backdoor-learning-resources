@@ -397,6 +397,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
   - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD*, 2017.
 
+- Defending Deep Neural Networks against Backdoor Attack by Using De-trigger Autoencoder.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579062)
+  - Hyun Kwon. *IEEE Access*, 2021.
+
 - ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2007.00711.pdf)
   - Miguel Villarreal-Vasquez, and Bharat Bhargava. arXiv, 2021.
