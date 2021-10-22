@@ -1240,6 +1240,10 @@ Markdown format:
   [[code]](https://github.com/adiyoss/WatermarkNN)
   - Yossi Adi, Carsten Baum, Moustapha Cisse, Benny Pinkas, and Joseph Keshet. *USENIX Security*, 2018. 
 
+- Watermarking Graph Neural Networks based on Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2110.11024.pdf)
+  - Jing Xu and Stjepan Picek. arXiv, 2021.
+
 - What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space.
   [[pdf]](https://arxiv.org/pdf/2101.06898.pdf)
   - Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li, and Yu-Gang Jiang. arXiv, 2021.
