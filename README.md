@@ -775,6 +775,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
   - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. *AAAI*, 2021.
 
+- PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion.
+  [[pdf]](https://arxiv.org/pdf/2110.10926.pdf)
+  - Shijie Zhang, Hongzhi Yin, Tong Chen, Zi Huang, Quoc Viet Hung Nguyen, and Lizhen Cui. *WSDM*, 2021.
+
 - The Limitations of Federated Learning in Sybil Settings.
   [[pdf]](https://www.cs.ubc.ca/~bestchai/papers/foolsgold-raid2020.pdf)
   [[extension]](https://arxiv.org/pdf/1808.04866.pdf)
@@ -788,6 +792,7 @@ Markdown format:
 - Can You Really Backdoor Federated Learning?
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
+
 
 - Backdoor Attacks on Federated Learning with Lottery Ticket Hypothesis.
   [[pdf]](https://arxiv.org/pdf/2109.10512.pdf)
