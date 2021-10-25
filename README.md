@@ -592,14 +592,20 @@ Markdown format:
 
 
 #### Poison Suppression based Empirical Defense
-- Boundary augment: A data augment method to defend poison attack.
-  [[link]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)
-  - Xuan Chen, Yuena Ma, Shiwei Lu, and Yu Yao. *IET Image Processing*, 2021.
+- Anti-Backdoor Learning: Training Clean Models on Poisoned Data.
+  [[pdf]](https://arxiv.org/pdf/2110.11571.pdf)
+  [[code]](https://github.com/bboylyg/ABL)
+  - Yige Li, Xixiang Lyu, Nodens Koren, Lingjuan Lyu, Bo Li, and Xingjun Ma. *NeurIPS*, 2021.
+
 
 - Robust Anomaly Detection and Backdoor Attack Detection via Differential Privacy.
   [[pdf]](https://arxiv.org/pdf/1911.07116.pdf)
   [[code]](https://www.dropbox.com/sh/rt8qzii7wr07g6n/AAAbwokv2sfBeE9XAL2pXv_Aa?dl=0)
   - Min Du, Ruoxi Jia, and Dawn Song. *ICLR*, 2020.  
+
+- Boundary augment: A data augment method to defend poison attack.
+  [[link]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)
+  - Xuan Chen, Yuena Ma, Shiwei Lu, and Yu Yao. *IET Image Processing*, 2021.
 
 - Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Trade-off.
   [[pdf]](https://arxiv.org/pdf/2011.09527.pdf)
