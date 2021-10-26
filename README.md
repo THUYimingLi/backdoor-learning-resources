@@ -1259,6 +1259,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2110.11024.pdf)
   - Jing Xu and Stjepan Picek. arXiv, 2021.
 
+- CoProtector: Protect Open-Source Code against Unauthorized Training Usage with Data Poisoning.
+  [[pdf]](https://arxiv.org/pdf/2110.12925.pdf)
+  - Zhensu Sun, Xiaoning Du, Fu Song, Mingze Ni, and Li Li. arXiv, 2021.
+
 - What Do Deep Nets Learn? Class-wise Patterns Revealed in the Input Space.
   [[pdf]](https://arxiv.org/pdf/2101.06898.pdf)
   - Shihao Zhao, Xingjun Ma, Yisen Wang, James Bailey, Bo Li, and Yu-Gang Jiang. arXiv, 2021.
