@@ -979,6 +979,10 @@ Markdown format:
   [[code]](https://github.com/lancopku/Embedding-Poisoning)
   - Wenkai Yang, Lei Li, Zhiyuan Zhang, Xuancheng Ren, Xu Sun, and Bin He. *NAACL-HLT*, 2021.
 
+- Textual Backdoor Attack for the Text Classification System.
+  [[pdf]](https://www.hindawi.com/journals/scn/2021/2938386/)
+  - Hyun Kwon and Sanghyun Lee. *Security and Communication Networks*, 2021.
+
 - A Backdoor Attack Against LSTM-based Text Classification Systems.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
   - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access*, 2019.
