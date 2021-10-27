@@ -869,6 +869,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
   - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, and Tianle Chen. *IEEE Transactions on Services Computing*, 2020.
 
+- Anti-Distillation Backdoor Attacks: Backdoors Can Really Survive in Knowledge Distillation.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475254)
+  - Yunjie Ge, Qian Wang, Baolin Zheng, Xinlu Zhuang, Qi Li, Chao Shen, and Cong Wang. *ACM MM*, 20201.
+
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
