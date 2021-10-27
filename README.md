@@ -227,10 +227,6 @@ Markdown format:
   [[code]](https://github.com/VinAIResearch/input-aware-backdoor-attack-release)
   - Anh Nguyen, and Anh Tran. *NeurIPS 2020*.
 
-- Hidden Trigger Backdoor Attacks.
-  [[pdf]](https://arxiv.org/pdf/1910.00033.pdf)
-  [[code]](https://github.com/UMBCvision/Hidden-Trigger-Backdoor-Attacks)
-  - Aniruddha Saha, Akshayvarun Subramanya, and Hamed Pirsiavash. *AAAI*, 2020.
 
 - Bypassing Backdoor Detection Algorithms in Deep Learning.
   [[pdf]](https://arxiv.org/pdf/1905.13409.pdf)
@@ -284,10 +280,6 @@ Markdown format:
   - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv, 2020.  
 
 #### 2019
-- Latent Backdoor Attacks on Deep Neural Networks.
-  [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
-  - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
-
 - A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning.
   [[pdf]](https://arxiv.org/pdf/1902.11237.pdf)
   - M.Barni, K.Kallas, and B.Tondi. *ICIP*, 2019.
@@ -876,7 +868,12 @@ Markdown format:
 
 - Anti-Distillation Backdoor Attacks: Backdoors Can Really Survive in Knowledge Distillation.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475254)
-  - Yunjie Ge, Qian Wang, Baolin Zheng, Xinlu Zhuang, Qi Li, Chao Shen, and Cong Wang. *ACM MM*, 20201.
+  - Yunjie Ge, Qian Wang, Baolin Zheng, Xinlu Zhuang, Qi Li, Chao Shen, and Cong Wang. *ACM MM*, 2021.
+
+- Hidden Trigger Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/1910.00033.pdf)
+  [[code]](https://github.com/UMBCvision/Hidden-Trigger-Backdoor-Attacks)
+  - Aniruddha Saha, Akshayvarun Subramanya, and Hamed Pirsiavash. *AAAI*, 2020.
 
 - Weight Poisoning Attacks on Pre-trained Models.
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
