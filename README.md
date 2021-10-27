@@ -446,6 +446,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.12162.pdf)
   - Hao Cheng, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, and Xue Lin. *KDD Workshop*, 2019.
 
+- Adversarial Unlearning of Backdoors via Implicit Hypergradient.
+  [[pdf]](https://arxiv.org/pdf/2110.03735.pdf)
+  [[code]](https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient)
+  - Yi Zeng, Si Chen, Won Park, Z. Morley Mao, Ming Jin, and Ruoxi Jia. arXiv, 2021.
+
 - Neural Network Laundering: Removing Black-Box Backdoor Watermarks from Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2004.11368.pdf)
   - William Aiken, Hyoungshick Kim, and Simon Woo. arXiv, 2020.
