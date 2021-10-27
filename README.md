@@ -320,6 +320,11 @@ Markdown format:
   [[code]](https://github.com/trx14/TrojanNet)
   - Ruixiang Tang, Mengnan Du, Ninghao Liu, Fan Yang, and Xia Hu. *KDD*, 2020.
 
+- Qu-ANTI-zation: Exploiting Quantization Artifacts for Achieving Adversarial Outcomes.
+  [[pdf]](https://arxiv.org/pdf/2110.13541.pdf)
+  [[code]](https://github.com/Secure-AI-Systems-Group/Qu-ANTI-zation)
+  - Sanghyun Hong, Michael-Andrei Panaitescu-Liess, Yiğitcan Kaya, and Tudor Dumitraş. *NeurIPS*, 2021.
+
 - ProFlip: Targeted Trojan Attack with Progressive Bit Flips. 
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ProFlip_Targeted_Trojan_Attack_With_Progressive_Bit_Flips_ICCV_2021_paper.pdf)
   - Huili Chen, Cheng Fu, Jishen Zhao, and Farinaz Koushanfar. *iCCV*, 2021.
@@ -341,6 +346,10 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/35.pdf)
   - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
 
+- Quantization Backdoors to Deep Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2108.09187.pdf)
+  - Hua Ma, Huming Qiu, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said Al-Sarawi, and Derek Abbott. arXiv, 2021.
+
 - An Optimization Perspective on Realizing Backdoor Injection Attacks on Deep Neural Networks in Hardware.
   [[pdf]](https://arxiv.org/pdf/2110.07683.pdf)
   - M. Caner Tol, Saad Islam, Berk Sunar, and Ziming Zhang. arXiv, 2021.
@@ -348,10 +357,6 @@ Markdown format:
 - How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
   [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
   - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. arXiv, 2021.
-
-- Quantization Backdoors to Deep Learning Models.
-  [[pdf]](https://arxiv.org/pdf/2108.09187.pdf)
-  - Hua Ma, Huming Qiu, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said Al-Sarawi, and Derek Abbott. arXiv, 2021.
 
 - Handcrafted Backdoors in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2106.04690.pdf)
