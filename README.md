@@ -403,6 +403,11 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9530722/)
   - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, and Ziwei Song. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
 
+- Adversarial Neuron Pruning Purifies Backdoored Deep Models.
+  [[pdf]](https://arxiv.org/pdf/2110.14430.pdf)
+  [[code]](https://github.com/csdongxian/ANP_backdoor)
+  - Dongxian Wu and Yisen Wang. *NeurIPS*, 2021.
+
 - Neural Attention Distillation: Erasing Backdoor Triggers from Deep Neural Networks.
   [[pdf]](https://openreview.net/pdf?id=9l0K4OM-oXE)
   [[code]](https://github.com/bboylyg/NAD)
