@@ -495,6 +495,10 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
   - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
 
+- AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis.
+  [[pdf]](https://arxiv.org/pdf/2110.14880.pdf)
+  - Junfeng Guo, Ang Li, and Cong Liu. arXiv, 2021.
+
 - Detect and Remove Watermark in Deep Neural Networks via Generative Adversarial Networks.
   [[pdf]](https://arxiv.org/pdf/2106.08104.pdf)
   - Haoqi Wang, Mingfu Xue, Shichang Sun, Yushu Zhang, Jian Wang, and Weiqiang Liu. arXiv, 2021.
