@@ -987,6 +987,10 @@ Markdown format:
   [[code]](https://github.com/thunlp/HiddenKiller)
   - Fanchao Qi, Mukai Li, Yangyi Chen, Zhengyan Zhang, Zhiyuan Liu, Yasheng Wang, and Maosong Sun. *ACL*, 2021.
 
+- Mitigating Data Poisoning in Text Classification with Differential Privacy.
+  [[pdf]](https://aclanthology.org/2021.findings-emnlp.369.pdf)
+  - Chang Xu, Jun Wang, Francisco Guzmán, Benjamin I. P. Rubinstein, and Trevor Cohn. *EMNLP-Findings*, 2021.
+
 - BFClass: A Backdoor-free Text Classification Framework.
   [[pdf]](https://arxiv.org/pdf/2109.10855.pdf)
   [[code]](https://github.com/dheeraj7596/BFClass)
