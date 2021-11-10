@@ -188,6 +188,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506313)
   - Yankun Ren, Longfei Li, and Jun Zhou. *ICIP*, 2021.
 
+- A Statistical Difference Reduction Method for Escaping Backdoor Detection.
+  [[pdf]](https://arxiv.org/pdf/2111.05077.pdf)
+  - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. arXiv, 2021.
+
 - Check Your Other Door! Establishing Backdoor Attacks in the Frequency Domain.
   [[pdf]](https://arxiv.org/pdf/2109.05507.pdf)
   - Hasan Abed Al Kader Hammoud and Bernard Ghanem. arXiv, 2021.
