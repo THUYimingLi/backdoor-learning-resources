@@ -1022,6 +1022,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- Triggerless Backdoor Attack for NLP Tasks with Clean Labels.
+  [[pdf]](https://arxiv.org/pdf/2111.07970.pdf)
+  - Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Shangwei Guo, and Chun Fan. arXiv, 2021.
+
 - BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.
   [[pdf]](https://arxiv.org/pdf/2110.02467.pdf)
   - Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, and Chun Fan. arXiv, 2021.
