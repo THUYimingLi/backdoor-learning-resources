@@ -529,6 +529,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
   - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. *IEEE S&P*, 2021.
 
+- Topological Detection of Trojaned Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2106.06469.pdf)
+  - Songzhu Zheng, Yikai Zhang, Hubert Wagner, Mayank Goswami, and Chao Chen. *NeurIPS*, 2021.
+
 - Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs.
   [[pdf]](https://arxiv.org/pdf/1906.10842.pdf)
   [[code]](https://umbcvision.github.io/Universal-Litmus-Patterns/)
@@ -558,10 +562,6 @@ Markdown format:
 - Trojan Signatures in DNN Weights.
   [[pdf]](https://arxiv.org/pdf/2109.02836.pdf)
   - Greg Fields, Mohammad Samragh, Mojan Javaheripi, Farinaz Koushanfar, and Tara Javidi. arXiv, 2021.
-
-- Topological Detection of Trojaned Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2106.06469.pdf)
-  - Songzhu Zheng, Yikai Zhang, Hubert Wagner, Mayank Goswami, and Chao Chen. arXiv, 2021.
 
 - Black-box Detection of Backdoor Attacks with Limited Information and Data.
   [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
