@@ -81,6 +81,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
   - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
 
+- An Overview of Backdoor Attacks Against Deep Neural Networks and Possible Defences.
+  [[pdf]](https://arxiv.org/pdf/2111.08429.pdf)
+  - Wei Guo, Benedetta Tondi, and Mauro Barni. arXiv, 2021.
+
 - Deep Learning Backdoors.
   [[pdf]](https://arxiv.org/pdf/2007.08273.pdf)
   - Shaofeng Li, Shiqing Ma, Minhui Xue, and Benjamin Zi Hao Zhao. arXiv, 2020.
