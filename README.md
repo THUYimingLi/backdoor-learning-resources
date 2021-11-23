@@ -136,6 +136,10 @@ Markdown format:
   [[code]](https://github.com/yuezunli/ISSBA)
   - Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, and Siwei Lyu. *ICCV*, 2021.
 
+ - Backdoor Attack with Imperceptible Input and Latent Modification.
+  [[pdf]](https://proceedings.neurips.cc/paper/2021/file/9d99197e2ebf03fc388d09f1e94af89b-Paper.pdf)
+  - Khoa Doan, Yingjie Lao, and Ping Li. *NeurIPS*, 2021.
+
 - LIRA: Learnable, Imperceptible and Robust Backdoor Attacks.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Doan_LIRA_Learnable_Imperceptible_and_Robust_Backdoor_Attacks_ICCV_2021_paper.pdf)
   - Khoa Doan, Yingjie Lao, Weijie Zhao, and Ping Li. *ICCV*, 2021.
