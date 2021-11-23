@@ -204,6 +204,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2111.05077.pdf)
   - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. arXiv, 2021.
 
+- Backdoor Attack through Frequency Domain.
+  [[pdf]](https://arxiv.org/pdf/2111.10991.pdf)
+  - Tong Wang, Yuan Yao, Feng Xu, Shengwei An, and Ting Wang. arXiv, 2021.
+
 - Check Your Other Door! Establishing Backdoor Attacks in the Frequency Domain.
   [[pdf]](https://arxiv.org/pdf/2109.05507.pdf)
   - Hasan Abed Al Kader Hammoud and Bernard Ghanem. arXiv, 2021.
