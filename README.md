@@ -1209,6 +1209,10 @@ Markdown format:
 
 
 ## Discussion and Evaluation
+- Excess Capacity and Backdoor Poisoning.
+  [[pdf]](https://arxiv.org/pdf/2109.00685.pdf)
+  - Naren Sarayu Manoj and Avrim Blum. *NeurIPS*, 2021.
+
 - Just How Toxic is Data Poisoning? A Unified Benchmark for Backdoor and Data Poisoning Attacks.
   [[pdf]](https://arxiv.org/pdf/2006.12557.pdf)
   [[code]](https://github.com/aks2203/poisoning-benchmark)
@@ -1243,10 +1247,6 @@ Markdown format:
 - On Evaluating Neural Network Backdoor Defenses.
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
-
-- Excess Capacity and Backdoor Poisoning.
-  [[pdf]](https://arxiv.org/pdf/2109.00685.pdf)
-  - Naren Sarayu Manoj and Avrim Blum. arXiv, 2021.
 
 - How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
   [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
