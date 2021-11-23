@@ -706,6 +706,10 @@ Markdown format:
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
 
+- NTD: Non-Transferability Enabled Backdoor Detection.
+  [[pdf]](https://arxiv.org/pdf/2111.11157.pdf)
+  - Yinshan Li, Hua Ma, Zhi Zhang, Yansong Gao, Alsharif Abuadbba, Anmin Fu, Yifeng Zheng, Said F. Al-Sarawi, and Derek Abbott. arXiv, 2021.
+
 - A Unified Framework for Task-Driven Data Quality Management.
   [[pdf]](https://arxiv.org/pdf/2106.05484.pdf)
   - Tianhao Wang, Yi Zeng, Ming Jin, and Ruoxi Jia. arXiv, 2021.
