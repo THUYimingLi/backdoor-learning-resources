@@ -200,6 +200,11 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506313)
   - Yankun Ren, Longfei Li, and Jun Zhou. *ICIP*, 2021.
 
+- DBIA: Data-free Backdoor Injection Attack against Transformer Networks.
+  [[pdf]](https://arxiv.org/pdf/2111.11870.pdf)
+  [[code]](https://anonymous.4open.science/r/DBIA-825D)
+  - Peizhuo Lv, Hualong Ma, Jiachen Zhou, Ruigang Liang, Kai Chen, Shengzhi Zhang, and Yunfei Yang. arXiv, 2021.
+
 - A Statistical Difference Reduction Method for Escaping Backdoor Detection.
   [[pdf]](https://arxiv.org/pdf/2111.05077.pdf)
   - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. arXiv, 2021.
@@ -228,11 +233,7 @@ Markdown format:
 - Robust Backdoor Attacks against Deep Neural Networks in Real Physical World.
   [[pdf]](https://arxiv.org/pdf/2104.07395.pdf)
   - Mingfu Xue, Can He, Shichang Sun, Jian Wang, and Weiqiang Liu. arXiv, 2021.
-
-- DBIA: Data-free Backdoor Injection Attack against Transformer Networks.
-  [[pdf]](https://arxiv.org/pdf/2111.11870.pdf)
-  [[code]](https://anonymous.4open.science/r/DBIA-825D)
-  - Peizhuo Lv, Hualong Ma, Jiachen Zhou, Ruigang Liang, Kai Chen, Shengzhi Zhang, and Yunfei Yang. arXiv, 2021.
+ 
 
 #### 2020
 - One-to-N & N-to-One: Two Advanced Backdoor Attacks against Deep Learning Models.
