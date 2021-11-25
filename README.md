@@ -551,6 +551,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2106.06469.pdf)
   - Songzhu Zheng, Yikai Zhang, Hubert Wagner, Mayank Goswami, and Chao Chen. *NeurIPS*, 2021.
 
+- Black-box Detection of Backdoor Attacks with Limited Information and Data.
+  [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
+  - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. *ICCV*, 2021.
+
 - Universal Litmus Patterns: Revealing Backdoor Attacks in CNNs.
   [[pdf]](https://arxiv.org/pdf/1906.10842.pdf)
   [[code]](https://umbcvision.github.io/Universal-Litmus-Patterns/)
@@ -581,9 +585,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2109.02836.pdf)
   - Greg Fields, Mohammad Samragh, Mojan Javaheripi, Farinaz Koushanfar, and Tara Javidi. arXiv, 2021.
 
-- Black-box Detection of Backdoor Attacks with Limited Information and Data.
-  [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
-  - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. arXiv, 2021.
 
 - EX-RAY: Distinguishing Injected Backdoor from Natural Features in Neural Networks by Examining Differential Feature Symmetry.
   [[pdf]](https://arxiv.org/pdf/2103.08820.pdf)
