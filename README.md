@@ -333,7 +333,11 @@ Markdown format:
   [[code]](https://github.com/GeorgePisl/backdoor-attacks-based-on-deep-learning)
   - Xinyun Chen, Chang Liu, Bo Li, Kimberly Lu, and Dawn Song. arXiv, 2017.  
 
-### Non-poisoning-based Attack  
+### Non-poisoning-based Attack 
+- Manipulating SGD with Data Ordering Attacks.
+  [[pdf]](https://arxiv.org/pdf/2104.09667.pdf)
+  - Ilia Shumailov, Zakhar Shumaylov, Dmitry Kazhdan, Yiren Zhao, Nicolas Papernot, Murat A. Erdogdu, and Ross Anderson. *NeurIPS*, 2021.
+
 - An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2006.08131.pdf)
   [[code]](https://github.com/trx14/TrojanNet)
@@ -360,21 +364,17 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/35.pdf)
   - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
 
-- An Optimization Perspective on Realizing Backdoor Injection Attacks on Deep Neural Networks in Hardware.
-  [[pdf]](https://arxiv.org/pdf/2110.07683.pdf)
-  - M. Caner Tol, Saad Islam, Berk Sunar, and Ziming Zhang. arXiv, 2021.
-
 - How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
   [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
   - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. arXiv, 2021.
 
+- An Optimization Perspective on Realizing Backdoor Injection Attacks on Deep Neural Networks in Hardware.
+  [[pdf]](https://arxiv.org/pdf/2110.07683.pdf)
+  - M. Caner Tol, Saad Islam, Berk Sunar, and Ziming Zhang. arXiv, 2021.
+
 - Handcrafted Backdoors in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2106.04690.pdf)
   - Sanghyun Hong, Nicholas Carlini, and Alexey Kurakin. arXiv, 2021.
-
-- Manipulating SGD with Data Ordering Attacks.
-  [[pdf]](https://arxiv.org/pdf/2104.09667.pdf)
-  - Ilia Shumailov, Zakhar Shumaylov, Dmitry Kazhdan, Yiren Zhao, Nicolas Papernot, Murat A. Erdogdu, and Ross Anderson. arXiv, 2021.
 
 - Stealthy Backdoors as Compression Artifacts.
   [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
