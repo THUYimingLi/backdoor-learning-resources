@@ -362,6 +362,7 @@ Markdown format:
 
 - Subnet Replacement: Deployment-stage Backdoor Attack against Deep Neural Networks in Gray-box Setting.
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/35.pdf)
+  [[extension]](https://arxiv.org/pdf/2111.12965.pdf)
   - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
 
 - How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
