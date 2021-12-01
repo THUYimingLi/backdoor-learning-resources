@@ -769,7 +769,7 @@ Markdown format:
 #### Certificated Defense
 - Deep Partition Aggregation: Provable Defense against General Poisoning Attacks
   [[pdf]](https://arxiv.org/abs/2006.14768)
-  -Alexander Levine, Soheil Feizi. *ICLR*, 2021.
+  - Alexander Levine, Soheil Feizi. *ICLR*, 2021.
   
 - Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks
   [[pdf]](https://arxiv.org/abs/2008.04495)
