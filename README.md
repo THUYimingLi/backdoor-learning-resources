@@ -1229,6 +1229,10 @@ Markdown format:
 
 
 ## Discussion and Evaluation
+- Defending against Model Stealing via Verifying Embedded External Features.
+  [[pdf]](https://www.researchgate.net/publication/356717751_Defending_against_Model_Stealing_via_Verifying_Embedded_External_Features)
+  - Yiming Li, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, and Xiaochun Cao. *AAAI*, 2022. (Discuss the limitations of using backdoor attacks for model watermarking)
+
 - Excess Capacity and Backdoor Poisoning.
   [[pdf]](https://arxiv.org/pdf/2109.00685.pdf)
   - Naren Sarayu Manoj and Avrim Blum. *NeurIPS*, 2021.
