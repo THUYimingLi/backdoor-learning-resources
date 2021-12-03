@@ -769,16 +769,16 @@ Markdown format:
 #### Certificated Defense
 - Deep Partition Aggregation: Provable Defense against General Poisoning Attacks
   [[pdf]](https://arxiv.org/abs/2006.14768)
-  - Alexander Levine, Soheil Feizi. *ICLR*, 2021.
+  - Alexander Levine and Soheil Feizi. *ICLR*, 2021.
   
 - Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks
   [[pdf]](https://arxiv.org/abs/2008.04495)
   [[code]](https://github.com/jjy1994/BaggingCertifyDataPoisoning)
-  - Jinyuan Jia, Xiaoyu Cao, Neil Zhenqiang Gong. *AAAI*, 2021.
+  - Jinyuan Jia, Xiaoyu Cao, and Neil Zhenqiang Gong. *AAAI*, 2021.
 
 - Certified Robustness to Label-Flipping Attacks via Randomized Smoothing.
   [[pdf]](https://arxiv.org/pdf/2002.03018.pdf)
-  - Elan Rosenfeld, Ezra Winston, Pradeep Ravikumar, J. Zico Kolter. *ICML*, 2020.
+  - Elan Rosenfeld, Ezra Winston, Pradeep Ravikumar, and J. Zico Kolter. *ICML*, 2020.
 
 - On Certifying Robustness against Backdoor Attacks via Randomized Smoothing.
   [[pdf]](https://arxiv.org/pdf/2002.11750.pdf)
