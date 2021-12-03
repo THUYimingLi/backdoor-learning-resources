@@ -1157,6 +1157,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2101.00008.pdf)
   - Munachiso Nwadike, Takumi Miyawaki, Esha Sarkar, Michail Maniatakos, and Farah Shamout. *AAAI Workshop*, 2021.
 
+- FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis.
+  [[pdf]](https://arxiv.org/pdf/2112.01148.pdf)
+  - Yu Feng, Benteng Ma, Jing Zhang, Shanshan Zhao, Yong Xia, and Dacheng Tao. arXiv, 2021.
+
 - TRAPDOOR: Repurposing Backdoors to Detect Dataset Bias in Machine Learning-based Genomic Analysis.
   [[pdf]](https://arxiv.org/pdf/2108.10132.pdf)
   - Esha Sarkar and Michail Maniatakos. arXiv, 2021.
