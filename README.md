@@ -1244,6 +1244,7 @@ Markdown format:
 ## Discussion and Evaluation
 - Defending against Model Stealing via Verifying Embedded External Features.
   [[pdf]](https://www.researchgate.net/publication/356717751_Defending_against_Model_Stealing_via_Verifying_Embedded_External_Features)
+  [[code]](https://github.com/zlh-thu/StealingVerification) 
   - Yiming Li, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, and Xiaochun Cao. *AAAI*, 2022. (Discuss the limitations of using backdoor attacks for model watermarking)
 
 - Excess Capacity and Backdoor Poisoning.
@@ -1305,7 +1306,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
   [[code]](https://github.com/ain-soph/trojanzoo)
   - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. arXiv, 2020.
-
 
 - Poisoned Classifiers are Not Only Backdoored, They are Fundamentally Broken.
   [[pdf]](https://arxiv.org/pdf/2010.09080.pdf)
