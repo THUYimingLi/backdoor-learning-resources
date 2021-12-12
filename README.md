@@ -136,6 +136,10 @@ Markdown format:
   [[code]](https://github.com/yuezunli/ISSBA)
   - Yuezun Li, Yiming Li, Baoyuan Wu, Longkang Li, Ran He, and Siwei Lyu. *ICCV*, 2021.
 
+- Manipulating SGD with Data Ordering Attacks.
+  [[pdf]](https://arxiv.org/pdf/2104.09667.pdf)
+  - Ilia Shumailov, Zakhar Shumaylov, Dmitry Kazhdan, Yiren Zhao, Nicolas Papernot, Murat A. Erdogdu, and Ross Anderson. *NeurIPS*, 2021.
+
 - Backdoor Attack with Imperceptible Input and Latent Modification.
   [[pdf]](https://proceedings.neurips.cc/paper/2021/file/9d99197e2ebf03fc388d09f1e94af89b-Paper.pdf)
   - Khoa Doan, Yingjie Lao, and Ping Li. *NeurIPS*, 2021.
@@ -334,10 +338,6 @@ Markdown format:
   - Xinyun Chen, Chang Liu, Bo Li, Kimberly Lu, and Dawn Song. arXiv, 2017.  
 
 ### Non-poisoning-based Attack 
-- Manipulating SGD with Data Ordering Attacks.
-  [[pdf]](https://arxiv.org/pdf/2104.09667.pdf)
-  - Ilia Shumailov, Zakhar Shumaylov, Dmitry Kazhdan, Yiren Zhao, Nicolas Papernot, Murat A. Erdogdu, and Ross Anderson. *NeurIPS*, 2021.
-
 - An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2006.08131.pdf)
   [[code]](https://github.com/trx14/TrojanNet)
