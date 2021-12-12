@@ -42,6 +42,8 @@ Markdown format:
 - [Image and Video Classification](#image-and-video-classification) 
   - [Poisoning-based Attack](#poisoning-based-attack)
   - [Non-poisoning-based Attack](#non-poisoning-based-attack)
+    - [Weights-oriented Attack](#weights-oriented-attack)
+    - [Structure-modified Attack](#structure-modified-attack)
   - [Backdoor Defense](#backdoor-defense)
     - [Preprocessing based Empirical Defense](#preprocessing-based-empirical-defense)
     - [Model Reconstruction based Empirical Defense](#model-reconstruction-based-empirical-defense)
@@ -361,7 +363,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
   - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv, 2020.
 
- - Backdooring Convolutional Neural Networks via Targeted Weight Perturbations.
+- Backdooring Convolutional Neural Networks via Targeted Weight Perturbations.
   [[pdf]](https://arxiv.org/pdf/1812.03128.pdf)
   - Jacob Dumford, and Walter Scheirer. arXiv, 2018.
  
@@ -385,11 +387,6 @@ Markdown format:
 - Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2010.03282.pdf)
   - Ahmed Salem, Michael Backes, and Yang Zhang. arXiv, 2020.
-
-- Stealthy Backdoors as Compression Artifacts.
-  [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
-  - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
-
 
 
   
@@ -989,6 +986,10 @@ Markdown format:
 - Quantization Backdoors to Deep Learning Models.
   [[pdf]](https://arxiv.org/pdf/2108.09187.pdf)
   - Hua Ma, Huming Qiu, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said Al-Sarawi, and Derek Abbott. arXiv, 2021.
+
+- Stealthy Backdoors as Compression Artifacts.
+  [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
+  - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
 
 
 ### Natural Language Processing 
