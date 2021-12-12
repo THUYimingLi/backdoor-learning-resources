@@ -44,6 +44,7 @@ Markdown format:
   - [Non-poisoning-based Attack](#non-poisoning-based-attack)
     - [Weights-oriented Attack](#weights-oriented-attack)
     - [Structure-modified Attack](#structure-modified-attack)
+    - [Others](#others)
   - [Backdoor Defense](#backdoor-defense)
     - [Preprocessing based Empirical Defense](#preprocessing-based-empirical-defense)
     - [Model Reconstruction based Empirical Defense](#model-reconstruction-based-empirical-defense)
@@ -341,7 +342,7 @@ Markdown format:
   - Xinyun Chen, Chang Liu, Bo Li, Kimberly Lu, and Dawn Song. arXiv, 2017.  
 
 ### Non-poisoning-based Attack 
-#### Weights-oriented Backdoor Attacks
+#### Weights-oriented Attack
 - ProFlip: Targeted Trojan Attack with Progressive Bit Flips. 
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ProFlip_Targeted_Trojan_Attack_With_Progressive_Bit_Flips_ICCV_2021_paper.pdf)
   - Huili Chen, Cheng Fu, Jishen Zhao, and Farinaz Koushanfar. *ICCV*, 2021.
@@ -368,7 +369,7 @@ Markdown format:
   - Jacob Dumford, and Walter Scheirer. arXiv, 2018.
  
  
- #### Structure-modified Backdoor Attacks
+ #### Structure-modified Attack
 - DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection.
   [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
   - Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, and Yunxin Liu. *ICSE*, 2021.
