@@ -97,6 +97,7 @@ Markdown format:
   [[pdf]](https://manuscriptlink-society-file.s3.ap-northeast-1.amazonaws.com/kiisc/conference/mobisec2021/abs/7-1.pdf)
   - Wei Zong, Yang-Wai Chow, Willy Susilo, and Jongkil Kim. *MobiSec*, 2021.
 
+
 ## Dissertation and Thesis
 - Toward Robust and Communication Efficient Distributed Machine Learning.
   [[pdf]](https://www.proquest.com/docview/2572595657)
@@ -338,11 +339,7 @@ Markdown format:
   - Xinyun Chen, Chang Liu, Bo Li, Kimberly Lu, and Dawn Song. arXiv, 2017.  
 
 ### Non-poisoning-based Attack 
-- An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2006.08131.pdf)
-  [[code]](https://github.com/trx14/TrojanNet)
-  - Ruixiang Tang, Mengnan Du, Ninghao Liu, Fan Yang, and Xia Hu. *KDD*, 2020.
-
+#### Weights-oriented Backdoor Attacks
 - ProFlip: Targeted Trojan Attack with Progressive Bit Flips. 
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ProFlip_Targeted_Trojan_Attack_With_Progressive_Bit_Flips_ICCV_2021_paper.pdf)
   - Huili Chen, Cheng Fu, Jishen Zhao, and Farinaz Koushanfar. *ICCV*, 2021.
@@ -356,42 +353,45 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
   - Siddhant Garg, Adarsh Kumar, Vibhor Goel, and Yingyu Liang. *CIKM*, 2020.
 
+- How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
+  [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
+  - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. arXiv, 2021.
+
+- TrojanNet: Embedding Hidden Trojan Horse Models in Neural Network.
+  [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
+  - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv, 2020.
+
+ - Backdooring Convolutional Neural Networks via Targeted Weight Perturbations.
+  [[pdf]](https://arxiv.org/pdf/1812.03128.pdf)
+  - Jacob Dumford, and Walter Scheirer. arXiv, 2018.
+ 
+ 
+ #### Structure-modified Backdoor Attacks
 - DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection.
   [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
   - Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, and Yunxin Liu. *ICSE*, 2021.
+ 
+- An Embarrassingly Simple Approach for Trojan Attack in Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2006.08131.pdf)
+  [[code]](https://github.com/trx14/TrojanNet)
+  - Ruixiang Tang, Mengnan Du, Ninghao Liu, Fan Yang, and Xia Hu. *KDD*, 2020.
 
 - Subnet Replacement: Deployment-stage Backdoor Attack against Deep Neural Networks in Gray-box Setting.
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/35.pdf)
   [[extension]](https://arxiv.org/pdf/2111.12965.pdf)
   - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
 
-- How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
-  [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
-  - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. arXiv, 2021.
-
-- An Optimization Perspective on Realizing Backdoor Injection Attacks on Deep Neural Networks in Hardware.
-  [[pdf]](https://arxiv.org/pdf/2110.07683.pdf)
-  - M. Caner Tol, Saad Islam, Berk Sunar, and Ziming Zhang. arXiv, 2021.
-
-- Handcrafted Backdoors in Deep Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2106.04690.pdf)
-  - Sanghyun Hong, Nicholas Carlini, and Alexey Kurakin. arXiv, 2021.
+#### Others
+- Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2010.03282.pdf)
+  - Ahmed Salem, Michael Backes, and Yang Zhang. arXiv, 2020.
 
 - Stealthy Backdoors as Compression Artifacts.
   [[pdf]](https://arxiv.org/pdf/2104.15129.pdf) 
   - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
 
-- TrojanNet: Embedding Hidden Trojan Horse Models in Neural Network.
-  [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
-  - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv, 2020.
 
-- Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2010.03282.pdf)
-  - Ahmed Salem, Michael Backes, and Yang Zhang. arXiv, 2020.
 
-- Backdooring Convolutional Neural Networks via Targeted Weight Perturbations.
-  [[pdf]](https://arxiv.org/pdf/1812.03128.pdf)
-  - Jacob Dumford, and Walter Scheirer. arXiv, 2018.
   
 ### Backdoor Defense
 #### Preprocessing based Empirical Defense
