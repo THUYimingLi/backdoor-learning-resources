@@ -803,6 +803,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
   - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS*, 2020 (arXiv, 2018).
 
+- Defending Label Inference and Backdoor Attacks in Vertical Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2112.05409.pdf)
+  - Yang Liu, Zhihao Yi, Yan Kang, Yuanqin He, Wenhan Liu, Tianyuan Zou, and Qiang Yang. *AAAI*, 2022.
+
 - Stability-Based Analysis and Defense against Backdoor Attacks on Edge Computing Services.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9354927)
   - Yi Zhao, Ke Xu, Haiyang Wang, Bo Li, and Ruoxi Jia. *IEEE Network*, 2021.
@@ -1064,6 +1068,10 @@ Markdown format:
 - Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
+
+- Spinning Language Models for Propaganda-As-A-Service.
+  [[pdf]](https://arxiv.org/pdf/2112.05224.pdf)
+  - Eugene Bagdasaryan and Vitaly Shmatikov. arXiv, 2021.
 
 - Triggerless Backdoor Attack for NLP Tasks with Clean Labels.
   [[pdf]](https://arxiv.org/pdf/2111.07970.pdf)
