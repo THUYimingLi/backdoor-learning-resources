@@ -428,6 +428,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9530722/)
   - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, and Ziwei Song. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
 
+- Boundary augment: A data augment method to defend poison attack.
+  [[link]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)
+  - Xuan Chen, Yuena Ma, Shiwei Lu, and Yu Yao. *IET Image Processing*, 2021.
+
 - Adversarial Neuron Pruning Purifies Backdoored Deep Models.
   [[pdf]](https://arxiv.org/pdf/2110.14430.pdf)
   [[code]](https://github.com/csdongxian/ANP_backdoor)
@@ -631,10 +635,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07116.pdf)
   [[code]](https://www.dropbox.com/sh/rt8qzii7wr07g6n/AAAbwokv2sfBeE9XAL2pXv_Aa?dl=0)
   - Min Du, Ruoxi Jia, and Dawn Song. *ICLR*, 2020.  
-
-- Boundary augment: A data augment method to defend poison attack.
-  [[link]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)
-  - Xuan Chen, Yuena Ma, Shiwei Lu, and Yu Yao. *IET Image Processing*, 2021.
 
 - Strong Data Augmentation Sanitizes Poisoning and Backdoor Attacks Without an Accuracy Trade-off.
   [[pdf]](https://arxiv.org/pdf/2011.09527.pdf)
