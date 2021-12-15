@@ -646,7 +646,7 @@ Markdown format:
 
 - Removing Backdoor-Based Watermarks in Neural Networks with Limited Data.
   [[pdf]](https://arxiv.org/pdf/2008.00407.pdf)
-  - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. *ICIP*, 2021. 
+  - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. *ICPR*, 2021. 
 
 - SanitAIs: Unsupervised Data Augmentation to Sanitize Trojaned Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2109.04566.pdf)
