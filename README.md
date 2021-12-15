@@ -1210,6 +1210,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
 
+- Dual-Key Multimodal Backdoors for Visual Question Answering.
+  [[pdf]](https://arxiv.org/pdf/2112.07668.pdf)
+  - Matthew Walmer, Karan Sikka, Indranil Sur, Abhinav Shrivastava, and Susmit Jha. arXiv, 2021.
+
 - Clean-label Backdoor Attack against Deep Hashing based Retrieval.
   [[pdf]](https://arxiv.org/pdf/2109.08868.pdf)
   - Kuofeng Gao, Jiawang Bai, Bin Chen, Dongxian Wu, and Shu-Tao Xia. arXiv, 2021.
