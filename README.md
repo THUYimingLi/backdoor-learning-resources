@@ -988,6 +988,10 @@ Markdown format:
   [[code]](https://github.com/Secure-AI-Systems-Group/Qu-ANTI-zation)
   - Sanghyun Hong, Michael-Andrei Panaitescu-Liess, Yiğitcan Kaya, and Tudor Dumitraş. *NeurIPS*, 2021.
 
+- Understanding the Threats of Trojaned Quantized Neural Network in Model Supply Chains.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3485832.3485881)
+  - Xudong Pan, Mi Zhang, Yifan Yan, and Min Yang. *ACSAC*, 2021
+
 - Quantization Backdoors to Deep Learning Models.
   [[pdf]](https://arxiv.org/pdf/2108.09187.pdf)
   - Hua Ma, Huming Qiu, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said Al-Sarawi, and Derek Abbott. arXiv, 2021.
