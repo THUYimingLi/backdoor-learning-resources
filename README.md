@@ -1006,6 +1006,11 @@ Markdown format:
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0167404821002571)
   - Kun Shao, Junan Yang, Yang Ai, Hui Liu, and Yu Zhang. *Computers & Security*, 2021.
 
+- BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3485832.3485837)
+  [[arXiv-20]](https://arxiv.org/pdf/2006.01043.pdf)
+  - Xiaoyi Chen, Ahmed Salem, Dingfan Chen, Michael Backes, Shiqing Ma, Qingni Shen, Zhonghai Wu, and Yang Zhang. *ACSAC*, 2021.
+
 - Backdoor Attacks on Pre-trained Models by Layerwise Weight Poisoning.
   [[pdf]](https://arxiv.org/pdf/2108.13888.pdf)
   - Linyang Li, Demin Song, Xiaonan Li, Jiehang Zeng, Ruotian Ma, and Xipeng Qiu. *EMNLP*, 2021.
@@ -1113,10 +1118,6 @@ Markdown format:
 - Trojaning Language Models for Fun and Profit.
   [[pdf]](https://arxiv.org/pdf/2008.00312.pdf)
   - Xinyang Zhang, Zheng Zhang, and Ting Wang. arXiv, 2020.
-
-- BadNL: Backdoor Attacks Against NLP Models.
-  [[pdf]](https://arxiv.org/pdf/2006.01043.pdf)
-  - Xiaoyi Chen, Ahmed Salem, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv, 2020.
 
 
 
