@@ -1345,9 +1345,9 @@ Markdown format:
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv, 2020.
 
 ## Backdoor Attack for Positive Purposes
-- Open-sourced Dataset Protection via Backdoor Watermarking.
-  [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
-  - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *NeurIPS Workshop*, 2020.
+- What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
+  [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
+  - Yi-Shan Lin, Wen-Chuan Lee, and Z. Berkay Celik. *KDD*, 2021.
 
 - Using Honeypots to Catch Adversarial Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/1904.08554.pdf)
@@ -1357,6 +1357,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1802.04633.pdf)
   [[code]](https://github.com/adiyoss/WatermarkNN)
   - Yossi Adi, Carsten Baum, Moustapha Cisse, Benny Pinkas, and Joseph Keshet. *USENIX Security*, 2018. 
+
+- Open-sourced Dataset Protection via Backdoor Watermarking.
+  [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
+  - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *NeurIPS Workshop*, 2020.
 
 - Watermarking Graph Neural Networks based on Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2110.11024.pdf)
@@ -1373,10 +1377,6 @@ Markdown format:
 - A Stealthy and Robust Fingerprinting Scheme for Generative Models.
   [[pdf]](https://arxiv.org/pdf/2106.11760.pdf)
   - Guanlin Li, Shangwei Guo, Run Wang, Guowen Xu, and Tianwei Zhang. arXiv, 2021.
-
-- What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
-  [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
-  - Yi-Shan Lin, Wen-Chuan Lee, and Z. Berkay Celik. arXiv, 2020.
 
 - Towards Probabilistic Verification of Machine Unlearning.
   [[pdf]](https://arxiv.org/pdf/2003.04247.pdf)
