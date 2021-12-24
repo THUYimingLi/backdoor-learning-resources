@@ -1386,9 +1386,10 @@ Markdown format:
  
 
 ## Toolbox
+- [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox)
 - [TrojanZoo](https://github.com/ain-soph/trojanzoo)
 - [backdoors101](https://github.com/ebagdasa/backdoors101)
-- [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox)
+
 
 ## Competition
 - [IARPA TrojAI Competition](https://pages.nist.gov/trojai/docs/about.html)
