@@ -113,6 +113,10 @@ Markdown format:
 - Countermeasures Against Backdoor, Data Poisoning, and Adversarial Attacks.
   [[pdf]](https://www.proquest.com/docview/2572565404)
   - Henry Daniel. *Ph.D. Dissertation at University of Texas at San Antonio*, 2021.
+ 
+- Understanding and Mitigating the Impact of Backdooring Attacks on Deep Neural Networks.
+  [[pdf]](https://www.proquest.com/docview/2555308945?pq-origsite=gscholar&fromopenview=true)
+  - Kang Liu. *Ph.D. Dissertation at New York University*, May 2021.
 
 - Backdoor Defenses.
   [[pdf]](https://repositum.tuwien.at/bitstream/20.500.12708/18831/1/Milakovic%20Andrea%20-%202021%20-%20Backdoor%20defenses.pdf)
@@ -129,8 +133,6 @@ Markdown format:
 - Backdoor Attacks Against Deep Learning Systems in the Physical World.
   [[pdf]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
   - Emily Wenger. *Master Thesis at University of Chicago*, 2020.
-
-
 
 ## Image and Video Classification
 ### Poisoning-based Attack
@@ -857,6 +859,10 @@ Markdown format:
 - On Provable Backdoor Defense in Collaborative Learning.
   [[pdf]](https://arxiv.org/pdf/2101.08177.pdf)
   - Ximing Qiao, Yuhua Bai, Siping Hu, Ang Li, Yiran Chen, and Hai Li. arXiv, 2021.
+
+- SparseFed: Mitigating Model Poisoning Attacks in Federated Learning with Sparsification.
+  [[pdf]](https://arxiv.org/pdf/2112.06274.pdf)
+  - Ashwinee Panda, Saeed Mahloujifar, Arjun N. Bhagoji, Supriyo Chakraborty, and Prateek Mittal. arXiv, 2021.
 
 - Robust Federated Learning with Attack-Adaptive Aggregation.
   [[pdf]](https://arxiv.org/pdf/2102.05257.pdf)
