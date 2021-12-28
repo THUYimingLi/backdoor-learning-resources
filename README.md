@@ -530,6 +530,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2110.14880.pdf)
   - Junfeng Guo, Ang Li, and Cong Liu. arXiv, 2021.
 
+- CatchBackdoor: Backdoor Testing by Critical Trojan Neural Path Identification via Differential Fuzzing.
+  [[pdf]](https://arxiv.org/pdf/2112.13064.pdf)
+  - Haibo Jin, Ruoxi Chen, Jinyin Chen, Yao Cheng, Chong Fu, Ting Wang, Yue Yu, and Zhaoyan Ming. arXiv, 2021.
+
 - Detect and Remove Watermark in Deep Neural Networks via Generative Adversarial Networks.
   [[pdf]](https://arxiv.org/pdf/2106.08104.pdf)
   - Haoqi Wang, Mingfu Xue, Shichang Sun, Yushu Zhang, Jian Wang, and Weiqiang Liu. arXiv, 2021.
