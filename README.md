@@ -1368,6 +1368,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
   - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *NeurIPS Workshop*, 2020.
 
+- Protecting Deep Cerebrospinal Fluid Cell Image Processing Models with Backdoor and Semi-Distillation.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9647115)
+  - FangQi Li, Shilin Wang, and Zhenhai Wang. *DICTA*, 2021.
+
 - Watermarking Graph Neural Networks based on Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2110.11024.pdf)
   - Jing Xu and Stjepan Picek. arXiv, 2021.
