@@ -205,6 +205,9 @@ Markdown format:
   [[code]](https://github.com/928082786/pnoiseattack)
   - Xuan Chen, Yuena Ma, and Shiwei Lu. *IEEE Access*, 2021.
 
+- A Multitarget Backdooring Attack on Deep Neural Networks with Random Location Trigger.
+  [[link]](https://onlinelibrary.wiley.com/doi/abs/10.1002/int.22785)
+  - Xiao Yu, Cong Liu, Mingwen Zheng, Yajie Wang, Xinrui Liu, Shuxiao Song, Yuexuan Ma, and Jun Zheng. *International Journal of Intelligent Systems*, 2021.
 
 - Simtrojan: Stealthy Backdoor Attack.
   [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506313)
