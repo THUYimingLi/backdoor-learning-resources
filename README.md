@@ -136,6 +136,12 @@ Markdown format:
 
 ## Image and Video Classification
 ### Poisoning-based Attack
+#### 2022
+- Compression-Resistant Backdoor Attack against Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2201.00672.pdf)
+  - Mingfu Xue, Xin Wang, Shichang Sun, Yushu Zhang, Jian Wang, and Weiqiang Liu. arXiv, 2022.
+
+
 #### 2021 
 - Invisible Backdoor Attack with Sample-Specific Triggers.
   [[pdf]](https://arxiv.org/pdf/2012.03816.pdf)
@@ -528,6 +534,10 @@ Markdown format:
 - Revealing Perceptible Backdoors in DNNs Without the Training Set via the Maximum Achievable Misclassification Fraction Statistic.
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
   - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
+
+- Few-shot Backdoor Defense Using Shapley Estimation.
+  [[pdf]](https://arxiv.org/pdf/2112.14889.pdf)
+  - Jiyang Guan, Zhuozhuo Tu, Ran He, and Dacheng Tao. arXiv, 2021.
 
 - AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis.
   [[pdf]](https://arxiv.org/pdf/2110.14880.pdf)
