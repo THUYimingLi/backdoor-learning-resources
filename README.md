@@ -317,9 +317,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2009.06996.pdf)
   - Haoliang Li, Yufei Wang, Xiaofei Xie, Yang Liu, Shiqi Wang, Renjie Wan, Lap-Pui Chau, and Alex C. Kot. arXiv, 2020.
 
-- Class-Oriented Poisoning Attack.
-  [[pdf]](https://arxiv.org/pdf/2008.00047.pdf)
-  - Bingyin Zhao, and Yingjie Lao. arXiv, 2020.
 
 - Dynamic Backdoor Attacks Against Machine Learning Models. 
   [[pdf]](https://arxiv.org/pdf/2003.03675.pdf)
