@@ -822,6 +822,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
   - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS*, 2020 (arXiv, 2018).
 
+- DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection.
+  [[pdf]](https://arxiv.org/pdf/2201.00763.pdf)
+  - Phillip Rieger, Thien Duc Nguyen, Markus Miettinen, and Ahmad-Reza Sadeghi. *NDSS*, 2022.
+
 - Defending Label Inference and Backdoor Attacks in Vertical Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2112.05409.pdf)
   - Yang Liu, Zhihao Yi, Yan Kang, Yuanqin He, Wenhan Liu, Tianyuan Zou, and Qiang Yang. *AAAI*, 2022.
