@@ -698,6 +698,10 @@ Markdown format:
   [[code]](https://github.com/SewoongLab/spectre-defense)
   - Jonathan Hayase, Weihao Kong, Raghav Somani, and Sewoong Oh. *ICML*, 2021.
 
+- A Feature-Based On-Line Detector to Remove Adversarial-Backdoors by Iterative Demarcation.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9673744)
+  - Hao Fu, Akshaj Kumar Veldanda, Prashanth Krishnamurthy, Siddharth Garg, and Farshad Khorrami. *IEEE ACCESS*, 2022.
+
 - CLEANN: Accelerated Trojan Shield for Embedded Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2009.02326.pdf)
   - Mojan Javaheripi, Mohammad Samragh, Gregory Fields, Tara Javidi, and Farinaz Koushanfar. *ICCAD*, 2020.
