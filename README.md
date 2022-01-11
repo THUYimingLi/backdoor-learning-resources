@@ -1102,6 +1102,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- Rethink Stealthy Backdoor Attacks in Natural Language Processing.
+  [[pdf]](https://arxiv.org/pdf/2201.02993.pdf)
+  - Lingfeng Shen, Haiyun Jiang, Lemao Liu, and Shuming Shi. arXiv, 2022.
+
 - Spinning Language Models for Propaganda-As-A-Service.
   [[pdf]](https://arxiv.org/pdf/2112.05224.pdf)
   - Eugene Bagdasaryan and Vitaly Shmatikov. arXiv, 2021.
