@@ -76,13 +76,21 @@ Markdown format:
   [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
   - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
 
-- Data Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses.
-  [[pdf]](https://arxiv.org/pdf/2012.10544.pdf)
-  - Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, and Tom Goldstein. arXiv, 2020.
-
 - Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
   [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
   - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
+
+- Defense against Neural Trojan Attacks: A Survey.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0925231220316350)
+  - Sara Kaviani and Insoo Sohn. *Neurocomputing*, 2021.
+
+- A Survey on Neural Trojans. 
+  [[pdf]](https://eprint.iacr.org/2020/201.pdf)
+  - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. *ISQED*, 2020.
+
+- Data Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses.
+  [[pdf]](https://arxiv.org/pdf/2012.10544.pdf)
+  - Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, and Tom Goldstein. arXiv, 2020.
 
 - An Overview of Backdoor Attacks Against Deep Neural Networks and Possible Defences.
   [[pdf]](https://arxiv.org/pdf/2111.08429.pdf)
@@ -92,13 +100,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.08273.pdf)
   - Shaofeng Li, Shiqing Ma, Minhui Xue, and Benjamin Zi Hao Zhao. arXiv, 2020.
 
-- A Survey on Neural Trojans. 
-  [[pdf]](https://eprint.iacr.org/2020/201.pdf)
-  - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. *ISQED*, 2020.
 
-- Trojan Attacks and Defense for Speech Recognition.
-  [[pdf]](https://manuscriptlink-society-file.s3.ap-northeast-1.amazonaws.com/kiisc/conference/mobisec2021/abs/7-1.pdf)
-  - Wei Zong, Yang-Wai Chow, Willy Susilo, and Jongkil Kim. *MobiSec*, 2021.
 
 
 ## Dissertation and Thesis
