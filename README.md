@@ -879,6 +879,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- Model Transferring Attacks to Backdoor HyperNetwork in Personalized Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2201.07063.pdf)
+  - Phung Lai, NhatHai Phan, Abdallah Khreishah, Issa Khalil, and Xintao Wu. arXiv, 2022.
 
 - Backdoor Attacks on Federated Learning with Lottery Ticket Hypothesis.
   [[pdf]](https://arxiv.org/pdf/2109.10512.pdf)
@@ -1172,6 +1175,10 @@ Markdown format:
 - Backdoor Attacks to Graph Neural Networks. 
   [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *NeurIPS Workshop*, 2020.  
+
+- Neighboring Backdoor Attacks on Graph Convolutional Network.
+  [[pdf]](https://arxiv.org/pdf/2201.06202.pdf)
+  - Liang Chen, Qibiao Peng, Jintang Li, Yang Liu, Jiawei Chen, Yong Li, and Zibin Zheng. arXiv, 2022.
 
 - Dyn-Backdoor: Backdoor Attack on Dynamic Link Prediction.
   [[pdf]](https://arxiv.org/pdf/2110.03875.pdf)
