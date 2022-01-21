@@ -1010,6 +1010,10 @@ Markdown format:
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/17266)
   - Zhicong Yan, Gaolei Li, Yuan Tian, Jun Wu, Shenghong Li, Mingzhe Chen, and H. Vincent Poor. *AAAI*, 2021.
 
+- Watermarking Pre-trained Encoders in Contrastive Learning.
+  [[pdf]](https://arxiv.org/pdf/2201.08217.pdf)
+  - Yutong Wu, Han Qiu, Tianwei Zhang, Jiwei L, and Meikang Qiu. arXiv, 2022.
+
 - Poisoning and Backdooring Contrastive Learning.
   [[pdf]](https://arxiv.org/pdf/2106.09667.pdf)
   - Nicholas Carlini and Andreas Terzis. arXiv, 2021.
