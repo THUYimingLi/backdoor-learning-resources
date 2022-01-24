@@ -1274,6 +1274,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
 
+- Dangerous Cloaking: Natural Trigger based Backdoor Attacks on Object Detectors in the Physical World.
+  [[pdf]](https://arxiv.org/pdf/2201.08619)
+  - Hua Ma, Yinshan Li, Yansong Gao, Alsharif Abuadbba, Zhi Zhang, Anmin Fu, Hyoungshick Kim, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. arXiv, 2022.
+
 - Dual-Key Multimodal Backdoors for Visual Question Answering.
   [[pdf]](https://arxiv.org/pdf/2112.07668.pdf)
   - Matthew Walmer, Karan Sikka, Indranil Sur, Abhinav Shrivastava, and Susmit Jha. arXiv, 2021.
