@@ -647,6 +647,11 @@ Markdown format:
 
 
 #### Poison Suppression based Empirical Defense
+- Backdoor Defense via Decoupling the Training Process.
+  [[pdf]](https://openreview.net/pdf?id=TySnJ-0RdKI)
+  [[code]](https://github.com/hkunzhe/DBD)
+  - Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, and Kui Ren. *ICLR*, 2022.
+
 - Anti-Backdoor Learning: Training Clean Models on Poisoned Data.
   [[pdf]](https://arxiv.org/pdf/2110.11571.pdf)
   [[code]](https://github.com/bboylyg/ABL)
@@ -1240,6 +1245,11 @@ Markdown format:
 
 
 ### Others
+- Few-Shot Backdoor Attacks on Visual Object Tracking.
+  [[pdf]](https://openreview.net/pdf?id=qSV5CuSaK_a)
+  [[code]](https://github.com/HXZhong1997/FSBA)
+  - Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, and Shu-Tao Xia. *ICLR*, 2022.
+
 - Backdoor Attack on Machine Learning Based Android Malware Detectors.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
   - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
