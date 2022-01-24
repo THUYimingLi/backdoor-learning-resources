@@ -567,7 +567,11 @@ Markdown format:
   [[code]](https://github.com/akshajkumarv/NNoculation)
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
-#### Model Diagnosis based Empirical Defense  
+#### Model Diagnosis based Empirical Defense
+- Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios.
+  [[pdf]](https://arxiv.org/pdf/2201.08474.pdf)
+  - Zhen Xiang, David J. Miller, and George Kesidis. *ICLR*, 2022.
+
 - Detecting AI Trojans Using Meta Neural Analysis.
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
   - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. *IEEE S&P*, 2021.
@@ -1017,7 +1021,7 @@ Markdown format:
 
 - Watermarking Pre-trained Encoders in Contrastive Learning.
   [[pdf]](https://arxiv.org/pdf/2201.08217.pdf)
-  - Yutong Wu, Han Qiu, Tianwei Zhang, Jiwei L, and Meikang Qiu. arXiv, 2022.
+  - Yutong Wu, Han Qiu, Tianwei Zhang, Jiwei Li, and Meikang Qiu. arXiv, 2022.
 
 - Poisoning and Backdooring Contrastive Learning.
   [[pdf]](https://arxiv.org/pdf/2106.09667.pdf)
