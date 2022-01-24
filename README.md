@@ -1310,6 +1310,11 @@ Markdown format:
 
 
 ## Discussion and Evaluation
+- TROJANZOO: Everything You Ever Wanted to Know about Neural Backdoors (But were Afraid to Ask).
+  [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
+  [[code]](https://github.com/ain-soph/trojanzoo)
+  - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. *EuroS&P*, 2022.
+
 - Defending against Model Stealing via Verifying Embedded External Features.
   [[pdf]](https://www.researchgate.net/publication/356717751_Defending_against_Model_Stealing_via_Verifying_Embedded_External_Features)
   [[code]](https://github.com/zlh-thu/StealingVerification) 
@@ -1369,11 +1374,6 @@ Markdown format:
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.      
-
-- TROJANZOO: Everything You Ever Wanted to Know about Neural Backdoors (But were Afraid to Ask).
-  [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
-  [[code]](https://github.com/ain-soph/trojanzoo)
-  - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. arXiv, 2020.
 
 - Poisoned Classifiers are Not Only Backdoored, They are Fundamentally Broken.
   [[pdf]](https://arxiv.org/pdf/2010.09080.pdf)
