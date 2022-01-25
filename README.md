@@ -888,6 +888,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- Federated Unlearning with Knowledge Distillation.
+  [[pdf]](https://arxiv.org/pdf/2201.09441.pdf)
+  - Chen Wu, Sencun Zhu, and Prasenjit Mitra. arXiv, 2022.
+
 - Model Transferring Attacks to Backdoor HyperNetwork in Personalized Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2201.07063.pdf)
   - Phung Lai, NhatHai Phan, Abdallah Khreishah, Issa Khalil, and Xintao Wu. arXiv, 2022.
