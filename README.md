@@ -538,6 +538,10 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
   - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
 
+- Backdoor Defense with Machine Unlearning.
+  [[pdf]](https://arxiv.org/pdf/2201.09538.pdf)
+  - Yang Liu, Mingyuan Fan, Cen Chen, Ximeng Liu, Zhuo Ma, Li Wang, and Jianfeng Ma. arXiv, 2022.
+
 - Few-shot Backdoor Defense Using Shapley Estimation.
   [[pdf]](https://arxiv.org/pdf/2112.14889.pdf)
   - Jiyang Guan, Zhuozhuo Tu, Ran He, and Dacheng Tao. arXiv, 2021.
