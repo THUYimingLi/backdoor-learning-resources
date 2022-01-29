@@ -830,6 +830,10 @@ Markdown format:
 
 ## Attack and Defense Towards Other Paradigms and Tasks
 ### Collaborative Learning
+- Secure Partial Aggregation: Making FederatedLearning More Robust for Industry 4.0 Applications.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9692911)
+  - Jiqiang Gao, Baolei Zhang, Xiaojie Guo, Thar Baker, Min Li, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2022.
+
 - Privacy-Enhanced Federated Learning against Poisoning Adversaries.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9524709/)
   - Xiaoyuan Liu, Hongwei Li, Guowen Xu, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. *IEEE Transactions on Information Forensics and Security*, 2021.
