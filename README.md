@@ -493,6 +493,11 @@ Markdown format:
 
 
 #### Trigger Synthesis based Empirical Defense
+- AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis.
+  [[pdf]](https://arxiv.org/pdf/2110.14880.pdf)
+  [[code]](https://github.com/aeva-backdoor-deteciton/Aeva-Blackbox-Backdoor-Detection)
+  - Junfeng Guo, Ang Li, and Cong Liu. *ICLR*, 2022.
+
 - Detection of Backdoors in Trained Classiﬁers Without Access to the Training Set.
   [[pdf]](http://arxiv.org/pdf/1908.10498)
   - Z Xiang, DJ Miller, and G Kesidis. *IEEE Transactions on Neural Networks and Learning Systems*, 2020.
@@ -545,10 +550,6 @@ Markdown format:
 - Few-shot Backdoor Defense Using Shapley Estimation.
   [[pdf]](https://arxiv.org/pdf/2112.14889.pdf)
   - Jiyang Guan, Zhuozhuo Tu, Ran He, and Dacheng Tao. arXiv, 2021.
-
-- AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis.
-  [[pdf]](https://arxiv.org/pdf/2110.14880.pdf)
-  - Junfeng Guo, Ang Li, and Cong Liu. arXiv, 2021.
 
 - CatchBackdoor: Backdoor Testing by Critical Trojan Neural Path Identification via Differential Fuzzing.
   [[pdf]](https://arxiv.org/pdf/2112.13064.pdf)
