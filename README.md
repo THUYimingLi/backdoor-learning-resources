@@ -1066,11 +1066,15 @@ Markdown format:
 ### Natural Language Processing 
 - Text Backdoor Detection Using An Interpretable RNN Abstract Model.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9508422)
-  - Ming Fan, Ziliang Si, Xiaofei Xie, Yang Liu, and Ting Liu. IEEE Transactions on Information Forensics and Security, 2021.
+  - Ming Fan, Ziliang Si, Xiaofei Xie, Yang Liu, and Ting Liu. *IEEE Transactions on Information Forensics and Security*, 2021.
 
 - BDDR: An Effective Defense Against Textual Backdoor Attacks.
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0167404821002571)
   - Kun Shao, Junan Yang, Yang Ai, Hui Liu, and Yu Zhang. *Computers & Security*, 2021.
+
+- - BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.
+  [[pdf]](https://arxiv.org/pdf/2110.02467.pdf)
+  - Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, and Chun Fan. *ICLR*, 2022.
 
 - BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3485832.3485837)
@@ -1151,10 +1155,6 @@ Markdown format:
 - Triggerless Backdoor Attack for NLP Tasks with Clean Labels.
   [[pdf]](https://arxiv.org/pdf/2111.07970.pdf)
   - Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Shangwei Guo, and Chun Fan. arXiv, 2021.
-
-- BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.
-  [[pdf]](https://arxiv.org/pdf/2110.02467.pdf)
-  - Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, and Chun Fan. arXiv, 2021.
 
 - Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks.
   [[pdf]](https://arxiv.org/pdf/2110.08247.pdf)
