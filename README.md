@@ -1018,6 +1018,10 @@ Markdown format:
 
 
 ### Semi-Supervised and Self-Supervised Learning
+- Poisoning and Backdooring Contrastive Learning.
+  [[pdf]](https://arxiv.org/pdf/2106.09667.pdf)
+  - Nicholas Carlini and Andreas Terzis. *ICLR*, 2022.
+
 - BadEncoder: Backdoor Attacks to Pre-trained Encoders in Self-Supervised Learning.
   [[pdf]](https://arxiv.org/pdf/2108.00352.pdf)
   [[code]](https://github.com/jjy1994/BadEncoder)
@@ -1034,10 +1038,6 @@ Markdown format:
 - Watermarking Pre-trained Encoders in Contrastive Learning.
   [[pdf]](https://arxiv.org/pdf/2201.08217.pdf)
   - Yutong Wu, Han Qiu, Tianwei Zhang, Jiwei Li, and Meikang Qiu. arXiv, 2022.
-
-- Poisoning and Backdooring Contrastive Learning.
-  [[pdf]](https://arxiv.org/pdf/2106.09667.pdf)
-  - Nicholas Carlini and Andreas Terzis. arXiv, 2021.
 
 - Backdoor Attacks on Self-Supervised Learning.
   [[pdf]](https://arxiv.org/pdf/2105.10123)
