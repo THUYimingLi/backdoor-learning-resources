@@ -1340,6 +1340,10 @@ Markdown format:
 
 
 ## Discussion and Evaluation
+- How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
+  [[pdf]](https://openreview.net/pdf?id=Bn09TnDngN)
+  - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. *ICLR*, 2022.
+
 - TROJANZOO: Everything You Ever Wanted to Know about Neural Backdoors (But were Afraid to Ask).
   [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
   [[code]](https://github.com/ain-soph/trojanzoo)
@@ -1388,10 +1392,6 @@ Markdown format:
 - On Evaluating Neural Network Backdoor Defenses.
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
-
-- How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
-  [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
-  - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. arXiv, 2021.
 
 - Widen The Backdoor To Let More Attackers In.
   [[pdf]](https://arxiv.org/pdf/2110.04571.pdf)
