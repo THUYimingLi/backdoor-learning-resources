@@ -577,6 +577,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2201.08474.pdf)
   - Zhen Xiang, David J. Miller, and George Kesidis. *ICLR*, 2022.
 
+- Trigger Hunting with a Topological Prior for Trojan Detection.
+  [[pdf]](https://arxiv.org/pdf/2110.08335.pdf)
+  - Xiaoling Hu, Xiao Lin, Michael Cogswell, Yi Yao, Susmit Jha, and Chao Chen. *ICLR*, 2022.
+
 - Detecting AI Trojans Using Meta Neural Analysis.
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
   - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. *IEEE S&P*, 2021.
@@ -611,14 +615,10 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/17.pdf)
   - Peter Bajcsy and Michael Majurski. *ICLR Workshop*, 2021.
 
-- Trigger Hunting with a Topological Prior for Trojan Detection.
-  [[pdf]](https://arxiv.org/pdf/2110.08335.pdf)
-  - Xiaoling Hu, Xiao Lin, Michael Cogswell, Yi Yao, Susmit Jha, and Chao Chen. arXiv, 2021.
 
 - Trojan Signatures in DNN Weights.
   [[pdf]](https://arxiv.org/pdf/2109.02836.pdf)
   - Greg Fields, Mohammad Samragh, Mojan Javaheripi, Farinaz Koushanfar, and Tara Javidi. arXiv, 2021.
-
 
 - EX-RAY: Distinguishing Injected Backdoor from Natural Features in Neural Networks by Examining Differential Feature Symmetry.
   [[pdf]](https://arxiv.org/pdf/2103.08820.pdf)
