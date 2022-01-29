@@ -1072,7 +1072,7 @@ Markdown format:
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0167404821002571)
   - Kun Shao, Junan Yang, Yang Ai, Hui Liu, and Yu Zhang. *Computers & Security*, 2021.
 
-- - BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.
+- BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.
   [[pdf]](https://arxiv.org/pdf/2110.02467.pdf)
   - Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, and Chun Fan. *ICLR*, 2022.
 
