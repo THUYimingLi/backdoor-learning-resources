@@ -1293,7 +1293,7 @@ Markdown format:
 
 - Backdoor Attacks on the DNN Interpretation System.
   [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
-  - Shihong Fang, and Anna Choromanska. *AAAI*, 2022.
+  - Shihong Fang and Anna Choromanska. *AAAI*, 2022.
 
 - Backdoor Attack on Machine Learning Based Android Malware Detectors.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
