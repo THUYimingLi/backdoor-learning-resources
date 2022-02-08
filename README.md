@@ -502,6 +502,10 @@ Markdown format:
   [[code]](https://github.com/aeva-backdoor-deteciton/Aeva-Blackbox-Backdoor-Detection)
   - Junfeng Guo, Ang Li, and Cong Liu. *ICLR*, 2022.
 
+- Trigger Hunting with a Topological Prior for Trojan Detection.
+  [[pdf]](https://arxiv.org/pdf/2110.08335.pdf)
+  - Xiaoling Hu, Xiao Lin, Michael Cogswell, Yi Yao, Susmit Jha, and Chao Chen. *ICLR*, 2022.
+
 - Detection of Backdoors in Trained Classiﬁers Without Access to the Training Set.
   [[pdf]](http://arxiv.org/pdf/1908.10498)
   - Z Xiang, DJ Miller, and G Kesidis. *IEEE Transactions on Neural Networks and Learning Systems*, 2020.
@@ -580,10 +584,6 @@ Markdown format:
 - Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios.
   [[pdf]](https://arxiv.org/pdf/2201.08474.pdf)
   - Zhen Xiang, David J. Miller, and George Kesidis. *ICLR*, 2022.
-
-- Trigger Hunting with a Topological Prior for Trojan Detection.
-  [[pdf]](https://arxiv.org/pdf/2110.08335.pdf)
-  - Xiaoling Hu, Xiao Lin, Michael Cogswell, Yi Yao, Susmit Jha, and Chao Chen. *ICLR*, 2022.
 
 - Detecting AI Trojans Using Meta Neural Analysis.
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
