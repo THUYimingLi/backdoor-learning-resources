@@ -143,6 +143,10 @@ Markdown format:
   [[link]](https://link.springer.com/article/10.1007/s11042-021-11135-0)
   - Hyun Kwon and Yongchul Kim. *Multimedia Tools and Applications*, 2022.
 
+- Imperceptible and Multi-channel Backdoor Attack against Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2201.13164.pdf)
+  - Mingfu Xue, Shifeng Ni, Yinghao Wu, Yushu Zhang, Jian Wang, and Weiqiang Liu. arXiv, 2022.
+
 - Compression-Resistant Backdoor Attack against Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2201.00672.pdf)
   - Mingfu Xue, Xin Wang, Shichang Sun, Yushu Zhang, Jian Wang, and Weiqiang Liu. arXiv, 2022.
