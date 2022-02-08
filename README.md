@@ -893,6 +893,10 @@ Markdown format:
   [[code]](https://github.com/DistributedML/FoolsGold)
   - Clement Fung, Chris J.M. Yoon, and Ivan Beschastnikh. *RAID*, 2020 (arXiv, 2018).
 
+- BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning.
+  [[pdf]](https://arxiv.org/pdf/2202.02817.pdf)
+  - Arup Mondal, Harpreet Virk, and Debayan Gupta. *AAAI Workshop*, 2022.
+  
 - Backdoor Attacks and Defenses in Feature-partitioned Collaborative Learning.
   [[pdf]](https://arxiv.org/pdf/2007.03608.pdf)
   - Yang Liu, Zhihao Yi, and Tianjian Chen. *ICML Workshop*, 2020.
@@ -900,6 +904,10 @@ Markdown format:
 - Can You Really Backdoor Federated Learning?
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
+
+- More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2202.03195.pdf)
+  - Jing Xu, Rui Wang, Kaitai Liang, and Stjepan Picek. arXiv, 2022.
 
 - Backdoors Stuck at The Frontdoor: Multi-Agent Backdoor Attacks That Backfire.
   [[pdf]](https://arxiv.org/pdf/2201.12211.pdf)
@@ -1209,6 +1217,10 @@ Markdown format:
 - Backdoor Attacks to Graph Neural Networks. 
   [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *NeurIPS Workshop*, 2020.  
+
+- More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2202.03195.pdf)
+  - Jing Xu, Rui Wang, Kaitai Liang, and Stjepan Picek. arXiv, 2022.
 
 - Neighboring Backdoor Attacks on Graph Convolutional Network.
   [[pdf]](https://arxiv.org/pdf/2201.06202.pdf)
