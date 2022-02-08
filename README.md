@@ -809,6 +809,10 @@ Markdown format:
   - Alvin Chan, and Yew-Soon Ong. arXiv, 2019.  
   
 #### Certificated Defense
+- Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2012.03765.pdf)
+  - Jinyuan Jia, Yupei Liu, Xiaoyu Cao, and Neil Zhenqiang Gong. *AAAI*, 2022.
+
 - Deep Partition Aggregation: Provable Defense against General Poisoning Attacks
   [[pdf]](https://arxiv.org/abs/2006.14768)
   - Alexander Levine and Soheil Feizi. *ICLR*, 2021.
