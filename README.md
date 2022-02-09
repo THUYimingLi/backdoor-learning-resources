@@ -1029,6 +1029,10 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/11.pdf) 
   - Chace Ashcraft and Kiran Karra. *ICLR Workshop*, 2021.
 
+- Backdoor Detection in Reinforcement Learning.
+  [[pdf]](https://arxiv.org/pdf/2202.03609.pdf)
+  - Junfeng Guo, Ang Li, and Cong Liu. arXiv, 2022.
+
 - Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-based Traffic Congestion Control Systems.
   [[pdf]](https://arxiv.org/pdf/2003.07859.pdf)
   - Yue Wang, Esha Sarkar, Michail Maniatakos, and Saif Eddin Jabari. arXiv, 2020.
