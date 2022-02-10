@@ -909,6 +909,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- ARIBA: Towards Accurate and Robust Identification of Backdoor Attacks in Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2202.04311.pdf)
+  - Yuxi Mi, Jihong Guan, and Shuigeng Zhou. arXiv, 2022.
+
 - More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2202.03195.pdf)
   - Jing Xu, Rui Wang, Kaitai Liang, and Stjepan Picek. arXiv, 2022.
