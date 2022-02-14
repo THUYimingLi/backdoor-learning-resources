@@ -64,6 +64,7 @@ Markdown format:
   - [Point Cloud](#point-cloud)
   - [Acoustics Signal Processing](#acoustics-signal-processing)
   - [Medical Science](#medical-science)
+  - [Malware Detection](#malware-detection)
   - [Others](#others)
 - [Discussion and Evaluation](#discussion-and-evaluation)
 - [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes)
@@ -1292,6 +1293,19 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2108.10132.pdf)
   - Esha Sarkar and Michail Maniatakos. arXiv, 2021.
 
+### Malware Detection
+- Backdoor Attack on Machine Learning Based Android Malware Detectors.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
+  - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
+
+- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
+  [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
+  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
+
+- Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers.
+  [[pdf]](https://arxiv.org/pdf/2202.05470.pdf)
+  - Limin Yang, Zhi Chen, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, and Gang Wang. arXiv, 2022.
+
 
 ### Others
 - Few-Shot Backdoor Attacks on Visual Object Tracking.
@@ -1303,14 +1317,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
   - Shihong Fang and Anna Choromanska. *AAAI*, 2022.
 
-- Backdoor Attack on Machine Learning Based Android Malware Detectors.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
-  - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
-
-- Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
-  [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
-  - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
-
 - Multi-Target Invisibly Trojaned Networks for Visual Recognition and Detection.
   [[pdf]](https://www.ijcai.org/proceedings/2021/0477.pdf)
   - Xinzhe Zhou, Wenhao Jiang, Sheng Qi, and Yadong Mu. *IJCAI*, 2021.
@@ -1318,7 +1324,6 @@ Markdown format:
 - Hidden Backdoor Attack against Semantic Segmentation Models.
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
   - Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
-
 
 - Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
