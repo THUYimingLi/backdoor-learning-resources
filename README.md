@@ -816,6 +816,7 @@ Markdown format:
 
 - Deep Partition Aggregation: Provable Defense against General Poisoning Attacks
   [[pdf]](https://arxiv.org/abs/2006.14768)
+  [[code]](https://github.com/alevine0/DPA)
   - Alexander Levine and Soheil Feizi. *ICLR*, 2021.
   
 - Intrinsic Certified Robustness of Bagging against Data Poisoning Attacks
