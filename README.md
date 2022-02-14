@@ -1174,6 +1174,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- Constrained Optimization with Dynamic Bound-scaling for Effective NLPBackdoor Defense.
+  [[pdf]](https://arxiv.org/pdf/2202.05749.pdf)
+  - Guangyu Shen, Yingqi Liu, Guanhong Tao, Qiuling Xu, Zhuo Zhang, Shengwei An, Shiqing Ma, and Xiangyu Zhang. arXiv, 2022.
+
 - Rethink Stealthy Backdoor Attacks in Natural Language Processing.
   [[pdf]](https://arxiv.org/pdf/2201.02993.pdf)
   - Lingfeng Shen, Haiyun Jiang, Lemao Liu, and Shuming Shi. arXiv, 2022.
