@@ -769,6 +769,10 @@ Markdown format:
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
 
+- Towards Understanding and Defending Input Space Trojans.
+  [[pdf]](https://arxiv.org/pdf/2202.06382.pdf)
+  - Zhenting Wang, Hailun Ding, Juan Zhai, and Shiqing Ma. arXiv, 2022.
+
 - A General Framework for Defending Against Backdoor Attacks via Influence Graph.
   [[pdf]](https://arxiv.org/pdf/2111.14309)
   - Xiaofei Sun, Jiwei Li, Xiaoya Li, Ziyao Wang, Tianwei Zhang, Han Qiu, Fei Wu, and Chun Fan. arXiv, 2021.
