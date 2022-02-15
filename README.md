@@ -492,6 +492,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.12162.pdf)
   - Hao Cheng, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, and Xue Lin. *KDD Workshop*, 2019.
 
+- Adversarial Fine-tuning for Backdoor Defense: Connect Adversarial Examples to Triggered Samples.
+  [[pdf]](https://arxiv.org/pdf/2202.06312.pdf)
+  - Bingxu Mu, Le Wang, and Zhenxing Niu. arXiv, 2022.
+
 - Neural Network Laundering: Removing Black-Box Backdoor Watermarks from Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2004.11368.pdf)
   - William Aiken, Hyoungshick Kim, and Simon Woo. arXiv, 2020.
@@ -623,7 +627,6 @@ Markdown format:
 - Baseline Pruning-Based Approach to Trojan Detection in Neural Networks.
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/17.pdf)
   - Peter Bajcsy and Michael Majurski. *ICLR Workshop*, 2021.
-
 
 - Trojan Signatures in DNN Weights.
   [[pdf]](https://arxiv.org/pdf/2109.02836.pdf)
