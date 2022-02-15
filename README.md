@@ -93,6 +93,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2012.10544.pdf)
   - Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, and Tom Goldstein. arXiv, 2020.
 
+- Threats to Pre-trained Language Models: Survey and Taxonomy.
+  [[pdf]](https://arxiv.org/pdf/2202.06862.pdf)
+  - Shangwei Guo, Chunlong Xie, Jiwei Li, Lingjuan Lyu, and Tianwei Zhang. arXiv, 2022.
+
 - An Overview of Backdoor Attacks Against Deep Neural Networks and Possible Defences.
   [[pdf]](https://arxiv.org/pdf/2111.08429.pdf)
   - Wei Guo, Benedetta Tondi, and Mauro Barni. arXiv, 2021.
