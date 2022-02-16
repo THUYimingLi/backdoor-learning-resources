@@ -13,7 +13,7 @@ If our repo or survey is useful for your research, please cite our paper as foll
 ```
 @article{li2020backdoor,
   title={Backdoor learning: A survey},
-  author={Li, Yiming and Wu, Baoyuan and Jiang, Yong and Li, Zhifeng and Xia, Shu-Tao},
+  author={Li, Yiming and Jiang, Yong and Li, Zhifeng and Xia, Shu-Tao},
   journal={arXiv preprint arXiv:2007.08745},
   year={2020}
 }
@@ -75,7 +75,7 @@ Markdown format:
 ## Survey
 - Backdoor Learning: A Survey.
   [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
-  - Yiming Li, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
+  - Yiming Li, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
 
 - Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
   [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
