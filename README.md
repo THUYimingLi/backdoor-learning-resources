@@ -93,6 +93,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2012.10544.pdf)
   - Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, and Tom Goldstein. arXiv, 2020.
 
+- A Survey of Neural Trojan Attacks and Defenses in Deep Learning.
+  [[pdf]](https://arxiv.org/pdf/2202.07183.pdf)
+  - Jie Wang, Ghulam Mubashar Hassan, and Naveed Akhtar. arXiv, 2022.
+
 - Threats to Pre-trained Language Models: Survey and Taxonomy.
   [[pdf]](https://arxiv.org/pdf/2202.06862.pdf)
   - Shangwei Guo, Chunlong Xie, Jiwei Li, Lingjuan Lyu, and Tianwei Zhang. arXiv, 2022.
