@@ -865,6 +865,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9524709/)
   - Xiaoyuan Liu, Hongwei Li, Guowen Xu, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. *IEEE Transactions on Information Forensics and Security*, 2021.
 
+- Coordinated Backdoor Attacks against Federated Learning with Model-Dependent Triggers.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9713908)
+  - Xueluan Gong, Yanjiao Chen, Huayang Huang, Yuqing Liao, Shuai Wang, and Qian Wang. *IEEE Network*, 2022.
+
 - Mitigating the Backdoor Attack by Federated Filters for Industrial IoT Applications.
   [[link]](https://ieeexplore.ieee.org/document/9536411/)
   - Boyu Hou, Jiqiang Gao, Xiaojie Guo, Thar Baker, Ying Zhang, Yanlong Wen, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2021.
