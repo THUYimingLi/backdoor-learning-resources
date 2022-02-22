@@ -379,13 +379,13 @@ Markdown format:
   [[code]](https://github.com/adnansirajrakin/TBT-CVPR2020)
   - Adnan Siraj Rakin, Zhezhi He, and Deliang Fan. *CVPR*, 2020.
 
+- How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
+  [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
+  - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. *ICLR*, 2022.
+
 - Can Adversarial Weight Perturbations Inject Neural Backdoors?
   [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
   - Siddhant Garg, Adarsh Kumar, Vibhor Goel, and Yingyu Liang. *CIKM*, 2020.
-
-- How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
-  [[pdf]](https://arxiv.org/pdf/2109.01300.pdf)
-  - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. arXiv, 2021.
 
 - TrojanNet: Embedding Hidden Trojan Horse Models in Neural Network.
   [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
