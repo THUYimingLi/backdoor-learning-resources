@@ -1517,6 +1517,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9647115)
   - FangQi Li, Shilin Wang, and Zhenhai Wang. *DICTA*, 2021.
 
+- Debiasing Backdoor Attack: A Benign Application of Backdoor Attack in Eliminating Data Bias.
+  [[pdf]](https://arxiv.org/pdf/2202.10582.pdf)
+  - Shangxi Wu, Qiuyang He, Yi Zhang, and Jitao Sang. arXiv, 2022.
+
 - Watermarking Graph Neural Networks based on Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2110.11024.pdf)
   - Jing Xu and Stjepan Picek. arXiv, 2021.
