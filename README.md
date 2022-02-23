@@ -700,6 +700,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.00407.pdf)
   - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. *ICPR*, 2021. 
 
+- On the Effectiveness of Adversarial Training against Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2202.10627.pdf)
+  - Yinghua Gao, Dongxian Wu, Jingfeng Zhang, Guanhao Gan, Shu-Tao Xia, Gang Niu, and Masashi Sugiyama. arXiv, 2022.
+
 - SanitAIs: Unsupervised Data Augmentation to Sanitize Trojaned Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2109.04566.pdf)
   - Kiran Karra and Chace Ashcraft. arXiv, 2021.
