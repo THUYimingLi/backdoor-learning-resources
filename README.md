@@ -704,6 +704,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2202.10627.pdf)
   - Yinghua Gao, Dongxian Wu, Jingfeng Zhang, Guanhao Gan, Shu-Tao Xia, Gang Niu, and Masashi Sugiyama. arXiv, 2022.
 
+- Resurrecting Trust in Facial Recognition: Mitigating Backdoor Attacks in Face Recognition to Prevent Potential Privacy Breaches.
+  [[pdf]](https://arxiv.org/pdf/2202.10320.pdf)
+  - Reena Zelenkova, Jack Swallow, M. A. P. Chamikara, Dongxi Liu, Mohan Baruwal Chhetri, Seyit Camtepe, Marthie Grobler, and Mahathir Almashor. arXiv, 2022.
+
 - SanitAIs: Unsupervised Data Augmentation to Sanitize Trojaned Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2109.04566.pdf)
   - Kiran Karra and Chace Ashcraft. arXiv, 2021.
