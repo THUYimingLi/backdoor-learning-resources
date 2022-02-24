@@ -947,6 +947,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- Backdoor Defense in Federated Learning Using Differential Testing and Outlier Detection.
+  [[pdf]](https://arxiv.org/pdf/2202.11196.pdf)
+  - Yein Kim, Huili Chen, and Farinaz Koushanfar. arXiv, 2022.
+
 - ARIBA: Towards Accurate and Robust Identification of Backdoor Attacks in Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2202.04311.pdf)
   - Yuxi Mi, Jihong Guan, and Shuigeng Zhou. arXiv, 2022.
