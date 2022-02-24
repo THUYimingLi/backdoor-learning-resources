@@ -38,6 +38,7 @@ Markdown format:
 
 ## Table of Contents
 - [Survey](#survey)
+- [Toolbox](#toolbox)
 - [Dissertation and Thesis](#dissertation-and-thesis)
 - [Image and Video Classification](#image-and-video-classification) 
   - [Poisoning-based Attack](#poisoning-based-attack)
@@ -68,7 +69,6 @@ Markdown format:
   - [Others](#others)
 - [Discussion and Evaluation](#discussion-and-evaluation)
 - [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes)
-- [Toolbox](#toolbox)
 - [Competition](#competition)
 
 
@@ -108,8 +108,12 @@ Markdown format:
 - Deep Learning Backdoors.
   [[pdf]](https://arxiv.org/pdf/2007.08273.pdf)
   - Shaofeng Li, Shiqing Ma, Minhui Xue, and Benjamin Zi Hao Zhao. arXiv, 2020.
+ 
 
-
+## Toolbox
+- [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox)
+- [TrojanZoo](https://github.com/ain-soph/trojanzoo)
+- [backdoors101](https://github.com/ebagdasa/backdoors101)
 
 
 ## Dissertation and Thesis
@@ -151,6 +155,10 @@ Markdown format:
 - BlindNet Backdoor: Attack on Deep Neural Network using Blind Watermark.
   [[link]](https://link.springer.com/article/10.1007/s11042-021-11135-0)
   - Hyun Kwon and Yongchul Kim. *Multimedia Tools and Applications*, 2022.
+
+- Label-Smoothed Backdoor Attack.
+  [[pdf]](https://arxiv.org/pdf/2202.11203.pdf)
+  - Minlong Peng, Zidi Xiong, Mingming Sun, and Ping Li. arXiv, 2022.
 
 - Imperceptible and Multi-channel Backdoor Attack against Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2201.13164.pdf)
@@ -1545,13 +1553,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2003.04247.pdf)
   [[code]](https://github.com/inspire-group/unlearning-verification)
   - David Marco Sommer, Liwei Song, Sameer Wagh, and Prateek Mittal. arXiv, 2020. 
-
- 
-
-## Toolbox
-- [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox)
-- [TrojanZoo](https://github.com/ain-soph/trojanzoo)
-- [backdoors101](https://github.com/ebagdasa/backdoors101)
 
 
 ## Competition
