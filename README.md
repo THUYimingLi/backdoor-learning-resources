@@ -789,6 +789,10 @@ Markdown format:
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
 
+- Towards Effective and Robust Neural Trojan Defenses via Input Filtering.
+  [[pdf]](https://arxiv.org/pdf/2202.12154.pdf)
+  - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. arXiv, 2022.
+
 - Towards Understanding and Defending Input Space Trojans.
   [[pdf]](https://arxiv.org/pdf/2202.06382.pdf)
   - Zhenting Wang, Hailun Ding, Juan Zhai, and Shiqing Ma. arXiv, 2022.
