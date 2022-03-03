@@ -1378,6 +1378,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
 
+- Clean-Annotation Backdoor Attack against Lane Detection Systems in the Wild.
+  [[pdf]](https://arxiv.org/pdf/2203.00858.pdf)
+  - Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, and Tianwei Zhang. arXiv, 2022.
+
 - Dangerous Cloaking: Natural Trigger based Backdoor Attacks on Object Detectors in the Physical World.
   [[pdf]](https://arxiv.org/pdf/2201.08619)
   - Hua Ma, Yinshan Li, Yansong Gao, Alsharif Abuadbba, Zhi Zhang, Anmin Fu, Hyoungshick Kim, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. arXiv, 2022.
