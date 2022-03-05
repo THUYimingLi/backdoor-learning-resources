@@ -682,7 +682,7 @@ Markdown format:
 #### Poison Suppression based Empirical Defense
 - Backdoor Defense via Decoupling the Training Process.
   [[pdf]](https://openreview.net/pdf?id=TySnJ-0RdKI)
-  [[code]](https://github.com/hkunzhe/DBD)
+  [[code]](https://github.com/SCLBD/DBD)
   - Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, and Kui Ren. *ICLR*, 2022.
 
 - Anti-Backdoor Learning: Training Clean Models on Poisoned Data.
