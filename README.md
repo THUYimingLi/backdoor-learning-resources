@@ -133,6 +133,10 @@ Markdown format:
   [[pdf]](https://www.proquest.com/docview/2555308945?pq-origsite=gscholar&fromopenview=true)
   - Kang Liu. *Ph.D. Dissertation at New York University*, 2021.
 
+- Backdoor Attacks in Neural Networks.
+  [[link]](https://repository.tudelft.nl/islandora/object/uuid:b830b4a2-b700-4c93-8d1d-88dc0191c468?collection=education)
+  - Stefanos Koffas. *Master Thesis at Delft University of Technology*, 2021.
+
 - Backdoor Defenses.
   [[pdf]](https://repositum.tuwien.at/bitstream/20.500.12708/18831/1/Milakovic%20Andrea%20-%202021%20-%20Backdoor%20defenses.pdf)
   - Andrea Milakovic. *Master Thesis at Technischen Universität Wien*, 2021.
