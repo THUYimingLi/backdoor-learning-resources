@@ -967,6 +967,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2202.03195.pdf)
   - Jing Xu, Rui Wang, Kaitai Liang, and Stjepan Picek. arXiv, 2022.
 
+- Low-Loss Subspace Compression for Clean Gains against Multi-Agent Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2203.03692.pdf)
+  - Siddhartha Datta and Nigel Shadbolt. arXiv, 2022.
+
 - Backdoors Stuck at The Frontdoor: Multi-Agent Backdoor Attacks That Backfire.
   [[pdf]](https://arxiv.org/pdf/2201.12211.pdf)
   - Siddhartha Datta and Nigel Shadbolt. arXiv, 2022.
