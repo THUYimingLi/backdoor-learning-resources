@@ -797,7 +797,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2202.12154.pdf)
   - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. arXiv, 2022.
 
-- Towards Understanding and Defending Input Space Trojans.
+- Neural Network Trojans Analysis and Mitigation from the Input Domain.
   [[pdf]](https://arxiv.org/pdf/2202.06382.pdf)
   - Zhenting Wang, Hailun Ding, Juan Zhai, and Shiqing Ma. arXiv, 2022.
 
@@ -1501,6 +1501,10 @@ Markdown format:
 - On Evaluating Neural Network Backdoor Defenses.
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
+
+- Neural Network Trojans Analysis and Mitigation from the Input Domain.
+  [[pdf]](https://arxiv.org/pdf/2202.06382.pdf)
+  - Zhenting Wang, Hailun Ding, Juan Zhai, and Shiqing Ma. arXiv, 2022.
 
 - Widen The Backdoor To Let More Attackers In.
   [[pdf]](https://arxiv.org/pdf/2110.04571.pdf)
