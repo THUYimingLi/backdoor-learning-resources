@@ -1444,6 +1444,11 @@ Markdown format:
 
 
 ## Discussion and Evaluation
+- Backdoor Defense via Decoupling the Training Process.
+  [[pdf]](https://openreview.net/pdf?id=TySnJ-0RdKI)
+  [[code]](https://github.com/SCLBD/DBD)
+  - Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, and Kui Ren. *ICLR*, 2022.
+
 - How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
   [[pdf]](https://openreview.net/pdf?id=Bn09TnDngN)
   - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. *ICLR*, 2022.
