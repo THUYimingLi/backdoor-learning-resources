@@ -399,6 +399,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
   - Siddhant Garg, Adarsh Kumar, Vibhor Goel, and Yingyu Liang. *CIKM*, 2020.
 
+- Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer.
+  [[pdf]](https://www.researchgate.net/profile/Saad-Islam-3/publication/355367637_Toward_Realistic_Backdoor_Injection_Attacks_on_DNNs_using_Rowhammer/links/62222bd93c53d31ba4a674a5/Toward-Realistic-Backdoor-Injection-Attacks-on-DNNs-using-Rowhammer.pdf)
+  - M. Caner Tol, Saad Islam, Berk Sunar, and Ziming Zhang. 2022.
+
 - TrojanNet: Embedding Hidden Trojan Horse Models in Neural Network.
   [[pdf]](https://arxiv.org/pdf/2002.10078.pdf)
   - Chuan Guo, Ruihan Wu, and Kilian Q. Weinberger. arXiv, 2020.
