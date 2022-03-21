@@ -1219,6 +1219,10 @@ Markdown format:
   [[code]](https://github.com/lancopku/Embedding-Poisoning)
   - Wenkai Yang, Lei Li, Zhiyuan Zhang, Xuancheng Ren, Xu Sun, and Bin He. *NAACL-HLT*, 2021.
 
+- Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects.
+  [[pdf]](https://aclanthology.org/2021.naacl-main.430.pdf) 
+  - Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun and Bin He. *NAACL-HLT*, 2021.
+
 - Textual Backdoor Attack for the Text Classification System.
   [[pdf]](https://www.hindawi.com/journals/scn/2021/2938386/)
   - Hyun Kwon and Sanghyun Lee. *Security and Communication Networks*, 2021.
@@ -1541,6 +1545,10 @@ Markdown format:
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv, 2020.
 
 ## Backdoor Attack for Positive Purposes
+- Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects.
+  [[pdf]](https://aclanthology.org/2021.naacl-main.430.pdf) 
+  - Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun and Bin He. *NAACL-HLT*, 2021.
+
 - What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
   [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
   - Yi-Shan Lin, Wen-Chuan Lee, and Z. Berkay Celik. *KDD*, 2021.
