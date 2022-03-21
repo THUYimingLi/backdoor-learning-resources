@@ -1221,7 +1221,7 @@ Markdown format:
 
 - Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects.
   [[pdf]](https://aclanthology.org/2021.naacl-main.430.pdf) 
-  - Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun and Bin He. *NAACL-HLT*, 2021.
+  - Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun, and Bin He. *NAACL-HLT*, 2021.
 
 - Textual Backdoor Attack for the Text Classification System.
   [[pdf]](https://www.hindawi.com/journals/scn/2021/2938386/)
