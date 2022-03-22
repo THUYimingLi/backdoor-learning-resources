@@ -81,6 +81,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
   - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
 
+- Backdoor Attacks on Image Classification Models in Deep Neural Networks.
+  [[link]](http://cje.ejournal.org.cn/article/doi/10.1049/cje.2021.00.126)
+  - Quanxin Zhang, Wencong Ma, Yajie Wang, Yaoyuan Zhang, Zhiwei Shi, and Yuanzhang Li. *Chinese Journal of Electronics*, 2022.
+
 - Defense against Neural Trojan Attacks: A Survey.
   [[link]](https://www.sciencedirect.com/science/article/pii/S0925231220316350)
   - Sara Kaviani and Insoo Sohn. *Neurocomputing*, 2021.
