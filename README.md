@@ -963,6 +963,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- Client-Wise Targeted Backdoor in Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2203.08689.pdf)
+  - Gorka Abad, Servio Paguada, Stjepan Picek, Víctor Julio Ramírez-Durán, and Aitor Urbieta. arXiv, 2022.
+
 - Backdoor Defense in Federated Learning Using Differential Testing and Outlier Detection.
   [[pdf]](https://arxiv.org/pdf/2202.11196.pdf)
   - Yein Kim, Huili Chen, and Farinaz Koushanfar. arXiv, 2022.
