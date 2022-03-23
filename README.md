@@ -1091,6 +1091,10 @@ Markdown format:
   - Zhengyan Zhang, Guangxuan Xiao, Yongwei Li, Tian Lv, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Xin Jiang, and Maosong Sun. arXiv, 2021.
 
 ### Reinforcement Learning
+- Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-based Traffic Congestion Control Systems.
+  [[pdf]](https://arxiv.org/pdf/2003.07859.pdf)
+  - Yue Wang, Esha Sarkar, Michail Maniatakos, and Saif Eddin Jabari. *IEEE Transactions on Information Forensics and Security*, 2021.
+
 - BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning.
   [[pdf]](https://arxiv.org/pdf/2105.00579.pdf)
   - Lun Wang, Zaynah Javed, Xian Wu, Wenbo Guo, Xinyu Xing, and Dawn Song. *IJCAI*, 2021.
@@ -1106,10 +1110,6 @@ Markdown format:
 - Backdoor Detection in Reinforcement Learning.
   [[pdf]](https://arxiv.org/pdf/2202.03609.pdf)
   - Junfeng Guo, Ang Li, and Cong Liu. arXiv, 2022.
-
-- Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-based Traffic Congestion Control Systems.
-  [[pdf]](https://arxiv.org/pdf/2003.07859.pdf)
-  - Yue Wang, Esha Sarkar, Michail Maniatakos, and Saif Eddin Jabari. arXiv, 2020.
   
 - Design of Intentional Backdoors in Sequential Models.
   [[pdf]](https://arxiv.org/pdf/1902.09972.pdf)
