@@ -616,6 +616,7 @@ Markdown format:
 #### Model Diagnosis based Empirical Defense
 - Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios.
   [[pdf]](https://arxiv.org/pdf/2201.08474.pdf)
+  [[code]](https://github.com/zhenxianglance/2ClassBADetection)
   - Zhen Xiang, David J. Miller, and George Kesidis. *ICLR*, 2022.
 
 - Detecting AI Trojans Using Meta Neural Analysis.
