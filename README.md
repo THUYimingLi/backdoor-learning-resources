@@ -801,6 +801,10 @@ Markdown format:
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
 
+- PiDAn: A Coherence Optimization Approach for Backdoor Attack Detection and Mitigation in Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2203.09289.pdf)
+  - Yue Wang, Wenqing Li, Esha Sarkar, Muhammad Shafique, Michail Maniatakos, and Saif Eddin Jabari. arXiv, 2022.
+
 - Towards Effective and Robust Neural Trojan Defenses via Input Filtering.
   [[pdf]](https://arxiv.org/pdf/2202.12154.pdf)
   - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. arXiv, 2022.
