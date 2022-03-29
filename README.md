@@ -898,9 +898,13 @@ Markdown format:
 
 ## Attack and Defense Towards Other Paradigms and Tasks
 ### Collaborative Learning
-- Secure Partial Aggregation: Making FederatedLearning More Robust for Industry 4.0 Applications.
+- Secure Partial Aggregation: Making Federated Learning More Robust for Industry 4.0 Applications.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9692911)
   - Jiqiang Gao, Baolei Zhang, Xiaojie Guo, Thar Baker, Min Li, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2022.
+
+- Backdoor Attacks-resilient Aggregation based on Robust Filtering of Outliers in Federated Learning for Image Classification.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0950705122002635)
+  - Nuria Rodríguez-Barroso, Eugenio Martínez-Cámara, M. Victoria Luzónb, and Francisco Herrera. *Knowledge-Based Systems*, 2022.
 
 - Privacy-Enhanced Federated Learning against Poisoning Adversaries.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9524709/)
