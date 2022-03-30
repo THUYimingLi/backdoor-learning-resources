@@ -168,6 +168,10 @@ Markdown format:
   [[link]](https://www.hindawi.com/journals/scn/2022/4593002/)
   - Feng Zhao, Li Zhou, Qi Zhong, Rushi Lan, and Leo Yu Zhang. *Security and Communication Networks*, 2022.
 
+- Trojan Horse Training for Breaking Defenses against Backdoor Attacks in Deep Learning.
+  [[pdf]](https://arxiv.org/pdf/2203.15506.pdf)
+  - Arezoo Rajabi, Bhaskar Ramasubramanian, and Radha Poovendran. arXiv, 2022.
+
 - Label-Smoothed Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2202.11203.pdf)
   - Minlong Peng, Zidi Xiong, Mingming Sun, and Ping Li. arXiv, 2022.
