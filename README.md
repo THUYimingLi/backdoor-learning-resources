@@ -428,7 +428,11 @@ Markdown format:
   - Jacob Dumford, and Walter Scheirer. arXiv, 2018.
  
  
- #### Structure-modified Attack
+#### Structure-modified Attack
+- Stealthy and Flexible Trojan in Deep Learning Framework.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9747995)
+  - Yajie Wang, Kongyang Chen, Yu-An Tan, Shuxin Huang, Wencong Ma, and Yuanzhang Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
+ 
 - DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection.
   [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
   - Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, and Yunxin Liu. *ICSE*, 2021.
