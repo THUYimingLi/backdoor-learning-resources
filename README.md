@@ -1327,7 +1327,7 @@ Markdown format:
   
 - Backdoor Attacks to Graph Neural Networks. 
   [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
-  - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *NeurIPS Workshop*, 2020.  
+  - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *SACMAT*, 2021.  
 
 - More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2202.03195.pdf)
