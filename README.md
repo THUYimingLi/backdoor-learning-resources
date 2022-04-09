@@ -761,6 +761,10 @@ Markdown format:
 
 
 #### Sample Filtering based Empirical Defense
+- Similarity-based Integrity Protection for Deep Learning Systems.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0020025522003279)
+  - Ruitao Hou, Shan Ai, Qi Chen, Hongyang Yan, Teng Huang, and Kongyang Chen. *Information Sciences*, 2022.
+
 - Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.
   [[pdf]](https://arxiv.org/pdf/2104.03413.pdf)
   [[code]](https://github.com/YiZeng623/frequency-backdoor)
