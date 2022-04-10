@@ -318,7 +318,7 @@ Markdown format:
 - Input-Aware Dynamic Backdoor Attack. 
   [[pdf]](https://arxiv.org/pdf/2010.08138.pdf)
   [[code]](https://github.com/VinAIResearch/input-aware-backdoor-attack-release)
-  - Anh Nguyen, and Anh Tran. *NeurIPS 2020*.
+  - Anh Nguyen, and Anh Tran. *NeurIPS, 2020*.
 
 
 - Bypassing Backdoor Detection Algorithms in Deep Learning.
