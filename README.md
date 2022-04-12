@@ -172,6 +172,10 @@ Markdown format:
   [[link]](https://www.hindawi.com/journals/scn/2022/4593002/)
   - Feng Zhao, Li Zhou, Qi Zhong, Rushi Lan, and Leo Yu Zhang. *Security and Communication Networks*, 2022.
 
+- Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.
+  [[pdf]](https://arxiv.org/pdf/2204.05255.pdf)
+  - Yi Zeng, Minzhou Pan, Hoang Anh Just, Lingjuan Lyu, Meikang Qiu, and Ruoxi Jia. arXiv, 2022.
+
 - Trojan Horse Training for Breaking Defenses against Backdoor Attacks in Deep Learning.
   [[pdf]](https://arxiv.org/pdf/2203.15506.pdf)
   - Arezoo Rajabi, Bhaskar Ramasubramanian, and Radha Poovendran. arXiv, 2022.
@@ -1199,6 +1203,12 @@ Markdown format:
 - BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.
   [[pdf]](https://arxiv.org/pdf/2110.02467.pdf)
   - Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, and Chun Fan. *ICLR*, 2022.
+
+- Exploring the Universal Vulnerability of Prompt-based Learning Paradigm.
+  [[pdf]](https://arxiv.org/pdf/2204.05239.pdf)
+  [[code]](https://github.com/leix28/prompt-universal-vulnerability)
+  - Lei Xu, Yangyi Chen, Ganqu Cui, Hongcheng Gao, and Zhiyuan Liu. *NAACL-Findings*, 2022.
+
 
 - BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3485832.3485837)
