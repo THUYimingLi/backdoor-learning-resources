@@ -1557,6 +1557,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
 
+- Towards A Critical Evaluation of Robustness for Deep Learning Backdoor Countermeasures.
+  [[pdf]](https://arxiv.org/pdf/2204.06273.pdf)
+  - Huming Qiu, Hua Ma, Zhi Zhang, Alsharif Abuadbba, Wei Kang, Anmin Fu, and Yansong Gao. arXiv, 2022.
+
+
 - Neural Network Trojans Analysis and Mitigation from the Input Domain.
   [[pdf]](https://arxiv.org/pdf/2202.06382.pdf)
   - Zhenting Wang, Hailun Ding, Juan Zhai, and Shiqing Ma. arXiv, 2022.
