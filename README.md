@@ -501,6 +501,11 @@ Markdown format:
 
 ## Attack and Defense Towards Other Tasks and Paradigms
 ### Natural Language Processing 
+- Exploring the Universal Vulnerability of Prompt-based Learning Paradigm.
+ [[pdf]](https://arxiv.org/abs/2204.05239)
+  - Lei Xu, Yangyi Chen, Ganqu Cui, Hongcheng Gao, Zhiyuan Liu. *NAACL-Findings*, 2022.
+
+
 - T-Miner: A Generative Approach to Defend Against Trojan Attacks on DNN-based Text Classification.
   [[pdf]](https://arxiv.org/pdf/2103.04264.pdf)
   - Ahmadreza Azizi, Ibrahim Asadullah Tahmid, Asim Waheed, Neal Mangaokar, Jiameng Pu, Mobin Javed, Chandan K. Reddy, and Bimal Viswanath. *USENIX Security*, 2021.
