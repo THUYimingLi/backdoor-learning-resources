@@ -451,6 +451,10 @@ Markdown format:
   [[extension]](https://arxiv.org/pdf/2111.12965.pdf)
   - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
 
+- Planting Undetectable Backdoors in Machine Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2204.06974.pdf)
+  - Shafi Goldwasser, Michael P. Kim, Vinod Vaikuntanathan, and Or Zamir. arXiv, 2022.
+
 #### Others
 - Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2010.03282.pdf)
