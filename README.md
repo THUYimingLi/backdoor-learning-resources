@@ -436,7 +436,13 @@ Markdown format:
 - Stealthy and Flexible Trojan in Deep Learning Framework.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747995)
   - Yajie Wang, Kongyang Chen, Yu-An Tan, Shuxin Huang, Wencong Ma, and Yuanzhang Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
- 
+
+- FooBaR: Fault Fooling Backdoor Attack on Neural Network Training.
+  [[link]](https://ieeexplore.ieee.org/document/9756234)
+  [[code]](https://github.com/martin-ochoa/foobar)
+  - Jakub Breier, Xiaolu Hou, Martín Ochoa and Jesus Solano. *IEEE Transactions on Dependable and Secure Computing*, 2022.
+  
+
 - DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection.
   [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
   - Yuanchun Li, Jiayi Hua, Haoyu Wang, Chunyang Chen, and Yunxin Liu. *ICSE*, 2021.
@@ -454,6 +460,8 @@ Markdown format:
 - Planting Undetectable Backdoors in Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2204.06974.pdf)
   - Shafi Goldwasser, Michael P. Kim, Vinod Vaikuntanathan, and Or Zamir. arXiv, 2022.
+
+
 
 #### Others
 - Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks.
