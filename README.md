@@ -1209,6 +1209,11 @@ Markdown format:
 
 
 ### Natural Language Processing 
+- PICCOLO : Exposing Complex Backdoors in NLP Transformer Models.
+  [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/SP22_Liu.pdf)
+  [[code]](https://github.com/PurduePAML/PICCOLO)
+  - Yingqi Liu, Guangyu Shen, Guanhong Tao, Shengwei An, Shiqing Ma, and Xiangyu Zhang. *IEEE S&P*, 2022.
+
 - Text Backdoor Detection Using An Interpretable RNN Abstract Model.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9508422)
   - Ming Fan, Ziliang Si, Xiaofei Xie, Yang Liu, and Ting Liu. *IEEE Transactions on Information Forensics and Security*, 2021.
@@ -1225,7 +1230,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2204.05239.pdf)
   [[code]](https://github.com/leix28/prompt-universal-vulnerability)
   - Lei Xu, Yangyi Chen, Ganqu Cui, Hongcheng Gao, and Zhiyuan Liu. *NAACL-Findings*, 2022.
-
 
 - BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3485832.3485837)
