@@ -164,6 +164,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9743735)
   - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
 
+- PTB: Robust Physical Backdoor Attacks against Deep Neural Networks in Real World.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001213)
+  - Mingfu Xue, Can He, Yinghao Wu, Shichang Sun, Yushu Zhang, Jian Wang, and Weiqiang Liu. *Computers & Security*, 2022.
+
 - BlindNet Backdoor: Attack on Deep Neural Network using Blind Watermark.
   [[link]](https://link.springer.com/article/10.1007/s11042-021-11135-0)
   - Hyun Kwon and Yongchul Kim. *Multimedia Tools and Applications*, 2022.
