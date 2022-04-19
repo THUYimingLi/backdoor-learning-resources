@@ -646,6 +646,11 @@ Markdown format:
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
 #### Model Diagnosis based Empirical Defense
+- Complex Backdoor Detection by Symmetric Feature Differencing.
+  [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Liu.pdf)
+  [[code]](https://github.com/PurduePAML/Exray)
+  - Yingqi Liu, Guangyu Shen, Guanhong Tao, Zhenting Wang, Shiqing Ma, and Xiangyu Zhang. *CVPR*, 2022.
+
 - Post-Training Detection of Backdoor Attacks for Two-Class and Multi-Attack Scenarios.
   [[pdf]](https://arxiv.org/pdf/2201.08474.pdf)
   [[code]](https://github.com/zhenxianglance/2ClassBADetection)
