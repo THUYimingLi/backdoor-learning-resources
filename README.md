@@ -1471,6 +1471,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
 
+- Backdooring Explainable Machine Learning.
+  [[pdf]](https://arxiv.org/pdf/2204.09498.pdf)
+  - Maximilian Noppel, Lukas Peter, and Christian Wressnegger. arXiv, 2022.
+
 - Clean-Annotation Backdoor Attack against Lane Detection Systems in the Wild.
   [[pdf]](https://arxiv.org/pdf/2203.00858.pdf)
   - Xingshuo Han, Guowen Xu, Yuan Zhou, Xuehuan Yang, Jiwei Li, and Tianwei Zhang. arXiv, 2022.
