@@ -552,6 +552,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.12162.pdf)
   - Hao Cheng, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, and Xue Lin. *KDD Workshop*, 2019.
 
+- Eliminating Backdoor Triggers for Deep Neural Networks Using Attention Relation Graph Distillation.
+  [[pdf]](https://arxiv.org/pdf/2204.09975.pdf)
+  - Jun Xia, Ting Wang, Jieping Ding, Xian Wei, and Mingsong Chen. arXiv, 2022.
+
 - Adversarial Fine-tuning for Backdoor Defense: Connect Adversarial Examples to Triggered Samples.
   [[pdf]](https://arxiv.org/pdf/2202.06312.pdf)
   - Bingxu Mu, Le Wang, and Zhenxing Niu. arXiv, 2022.
