@@ -1221,7 +1221,11 @@ Markdown format:
   - Yulong Tian, Fnu Suya, Fengyuan Xu, and David Evans. arXiv, 2021.
 
 
-### Natural Language Processing 
+### Natural Language Processing
+- The Triggers that Open the NLP Model Backdoors Are Hidden in the Adversarial Samples.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001250)
+  - Kun Shao, Yu Zhang, Junan Yang, Xiaoshuai Li, and Hui Liu. *Computers & Security*, 2022.
+
 - PICCOLO : Exposing Complex Backdoors in NLP Transformer Models.
   [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/SP22_Liu.pdf)
   [[code]](https://github.com/PurduePAML/PICCOLO)
