@@ -137,6 +137,10 @@ Markdown format:
   [[pdf]](https://www.proquest.com/docview/2555308945?pq-origsite=gscholar&fromopenview=true)
   - Kang Liu. *Ph.D. Dissertation at New York University*, 2021.
 
+- Check Your Other Door: Creating Backdoor Attacks in the Frequency Domain.
+  [[pdf]](file:///C:/Users/Rainbow/Downloads/Thesis_Hasan_Hammoud.pdf)
+  - Hasan Abed Al Kader Hammoud. *Master Thesis at King Abdullah University of Science and Technology*, 2022.
+
 - Backdoor Attacks in Neural Networks.
   [[link]](https://repository.tudelft.nl/islandora/object/uuid:b830b4a2-b700-4c93-8d1d-88dc0191c468?collection=education)
   - Stefanos Koffas. *Master Thesis at Delft University of Technology*, 2021.
@@ -156,6 +160,7 @@ Markdown format:
 - Backdoor Attacks Against Deep Learning Systems in the Physical World.
   [[pdf]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
   - Emily Wenger. *Master Thesis at University of Chicago*, 2020.
+
 
 ## Image and Video Classification
 ### Poisoning-based Attack
