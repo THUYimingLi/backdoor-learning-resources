@@ -1565,6 +1565,12 @@ Markdown format:
   [[code]](https://github.com/zlh-thu/StealingVerification) 
   - Yiming Li, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, and Xiaochun Cao. *AAAI*, 2022. (Discuss the limitations of using backdoor attacks for model watermarking)
 
+- Data-Efficient Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2204.12281.pdf)
+  [[code]](https://github.com/xpf/Data-Efficient-Backdoor-Attacks)
+  - Pengfei Xia, Ziqiang Li, Wei Zhang, and Bin Li. *IJCAI*, 2022.
+
+
 - Excess Capacity and Backdoor Poisoning.
   [[pdf]](https://arxiv.org/pdf/2109.00685.pdf)
   - Naren Sarayu Manoj and Avrim Blum. *NeurIPS*, 2021.
