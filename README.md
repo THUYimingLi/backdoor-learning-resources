@@ -549,7 +549,11 @@ Markdown format:
 - Neural Trojans.
   [[pdf]](https://arxiv.org/pdf/1710.00942.pdf)
   - Yuntao Liu, Yang Xie, and Ankur Srivastava. *ICCD*, 2017.
-  
+
+- Test-time Adaptation of Residual Blocks against Poisoning and Backdoor Attacks. 
+  [[pdf]](https://artofrobust.github.io/short_paper/15.pdf)
+  - Arnav Gudibande, Xinyun Chen, Yang Bai, Jason Xiong, and Dawn Song. *CVPR Workshop*, 2022.
+
 - Disabling Backdoor and Identifying Poison Data by using Knowledge Distillation in Backdoor Attacks on Deep Neural Networks.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3411508.3421375)
   - Kota Yoshida, and Takeshi Fujino. *CCS Workshop*, 2020.
