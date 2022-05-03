@@ -990,6 +990,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2112.05409.pdf)
   - Yang Liu, Zhihao Yi, Yan Kang, Yuanqin He, Wenhan Liu, Tianyuan Zou, and Qiang Yang. *AAAI*, 2022.
 
+- Against Backdoor Attacks In Federated Learning With Differential Privacy.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9747653)
+  - Lu Miao, Wei Yang, Rong Hu, Lu Li, and Liusheng Huang. *ICASSP*, 2022.
+
 - Stability-Based Analysis and Defense against Backdoor Attacks on Edge Computing Services.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9354927)
   - Yi Zhao, Ke Xu, Haiyang Wang, Bo Li, and Ruoxi Jia. *IEEE Network*, 2021.
