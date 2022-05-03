@@ -1485,6 +1485,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
   - Shihong Fang and Anna Choromanska. *AAAI*, 2022.
 
+- Object-Oriented Backdoor Attack Against Image Captioning.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9746440)
+  - Meiling Li, Nan Zhong, Xinpeng Zhang, Zhenxing Qian, and Sheng Li. *ICASSP*, 2022.
+
 - Multi-Target Invisibly Trojaned Networks for Visual Recognition and Detection.
   [[pdf]](https://www.ijcai.org/proceedings/2021/0477.pdf)
   - Xinzhe Zhou, Wenhao Jiang, Sheng Qi, and Yadong Mu. *IJCAI*, 2021.
