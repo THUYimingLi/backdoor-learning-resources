@@ -182,6 +182,10 @@ Markdown format:
   [[link]](https://www.hindawi.com/journals/scn/2022/4593002/)
   - Feng Zhao, Li Zhou, Qi Zhong, Rushi Lan, and Leo Yu Zhang. *Security and Communication Networks*, 2022.
 
+- Invisible and Efficient Backdoor Attacks for Compressed Deep Neural Networks.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9747582)
+  - Huy Phan, Yi Xie, Jian Liu, Yingying Chen, and Bo Yuan. *ICASSP*, 2022.
+
 - Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.
   [[pdf]](https://arxiv.org/pdf/2204.05255.pdf)
   - Yi Zeng, Minzhou Pan, Hoang Anh Just, Lingjuan Lyu, Meikang Qiu, and Ruoxi Jia. arXiv, 2022.
