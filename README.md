@@ -182,6 +182,10 @@ Markdown format:
   [[link]](https://www.hindawi.com/journals/scn/2022/4593002/)
   - Feng Zhao, Li Zhou, Qi Zhong, Rushi Lan, and Leo Yu Zhang. *Security and Communication Networks*, 2022.
 
+- Stealthy Backdoor Attack with Adversarial Training.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9746008)
+  - Le Feng, Sheng Li, Zhenxing Qian, and Xinpeng Zhang. *ICASSP*, 2022. 
+
 - Invisible and Efficient Backdoor Attacks for Compressed Deep Neural Networks.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747582)
   - Huy Phan, Yi Xie, Jian Liu, Yingying Chen, and Bo Yuan. *ICASSP*, 2022.
