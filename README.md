@@ -1493,6 +1493,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9746440)
   - Meiling Li, Nan Zhong, Xinpeng Zhang, Zhenxing Qian, and Sheng Li. *ICASSP*, 2022.
 
+- When Does Backdoor Attack Succeed in Image Reconstruction? A Study of Heuristics vs. Bi-Level Solution.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9746433)
+  - Vardaan Taneja, Pin-Yu Chen, Yuguang Yao, and Sijia Liu. *ICASSP*, 2022.
+
 - Multi-Target Invisibly Trojaned Networks for Visual Recognition and Detection.
   [[pdf]](https://www.ijcai.org/proceedings/2021/0477.pdf)
   - Xinzhe Zhou, Wenhao Jiang, Sheng Qi, and Yadong Mu. *IJCAI*, 2021.
