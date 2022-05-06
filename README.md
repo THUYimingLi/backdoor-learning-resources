@@ -1188,6 +1188,10 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/11.pdf) 
   - Chace Ashcraft and Kiran Karra. *ICLR Workshop*, 2021.
 
+- A Temporal-Pattern Backdoor Attack to Deep Reinforcement Learning.
+  [[pdf]](https://arxiv.org/pdf/2205.02589.pdf)
+  - Yinbo Yu, Jiajia Liu, Shouqing Li, Kepu Huang, and Xudong Feng. arXiv, 2022.
+
 - Backdoor Detection in Reinforcement Learning.
   [[pdf]](https://arxiv.org/pdf/2202.03609.pdf)
   - Junfeng Guo, Ang Li, and Cong Liu. arXiv, 2022.
