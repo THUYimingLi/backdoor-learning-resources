@@ -182,6 +182,11 @@ Markdown format:
   [[link]](https://www.hindawi.com/journals/scn/2022/4593002/)
   - Feng Zhao, Li Zhou, Qi Zhong, Rushi Lan, and Leo Yu Zhang. *Security and Communication Networks*, 2022.
 
+- Imperceptible Backdoor Attack: From Input Space to Feature Representation.
+  [[pdf]](https://arxiv.org/pdf/2205.03190.pdf)
+  [[code]](https://github.com/Ekko-zn/IJCAI2022-Backdoor)
+  - Nan Zhong, Zhenxing Qian, and Xinpeng Zhang. *IJCAI*, 2022.
+
 - Stealthy Backdoor Attack with Adversarial Training.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9746008)
   - Le Feng, Sheng Li, Zhenxing Qian, and Xinpeng Zhang. *ICASSP*, 2022. 
