@@ -652,6 +652,10 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
   - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
 
+- Model-Contrastive Learning for Backdoor Defense.
+  [[pdf]](https://arxiv.org/pdf/2205.04411)
+  - Zhihao Yue, Jun Xia, Zhiwei Ling, Ting Wang, Xian Wei, and Mingsong Chen. arXiv, 2022.
+
 - Backdoor Defense with Machine Unlearning.
   [[pdf]](https://arxiv.org/pdf/2201.09538.pdf)
   - Yang Liu, Mingyuan Fan, Cen Chen, Ximeng Liu, Zhuo Ma, Li Wang, and Jianfeng Ma. arXiv, 2022.
