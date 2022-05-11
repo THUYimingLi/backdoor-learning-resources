@@ -596,7 +596,7 @@ Markdown format:
 - Better Trigger Inversion Optimization in Backdoor Scanning.
   [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Tao.pdf)
   [[code]](https://github.com/Gwinhen/PixelBackdoor)
-  - Guanhong Tao, Guangyu Shen, Yingqi Liu, Shengwei An, Qiuling Xu, Shiqing Ma, Pan Li, and Xiangyu Zhang. *CVPR*, 2020.
+  - Guanhong Tao, Guangyu Shen, Yingqi Liu, Shengwei An, Qiuling Xu, Shiqing Ma, Pan Li, and Xiangyu Zhang. *CVPR*, 2022.
  
 - AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis.
   [[pdf]](https://arxiv.org/pdf/2110.14880.pdf)
