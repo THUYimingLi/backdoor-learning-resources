@@ -81,6 +81,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
   - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
 
+- Data Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses.
+  [[pdf]](https://arxiv.org/pdf/2012.10544.pdf)
+  - Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, and Tom Goldstein. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2022.
+
 - Backdoor Attacks on Image Classification Models in Deep Neural Networks.
   [[link]](http://cje.ejournal.org.cn/article/doi/10.1049/cje.2021.00.126)
   - Quanxin Zhang, Wencong Ma, Yajie Wang, Yaoyuan Zhang, Zhiwei Shi, and Yuanzhang Li. *Chinese Journal of Electronics*, 2022.
@@ -92,10 +96,6 @@ Markdown format:
 - A Survey on Neural Trojans. 
   [[pdf]](https://eprint.iacr.org/2020/201.pdf)
   - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. *ISQED*, 2020.
-
-- Data Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses.
-  [[pdf]](https://arxiv.org/pdf/2012.10544.pdf)
-  - Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, and Tom Goldstein. arXiv, 2020.
 
 - A Survey of Neural Trojan Attacks and Defenses in Deep Learning.
   [[pdf]](https://arxiv.org/pdf/2202.07183.pdf)
