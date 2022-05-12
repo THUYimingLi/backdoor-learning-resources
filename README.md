@@ -1603,6 +1603,10 @@ Markdown format:
   [[code]](https://github.com/zlh-thu/StealingVerification) 
   - Yiming Li, Linghui Zhu, Xiaojun Jia, Yong Jiang, Shu-Tao Xia, and Xiaochun Cao. *AAAI*, 2022. (Discuss the limitations of using backdoor attacks for model watermarking)
 
+- Susceptibility & Defense of Satellite Image-trained Convolutional Networks to Backdoor Attacks.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0020025522004248)
+  - Ethan Brewer, Jason Lin, and Dan Runfola. *Information Sciences*, 2021.
+
 - Data-Efficient Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2204.12281.pdf)
   [[code]](https://github.com/xpf/Data-Efficient-Backdoor-Attacks)
