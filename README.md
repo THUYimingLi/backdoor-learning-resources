@@ -45,9 +45,9 @@ Markdown format:
   - [Non-poisoning-based Attack](#non-poisoning-based-attack)
     - [Weights-oriented Attack](#weights-oriented-attack)
     - [Structure-modified Attack](#structure-modified-attack)
-    - [Others](#others)
+    - [Other Attacks](#other-attacks)
   - [Backdoor Defense](#backdoor-defense)
-    - [Preprocessing based Empirical Defense](#preprocessing-based-empirical-defense)
+    - [Preprocessing-based Empirical Defense](#preprocessing-based-empirical-defense)
     - [Model Reconstruction based Empirical Defense](#model-reconstruction-based-empirical-defense)
     - [Trigger Synthesis based Empirical Defense](#trigger-synthesis-based-empirical-defense)
     - [Model Diagnosis based Empirical Defense](#model-diagnosis-based-empirical-defense)
@@ -486,7 +486,7 @@ Markdown format:
 
 
 
-#### Others
+#### Other Attacks
 - Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2010.03282.pdf)
   - Ahmed Salem, Michael Backes, and Yang Zhang. arXiv, 2020.
@@ -494,7 +494,7 @@ Markdown format:
 
   
 ### Backdoor Defense
-#### Preprocessing based Empirical Defense
+#### Preprocessing-based Empirical Defense
 - Rethinking the Trigger of Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.
