@@ -1502,6 +1502,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
   - Shihong Fang and Anna Choromanska. *AAAI*, 2022.
 
+- A Triggerless Backdoor Attack and Defense Mechanism for Intelligent Task Offloading in Multi-UAV Systems.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9770193)
+  - Shafkat Islam, Shahriar Badsha, Ibrahim Khalil, Mohammed Atiquzzaman, and Charalambos Konstantinou. *IEEE Internet of Things Journal*, 2022.
+
+
 - Object-Oriented Backdoor Attack Against Image Captioning.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9746440)
   - Meiling Li, Nan Zhong, Xinpeng Zhang, Zhenxing Qian, and Sheng Li. *ICASSP*, 2022.
