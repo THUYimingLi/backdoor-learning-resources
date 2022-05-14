@@ -117,7 +117,7 @@ Markdown format:
 ## Toolbox
 - [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox)
 - [TrojanZoo](https://github.com/ain-soph/trojanzoo)
-- [BackdoorBench](https://backdoorbench.github.io/index.html)
+- [BackdoorBench](https://github.com/SCLBD/BackdoorBench)
 - [backdoors101](https://github.com/ebagdasa/backdoors101)
 
 
