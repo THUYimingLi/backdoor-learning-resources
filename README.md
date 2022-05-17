@@ -730,6 +730,10 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/17.pdf)
   - Peter Bajcsy and Michael Majurski. *ICLR Workshop*, 2021.
 
+- Universal Post-Training Backdoor Detection.
+  [[pdf]](https://arxiv.org/pdf/2205.06900.pdf)
+  - Hang Wang, Zhen Xiang, David J. Miller, and George Kesidis. arXiv, 2022.
+
 - Trojan Signatures in DNN Weights.
   [[pdf]](https://arxiv.org/pdf/2109.02836.pdf)
   - Greg Fields, Mohammad Samragh, Mojan Javaheripi, Farinaz Koushanfar, and Tara Javidi. arXiv, 2021.
