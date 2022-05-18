@@ -1270,6 +1270,11 @@ Markdown format:
   [[code]](https://github.com/PurduePAML/PICCOLO)
   - Yingqi Liu, Guangyu Shen, Guanhong Tao, Shengwei An, Shiqing Ma, and Xiangyu Zhang. *IEEE S&P*, 2022.
 
+- A Study of the Attention Abnormality in Trojaned BERTs.
+  [[pdf]](https://arxiv.org/pdf/2205.08305.pdf)
+  [[code]](https://github.com/weimin17/attention_abnormality_in_trojaned_berts)
+  - Weimin Lyu, Songzhu Zheng, Tengfei Ma, and Chao Chen. *NAACL-HTL*, 2022.
+
 - Text Backdoor Detection Using An Interpretable RNN Abstract Model.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9508422)
   - Ming Fan, Ziliang Si, Xiaofei Xie, Yang Liu, and Ting Liu. *IEEE Transactions on Information Forensics and Security*, 2021.
