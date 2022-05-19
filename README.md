@@ -160,7 +160,7 @@ Markdown format:
 
 - Backdoor Attacks Against Deep Learning Systems in the Physical World.
   [[pdf]](https://newtraell.cs.uchicago.edu/files/ms_paper/ewillson.pdf)
-  - Emily Wenger. *Master Thesis at University of Chicago*, 2020.
+  - Emily Willson. *Master Thesis at University of Chicago*, 2020.
 
 
 ## Image and Video Classification
