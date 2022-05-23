@@ -1283,10 +1283,6 @@ Markdown format:
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0167404821002571)
   - Kun Shao, Junan Yang, Yang Ai, Hui Liu, and Yu Zhang. *Computers & Security*, 2021.
 
-- Backdoor Pre-trained Models Can Transfer to All.
-  [[pdf]](https://arxiv.org/pdf/2111.00197)
-  - Lujia Shen, Shouling Ji, Xuhong Zhang, Jinfeng Li, Jing Chen, Jie Shi, Chengfang Fang, Jianwei Yin, Ting Wang. *CCS*, 2021.
-
 - BadPre: Task-agnostic Backdoor Attacks to Pre-trained NLP Foundation Models.
   [[pdf]](https://arxiv.org/pdf/2110.02467.pdf)
   - Kangjie Chen, Yuxian Meng, Xiaofei Sun, Shangwei Guo, Tianwei Zhang, Jiwei Li, and Chun Fan. *ICLR*, 2022.
@@ -1295,6 +1291,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2204.05239.pdf)
   [[code]](https://github.com/leix28/prompt-universal-vulnerability)
   - Lei Xu, Yangyi Chen, Ganqu Cui, Hongcheng Gao, and Zhiyuan Liu. *NAACL-Findings*, 2022.
+
+- Backdoor Pre-trained Models Can Transfer to All.
+  [[pdf]](https://arxiv.org/pdf/2111.00197)
+  - Lujia Shen, Shouling Ji, Xuhong Zhang, Jinfeng Li, Jing Chen, Jie Shi, Chengfang Fang, Jianwei Yin, and Ting Wang. *CCS*, 2021.
 
 - BadNL: Backdoor Attacks against NLP Models with Semantic-preserving Improvements.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3485832.3485837)
