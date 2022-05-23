@@ -3,7 +3,7 @@ This Github repository summarizes a list of **Backdoor Learning** resources. For
 
 
 #### Why Backdoor Learning?
-Backdoor learning is an emerging research area, which discusses the security issues of the training process towards machine learning algorithms. It is critical for safely adopting third-party algorithms in reality.  Although backdoor learning shares certain similarity with adversarial learning (which concentrates on the security issues of the inference process), they do have essential differences and can be easily distinguished.
+Backdoor learning is an emerging research area, which discusses the security issues of the training process towards machine learning algorithms. It is critical for safely adopting third-party training resources or models in reality.  
 
 Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
