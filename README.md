@@ -526,10 +526,6 @@ Markdown format:
   - Sakshi Udeshi, Shanshan Peng, Gerald Woo, Lionell Loh, Louth Rawshan, and Sudipta Chattopadhyay. arXiv, 2019.
 
 #### Model Reconstruction based Empirical Defense
-- LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons Consistency Check.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9775729)
-  - Zhenzhu Chen, Shang Wang, Anmin Fu, Yansong Gao, Shui Yu, and Robert H. Deng. *IEEE Transactions on Information Forensics and Security*, 2022.
-
 - Adversarial Unlearning of Backdoors via Implicit Hypergradient.
   [[pdf]](https://arxiv.org/pdf/2110.03735.pdf)
   [[code]](https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient)
@@ -830,6 +826,10 @@ Markdown format:
 
 
 #### Sample Filtering based Empirical Defense
+- LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons Consistency Check.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9775729)
+  - Zhenzhu Chen, Shang Wang, Anmin Fu, Yansong Gao, Shui Yu, and Robert H. Deng. *IEEE Transactions on Information Forensics and Security*, 2022.
+
 - Similarity-based Integrity Protection for Deep Learning Systems.
   [[link]](https://www.sciencedirect.com/science/article/pii/S0020025522003279)
   - Ruitao Hou, Shan Ai, Qi Chen, Hongyang Yan, Teng Huang, and Kongyang Chen. *Information Sciences*, 2022.
