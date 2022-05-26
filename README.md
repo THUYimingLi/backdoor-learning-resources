@@ -1553,6 +1553,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
 
+- Backdoor Attacks on Bayesian Neural Networks using Reverse Distribution.
+  [[pdf]](https://arxiv.org/pdf/2205.09167.pdf)
+  - Zhixin Pan and Prabhat Mishra. arXiv, 2022.
+
 - Backdooring Explainable Machine Learning.
   [[pdf]](https://arxiv.org/pdf/2204.09498.pdf)
   - Maximilian Noppel, Lukas Peter, and Christian Wressnegger. arXiv, 2022.
