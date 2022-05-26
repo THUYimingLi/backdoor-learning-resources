@@ -1373,6 +1373,10 @@ Markdown format:
   [[code]](https://github.com/INK-USC/data-poisoning)
   - Jun Yan, Vansh Gupta, and Xiang Ren. arXiv, 2022.
 
+- WeDef: Weakly Supervised Backdoor Defense for Text Classification.
+  [[pdf]](https://arxiv.org/pdf/2205.11803.pdf)
+  - Lesheng Jin, Zihan Wang, and Jingbo Shang. arXiv, 2022.
+
 - Constrained Optimization with Dynamic Bound-scaling for Effective NLPBackdoor Defense.
   [[pdf]](https://arxiv.org/pdf/2202.05749.pdf)
   - Guangyu Shen, Yingqi Liu, Guanhong Tao, Qiuling Xu, Zhuo Zhang, Shengwei An, Shiqing Ma, and Xiangyu Zhang. arXiv, 2022.
