@@ -1061,6 +1061,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- Towards a Defense against Backdoor Attacks in Continual Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2205.11736.pdf)
+  - Shuaiqi Wang, Jonathan Hayase, Giulia Fanti, and Sewoong Oh. arXiv, 2022.
+  
 - Client-Wise Targeted Backdoor in Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2203.08689.pdf)
   - Gorka Abad, Servio Paguada, Stjepan Picek, Víctor Julio Ramírez-Durán, and Aitor Urbieta. arXiv, 2022.
