@@ -1368,6 +1368,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- Textual Backdoor Attacks with Iterative Trigger Injection.
+  [[pdf]](https://arxiv.org/pdf/2205.12700.pdf)
+  [[code]](https://github.com/INK-USC/data-poisoning)
+  - Jun Yan, Vansh Gupta, and Xiang Ren. arXiv, 2022.
+
 - Constrained Optimization with Dynamic Bound-scaling for Effective NLPBackdoor Defense.
   [[pdf]](https://arxiv.org/pdf/2202.05749.pdf)
   - Guangyu Shen, Yingqi Liu, Guanhong Tao, Qiuling Xu, Zhuo Zhang, Shengwei An, Shiqing Ma, and Xiangyu Zhang. arXiv, 2022.
