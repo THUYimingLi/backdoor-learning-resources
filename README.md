@@ -1528,14 +1528,18 @@ Markdown format:
   [[code]](https://github.com/HXZhong1997/FSBA)
   - Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, and Shu-Tao Xia. *ICLR*, 2022.
 
-- Backdoor Attacks on the DNN Interpretation System.
-  [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
-  - Shihong Fang and Anna Choromanska. *AAAI*, 2022.
+- An Interpretive Perspective: Adversarial Trojaning Attack on Neural-Architecture-Search Enabled Edge AI Systems.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9780600)
+  - Ship Peng Xu, Ke Wang, Md. Rafiul Hassan, Mohammad Mehedi Hassan, and Chien-Ming Chen. *IEEE Transactions on Industrial Informatics*, 2022.
+
 
 - A Triggerless Backdoor Attack and Defense Mechanism for Intelligent Task Offloading in Multi-UAV Systems.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9770193)
   - Shafkat Islam, Shahriar Badsha, Ibrahim Khalil, Mohammed Atiquzzaman, and Charalambos Konstantinou. *IEEE Internet of Things Journal*, 2022.
 
+- Backdoor Attacks on the DNN Interpretation System.
+  [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
+  - Shihong Fang and Anna Choromanska. *AAAI*, 2022.
 
 - Object-Oriented Backdoor Attack Against Image Captioning.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9746440)
