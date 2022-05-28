@@ -199,6 +199,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2204.05255.pdf)
   - Yi Zeng, Minzhou Pan, Hoang Anh Just, Lingjuan Lyu, Meikang Qiu, and Ruoxi Jia. arXiv, 2022.
 
+- BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning.
+  [[pdf]](https://arxiv.org/pdf/2205.13383.pdf)
+  [[code]](https://github.com/RU-System-Software-and-Security/BppAttack)
+  - Zhenting Wang, Juan Zhai, and Shiqing Ma. arXiv, 2022.
+
 - Trojan Horse Training for Breaking Defenses against Backdoor Attacks in Deep Learning.
   [[pdf]](https://arxiv.org/pdf/2203.15506.pdf)
   - Arezoo Rajabi, Bhaskar Ramasubramanian, and Radha Poovendran. arXiv, 2022.
