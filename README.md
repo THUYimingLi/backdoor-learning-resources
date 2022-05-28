@@ -1071,6 +1071,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- PerDoor: Persistent Non-Uniform Backdoors in Federated Learning using Adversarial Perturbations.
+  [[pdf]](https://arxiv.org/pdf/2205.13523.pdf)
+  [[code]](https://github.com/momalab/PerDoor)
+  - Manaar Alam, Esha Sarkar, and Michail Maniatakos. arXiv, 2022.
+
 - Towards a Defense against Backdoor Attacks in Continual Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2205.11736.pdf)
   - Shuaiqi Wang, Jonathan Hayase, Giulia Fanti, and Sewoong Oh. arXiv, 2022.
