@@ -186,6 +186,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2205.13383.pdf)
   [[code]](https://github.com/RU-System-Software-and-Security/BppAttack)
   - Zhenting Wang, Juan Zhai, and Shiqing Ma. *CVPR*, 2022.
+ 
+- Dynamic Backdoor Attacks Against Machine Learning Models. 
+  [[pdf]](https://arxiv.org/pdf/2003.03675.pdf)
+  - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. *EuroS&P*, 2022.   
 
 - Imperceptible Backdoor Attack: From Input Space to Feature Representation.
   [[pdf]](https://arxiv.org/pdf/2205.03190.pdf)
@@ -397,10 +401,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2009.06996.pdf)
   - Haoliang Li, Yufei Wang, Xiaofei Xie, Yang Liu, Shiqi Wang, Renjie Wan, Lap-Pui Chau, and Alex C. Kot. arXiv, 2020.
 
-
-- Dynamic Backdoor Attacks Against Machine Learning Models. 
-  [[pdf]](https://arxiv.org/pdf/2003.03675.pdf)
-  - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. arXiv, 2020.  
 
 #### 2019
 - A New Backdoor Attack in CNNS by Training Set Corruption Without Label Poisoning.
