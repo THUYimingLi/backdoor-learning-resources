@@ -1568,6 +1568,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
   - Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
 
+- Adversarial Targeted Forgetting in Regularization and Generative Based Continual Learning Models.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9533400)
+  - Muhammad Umer and Robi Polikar. *IJCNN*, 2021.
+
 - Targeted Forgetting and False Memory Formation in Continual Learners through Adversarial Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2002.07111.pdf)
   - Muhammad Umer, Glenn Dawson, Robi Polikar. *IJCNN*, 2020.
