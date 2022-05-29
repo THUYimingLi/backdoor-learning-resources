@@ -1568,6 +1568,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.04038.pdf)
   - Yiming Li, Yanjie Li, Yalei Lv, Yong Jiang, and Shu-Tao Xia. *ICLR Workshop*, 2021.
 
+- Targeted Forgetting and False Memory Formation in Continual Learners through Adversarial Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2002.07111.pdf)
+  - Muhammad Umer, Glenn Dawson, Robi Polikar. *IJCNN*, 2020.
+
 - Trojan Attacks on Wireless Signal Classification with Adversarial Machine Learning.
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
@@ -1619,10 +1623,6 @@ Markdown format:
 - DeepObliviate: A Powerful Charm for Erasing Data Residual Memory in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2105.06209.pdf)
   - Yingzhe He, Guozhu Meng, Kai Chen, Jinwen He, and Xingbo Hu. arXiv, 2021.
-
-- Targeted Forgetting and False Memory Formation in Continual Learners through Adversarial Backdoor Attacks.
-  [[pdf]](https://arxiv.org/pdf/2002.07111.pdf)
-  - Muhammad Umer, Glenn Dawson, Robi Polikar. arXiv, 2020.
 
 - Backdoors in Neural Models of Source Code.
   [[pdf]](https://arxiv.org/pdf/2006.06841)
