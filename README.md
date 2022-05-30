@@ -985,6 +985,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.11750.pdf)
   - Binghui Wang, Xiaoyu Cao, Jinyuan jia, and Neil Zhenqiang Gong. *CVPR Workshop*, 2020.
 
+- BagFlip: A Certified Defense against Data Poisoning.
+  [[pdf]](https://arxiv.org/pdf/2205.13634.pdf)
+  - Yuhao Zhang, Aws Albarghouthi, and Loris D'Antoni. arXiv, 2022.
+
 - RAB: Provable Robustness Against Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2003.08904.pdf)
   [[code]](https://github.com/AI-secure/Robustness-Against-Backdoor-Attacks)
