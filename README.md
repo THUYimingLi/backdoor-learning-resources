@@ -902,6 +902,11 @@ Markdown format:
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
 
+- Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations.
+  [[pdf]](https://arxiv.org/pdf/2205.13616.pdf)
+  [[code]](https://github.com/Unispac/Fight-Poison-With-Poison)
+  - Xiangyu Qi, Tinghao Xie, Saeed Mahloujifar, and Prateek Mittal. arXiv, 2022.
+
 - PiDAn: A Coherence Optimization Approach for Backdoor Attack Detection and Mitigation in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2203.09289.pdf)
   - Yue Wang, Wenqing Li, Esha Sarkar, Muhammad Shafique, Michail Maniatakos, and Saif Eddin Jabari. arXiv, 2022.
