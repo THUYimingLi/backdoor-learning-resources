@@ -1085,6 +1085,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- SafeNet: Mitigating Data Poisoning Attacks on Private Machine Learning.
+  [[pdf]](https://arxiv.org/pdf/2205.09986.pdf)
+  [[code]](https://github.com/data61/MP-SPDZ)
+  - Harsh Chaudhari, Matthew Jagielski, and Alina Oprea. arXiv, 2022.
+
 - PerDoor: Persistent Non-Uniform Backdoors in Federated Learning using Adversarial Perturbations.
   [[pdf]](https://arxiv.org/pdf/2205.13523.pdf)
   [[code]](https://github.com/momalab/PerDoor)
