@@ -204,6 +204,11 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747582)
   - Huy Phan, Yi Xie, Jian Liu, Yingying Chen, and Bo Yuan. *ICASSP*, 2022.
 
+- Circumventing Backdoor Defenses That Are Based on Latent Separability.
+  [[pdf]](https://arxiv.org/pdf/2205.13613.pdf)
+  [[code]](https://github.com/Unispac/Circumventing-Backdoor-Defenses)
+  - Xiangyu Qi, Tinghao Xie, Saeed Mahloujifar, and Prateek Mittal. arXiv, 2022.
+
 - Narcissus: A Practical Clean-Label Backdoor Attack with Limited Information.
   [[pdf]](https://arxiv.org/pdf/2204.05255.pdf)
   - Yi Zeng, Minzhou Pan, Hoang Anh Just, Lingjuan Lyu, Meikang Qiu, and Ruoxi Jia. arXiv, 2022.
