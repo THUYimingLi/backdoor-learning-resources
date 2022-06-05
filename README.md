@@ -1602,6 +1602,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
 
+- A Temporal Chrominance Trigger for Clean-label Backdoor Attack against Anti-spoof Rebroadcast Detection.
+  [[pdf]](https://arxiv.org/pdf/2206.01102.pdf)
+  - Wei Guo, Benedetta Tondi, and Mauro Barni. arXiv, 2022.
+
 - BadDet: Backdoor Attacks on Object Detection.
   [[pdf]](https://arxiv.org/pdf/2205.14497.pdf)
   - Shih-Han Chan, Yinpeng Dong, Jun Zhu, Xiaolu Zhang, and Jun Zhou. arXiv, 2022.
