@@ -213,6 +213,9 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2204.05255.pdf)
   - Yi Zeng, Minzhou Pan, Hoang Anh Just, Lingjuan Lyu, Meikang Qiu, and Ruoxi Jia. arXiv, 2022.
 
+- CASSOCK: Viable Backdoor Attacks against DNN in The Wall of Source-Specific Backdoor Defences.
+  [[pdf]](https://arxiv.org/pdf/2206.00145.pdf)
+  - Shang Wang, Yansong Gao, Anmin Fu, Zhi Zhang, Yuqing Zhang, and Willy Susilo. arXiv, 2022.
 
 - Trojan Horse Training for Breaking Defenses against Backdoor Attacks in Deep Learning.
   [[pdf]](https://arxiv.org/pdf/2203.15506.pdf)
