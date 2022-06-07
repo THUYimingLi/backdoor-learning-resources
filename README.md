@@ -1409,6 +1409,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- Kallima: A Clean-label Framework for Textual Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2206.01832.pdf)
+  - Xiaoyi Chen, Yinpeng Dong, Zeyu Sun, Shengfang Zhai, Qingni Shen, and Zhonghai Wu. arXiv, 2022.
+
 - Textual Backdoor Attacks with Iterative Trigger Injection.
   [[pdf]](https://arxiv.org/pdf/2205.12700.pdf)
   [[code]](https://github.com/INK-USC/data-poisoning)
