@@ -1030,6 +1030,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
   - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS*, 2020 (arXiv, 2018).
 
+- FLAME: Taming Backdoors in Federated Learning.
+  [[pdf]](https://www.usenix.org/system/files/sec22fall_nguyen.pdf)
+  - Thien Duc Nguyen, Phillip Rieger, Huili Chen, Hossein Yalame, Helen Möllering, Hossein Fereidooni, Samuel Marchal, Markus Miettinen, Azalia Mirhoseini, Shaza Zeitouni, Farinaz Koushanfar, Ahmad-Reza Sadeghi, and Thomas Schneider. *USENIX Security*, 2022.
+
 - DeepSight: Mitigating Backdoor Attacks in Federated Learning Through Deep Model Inspection.
   [[pdf]](https://arxiv.org/pdf/2201.00763.pdf)
   - Phillip Rieger, Thien Duc Nguyen, Markus Miettinen, and Ahmad-Reza Sadeghi. *NDSS*, 2022.
