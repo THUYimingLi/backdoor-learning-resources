@@ -11,11 +11,11 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 ## Citation
 If our repo or survey is useful for your research, please cite our paper as follows:
 ```
-@article{li2020backdoor,
+@article{li2022backdoor,
   title={Backdoor learning: A survey},
   author={Li, Yiming and Jiang, Yong and Li, Zhifeng and Xia, Shu-Tao},
-  journal={arXiv preprint arXiv:2007.08745},
-  year={2020}
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  year={2022}
 }
 ```
 
@@ -117,6 +117,7 @@ Markdown format:
 ## Toolbox
 - [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox)
 - [TrojanZoo](https://github.com/ain-soph/trojanzoo)
+- [Backdoor Toolbox](https://github.com/vtu81/backdoor-toolbox)
 - [BackdoorBench](https://github.com/SCLBD/BackdoorBench)
 - [backdoors101](https://github.com/ebagdasa/backdoors101)
 
