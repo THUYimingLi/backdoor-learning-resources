@@ -1524,14 +1524,16 @@ Markdown format:
   - Guiyu Tian, Wenhao Jiang, Wei Liu, and Yadong Mu. arXiv, 2021.
 
 ### Acoustics Signal Processing
+- Can You Hear It? Backdoor Attacks via Ultrasonic Triggers.
+  [[pdf]](https://arxiv.org/pdf/2107.14569.pdf)
+  [[https://github.com/skoffas/ultrasonic_backdoor]]
+  - Stefanos Koffas, Jing Xu, Mauro Conti, and Stjepan Picek. *WiseML*, 2022.
+
 - Backdoor Attack against Speaker Verification
   [[pdf]](https://arxiv.org/pdf/2010.11607.pdf)
   [[code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
   - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2021.
 
-- Can You Hear It? Backdoor Attacks via Ultrasonic Triggers.
-  [[pdf]](https://arxiv.org/pdf/2107.14569.pdf)
-  - Stefanos Koffas, Jing Xu, Mauro Conti, and Stjepan Picek. arXiv, 2021.
 
 ### Medical Science
 - Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks.
