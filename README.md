@@ -1751,6 +1751,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
 
+- Dynamic Backdoor Attacks with Global Average Pooling
+  [[pdf]](https://arxiv.org/pdf/2203.02079.pdf)
+  [[code]](https://github.com/skoffas/gap)
+  - Stefanos Koffas, Stjepan Picek, and Mauro Conti. arXiv, 2022. 
+
 - Planting Undetectable Backdoors in Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2204.06974.pdf)
   - Shafi Goldwasser, Michael P. Kim, Vinod Vaikuntanathan, and Or Zamir. arXiv, 2022.
