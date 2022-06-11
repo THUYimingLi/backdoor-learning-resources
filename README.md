@@ -75,7 +75,7 @@ Markdown format:
 ## Survey
 - Backdoor Learning: A Survey.
   [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
-  - Yiming Li, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. arXiv, 2020.
+  - Yiming Li, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
 
 - Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
   [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
