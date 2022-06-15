@@ -1839,6 +1839,7 @@ Markdown format:
 
 - Open-sourced Dataset Protection via Backdoor Watermarking.
   [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
+  [[code]](https://github.com/THUYimingLi/Open-sourced_Dataset_Protection)
   - Yiming Li, Ziqi Zhang, Jiawang Bai, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *NeurIPS Workshop*, 2020.
 
 - Protecting Deep Cerebrospinal Fluid Cell Image Processing Models with Backdoor and Semi-Distillation.
