@@ -545,14 +545,18 @@ Markdown format:
   - Sakshi Udeshi, Shanshan Peng, Gerald Woo, Lionell Loh, Louth Rawshan, and Sudipta Chattopadhyay. arXiv, 2019.
 
 #### Model Reconstruction based Empirical Defense
+- Interpretability-Guided Defense against Backdoor Attacks to Deep Neural Networks.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9530722/)
+  - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, and Ziwei Song. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
+
 - Adversarial Unlearning of Backdoors via Implicit Hypergradient.
   [[pdf]](https://arxiv.org/pdf/2110.03735.pdf)
   [[code]](https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient)
   - Yi Zeng, Si Chen, Won Park, Z. Morley Mao, Ming Jin, and Ruoxi Jia. *ICLR*, 2022.
 
-- Interpretability-Guided Defense against Backdoor Attacks to Deep Neural Networks.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9530722/)
-  - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, and Ziwei Song. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
+- Eliminating Backdoor Triggers for Deep Neural Networks Using Attention Relation Graph Distillation.
+  [[pdf]](https://arxiv.org/pdf/2204.09975.pdf)
+  - Jun Xia, Ting Wang, Jieping Ding, Xian Wei, and Mingsong Chen. *IJCAI*, 2022.
 
 - Boundary augment: A data augment method to defend poison attack.
   [[link]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)
@@ -598,9 +602,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2206.07018.pdf)
   - Si Chen, Yi Zeng, Won Park, and Ruoxi Jia. arXiv, 2022.
 
-- Eliminating Backdoor Triggers for Deep Neural Networks Using Attention Relation Graph Distillation.
-  [[pdf]](https://arxiv.org/pdf/2204.09975.pdf)
-  - Jun Xia, Ting Wang, Jieping Ding, Xian Wei, and Mingsong Chen. arXiv, 2022.
 
 - Adversarial Fine-tuning for Backdoor Defense: Connect Adversarial Examples to Triggered Samples.
   [[pdf]](https://arxiv.org/pdf/2202.06312.pdf)
