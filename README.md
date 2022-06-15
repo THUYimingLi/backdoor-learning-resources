@@ -590,6 +590,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.12162.pdf)
   - Hao Cheng, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, and Xue Lin. *KDD Workshop*, 2019.
 
+- Turning a Curse Into a Blessing: Enabling Clean-Data-Free Defenses by Model Inversion.
+  [[pdf]](https://arxiv.org/pdf/2206.07018.pdf)
+  - Si Chen, Yi Zeng, Won Park, and Ruoxi Jia. arXiv, 2022.
+
 - Eliminating Backdoor Triggers for Deep Neural Networks Using Attention Relation Graph Distillation.
   [[pdf]](https://arxiv.org/pdf/2204.09975.pdf)
   - Jun Xia, Ting Wang, Jieping Ding, Xian Wei, and Mingsong Chen. arXiv, 2022.
