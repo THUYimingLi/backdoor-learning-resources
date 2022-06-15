@@ -1766,6 +1766,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
 
+- Can Backdoor Attacks Survive Time-Varying Models?
+  [[pdf]](https://arxiv.org/pdf/2206.04677.pdf)
+  - Huiying Li, Arjun Nitin Bhagoji, Ben Y. Zhao, and Haitao Zheng. arXiv, 2022. 
+
 - Dynamic Backdoor Attacks with Global Average Pooling
   [[pdf]](https://arxiv.org/pdf/2203.02079.pdf)
   [[code]](https://github.com/skoffas/gap)
