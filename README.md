@@ -1815,11 +1815,6 @@ Markdown format:
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv, 2020.
 
 ## Backdoor Attack for Positive Purposes
-- Membership Inference via Backdooring.
-  [[pdf]](https://arxiv.org/pdf/2206.04823.pdf)
-  [[code]](https://github.com/HongshengHu/membership-inference-via-backdooring)
-  - Hongsheng Hu, Zoran Salcic, Gillian Dobbie, Jinjun Chen, Lichao Sun, and Xuyun Zhang. *IJCAI*, 2022.
-
 - Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects.
   [[pdf]](https://aclanthology.org/2021.naacl-main.430.pdf) 
   - Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun and Bin He. *NAACL-HLT*, 2021.
@@ -1836,6 +1831,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1802.04633.pdf)
   [[code]](https://github.com/adiyoss/WatermarkNN)
   - Yossi Adi, Carsten Baum, Moustapha Cisse, Benny Pinkas, and Joseph Keshet. *USENIX Security*, 2018. 
+
+- Membership Inference via Backdooring.
+  [[pdf]](https://arxiv.org/pdf/2206.04823.pdf)
+  [[code]](https://github.com/HongshengHu/membership-inference-via-backdooring)
+  - Hongsheng Hu, Zoran Salcic, Gillian Dobbie, Jinjun Chen, Lichao Sun, and Xuyun Zhang. *IJCAI*, 2022. (**Note:** This paper is a direct extension of [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/pdf/2010.05821.pdf) without proper citation. Its codes are also built based on the Yiming's codes (For example, the `TriggerAppending` in [tools.py](https://github.com/HongshengHu/membership-inference-via-backdooring/blob/main/Cifar/tools.py) is a direct copy). )
 
 - Open-sourced Dataset Protection via Backdoor Watermarking.
   [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
