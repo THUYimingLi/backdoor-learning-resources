@@ -1839,7 +1839,7 @@ Markdown format:
 - Membership Inference via Backdooring.
   [[pdf]](https://arxiv.org/pdf/2206.04823.pdf)
   [[code]](https://github.com/HongshengHu/membership-inference-via-backdooring)
-  - Hongsheng Hu, Zoran Salcic, Gillian Dobbie, Jinjun Chen, Lichao Sun, and Xuyun Zhang. *IJCAI*, 2022. (**Note:** This paper is mostly built based on the work [Open-sourced Dataset Protection via Backdoor Watermarking](https://arxiv.org/pdf/2010.05821.pdf) without proper reference. Its codes are also built based on the Yiming's codes (For example, the `TriggerAppending` in [tools.py](https://github.com/HongshengHu/membership-inference-via-backdooring/blob/main/Cifar/tools.py) is a direct copy). )
+  - Hongsheng Hu, Zoran Salcic, Gillian Dobbie, Jinjun Chen, Lichao Sun, and Xuyun Zhang. *IJCAI*, 2022. 
 
 - Open-sourced Dataset Protection via Backdoor Watermarking.
   [[pdf]](https://arxiv.org/pdf/2010.05821.pdf)
