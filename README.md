@@ -499,6 +499,10 @@ Markdown format:
   [[extension]](https://arxiv.org/pdf/2111.12965.pdf)
   - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
 
+- Architectural Backdoors in Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2206.07840.pdf)
+  - Mikel Bober-Irizar, Ilia Shumailov, Yiren Zhao, Robert Mullins, and Nicolas Papernot. arXiv, 2022.
+
 - Planting Undetectable Backdoors in Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2204.06974.pdf)
   - Shafi Goldwasser, Michael P. Kim, Vinod Vaikuntanathan, and Or Zamir. arXiv, 2022.
@@ -1233,6 +1237,11 @@ Markdown format:
 - Latent Backdoor Attacks on Deep Neural Networks.
   [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
   - Yuanshun Yao, Huiying Li, Haitao Zheng and Ben Y. Zhao. *CCS*, 2019.
+  
+- Architectural Backdoors in Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2206.07840.pdf)
+  - Mikel Bober-Irizar, Ilia Shumailov, Yiren Zhao, Robert Mullins, and Nicolas Papernot. arXiv, 2022.
+  
   
 - Red Alarm for Pre-trained Models: Universal Vulnerabilities by Neuron-Level Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2101.06969.pdf)
