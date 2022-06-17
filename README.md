@@ -1280,6 +1280,11 @@ Markdown format:
 
 
 ### Semi-Supervised and Self-Supervised Learning
+- Backdoor Attacks on Self-Supervised Learning.
+  [[pdf]](https://arxiv.org/pdf/2105.10123)
+  [[code]](https://github.com/UMBCvision/SSL-Backdoor)
+  - Aniruddha Saha, Ajinkya Tejankar, Soroush Abbasi Koohpayegani, and Hamed Pirsiavash. *CVPR*, 2022.
+
 - Poisoning and Backdooring Contrastive Learning.
   [[pdf]](https://arxiv.org/pdf/2106.09667.pdf)
   - Nicholas Carlini and Andreas Terzis. *ICLR*, 2022.
@@ -1300,10 +1305,6 @@ Markdown format:
 - Watermarking Pre-trained Encoders in Contrastive Learning.
   [[pdf]](https://arxiv.org/pdf/2201.08217.pdf)
   - Yutong Wu, Han Qiu, Tianwei Zhang, Jiwei Li, and Meikang Qiu. arXiv, 2022.
-
-- Backdoor Attacks on Self-Supervised Learning.
-  [[pdf]](https://arxiv.org/pdf/2105.10123)
-  - Aniruddha Saha, Ajinkya Tejankar, Soroush Abbasi Koohpayegani, and Hamed Pirsiavash. arXiv, 2021.
 
 
 ### Quantization
