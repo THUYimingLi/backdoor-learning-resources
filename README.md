@@ -183,6 +183,11 @@ Markdown format:
   [[link]](https://www.hindawi.com/journals/scn/2022/4593002/)
   - Feng Zhao, Li Zhou, Qi Zhong, Rushi Lan, and Leo Yu Zhang. *Security and Communication Networks*, 2022.
 
+- DEFEAT: Deep Hidden Feature Backdoor Attacks by Imperceptible Perturbation and Latent Representation Constraints.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_DEFEAT_Deep_Hidden_Feature_Backdoor_Attacks_by_Imperceptible_Perturbation_and_CVPR_2022_paper.pdf)
+  - Zhendong Zhao, Xiaojun Chen, Yuexin Xuan, Ye Dong, Dakui Wang, and Kaitai Liang. *CVPR*, 2022.
+  
+
 - BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning.
   [[pdf]](https://arxiv.org/pdf/2205.13383.pdf)
   [[code]](https://github.com/RU-System-Software-and-Security/BppAttack)
