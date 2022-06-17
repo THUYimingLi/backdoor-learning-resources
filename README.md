@@ -626,7 +626,11 @@ Markdown format:
   [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Tao.pdf)
   [[code]](https://github.com/Gwinhen/PixelBackdoor)
   - Guanhong Tao, Guangyu Shen, Yingqi Liu, Shengwei An, Qiuling Xu, Shiqing Ma, Pan Li, and Xiangyu Zhang. *CVPR*, 2022.
- 
+
+- Few-shot Backdoor Defense Using Shapley Estimation.
+  [[pdf]](https://arxiv.org/pdf/2112.14889.pdf)
+  - Jiyang Guan, Zhuozhuo Tu, Ran He, and Dacheng Tao. *CVPR*, 2022.
+
 - AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis.
   [[pdf]](https://arxiv.org/pdf/2110.14880.pdf)
   [[code]](https://github.com/aeva-backdoor-deteciton/Aeva-Blackbox-Backdoor-Detection)
@@ -688,10 +692,6 @@ Markdown format:
 - Backdoor Defense with Machine Unlearning.
   [[pdf]](https://arxiv.org/pdf/2201.09538.pdf)
   - Yang Liu, Mingyuan Fan, Cen Chen, Ximeng Liu, Zhuo Ma, Li Wang, and Jianfeng Ma. arXiv, 2022.
-
-- Few-shot Backdoor Defense Using Shapley Estimation.
-  [[pdf]](https://arxiv.org/pdf/2112.14889.pdf)
-  - Jiyang Guan, Zhuozhuo Tu, Ran He, and Dacheng Tao. arXiv, 2021.
 
 - CatchBackdoor: Backdoor Testing by Critical Trojan Neural Path Identification via Differential Fuzzing.
   [[pdf]](https://arxiv.org/pdf/2112.13064.pdf)
