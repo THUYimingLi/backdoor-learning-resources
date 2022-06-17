@@ -494,10 +494,11 @@ Markdown format:
   [[code]](https://github.com/trx14/TrojanNet)
   - Ruixiang Tang, Mengnan Du, Ninghao Liu, Fan Yang, and Xia Hu. *KDD*, 2020.
 
-- Subnet Replacement: Deployment-stage Backdoor Attack against Deep Neural Networks in Gray-box Setting.
-  [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/35.pdf)
-  [[extension]](https://arxiv.org/pdf/2111.12965.pdf)
-  - Xiangyu Qi, Jifeng Zhu, Chulin Xie, and Yong Yang. *ICLR Workshop*, 2021.
+- Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2111.12965.pdf)
+  [[code]](https://github.com/Unispac/Subnet-Replacement-Attack)
+  - Xiangyu Qi, Tinghao Xie, Ruizhe Pan, Jifeng Zhu, Yong Yang, and Kai Bu. *CVPR*, 2022.
+
 
 - Architectural Backdoors in Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2206.07840.pdf)
