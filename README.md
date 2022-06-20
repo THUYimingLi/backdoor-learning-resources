@@ -633,6 +633,11 @@ Markdown format:
 
 
 #### Trigger Synthesis based Empirical Defense
+- Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Quarantine_Sparsity_Can_Uncover_the_Trojan_Attack_Trigger_for_Free_CVPR_2022_paper.pdf)
+  [[code]](https://github.com/VITA-Group/Backdoor-LTH)
+  - Tianlong Chen, Zhenyu Zhang, Yihua Zhang*, Shiyu Chang, Sijia Liu, and Zhangyang Wang. *CVPR*, 2022.
+
 - Better Trigger Inversion Optimization in Backdoor Scanning.
   [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Tao.pdf)
   [[code]](https://github.com/Gwinhen/PixelBackdoor)
