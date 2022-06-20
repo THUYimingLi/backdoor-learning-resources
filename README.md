@@ -1683,6 +1683,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2202.03861.pdf)
   - Fan Hu, Aozhu Chen, and Xirong Li. arXiv, 2022.
 
+- Is Multi-Modal Necessarily Better? Robustness Evaluation of Multi-modal Fake News Detection.
+  [[pdf]](https://arxiv.org/pdf/2206.08788.pdf)
+  - Jinyin Chen, Chengyu Jia, Haibin Zheng, Ruoxi Chen, and Chenbo Fu. arXiv, 2022.
+
 - Dual-Key Multimodal Backdoors for Visual Question Answering.
   [[pdf]](https://arxiv.org/pdf/2112.07668.pdf)
   - Matthew Walmer, Karan Sikka, Indranil Sur, Abhinav Shrivastava, and Susmit Jha. arXiv, 2021.
