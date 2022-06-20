@@ -530,9 +530,10 @@ Markdown format:
   
 ### Backdoor Defense
 #### Preprocessing-based Empirical Defense
-- Rethinking the Trigger of Backdoor Attack.
-  [[pdf]](https://arxiv.org/pdf/2004.04692.pdf)
-  - Yiming Li, Tongqing Zhai, Baoyuan Wu, Yong Jiang, Zhifeng Li, and Shutao Xia. arXiv, 2020.
+- Backdoor Attack in the Physical World. 
+  [[pdf]](https://arxiv.org/pdf/2104.02361.pdf)
+  [[extension]](https://arxiv.org/pdf/2004.04692.pdf)
+  - Yiming Li, Tongqing Zhai, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. *ICLR Workshop*, 2021.
 
 - DeepSweep: An Evaluation Framework for Mitigating DNN Backdoor Attacks using Data Augmentation.
   [[pdf]](https://arxiv.org/pdf/2012.07006.pdf)
