@@ -211,6 +211,11 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747582)
   - Huy Phan, Yi Xie, Jian Liu, Yingying Chen, and Bo Yuan. *ICASSP*, 2022.
 
+- Backdoor Attacks on Vision Transformers.
+  [[pdf]](https://arxiv.org/pdf/2206.08477.pdf)
+  [[code]](https://github.com/UCDvision/backdoor_transformer.git)
+  - Akshayvarun Subramanya, Aniruddha Saha, Soroush Abbasi Koohpayegani, Ajinkya Tejankar, and Hamed Pirsiavash. arXiv, 2022.
+
 - Enhancing Clean Label Backdoor Attack with Two-phase Specific Triggers.
   [[pdf]](https://arxiv.org/pdf/2206.04881.pdf)
   - Nan Luo, Yuanzhang Li, Yajie Wang, Shangbo Wu, Yu-an Tan, and Quanxin Zhang. arXiv, 2022.
