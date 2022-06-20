@@ -117,6 +117,7 @@ Markdown format:
 ## Toolbox
 - [BackdoorBox](https://github.com/THUYimingLi/BackdoorBox)
 - [TrojanZoo](https://github.com/ain-soph/trojanzoo)
+- [OpenBackdoor](https://github.com/thunlp/OpenBackdoor)
 - [Backdoor Toolbox](https://github.com/vtu81/backdoor-toolbox)
 - [BackdoorBench](https://github.com/SCLBD/BackdoorBench)
 - [backdoors101](https://github.com/ebagdasa/backdoors101)
@@ -1439,6 +1440,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
+  [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
+  [[code]](https://github.com/thunlp/OpenBackdoor)
+  - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, and Maosong Sun. arXiv, 2022.  
+
 - Kallima: A Clean-label Framework for Textual Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2206.01832.pdf)
   - Xiaoyi Chen, Yinpeng Dong, Zeyu Sun, Shengfang Zhai, Qingni Shen, and Zhonghai Wu. arXiv, 2022.
@@ -1781,6 +1787,11 @@ Markdown format:
 - On Evaluating Neural Network Backdoor Defenses.
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
+
+- A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
+  [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
+  [[code]](https://github.com/thunlp/OpenBackdoor)
+  - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, and Maosong Sun. arXiv, 2022.  
 
 - Can Backdoor Attacks Survive Time-Varying Models?
   [[pdf]](https://arxiv.org/pdf/2206.04677.pdf)
