@@ -1058,9 +1058,9 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/document/9536411/)
   - Boyu Hou, Jiqiang Gao, Xiaojie Guo, Thar Baker, Ying Zhang, Yanlong Wen, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2021.
 
-- How to Backdoor Federated Learning.
-  [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
-  - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS*, 2020 (arXiv, 2018).
+- Neurotoxin: Durable Backdoors in Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2206.10341.pdf)
+  - Zhengming Zhang, Ashwinee Panda, Linyue Song, Yaoqing Yang, Michael W. Mahoney, Joseph E. Gonzalez, Kannan Ramchandran, and Prateek Mittal. *ICML*, 2022.
 
 - FLAME: Taming Backdoors in Federated Learning.
   [[pdf]](https://www.usenix.org/system/files/sec22fall_nguyen.pdf)
@@ -1111,6 +1111,11 @@ Markdown format:
   [[extension]](https://arxiv.org/pdf/1808.04866.pdf)
   [[code]](https://github.com/DistributedML/FoolsGold)
   - Clement Fung, Chris J.M. Yoon, and Ivan Beschastnikh. *RAID*, 2020 (arXiv, 2018).
+
+- How to Backdoor Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/1807.00459.pdf)
+  - Eugene Bagdasaryan, Andreas Veit, Yiqing Hua, Deborah Estrin, and Vitaly Shmatikov. *AISTATS*, 2020 (arXiv, 2018).
+
 
 - BEAS: Blockchain Enabled Asynchronous & Secure Federated Machine Learning.
   [[pdf]](https://arxiv.org/pdf/2202.02817.pdf)
