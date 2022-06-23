@@ -1583,7 +1583,7 @@ Markdown format:
 
 - Can You Hear It? Backdoor Attacks via Ultrasonic Triggers.
   [[pdf]](https://arxiv.org/pdf/2107.14569.pdf)
-  [[https://github.com/skoffas/ultrasonic_backdoor]]
+  [[code]](https://github.com/skoffas/ultrasonic_backdoor)
   - Stefanos Koffas, Jing Xu, Mauro Conti, and Stjepan Picek. *WiseML*, 2022.
 
 
