@@ -211,6 +211,11 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747582)
   - Huy Phan, Yi Xie, Jian Liu, Yingying Chen, and Bo Yuan. *ICASSP*, 2022.
 
+- Natural Backdoor Datasets.
+  [[pdf]](https://arxiv.org/pdf/2206.10673.pdf)
+  - Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, and Ben Y. Zhao. arXiv, 2022.  
+
+
 - Backdoor Attacks on Vision Transformers.
   [[pdf]](https://arxiv.org/pdf/2206.08477.pdf)
   [[code]](https://github.com/UCDvision/backdoor_transformer.git)
@@ -1807,6 +1812,10 @@ Markdown format:
 - On Evaluating Neural Network Backdoor Defenses.
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
+
+- Natural Backdoor Datasets.
+  [[pdf]](https://arxiv.org/pdf/2206.10673.pdf)
+  - Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, and Ben Y. Zhao. arXiv, 2022.  
 
 - A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
   [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
