@@ -491,11 +491,6 @@ Markdown format:
  
  
 #### Structure-modified Attack
-- Hiding Needles in a Haystack: Towards Constructing Neural Networks that Evade Verification.
-  [[link]](https://dl.acm.org/doi/10.1145/3531536.3532966)
-  [[code]](https://github.com/szegedai/hiding-needles-in-a-haystack)
-  - Árpád Berta, Gábor Danner, István Hegedűs and Márk Jelasity. *ACM IH&MMSec*, 2022.
-
 - Stealthy and Flexible Trojan in Deep Learning Framework.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747995)
   - Yajie Wang, Kongyang Chen, Yu-An Tan, Shuxin Huang, Wencong Ma, and Yuanzhang Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
@@ -504,7 +499,17 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/document/9756234)
   [[code]](https://github.com/martin-ochoa/foobar)
   - Jakub Breier, Xiaolu Hou, Martín Ochoa and Jesus Solano. *IEEE Transactions on Dependable and Secure Computing*, 2022.
-  
+
+- Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2111.12965.pdf)
+  [[code]](https://github.com/Unispac/Subnet-Replacement-Attack)
+  - Xiangyu Qi, Tinghao Xie, Ruizhe Pan, Jifeng Zhu, Yong Yang, and Kai Bu. *CVPR*, 2022.
+
+
+- Hiding Needles in a Haystack: Towards Constructing Neural Networks that Evade Verification.
+  [[link]](https://dl.acm.org/doi/10.1145/3531536.3532966)
+  [[code]](https://github.com/szegedai/hiding-needles-in-a-haystack)
+  - Árpád Berta, Gábor Danner, István Hegedűs and Márk Jelasity. *ACM IH&MMSec*, 2022.
 
 - DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection.
   [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
@@ -514,11 +519,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.08131.pdf)
   [[code]](https://github.com/trx14/TrojanNet)
   - Ruixiang Tang, Mengnan Du, Ninghao Liu, Fan Yang, and Xia Hu. *KDD*, 2020.
-
-- Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2111.12965.pdf)
-  [[code]](https://github.com/Unispac/Subnet-Replacement-Attack)
-  - Xiangyu Qi, Tinghao Xie, Ruizhe Pan, Jifeng Zhu, Yong Yang, and Kai Bu. *CVPR*, 2022.
 
 
 - Architectural Backdoors in Neural Networks.
