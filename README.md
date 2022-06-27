@@ -558,6 +558,10 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579062)
   - Hyun Kwon. *IEEE Access*, 2021.
 
+- Defending Backdoor Attacks on Vision Transformer via Patch Processing.
+  [[pdf]](https://arxiv.org/pdf/2206.12381.pdf)
+  - Khoa D. Doan, Yingjie Lao, Peng Yang, and Ping Li. arXiv, 2022.
+
 - ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2007.00711.pdf)
   - Miguel Villarreal-Vasquez, and Bharat Bhargava. arXiv, 2021.
