@@ -77,9 +77,9 @@ Markdown format:
   [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
   - Yiming Li, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
 
-- Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
-  [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
-  - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
+- Backdoor Attacks and Defenses in Federated Learning: State-of-the-art, Taxonomy, and Future Directions.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9806416)
+  - Xueluan Gong, Yanjiao Chen, Qian Wang, and Weihan Kong. *IEEE Wireless Communications*, 2022.
 
 - Data Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses.
   [[pdf]](https://arxiv.org/pdf/2012.10544.pdf)
@@ -96,6 +96,10 @@ Markdown format:
 - A Survey on Neural Trojans. 
   [[pdf]](https://eprint.iacr.org/2020/201.pdf)
   - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. *ISQED*, 2020.
+
+- Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
+  [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
+  - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
 
 - A Survey of Neural Trojan Attacks and Defenses in Deep Learning.
   [[pdf]](https://arxiv.org/pdf/2202.07183.pdf)
