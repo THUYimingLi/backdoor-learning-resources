@@ -1830,6 +1830,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
 
+- BackdoorBench: A Comprehensive Benchmark of Backdoor Learning.
+  [[pdf]](https://arxiv.org/pdf/2206.12654.pdf)
+  [[website]](https://backdoorbench.github.io/)
+  - Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen, and Hongyuan Zha. arXiv, 2022.  
+
 - Auditing Visualizations: Transparency Methods Struggle to Detect Anomalous Behavior.
   [[pdf]](https://arxiv.org/pdf/2206.13498.pdf)
   [[code]](https://github.com/js-d/auditing-vis)
