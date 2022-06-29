@@ -77,13 +77,17 @@ Markdown format:
   [[pdf]](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey)
   - Yiming Li, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
 
-- Backdoor Attacks and Defenses in Federated Learning: State-of-the-art, Taxonomy, and Future Directions.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9806416)
-  - Xueluan Gong, Yanjiao Chen, Qian Wang, and Weihan Kong. *IEEE Wireless Communications*, 2022.
+- Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
+  [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
+  - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
 
 - Data Security for Machine Learning: Data Poisoning, Backdoor Attacks, and Defenses.
   [[pdf]](https://arxiv.org/pdf/2012.10544.pdf)
   - Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, and Tom Goldstein. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2022.
+
+- Backdoor Attacks and Defenses in Federated Learning: State-of-the-art, Taxonomy, and Future Directions.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9806416)
+  - Xueluan Gong, Yanjiao Chen, Qian Wang, and Weihan Kong. *IEEE Wireless Communications*, 2022.
 
 - Backdoor Attacks on Image Classification Models in Deep Neural Networks.
   [[link]](http://cje.ejournal.org.cn/article/doi/10.1049/cje.2021.00.126)
@@ -108,10 +112,6 @@ Markdown format:
 - An Overview of Backdoor Attacks Against Deep Neural Networks and Possible Defences.
   [[pdf]](https://arxiv.org/pdf/2111.08429.pdf)
   - Wei Guo, Benedetta Tondi, and Mauro Barni. arXiv, 2021.
-
-- Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
-  [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
-  - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
 
 - Deep Learning Backdoors.
   [[pdf]](https://arxiv.org/pdf/2007.08273.pdf)
