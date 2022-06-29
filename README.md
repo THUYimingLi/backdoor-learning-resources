@@ -1620,6 +1620,11 @@ Markdown format:
   - Esha Sarkar and Michail Maniatakos. arXiv, 2021.
 
 ### Malware Detection
+- VulnerGAN: A Backdoor Attack through Vulnerability Amplification against Machine Learning-based Network Intrusion Detection Systems.
+  [[link]](http://scis.scichina.com/en/2022/170303.pdf)
+  [[code]](https://github.com/liuguangrui-hit/VulnerGAN-py)
+  - Guangrui Liu, Weizhe Zhang, Xinjie Li, Kaisheng Fan, and Shui Yu. *Information Sciences*, 2022.
+
 - Backdoor Attack on Machine Learning Based Android Malware Detectors.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
   - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
