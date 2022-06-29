@@ -67,7 +67,7 @@ Markdown format:
   - [Medical Science](#medical-science)
   - [Cybersecurity](#cybersecurity)
   - [Others](#others)
-- [Discussion and Evaluation](#discussion-and-evaluation)
+- [Evaluation and Discussion](#evaluation-and-discussion)
 - [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes)
 - [Competition](#competition)
 
@@ -1762,7 +1762,12 @@ Markdown format:
   - Kang Liu, Benjamin Tan, Gaurav Rajavendra Reddy, Siddharth Garg, Yiorgos Makris, and Ramesh Karri. arXiv, 2020.
 
 
-## Discussion and Evaluation
+## Evaluation and Discussion
+- TROJANZOO: Everything You Ever Wanted to Know about Neural Backdoors (But were Afraid to Ask).
+  [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
+  [[code]](https://github.com/ain-soph/trojanzoo)
+  - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. *EuroS&P*, 2022.
+
 - Backdoor Defense via Decoupling the Training Process.
   [[pdf]](https://openreview.net/pdf?id=TySnJ-0RdKI)
   [[code]](https://github.com/SCLBD/DBD)
@@ -1771,11 +1776,6 @@ Markdown format:
 - How to Inject Backdoors with Better Consistency: Logit Anchoring on Clean Data.
   [[pdf]](https://openreview.net/pdf?id=Bn09TnDngN)
   - Zhiyuan Zhang, Lingjuan Lyu, Weiqiang Wang, Lichao Sun, and Xu Sun. *ICLR*, 2022.
-
-- TROJANZOO: Everything You Ever Wanted to Know about Neural Backdoors (But were Afraid to Ask).
-  [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
-  [[code]](https://github.com/ain-soph/trojanzoo)
-  - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. *EuroS&P*, 2022.
 
 - Defending against Model Stealing via Verifying Embedded External Features.
   [[pdf]](https://www.researchgate.net/publication/356717751_Defending_against_Model_Stealing_via_Verifying_Embedded_External_Features)
@@ -1790,7 +1790,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2204.12281.pdf)
   [[code]](https://github.com/xpf/Data-Efficient-Backdoor-Attacks)
   - Pengfei Xia, Ziqiang Li, Wei Zhang, and Bin Li. *IJCAI*, 2022.
-
 
 - Excess Capacity and Backdoor Poisoning.
   [[pdf]](https://arxiv.org/pdf/2109.00685.pdf)
@@ -1831,6 +1830,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
 
+- Auditing Visualizations: Transparency Methods Struggle to Detect Anomalous Behavior.
+  [[pdf]](https://arxiv.org/pdf/2206.13498.pdf)
+  [[code]](https://github.com/js-d/auditing-vis)
+  - Jean-Stanislas Denain and Jacob Steinhardt. arXiv, 2022.  
+
 - Natural Backdoor Datasets.
   [[pdf]](https://arxiv.org/pdf/2206.10673.pdf)
   - Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, and Ben Y. Zhao. arXiv, 2022.  
@@ -1856,7 +1860,6 @@ Markdown format:
 - Towards A Critical Evaluation of Robustness for Deep Learning Backdoor Countermeasures.
   [[pdf]](https://arxiv.org/pdf/2204.06273.pdf)
   - Huming Qiu, Hua Ma, Zhi Zhang, Alsharif Abuadbba, Wei Kang, Anmin Fu, and Yansong Gao. arXiv, 2022.
-
 
 - Neural Network Trojans Analysis and Mitigation from the Input Domain.
   [[pdf]](https://arxiv.org/pdf/2202.06382.pdf)
@@ -1897,7 +1900,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2206.04823.pdf)
   [[code]](https://github.com/HongshengHu/membership-inference-via-backdooring)
   - Hongsheng Hu, Zoran Salcic, Gillian Dobbie, Jinjun Chen, Lichao Sun, and Xuyun Zhang. *IJCAI*, 2022. 
-
 
 - Neural Network Surgery: Injecting Data Patterns into Pre-trained Models with Minimal Instance-wise Side Effects.
   [[pdf]](https://aclanthology.org/2021.naacl-main.430.pdf) 
