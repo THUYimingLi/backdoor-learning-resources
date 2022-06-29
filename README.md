@@ -65,7 +65,7 @@ Markdown format:
   - [Point Cloud](#point-cloud)
   - [Acoustics Signal Processing](#acoustics-signal-processing)
   - [Medical Science](#medical-science)
-  - [Malware Detection](#malware-detection)
+  - [Cybersecurity](#cybersecurity)
   - [Others](#others)
 - [Discussion and Evaluation](#discussion-and-evaluation)
 - [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes)
@@ -1623,7 +1623,7 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2108.10132.pdf)
   - Esha Sarkar and Michail Maniatakos. arXiv, 2021.
 
-### Malware Detection
+### Cybersecurity
 - VulnerGAN: A Backdoor Attack through Vulnerability Amplification against Machine Learning-based Network Intrusion Detection Systems.
   [[link]](http://scis.scichina.com/en/2022/170303.pdf)
   [[code]](https://github.com/liuguangrui-hit/VulnerGAN-py)
