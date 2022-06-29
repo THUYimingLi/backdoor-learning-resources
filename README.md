@@ -97,10 +97,6 @@ Markdown format:
   [[pdf]](https://eprint.iacr.org/2020/201.pdf)
   - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. *ISQED*, 2020.
 
-- Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
-  [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
-  - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
-
 - A Survey of Neural Trojan Attacks and Defenses in Deep Learning.
   [[pdf]](https://arxiv.org/pdf/2202.07183.pdf)
   - Jie Wang, Ghulam Mubashar Hassan, and Naveed Akhtar. arXiv, 2022.
@@ -112,6 +108,10 @@ Markdown format:
 - An Overview of Backdoor Attacks Against Deep Neural Networks and Possible Defences.
   [[pdf]](https://arxiv.org/pdf/2111.08429.pdf)
   - Wei Guo, Benedetta Tondi, and Mauro Barni. arXiv, 2021.
+
+- Backdoor Attacks and Countermeasures on Deep Learning: A Comprehensive Review.
+  [[pdf]](https://arxiv.org/pdf/2007.10760.pdf)
+  - Yansong Gao, Bao Gia Doan, Zhi Zhang, Siqi Ma, Anmin Fu, Surya Nepal, and Hyoungshick Kim. arXiv, 2020.
 
 - Deep Learning Backdoors.
   [[pdf]](https://arxiv.org/pdf/2007.08273.pdf)
