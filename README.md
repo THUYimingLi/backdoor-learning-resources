@@ -55,7 +55,7 @@ Markdown format:
     - [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense)
     - [Certificated Defense](#certificated-defense)
 - [Attack and Defense Towards Other Paradigms and Tasks](#attack-and-defense-towards-other-paradigms-and-tasks) 
-  - [Collaborative Learning](#collaborative-learning)
+  - [Federated Learning](#federated-learning)
   - [Transfer Learning](#transfer-learning) 
   - [Reinforcement Learning](#reinforcement-learning)
   - [Semi-Supervised and Self-Supervised Learning](#semi-supervised-and-self-supervised-learning)
@@ -1055,7 +1055,7 @@ Markdown format:
 
 
 ## Attack and Defense Towards Other Paradigms and Tasks
-### Collaborative Learning
+### Federated Learning
 - Secure Partial Aggregation: Making Federated Learning More Robust for Industry 4.0 Applications.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9692911)
   - Jiqiang Gao, Baolei Zhang, Xiaojie Guo, Thar Baker, Min Li, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2022.
@@ -1063,6 +1063,11 @@ Markdown format:
 - Backdoor Attacks-resilient Aggregation based on Robust Filtering of Outliers in Federated Learning for Image Classification.
   [[link]](https://www.sciencedirect.com/science/article/pii/S0950705122002635)
   - Nuria Rodríguez-Barroso, Eugenio Martínez-Cámara, M. Victoria Luzónb, and Francisco Herrera. *Knowledge-Based Systems*, 2022.
+
+- Defense against Backdoor Attack in Federated Learning.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822002139)
+  [[code]](https://github.com/lsw3130104597/Backdoor_detection)
+  - Shiwei Lu, Ruihu Li, Wenbin Liu, and Xuan Chen. *Computers & Security*, 2022.
 
 - Privacy-Enhanced Federated Learning against Poisoning Adversaries.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9524709/)
