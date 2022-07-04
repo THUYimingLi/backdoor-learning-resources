@@ -1549,6 +1549,10 @@ Markdown format:
 
 
 ### Graph Neural Networks
+- Transferable Graph Backdoor Attack.
+  [[pdf]](https://arxiv.org/pdf/2207.00425.pdf)
+  - Shuiqiao Yang, Bao Gia Doan, Paul Montague, Olivier De Vel, Tamas Abraham, Seyit Camtepe, Damith C. Ranasinghe, and Salil S. Kanhere. *RAID*, 2022.
+
 - Graph Backdoor.
   [[pdf]](https://arxiv.org/pdf/2006.11890.pdf)
   [[code]](https://github.com/HarrialX/GraphBackdoor)
