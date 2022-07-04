@@ -1698,6 +1698,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1910.10766.pdf)
   - Kemal Davaslioglu, and Yalin E. Sagduyu. *DySPAN*, 2019.
 
+- BadHash: Invisible Backdoor Attacks against Deep Hashing with Clean Label.
+  [[pdf]](https://arxiv.org/pdf/2207.00278.pdf)
+  - Shengshan Hu, Ziqi Zhou, Yechao Zhang, Leo Yu Zhang, Yifeng Zheng, Yuanyuan HE, and Hai Jin. arXiv, 2022.
+
 - A Temporal Chrominance Trigger for Clean-label Backdoor Attack against Anti-spoof Rebroadcast Detection.
   [[pdf]](https://arxiv.org/pdf/2206.01102.pdf)
   - Wei Guo, Benedetta Tondi, and Mauro Barni. arXiv, 2022.
