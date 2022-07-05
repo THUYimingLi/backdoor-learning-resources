@@ -1152,6 +1152,14 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- FL-Defender: Combating Targeted Attacks in Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2207.00872.pdf)
+  - Najeeb Jebreel and Josep Domingo-Ferrer. arXiv, 2022.
+
+- Backdoor Attack is A Devil in Federated GAN-based Medical Image Synthesis.
+  [[pdf]](https://arxiv.org/pdf/2207.00762.pdf)
+  - Ruinan Jin and Xiaoxiao Li. arXiv, 2022.
+
 - SafeNet: Mitigating Data Poisoning Attacks on Private Machine Learning.
   [[pdf]](https://arxiv.org/pdf/2205.09986.pdf)
   [[code]](https://github.com/data61/MP-SPDZ)
