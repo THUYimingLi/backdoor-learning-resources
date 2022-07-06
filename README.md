@@ -668,7 +668,7 @@ Markdown format:
 
 - AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis.
   [[pdf]](https://arxiv.org/pdf/2110.14880.pdf)
-  [[code]](https://github.com/aeva-backdoor-deteciton/Aeva-Blackbox-Backdoor-Detection)
+  [[code]](https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main)
   - Junfeng Guo, Ang Li, and Cong Liu. *ICLR*, 2022.
 
 - Trigger Hunting with a Topological Prior for Trojan Detection.
