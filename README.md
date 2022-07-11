@@ -720,6 +720,10 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
   - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
 
+- Defense Against Multi-target Trojan Attacks.
+  [[pdf]](https://arxiv.org/pdf/2207.03895.pdf)
+  - Haripriya Harikumar, Santu Rana, Kien Do, Sunil Gupta, Wei Zong, Willy Susilo, and Svetha Venkastesh. arXiv, 2022.
+
 - Model-Contrastive Learning for Backdoor Defense.
   [[pdf]](https://arxiv.org/pdf/2205.04411)
   - Zhihao Yue, Jun Xia, Zhiwei Ling, Ting Wang, Xian Wei, and Mingsong Chen. arXiv, 2022.
