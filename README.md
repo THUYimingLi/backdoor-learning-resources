@@ -1673,6 +1673,10 @@ Markdown format:
   [[code]](https://github.com/HXZhong1997/FSBA)
   - Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, and Shu-Tao Xia. *ICLR*, 2022.
 
+- Backdoor Attacks on Crowd Counting.
+  [[pdf]](https://arxiv.org/pdf/2207.05641.pdf)
+  - Yuhua Sun, Tailai Zhang, Xingjun Ma, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, and Lichao Sun. *ACM MM*, 2022.
+
 - An Interpretive Perspective: Adversarial Trojaning Attack on Neural-Architecture-Search Enabled Edge AI Systems.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9780600)
   - Ship Peng Xu, Ke Wang, Md. Rafiul Hassan, Mohammad Mehedi Hassan, and Chien-Ming Chen. *IEEE Transactions on Industrial Informatics*, 2022.
