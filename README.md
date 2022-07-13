@@ -1988,4 +1988,5 @@ Markdown format:
 
 
 ## Competition
+- [Trojan Detection Challenge](https://trojandetection.ai/)
 - [IARPA TrojAI Competition](https://pages.nist.gov/trojai/docs/about.html)
