@@ -1863,6 +1863,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
 
+- Game of Trojans: A Submodular Byzantine Approach.
+  [[pdf]](https://arxiv.org/pdf/2207.05937.pdf)
+  - Dinuka Sahabandu, Arezoo Rajabi, Luyao Niu, Bo Li, Bhaskar Ramasubramanian, and Radha Poovendran. arXiv, 2022.  
+
+
 - BackdoorBench: A Comprehensive Benchmark of Backdoor Learning.
   [[pdf]](https://arxiv.org/pdf/2206.12654.pdf)
   [[website]](https://backdoorbench.github.io/)
