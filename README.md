@@ -173,10 +173,6 @@ Markdown format:
 ### Poisoning-based Attack
 #### 2022
 
-- Spinning Language Models: Risks of Propaganda-as-a-Service and Countermeasures
-  [[pdf]](https://arxiv.org/abs/2112.05224), [[code]](https://github.com/ebagdasa/propaganda_as_a_service)
-  - Eugene Bagdasaryan and Vitaly Shmatikov. *IEEE S&P (Oakland)*, 2022
-
 - Enhancing Backdoor Attacks with Multi-Level MMD Regularization.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9743735)
   - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
@@ -1393,14 +1389,19 @@ Markdown format:
 
 
 ### Natural Language Processing
-- The Triggers that Open the NLP Model Backdoors Are Hidden in the Adversarial Samples.
-  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001250)
-  - Kun Shao, Yu Zhang, Junan Yang, Xiaoshuai Li, and Hui Liu. *Computers & Security*, 2022.
+- Spinning Language Models: Risks of Propaganda-as-a-Service and Countermeasures
+  [[pdf]](https://arxiv.org/abs/2112.05224)
+  [[code]](https://github.com/ebagdasa/propaganda_as_a_service)
+  - Eugene Bagdasaryan and Vitaly Shmatikov. *IEEE S&P*, 2022
 
 - PICCOLO : Exposing Complex Backdoors in NLP Transformer Models.
   [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/SP22_Liu.pdf)
   [[code]](https://github.com/PurduePAML/PICCOLO)
   - Yingqi Liu, Guangyu Shen, Guanhong Tao, Shengwei An, Shiqing Ma, and Xiangyu Zhang. *IEEE S&P*, 2022.
+
+- The Triggers that Open the NLP Model Backdoors Are Hidden in the Adversarial Samples.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001250)
+  - Kun Shao, Yu Zhang, Junan Yang, Xiaoshuai Li, and Hui Liu. *Computers & Security*, 2022.
 
 - A Study of the Attention Abnormality in Trojaned BERTs.
   [[pdf]](https://arxiv.org/pdf/2205.08305.pdf)
