@@ -172,6 +172,11 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2022
+
+- Spinning Language Models: Risks of Propaganda-as-a-Service and Countermeasures
+  [[pdf]](https://arxiv.org/abs/2112.05224), [[code]](https://github.com/ebagdasa/propaganda_as_a_service)
+  - Eugene Bagdasaryan and Vitaly Shmatikov. *IEEE S&P (Oakland)*, 2022
+
 - Enhancing Backdoor Attacks with Multi-Level MMD Regularization.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9743735)
   - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
@@ -1520,10 +1525,6 @@ Markdown format:
 - Rethink Stealthy Backdoor Attacks in Natural Language Processing.
   [[pdf]](https://arxiv.org/pdf/2201.02993.pdf)
   - Lingfeng Shen, Haiyun Jiang, Lemao Liu, and Shuming Shi. arXiv, 2022.
-
-- Spinning Language Models for Propaganda-As-A-Service.
-  [[pdf]](https://arxiv.org/pdf/2112.05224.pdf)
-  - Eugene Bagdasaryan and Vitaly Shmatikov. arXiv, 2021.
 
 - Triggerless Backdoor Attack for NLP Tasks with Clean Labels.
   [[pdf]](https://arxiv.org/pdf/2111.07970.pdf)
