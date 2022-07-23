@@ -1950,6 +1950,11 @@ Markdown format:
   [[pdf]](https://aclanthology.org/2021.naacl-main.430.pdf) 
   - Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun and Bin He. *NAACL-HLT*, 2021.
 
+- One Step Further: Evaluating Interpreters using Metamorphic Testing.
+  [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3533767.3534225)
+  - Ming Fan, Jiali Wei, Wuxia Jin, Zhou Xu, Wenying Wei, and Ting Liu. *ISSTA*, 2022.
+
+
 - What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
   [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
   - Yi-Shan Lin, Wen-Chuan Lee, and Z. Berkay Celik. *KDD*, 2021.
