@@ -1404,10 +1404,14 @@ Markdown format:
   [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001250)
   - Kun Shao, Yu Zhang, Junan Yang, Xiaoshuai Li, and Hui Liu. *Computers & Security*, 2022.
 
+- Triggerless Backdoor Attack for NLP Tasks with Clean Labels.
+  [[pdf]](https://arxiv.org/pdf/2111.07970.pdf)
+  - Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Shangwei Guo, and Chun Fan. NAACL, 2022.
+
 - A Study of the Attention Abnormality in Trojaned BERTs.
   [[pdf]](https://arxiv.org/pdf/2205.08305.pdf)
   [[code]](https://github.com/weimin17/attention_abnormality_in_trojaned_berts)
-  - Weimin Lyu, Songzhu Zheng, Tengfei Ma, and Chao Chen. *NAACL-HTL*, 2022.
+  - Weimin Lyu, Songzhu Zheng, Tengfei Ma, and Chao Chen. *NAACL*, 2022.
 
 - Text Backdoor Detection Using An Interpretable RNN Abstract Model.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9508422)
@@ -1527,10 +1531,6 @@ Markdown format:
 - Rethink Stealthy Backdoor Attacks in Natural Language Processing.
   [[pdf]](https://arxiv.org/pdf/2201.02993.pdf)
   - Lingfeng Shen, Haiyun Jiang, Lemao Liu, and Shuming Shi. arXiv, 2022.
-
-- Triggerless Backdoor Attack for NLP Tasks with Clean Labels.
-  [[pdf]](https://arxiv.org/pdf/2111.07970.pdf)
-  - Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Shangwei Guo, and Chun Fan. NAACL, 2022.
 
 - Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks.
   [[pdf]](https://arxiv.org/pdf/2110.08247.pdf)
