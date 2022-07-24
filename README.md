@@ -1530,7 +1530,7 @@ Markdown format:
 
 - Triggerless Backdoor Attack for NLP Tasks with Clean Labels.
   [[pdf]](https://arxiv.org/pdf/2111.07970.pdf)
-  - Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Shangwei Guo, and Chun Fan. arXiv, 2021.
+  - Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Shangwei Guo, and Chun Fan. NAACL, 2022.
 
 - Textual Backdoor Attacks Can Be More Harmful via Two Simple Tricks.
   [[pdf]](https://arxiv.org/pdf/2110.08247.pdf)
