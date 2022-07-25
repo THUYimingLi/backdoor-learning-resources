@@ -173,7 +173,6 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2022
-
 - Enhancing Backdoor Attacks with Multi-Level MMD Regularization.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9743735)
   - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
@@ -216,6 +215,10 @@ Markdown format:
 - Invisible and Efficient Backdoor Attacks for Compressed Deep Neural Networks.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747582)
   - Huy Phan, Yi Xie, Jian Liu, Yingying Chen, and Bo Yuan. *ICASSP*, 2022.
+
+- Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation.
+  [[pdf]](https://arxiv.org/pdf/2207.10825.pdf)
+  - Tong Wu, Tianhao Wang, Vikash Sehwag, Saeed Mahloujifar, and Prateek Mittal. arXiv, 2022. 
 
 - Natural Backdoor Datasets.
   [[pdf]](https://arxiv.org/pdf/2206.10673.pdf)
