@@ -1165,6 +1165,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- Assisting Backdoor Federated Learning with Whole Population Knowledge Alignment.
+  [[pdf]](https://arxiv.org/pdf/2207.12327.pdf)
+  - Tian Liu, Xueyang Hu, and Tao Shu. arXiv, 2022.
+
 - FL-Defender: Combating Targeted Attacks in Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2207.00872.pdf)
   - Najeeb Jebreel and Josep Domingo-Ferrer. arXiv, 2022.
