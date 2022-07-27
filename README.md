@@ -216,6 +216,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747582)
   - Huy Phan, Yi Xie, Jian Liu, Yingying Chen, and Bo Yuan. *ICASSP*, 2022.
 
+- FRIB: Low-poisoning Rate Invisible Backdoor Attack based on Feature Repair.
+  [[pdf]](https://arxiv.org/pdf/2207.12863.pdf)
+  - Hui Xia, Xiugui Yang, Xiangyun Qian, and Rui Zhang. arXiv, 2022. 
+
 - Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation.
   [[pdf]](https://arxiv.org/pdf/2207.10825.pdf)
   - Tong Wu, Tianhao Wang, Vikash Sehwag, Saeed Mahloujifar, and Prateek Mittal. arXiv, 2022. 
@@ -485,6 +489,10 @@ Markdown format:
 - Can Adversarial Weight Perturbations Inject Neural Backdoors?
   [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
   - Siddhant Garg, Adarsh Kumar, Vibhor Goel, and Yingyu Liang. *CIKM*, 2020.
+
+- Versatile Weight Attack via Flipping Limited Bits.
+  [[pdf]](https://arxiv.org/pdf/2207.12405.pdf)
+  - Jiawang Bai, Baoyuan Wu, Zhifeng Li, and Shu-Tao Xia. arXiv, 2022.
 
 - Toward Realistic Backdoor Injection Attacks on DNNs using Rowhammer.
   [[pdf]](https://www.researchgate.net/profile/Saad-Islam-3/publication/355367637_Toward_Realistic_Backdoor_Injection_Attacks_on_DNNs_using_Rowhammer/links/62222bd93c53d31ba4a674a5/Toward-Realistic-Backdoor-Injection-Attacks-on-DNNs-using-Rowhammer.pdf)
