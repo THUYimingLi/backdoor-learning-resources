@@ -473,6 +473,11 @@ Markdown format:
 
 ### Non-poisoning-based Attack 
 #### Weights-oriented Attack
+- Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips.
+  [[pdf]](https://arxiv.org/pdf/2207.13417.pdf)
+  [[code]](https://github.com/jiawangbai/HPT)
+  - Jiawang Bai, Kuofeng Gao, Dihong Gong, Shu-Tao Xia, Zhifeng Li, and Wei Liu. *ECCV*, 2022.
+
 - ProFlip: Targeted Trojan Attack with Progressive Bit Flips. 
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Chen_ProFlip_Targeted_Trojan_Attack_With_Progressive_Bit_Flips_ICCV_2021_paper.pdf)
   - Huili Chen, Cheng Fu, Jishen Zhao, and Farinaz Koushanfar. *ICCV*, 2021.
