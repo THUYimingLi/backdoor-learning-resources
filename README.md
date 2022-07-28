@@ -1047,6 +1047,11 @@ Markdown format:
   - Alvin Chan, and Yew-Soon Ong. arXiv, 2019.  
   
 #### Certificated Defense
+- RAB: Provable Robustness Against Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2003.08904.pdf)
+  [[code]](https://github.com/AI-secure/Robustness-Against-Backdoor-Attacks)
+  - Maurice Weber, Xiaojun Xu, Bojan Karlas, Ce Zhang, and Bo Li. *IEEE S&P*, 2022.
+
 - Certified Robustness of Nearest Neighbors against Data Poisoning and Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2012.03765.pdf)
   - Jinyuan Jia, Yupei Liu, Xiaoyu Cao, and Neil Zhenqiang Gong. *AAAI*, 2022.
@@ -1073,10 +1078,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2205.13634.pdf)
   - Yuhao Zhang, Aws Albarghouthi, and Loris D'Antoni. arXiv, 2022.
 
-- RAB: Provable Robustness Against Backdoor Attacks.
-  [[pdf]](https://arxiv.org/pdf/2003.08904.pdf)
-  [[code]](https://github.com/AI-secure/Robustness-Against-Backdoor-Attacks)
-  - Maurice Weber, Xiaojun Xu, Bojan Karlas, Ce Zhang, and Bo Li. arXiv, 2020.
 
 
 
