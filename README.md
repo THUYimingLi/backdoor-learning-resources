@@ -85,6 +85,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2012.10544.pdf)
   - Micah Goldblum, Dimitris Tsipras, Chulin Xie, Xinyun Chen, Avi Schwarzschild, Dawn Song, Aleksander Madry, Bo Li, and Tom Goldstein. *IEEE Transactions on Pattern Analysis and Machine Intelligence*, 2022.
 
+- A Comprehensive Survey on Poisoning Attacks and Countermeasures in Machine Learning.
+  [[link]](https://dl.acm.org/doi/10.1145/3551636)
+  - Zhiyi Tian, Lei Cui, Jie Liang, and Shui Yu. *ACM Computing Surveys*, 2022.
+
 - Backdoor Attacks and Defenses in Federated Learning: State-of-the-art, Taxonomy, and Future Directions.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9806416)
   - Xueluan Gong, Yanjiao Chen, Qian Wang, and Weihan Kong. *IEEE Wireless Communications*, 2022.
