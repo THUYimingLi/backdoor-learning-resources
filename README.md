@@ -920,6 +920,10 @@ Markdown format:
 
 
 #### Sample Filtering based Empirical Defense
+- Can We Mitigate Backdoor Attack Using Adversarial Detection Methods?
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9844276)
+  - Kaidi Jin, Tianwei Zhang, Chao Shen, Yufei Chen, Ming Fan, Chenhao Lin, and Ting Liu. *IEEE Transactions on Dependable and Secure Computing*, 2022.
+
 - LinkBreaker: Breaking the Backdoor-Trigger Link in DNNs via Neurons Consistency Check.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9775729)
   - Zhenzhu Chen, Shang Wang, Anmin Fu, Yansong Gao, Shui Yu, and Robert H. Deng. *IEEE Transactions on Information Forensics and Security*, 2022.
@@ -1037,10 +1041,6 @@ Markdown format:
 - Exposing Backdoors in Robust Machine Learning Models.
   [[pdf]](https://arxiv.org/pdf/2003.00865.pdf)
   - Ezekiel Soremekun, Sakshi Udeshi, and Sudipta Chattopadhyay. arXiv, 2020.
-
-- A Unified Framework for Analyzing and Detecting Malicious Examples of DNN Models.
-  [[pdf]](https://arxiv.org/pdf/2006.14871.pdf)
-  - Kaidi Jin, Tianwei Zhang, Chao Shen, Yufei Chen, Ming Fan, Chenhao Lin, and Ting Liu. arXiv, 2020.
 
 - HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios.
   [[pdf]](https://arxiv.org/pdf/2012.07474.pdf)
