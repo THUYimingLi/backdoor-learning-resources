@@ -1580,7 +1580,7 @@ Markdown format:
 
 - ONION: A Simple and Effective Defense Against Textual Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2011.10369.pdf)
-  - Fanchao Qi, Yangyi Chen, Mukai Li, Zhiyuan Liu, and Maosong Sun. arXiv, 2020.
+  - Fanchao Qi, Yangyi Chen, Mukai Li, Zhiyuan Liu, and Maosong Sun. EMNLP, 2021.
 
 - Mitigating Backdoor Attacks in LSTM-based Text Classification Systems by Backdoor Keyword Identification.
   [[pdf]](https://arxiv.org/pdf/2007.12070.pdf)
