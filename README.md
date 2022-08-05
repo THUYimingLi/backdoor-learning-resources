@@ -1477,6 +1477,10 @@ Markdown format:
   [[code]](https://github.com/lancopku/RAP)
   - Wenkai Yang, Yankai Lin, Peng Li, Jie Zhou, and Xu Sun. *EMNLP*, 2021.
 
+- ONION: A Simple and Effective Defense Against Textual Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2011.10369.pdf)
+  - Fanchao Qi, Yangyi Chen, Mukai Li, Zhiyuan Liu, and Maosong Sun. *EMNLP*, 2021.
+
 - Mind the Style of Text! Adversarial and Backdoor Attacks Based on Text Style Transfer.
   [[pdf]](https://arxiv.org/pdf/2110.07139.pdf)
   [[code]](https://github.com/thunlp/StyleAttack)
@@ -1577,10 +1581,6 @@ Markdown format:
 - Detecting Universal Trigger’s Adversarial Attack with Honeypot.
   [[pdf]](https://arxiv.org/abs/2011.10492)
   - Thai Le, Noseong Park, Dongwon Lee. arXiv, 2020.  
-
-- ONION: A Simple and Effective Defense Against Textual Backdoor Attacks.
-  [[pdf]](https://arxiv.org/pdf/2011.10369.pdf)
-  - Fanchao Qi, Yangyi Chen, Mukai Li, Zhiyuan Liu, and Maosong Sun. EMNLP, 2021.
 
 - Mitigating Backdoor Attacks in LSTM-based Text Classification Systems by Backdoor Keyword Identification.
   [[pdf]](https://arxiv.org/pdf/2007.12070.pdf)
