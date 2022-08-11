@@ -829,6 +829,10 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/17.pdf)
   - Peter Bajcsy and Michael Majurski. *ICLR Workshop*, 2021.
 
+- Attention Hijacking in Trojan Transformers.
+  [[pdf]](https://arxiv.org/pdf/2208.04946.pdf)
+  - Weimin Lyu, Songzhu Zheng, Tengfei Ma, Haibin Ling, and Chao Chen. arXiv, 2022.
+
 - Universal Post-Training Backdoor Detection.
   [[pdf]](https://arxiv.org/pdf/2205.06900.pdf)
   - Hang Wang, Zhen Xiang, David J. Miller, and George Kesidis. arXiv, 2022.
@@ -1900,6 +1904,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.12186.pdf)
   - Akshaj Veldanda, and Siddharth Garg. *NeurIPS Workshop*, 2020.
 
+- Attention Hijacking in Trojan Transformers.
+  [[pdf]](https://arxiv.org/pdf/2208.04946.pdf)
+  - Weimin Lyu, Songzhu Zheng, Tengfei Ma, Haibin Ling, and Chao Chen. arXiv, 2022.
+
 - Game of Trojans: A Submodular Byzantine Approach.
   [[pdf]](https://arxiv.org/pdf/2207.05937.pdf)
   - Dinuka Sahabandu, Arezoo Rajabi, Luyao Niu, Bo Li, Bhaskar Ramasubramanian, and Radha Poovendran. arXiv, 2022.  
@@ -1988,7 +1996,6 @@ Markdown format:
 - One Step Further: Evaluating Interpreters using Metamorphic Testing.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3533767.3534225)
   - Ming Fan, Jiali Wei, Wuxia Jin, Zhou Xu, Wenying Wei, and Ting Liu. *ISSTA*, 2022.
-
 
 - What Do You See? Evaluation of Explainable Artificial Intelligence (XAI) Interpretability through Neural Backdoors.
   [[pdf]](https://arxiv.org/pdf/2009.10639.pdf)
