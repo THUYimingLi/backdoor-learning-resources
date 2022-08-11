@@ -1540,6 +1540,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
 
+- PerD: Perturbation Sensitivity-based Neural Trojan Detection Framework on NLP Applications.
+  [[pdf]](https://arxiv.org/pdf/2208.04943.pdf)
+  - Diego Garcia-soto, Huili Chen, and Farinaz Koushanfar. arXiv, 2022.  
+
 - A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
   [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
   [[code]](https://github.com/thunlp/OpenBackdoor)
