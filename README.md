@@ -1619,6 +1619,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *SACMAT*, 2021.  
 
+- Link-Backdoor: Backdoor Attack on Link Prediction via Node Injection.
+  [[pdf]](https://arxiv.org/pdf/2208.06776.pdf)
+  [[code]](https://github.com/Seaocn/Link-Backdoor)
+  - Haibin Zheng, Haiyang Xiong, Haonan Ma, Guohan Huang, and Jinyin Chen. arXiv, 2022.
+
 - More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2202.03195.pdf)
   - Jing Xu, Rui Wang, Kaitai Liang, and Stjepan Picek. arXiv, 2022.
