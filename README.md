@@ -149,6 +149,10 @@ Markdown format:
   [[pdf]](https://www.proquest.com/docview/2555308945?pq-origsite=gscholar&fromopenview=true)
   - Kang Liu. *Ph.D. Dissertation at New York University*, 2021.
 
+- Un-fair trojan: Targeted Backdoor Attacks against Model Fairness.
+  [[pdf]](https://digitalcommons.njit.edu/cgi/viewcontent.cgi?article=3010&context=theses)
+  - Nicholas Furth. *Master Thesis at New Jersey Institute of Technology*, 2022.
+
 - Check Your Other Door: Creating Backdoor Attacks in the Frequency Domain.
   [[pdf]](file:///C:/Users/Rainbow/Downloads/Thesis_Hasan_Hammoud.pdf)
   - Hasan Abed Al Kader Hammoud. *Master Thesis at King Abdullah University of Science and Technology*, 2022.
