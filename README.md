@@ -664,10 +664,13 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2002.12162.pdf)
   - Hao Cheng, Kaidi Xu, Sijia Liu, Pin-Yu Chen, Pu Zhao, and Xue Lin. *KDD Workshop*, 2019.
 
+- Defense against Backdoor Attacks via Identifying and Purifying Bad Neurons.
+  [[pdf]](https://arxiv.org/pdf/2208.06537.pdf)
+  - Mingyuan Fan, Yang Liu, Cen Chen, Ximeng Liu, and Wenzhong Guo. arXiv, 2022.
+
 - Turning a Curse Into a Blessing: Enabling Clean-Data-Free Defenses by Model Inversion.
   [[pdf]](https://arxiv.org/pdf/2206.07018.pdf)
   - Si Chen, Yi Zeng, Won Park, and Ruoxi Jia. arXiv, 2022.
-
 
 - Adversarial Fine-tuning for Backdoor Defense: Connect Adversarial Examples to Triggered Samples.
   [[pdf]](https://arxiv.org/pdf/2202.06312.pdf)
