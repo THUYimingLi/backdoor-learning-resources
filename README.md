@@ -181,6 +181,10 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2022
+- Poison Ink: Robust and Invisible Backdoor Attack.
+  [[pdf]](https://arxiv.org/pdf/2108.02488)
+  - Jie Zhang, Dongdong Chen, Qidong Huang, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, and Nenghai Yu. *IEEE Transactions on Image Processing*, 2022.
+
 - Enhancing Backdoor Attacks with Multi-Level MMD Regularization.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9743735)
   - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
