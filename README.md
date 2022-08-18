@@ -754,6 +754,10 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
   - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
 
+- Confidence Matters: Inspecting Backdoors in Deep Neural Networks via Distribution Transfer.
+  [[pdf]](https://arxiv.org/pdf/2208.06592.pdf)
+  - Tong Wang, Yuan Yao, Feng Xu, Miao Xu, Shengwei An, and Ting Wang. arXiv, 2022.
+
 - One-shot Neural Backdoor Erasing via Adversarial Weight Masking.
   [[pdf]](https://arxiv.org/pdf/2207.04497)
   - Shuwen Chai and Jinghui Chen. arXiv, 2022.
