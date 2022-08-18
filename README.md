@@ -1662,6 +1662,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2103.16074.pdf)
   - Xinke Li, Zhiru Chen, Yue Zhao, Zekun Tong, Yabang Zhao, Andrew Lim, and Joey Tianyi Zhou. *ICCV*, 2021.
 
+- Imperceptible and Robust Backdoor Attack in 3D Point Cloud.
+  [[pdf]](https://arxiv.org/pdf/2208.08052.pdf)
+  - Kuofeng Gao, Jiawang Bai, Baoyuan Wu, Mengxi Ya, and Shu-Tao Xia. arXiv, 2022.
+
 - Detecting Backdoor Attacks Against Point Cloud Classifiers.
   [[pdf]](https://arxiv.org/pdf/2110.10354.pdf)
   - Zhen Xiang, David J. Miller, Siheng Chen, Xi Li, and George Kesidis. arXiv, 2021.
