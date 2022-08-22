@@ -228,6 +228,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747582)
   - Huy Phan, Yi Xie, Jian Liu, Yingying Chen, and Bo Yuan. *ICASSP*, 2022.
 
+- Dispersed Pixel Perturbation-based Imperceptible Backdoor Trigger for Image Classifier Models. 
+  [[pdf]](https://arxiv.org/pdf/2208.09336.pdf)
+  - Yulong Wang, Minghui Zhao, Shenghong Li, Xin Yuan, and Wei Ni. arXiv, 2022.
+
 - FRIB: Low-poisoning Rate Invisible Backdoor Attack based on Feature Repair.
   [[pdf]](https://arxiv.org/pdf/2207.12863.pdf)
   - Hui Xia, Xiugui Yang, Xiangyun Qian, and Rui Zhang. arXiv, 2022. 
