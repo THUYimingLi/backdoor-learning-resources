@@ -810,6 +810,10 @@ Markdown format:
   [[code]](https://github.com/zhenxianglance/2ClassBADetection)
   - Zhen Xiang, David J. Miller, and George Kesidis. *ICLR*, 2022.
 
+- An Anomaly Detection Approach for Backdoored Neural Networks: Face Recognition as a Case Study.
+  [[pdf]](https://arxiv.org/pdf/2208.10231.pdf)
+  - Alexander Unnervik and Sébastien Marcel. *BIOSIG*, 2022.
+
 - Detecting AI Trojans Using Meta Neural Analysis.
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
   - Xiaojun Xu, Qi Wang, Huichen Li, Nikita Borisov, Carl A. Gunter, and Bo Li. *IEEE S&P*, 2021.
