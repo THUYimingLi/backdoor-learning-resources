@@ -1,5 +1,5 @@
 # Backdoor Learning Resources
-This Github repository summarizes a list of **Backdoor Learning** resources. For more details and the categorization criteria, please refer to our [survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey).
+This Github repository summarizes a list of **Backdoor Learning** resources. For more details and the categorization criteria, please refer to our [survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey). We will try our best to continuously maintain this Github Repository in a daily or weekly manner.
 
 
 #### Why Backdoor Learning?
@@ -1704,6 +1704,10 @@ Markdown format:
 - FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis.
   [[pdf]](https://arxiv.org/pdf/2112.01148.pdf)
   - Yu Feng, Benteng Ma, Jing Zhang, Shanshan Zhao, Yong Xia, and Dacheng Tao. *CVPR*, 2022.
+
+- Exploiting Missing Value Patterns for a Backdoor Attack on Machine Learning Models of Electronic Health Records: Development and Validation Study.
+  [[link]](https://medinform.jmir.org/2022/8/e38440/)
+  - Byunggill Joe, Yonghyeon Park, Jihun Hamm, Insik Shin, and Jiyeon Lee. *JMIR Medical Informatics*, 2022.
 
 - Machine Learning with Electronic Health Records is vulnerable to Backdoor Trigger Attacks.
   [[pdf]](https://arxiv.org/pdf/2106.07925.pdf)
