@@ -1,5 +1,7 @@
 # Backdoor Learning Resources
-This Github repository summarizes a list of **Backdoor Learning** resources. For more details and the categorization criteria, please refer to our [survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey). We will try our best to continuously maintain this Github Repository in a daily or weekly manner.
+This Github repository summarizes a list of **Backdoor Learning** resources. For more details and the categorization criteria, please refer to our [survey](https://www.researchgate.net/publication/343006441_Backdoor_Learning_A_Survey). 
+
+We will try our best to continuously maintain this Github Repository in a daily or weekly manner.
 
 
 #### Why Backdoor Learning?
