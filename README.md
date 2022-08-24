@@ -1426,6 +1426,11 @@ Markdown format:
 
 
 ### Quantization
+- RIBAC: Towards Robust and Imperceptible Backdoor Attack against Compact DNN.
+  [[pdf]](https://arxiv.org/pdf/2208.10608.pdf)
+  [[code]](https://github.com/huyvnphan/ECCV2022-RIBAC)
+  - Huy Phan, Cong Shi, Yi Xie, Tianfang Zhang, Zhuohang Li, Tianming Zhao, Jian Liu, Yan Wang, Yingying Chen, and Bo Yuan. *ECCV*, 2022.
+
 - Qu-ANTI-zation: Exploiting Quantization Artifacts for Achieving Adversarial Outcomes.
   [[pdf]](https://arxiv.org/pdf/2110.13541.pdf)
   [[code]](https://github.com/Secure-AI-Systems-Group/Qu-ANTI-zation)
