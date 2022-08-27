@@ -1774,6 +1774,12 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
   - Shihong Fang and Anna Choromanska. *AAAI*, 2022.
 
+- The Devil is in the GAN: Defending Deep Generative Models Against Backdoor Attacks.
+  [[pdf]](https://arxiv.org/pdf/2108.01644.pdf)
+  [[code]](https://github.com/IBM/devil-in-GAN)
+  [[demo]](https://github.com/Trusted-AI/adversarial-robustness-toolbox/blob/main/notebooks/backdoor_attack_DGM.ipynb)
+  - Ambrish Rawat, Killian Levacher, and Mathieu Sinn. *ESORICS*, 2022.
+
 - Object-Oriented Backdoor Attack Against Image Captioning.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9746440)
   - Meiling Li, Nan Zhong, Xinpeng Zhang, Zhenxing Qian, and Sheng Li. *ICASSP*, 2022.
