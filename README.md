@@ -1158,6 +1158,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2112.05409.pdf)
   - Yang Liu, Zhihao Yi, Yan Kang, Yuanqin He, Wenhan Liu, Tianyuan Zou, and Qiang Yang. *AAAI*, 2022.
 
+- An Analysis of Byzantine-Tolerant Aggregation Mechanisms on Model Poisoning in Federated Learning.
+  [[link]](https://link.springer.com/chapter/10.1007/978-3-031-13448-7_12)
+  - Mary Roszel, Robert Norvill, and Radu State. *MDAI*, 2022.
+
 - Against Backdoor Attacks In Federated Learning With Differential Privacy.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747653)
   - Lu Miao, Wei Yang, Rong Hu, Lu Li, and Liusheng Huang. *ICASSP*, 2022.
