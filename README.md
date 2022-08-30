@@ -135,6 +135,10 @@ Markdown format:
 
 
 ## Dissertation and Thesis
+- Towards Adversarial and Backdoor Robustness of Deep Learning.
+  [[link]](http://rave.ohiolink.edu/etdc/view?acc_num=case1654872780807815)
+  - Yifan Guo. *Ph.D. Dissertation at Case Western Reserve University*, 2022. 
+
 - Toward Robust and Communication Efficient Distributed Machine Learning.
   [[pdf]](https://www.proquest.com/docview/2572595657)
   - Hongyi Wang. *Ph.D. Dissertation at University of Wisconsin–Madison*, 2021.
