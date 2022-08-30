@@ -509,6 +509,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
   - Siddhant Garg, Adarsh Kumar, Vibhor Goel, and Yingyu Liang. *CIKM*, 2020.
 
+- TrojViT: Trojan Insertion in Vision Transformers.
+  [[pdf]](https://arxiv.org/pdf/2208.13049.pdf)
+  - Mengxin Zheng, Qian Lou, and Lei Jiang. arXiv, 2022.
+
 - Versatile Weight Attack via Flipping Limited Bits.
   [[pdf]](https://arxiv.org/pdf/2207.12405.pdf)
   - Jiawang Bai, Baoyuan Wu, Zhifeng Li, and Shu-Tao Xia. arXiv, 2022.
