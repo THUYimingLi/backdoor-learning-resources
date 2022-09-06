@@ -1347,6 +1347,10 @@ Markdown format:
 
 
 ### Transfer Learning
+- Incremental Learning, Incremental Backdoor Threats.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9872528/)
+  - Wenbo Jiang, Tianwei Zhang, Han Qiu, Hongwei Li, and Guowen Xu. *IEEE Transactions on Dependable and Secure Computing*, 2022.
+
 - Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
   [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
   - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, and Tianle Chen. *IEEE Transactions on Services Computing*, 2020.
