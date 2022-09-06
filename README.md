@@ -723,6 +723,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2110.08335.pdf)
   - Xiaoling Hu, Xiao Lin, Michael Cogswell, Yi Yao, Susmit Jha, and Chao Chen. *ICLR*, 2022.
 
+- Backdoor Defense with Machine Unlearning.
+  [[pdf]](https://arxiv.org/pdf/2201.09538.pdf)
+  - Yang Liu, Mingyuan Fan, Cen Chen, Ximeng Liu, Zhuo Ma, Li Wang, and Jianfeng Ma. *INFOCOM*, 2022.
+
 - Detection of Backdoors in Trained Classiﬁers Without Access to the Training Set.
   [[pdf]](http://arxiv.org/pdf/1908.10498)
   - Z Xiang, DJ Miller, and G Kesidis. *IEEE Transactions on Neural Networks and Learning Systems*, 2020.
@@ -783,10 +787,6 @@ Markdown format:
 - Model-Contrastive Learning for Backdoor Defense.
   [[pdf]](https://arxiv.org/pdf/2205.04411)
   - Zhihao Yue, Jun Xia, Zhiwei Ling, Ting Wang, Xian Wei, and Mingsong Chen. arXiv, 2022.
-
-- Backdoor Defense with Machine Unlearning.
-  [[pdf]](https://arxiv.org/pdf/2201.09538.pdf)
-  - Yang Liu, Mingyuan Fan, Cen Chen, Ximeng Liu, Zhuo Ma, Li Wang, and Jianfeng Ma. arXiv, 2022.
 
 - CatchBackdoor: Backdoor Testing by Critical Trojan Neural Path Identification via Differential Fuzzing.
   [[pdf]](https://arxiv.org/pdf/2112.13064.pdf)
