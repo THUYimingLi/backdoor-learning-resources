@@ -1225,6 +1225,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
 
+- Federated Zero-Shot Learning for Visual Recognition.
+  [[pdf]](https://arxiv.org/pdf/2209.01994.pdf)
+  - Zhi Chen, Yadan Luo, Sen Wang, Jingjing Li, and Zi Huang. arXiv, 2022.
+
 - Assisting Backdoor Federated Learning with Whole Population Knowledge Alignment.
   [[pdf]](https://arxiv.org/pdf/2207.12327.pdf)
   - Tian Liu, Xueyang Hu, and Tao Shu. arXiv, 2022.
