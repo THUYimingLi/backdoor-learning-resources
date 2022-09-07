@@ -1836,6 +1836,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2206.01102.pdf)
   - Wei Guo, Benedetta Tondi, and Mauro Barni. arXiv, 2022.
 
+- MACAB: Model-Agnostic Clean-Annotation Backdoor to Object Detection with Natural Trigger in Real-World.
+  [[pdf]](https://arxiv.org/pdf/2209.02339.pdf)
+  - Hua Ma, Yinshan Li, Yansong Gao, Zhi Zhang, Alsharif Abuadbba, Anmin Fu, Said F. Al-Sarawi, Nepal Surya, and Derek Abbott. arXiv, 2022.
+
 - BadDet: Backdoor Attacks on Object Detection.
   [[pdf]](https://arxiv.org/pdf/2205.14497.pdf)
   - Shih-Han Chan, Yinpeng Dong, Jun Zhu, Xiaolu Zhang, and Jun Zhou. arXiv, 2022.
