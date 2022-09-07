@@ -1027,6 +1027,10 @@ Markdown format:
   [[code]](https://github.com/MadryLab/backdoor_data_poisoning)
   - Brandon Tran, Jerry Li, and Aleksander Madry. *NeurIPS*, 2018.  
 
+- An Adaptive Black-box Defense against Trojan Attacks (TrojDef).
+  [[pdf]](https://arxiv.org/pdf/2209.01721.pdf)
+  - Guanxiong Liu, Abdallah Khreishah, Fatima Sharadgah, and Issa Khalil. arXiv, 2022.
+
 - Fight Poison with Poison: Detecting Backdoor Poison Samples via Decoupling Benign Correlations.
   [[pdf]](https://arxiv.org/pdf/2205.13616.pdf)
   [[code]](https://github.com/Unispac/Fight-Poison-With-Poison)
