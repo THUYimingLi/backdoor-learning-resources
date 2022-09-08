@@ -1669,6 +1669,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2006.11165.pdf)
   - Zaixi Zhang, Jinyuan Jia, Binghui Wang, and Neil Zhenqiang Gong. *SACMAT*, 2021.  
 
+- Defending Against Backdoor Attack on Graph Nerual Network by Explainability.
+  [[pdf]](https://arxiv.org/pdf/2209.02902.pdf)
+  - Bingchen Jiang and Zhao Li. arXiv, 2022.
+
 - Link-Backdoor: Backdoor Attack on Link Prediction via Node Injection.
   [[pdf]](https://arxiv.org/pdf/2208.06776.pdf)
   [[code]](https://github.com/Seaocn/Link-Backdoor)
