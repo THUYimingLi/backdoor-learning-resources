@@ -135,6 +135,10 @@ Markdown format:
 
 
 ## Dissertation and Thesis
+- Defense of Backdoor Attacks against Deep Neural Network Classifiers.
+  [[pdf]](https://etda.libraries.psu.edu/files/final_submissions/26656)
+  - Zhen Xiang. *Ph.D. Dissertation at The Pennsylvania State University*, 2022. 
+
 - Towards Adversarial and Backdoor Robustness of Deep Learning.
   [[link]](http://rave.ohiolink.edu/etdc/view?acc_num=case1654872780807815)
   - Yifan Guo. *Ph.D. Dissertation at Case Western Reserve University*, 2022. 
