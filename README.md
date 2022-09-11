@@ -548,6 +548,10 @@ Markdown format:
   [[code]](https://github.com/martin-ochoa/foobar)
   - Jakub Breier, Xiaolu Hou, Martín Ochoa and Jesus Solano. *IEEE Transactions on Dependable and Secure Computing*, 2022.
 
+- LoneNeuron: a Highly-Effective Feature-Domain Neural Trojan Using Invisible and Polymorphic Watermarks.
+  [[pdf]](https://www.ittc.ku.edu/~bluo/download/liu2022ccs.pdf)
+  - Zeyan Liu, Fengjun Li, Zhu Li, and Bo Luo. *CCS*, 2022.
+
 - Towards Practical Deployment-Stage Backdoor Attack on Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2111.12965.pdf)
   [[code]](https://github.com/Unispac/Subnet-Replacement-Attack)
