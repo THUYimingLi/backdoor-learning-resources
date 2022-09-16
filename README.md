@@ -818,6 +818,11 @@ Markdown format:
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
 #### Model Diagnosis based Empirical Defense
+- Critical Path-Based Backdoor Detection for Deep Neural Networks.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9882007)
+  - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, Ziwei Song, and Chen Bian. *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
+
+
 - Complex Backdoor Detection by Symmetric Feature Differencing.
   [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Liu.pdf)
   [[code]](https://github.com/PurduePAML/Exray)
