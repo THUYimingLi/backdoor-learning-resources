@@ -783,6 +783,10 @@ Markdown format:
   [[pdf]](https://ieeexplore.ieee.org/abstract/document/9231861)
   - Zhen Xiang, David J. Miller, Hang Wang, and George Kesidis. *MLSP*, 2020.
 
+- Adaptive Perturbation Generation for Multiple Backdoors Detection.
+  [[pdf]](https://arxiv.org/pdf/2209.05244.pdf)
+  - Yuhang Wang, Huafeng Shi, Rui Min, Ruijia Wu, Siyuan Liang, Yichao Wu, Ding Liang, and Aishan Liu. arXiv, 2022.
+
 - Confidence Matters: Inspecting Backdoors in Deep Neural Networks via Distribution Transfer.
   [[pdf]](https://arxiv.org/pdf/2208.06592.pdf)
   - Tong Wang, Yuan Yao, Feng Xu, Miao Xu, Shengwei An, and Ting Wang. arXiv, 2022.
