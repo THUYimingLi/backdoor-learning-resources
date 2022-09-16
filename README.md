@@ -572,6 +572,9 @@ Markdown format:
   [[code]](https://github.com/trx14/TrojanNet)
   - Ruixiang Tang, Mengnan Du, Ninghao Liu, Fan Yang, and Xia Hu. *KDD*, 2020.
 
+- BadRes: Reveal the Backdoors through Residual Connection.
+  [[pdf]](https://arxiv.org/pdf/2209.07125.pdf)
+  - Mingrui He, Tianyu Chen, Haoyi Zhou, Shanghang Zhang, and Jianxin Li. arXiv, 2022.
 
 - Architectural Backdoors in Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2206.07840.pdf)
