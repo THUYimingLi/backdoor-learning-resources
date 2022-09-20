@@ -203,6 +203,10 @@ Markdown format:
   [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001213)
   - Mingfu Xue, Can He, Yinghao Wu, Shichang Sun, Yushu Zhang, Jian Wang, and Weiqiang Liu. *Computers & Security*, 2022.
 
+- IBAttack: Being Cautious about Data Labels.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9891832/)
+  - Akshay Agarwal, Richa Singh, Mayank Vatsa, and Nalini Ratha. *IEEE Transactions on Artificial Intelligence*, 2022.
+
 - BlindNet Backdoor: Attack on Deep Neural Network using Blind Watermark.
   [[link]](https://link.springer.com/article/10.1007/s11042-021-11135-0)
   - Hyun Kwon and Yongchul Kim. *Multimedia Tools and Applications*, 2022.
