@@ -1421,6 +1421,10 @@ Markdown format:
   - Zhengyan Zhang, Guangxuan Xiao, Yongwei Li, Tian Lv, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Xin Jiang, and Maosong Sun. arXiv, 2021.
 
 ### Reinforcement Learning
+- MARNet: Backdoor Attacks against Cooperative Multi-Agent Reinforcement Learning.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9894692)
+  - Yanjiao Chen, Zhicong Zheng, and Xueluan Gong. *IEEE Transactions on Dependable and Secure Computing*, 2022.
+
 - Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-based Traffic Congestion Control Systems.
   [[pdf]](https://arxiv.org/pdf/2003.07859.pdf)
   - Yue Wang, Esha Sarkar, Michail Maniatakos, and Saif Eddin Jabari. *IEEE Transactions on Information Forensics and Security*, 2021.
