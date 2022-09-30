@@ -206,7 +206,7 @@ Markdown format:
   - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
 
 - Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
-  [[pdf]](http://liyiming.tech/publications/)
+  [[pdf]]([http://liyiming.tech/publications/](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection))
   [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
   - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
 
@@ -2112,7 +2112,7 @@ Markdown format:
 
 ## Backdoor Attack for Positive Purposes
 - Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
-  [[pdf]](http://liyiming.tech/publications/)
+  [[pdf]]([http://liyiming.tech/publications/](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection))
   [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
   - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
 
