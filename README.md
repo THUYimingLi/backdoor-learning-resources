@@ -10,7 +10,13 @@ Backdoor learning is an emerging research area, which discusses the security iss
 Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
-## Citation
+## News
+* 0930/2022: We add a new NDSS'23 paper [The “Beatrix” Resurrections: Robust Backdoor Detection via Gram Matrices]() and its codes in [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense). 
+* 0930/2022: We add a new NeurIPS'22 paper [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection] and its codes in [Poisoning-based Attack](#poisoning-based-attack) and [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes).
+
+
+
+## Reference
 If our repo or survey is useful for your research, please cite our paper as follows:
 ```
 @article{li2022backdoor,
@@ -199,6 +205,25 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9743735)
   - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
 
+- Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
+  [[pdf]](http://liyiming.tech/publications/)
+  [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
+  - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
+
+- DEFEAT: Deep Hidden Feature Backdoor Attacks by Imperceptible Perturbation and Latent Representation Constraints.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_DEFEAT_Deep_Hidden_Feature_Backdoor_Attacks_by_Imperceptible_Perturbation_and_CVPR_2022_paper.pdf)
+  - Zhendong Zhao, Xiaojun Chen, Yuexin Xuan, Ye Dong, Dakui Wang, and Kaitai Liang. *CVPR*, 2022.
+  
+
+- BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning.
+  [[pdf]](https://arxiv.org/pdf/2205.13383.pdf)
+  [[code]](https://github.com/RU-System-Software-and-Security/BppAttack)
+  - Zhenting Wang, Juan Zhai, and Shiqing Ma. *CVPR*, 2022.
+ 
+- Dynamic Backdoor Attacks Against Machine Learning Models. 
+  [[pdf]](https://arxiv.org/pdf/2003.03675.pdf)
+  - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. *EuroS&P*, 2022.   
+
 - PTB: Robust Physical Backdoor Attacks against Deep Neural Networks in Real World.
   [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001213)
   - Mingfu Xue, Can He, Yinghao Wu, Shichang Sun, Yushu Zhang, Jian Wang, and Weiqiang Liu. *Computers & Security*, 2022.
@@ -215,19 +240,6 @@ Markdown format:
   [[link]](https://www.hindawi.com/journals/scn/2022/4593002/)
   - Feng Zhao, Li Zhou, Qi Zhong, Rushi Lan, and Leo Yu Zhang. *Security and Communication Networks*, 2022.
 
-- DEFEAT: Deep Hidden Feature Backdoor Attacks by Imperceptible Perturbation and Latent Representation Constraints.
-  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_DEFEAT_Deep_Hidden_Feature_Backdoor_Attacks_by_Imperceptible_Perturbation_and_CVPR_2022_paper.pdf)
-  - Zhendong Zhao, Xiaojun Chen, Yuexin Xuan, Ye Dong, Dakui Wang, and Kaitai Liang. *CVPR*, 2022.
-  
-
-- BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning.
-  [[pdf]](https://arxiv.org/pdf/2205.13383.pdf)
-  [[code]](https://github.com/RU-System-Software-and-Security/BppAttack)
-  - Zhenting Wang, Juan Zhai, and Shiqing Ma. *CVPR*, 2022.
- 
-- Dynamic Backdoor Attacks Against Machine Learning Models. 
-  [[pdf]](https://arxiv.org/pdf/2003.03675.pdf)
-  - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. *EuroS&P*, 2022.   
 
 - Imperceptible Backdoor Attack: From Input Space to Feature Representation.
   [[pdf]](https://arxiv.org/pdf/2205.03190.pdf)
@@ -993,6 +1005,11 @@ Markdown format:
 - Similarity-based Integrity Protection for Deep Learning Systems.
   [[link]](https://www.sciencedirect.com/science/article/pii/S0020025522003279)
   - Ruitao Hou, Shan Ai, Qi Chen, Hongyang Yan, Teng Huang, and Kongyang Chen. *Information Sciences*, 2022.
+
+- The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices.
+  [[pdf]](https://arxiv.org/pdf/2209.11715.pdf)
+  [[code]](https://github.com/wanlunsec/Beatrix)
+  - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, and Yang Xiang. *NDSS*, 2023.
 
 - Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.
   [[pdf]](https://arxiv.org/pdf/2104.03413.pdf)
@@ -2094,6 +2111,11 @@ Markdown format:
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv, 2020.
 
 ## Backdoor Attack for Positive Purposes
+- Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
+  [[pdf]](http://liyiming.tech/publications/)
+  [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
+  - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
+
 - Membership Inference via Backdooring.
   [[pdf]](https://arxiv.org/pdf/2206.04823.pdf)
   [[code]](https://github.com/HongshengHu/membership-inference-via-backdooring)
