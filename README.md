@@ -11,8 +11,9 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
-* 0930/2022: We add a new NDSS'23 paper [The “Beatrix” Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/pdf/2209.11715.pdf) and its codes in [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense). 
-* 0930/2022: We add a new NeurIPS'22 paper [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection) and its codes in [Poisoning-based Attack](#poisoning-based-attack) and [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes).
+* 2022/09/30: We add a new NDSS'23 paper [The “Beatrix” Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/pdf/2209.11715.pdf) and its codes in [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense). 
+* 2022/09/30: We add a new NeurIPS'22 paper [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection) and its codes in [Poisoning-based Attack](#poisoning-based-attack) and [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes).
+* 2022/09/30: We update [BackdoorBench: A Comprehensive Benchmark of Backdoor Learning](https://arxiv.org/pdf/2206.12654.pdf), which is accepted by NeurIPS 2022 (Datasets and Benchmarks Track).
 
 
 
@@ -1969,6 +1970,14 @@ Markdown format:
   [[code]](https://github.com/ain-soph/trojanzoo)
   - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. *EuroS&P*, 2022.
 
+
+- BackdoorBench: A Comprehensive Benchmark of Backdoor Learning.
+  [[pdf]](https://arxiv.org/pdf/2206.12654.pdf)
+  [[code]](https://github.com/SCLBD/backdoorbench)
+  [[website]](https://backdoorbench.github.io/)
+  - Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen, and Hongyuan Zha. *NeurIPS*, 2022.  
+
+
 - Backdoor Defense via Decoupling the Training Process.
   [[pdf]](https://openreview.net/pdf?id=TySnJ-0RdKI)
   [[code]](https://github.com/SCLBD/DBD)
@@ -2038,12 +2047,6 @@ Markdown format:
 - Game of Trojans: A Submodular Byzantine Approach.
   [[pdf]](https://arxiv.org/pdf/2207.05937.pdf)
   - Dinuka Sahabandu, Arezoo Rajabi, Luyao Niu, Bo Li, Bhaskar Ramasubramanian, and Radha Poovendran. arXiv, 2022.  
-
-
-- BackdoorBench: A Comprehensive Benchmark of Backdoor Learning.
-  [[pdf]](https://arxiv.org/pdf/2206.12654.pdf)
-  [[website]](https://backdoorbench.github.io/)
-  - Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen, and Hongyuan Zha. arXiv, 2022.  
 
 - Auditing Visualizations: Transparency Methods Struggle to Detect Anomalous Behavior.
   [[pdf]](https://arxiv.org/pdf/2206.13498.pdf)
@@ -2115,7 +2118,6 @@ Markdown format:
   [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
   [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
   - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
-
 
 - Membership Inference via Backdooring.
   [[pdf]](https://arxiv.org/pdf/2206.04823.pdf)
