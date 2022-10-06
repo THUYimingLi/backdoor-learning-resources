@@ -11,7 +11,7 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
-* 2022/10/06: We add a new ECCV'22 paper [Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips](https://arxiv.org/pdf/2207.13417.pdf) in [Weights-oriented Attack](#weights-oriented-attack).
+* 2022/10/06: We add a new 
 * 2022/10/06: We add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** [Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints](https://arxiv.org/pdf/2210.01437) in [Federated Learning](#federated-learning), **(3)** [Backdoor Attacks in the Supply Chain of Masked Image Modeling](https://arxiv.org/pdf/2210.01632.pdf) in [Semi-Supervised and Self-Supervised Learning](#semi-supervised-and-self-supervised-learning), and **(4)** [Invariant Aggregator for Defending Federated Backdoor Attacks](https://arxiv.org/pdf/2210.01834.pdf) in [Federated Learning](#federated-learning).
 * 2022/09/30: We add a new NDSS'23 paper [The “Beatrix” Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/pdf/2209.11715.pdf) and its codes in [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense). 
 * 2022/09/30: We add a new NeurIPS'22 paper [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection) and its codes in [Poisoning-based Attack](#poisoning-based-attack) and [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes).
