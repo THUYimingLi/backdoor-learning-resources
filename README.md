@@ -264,6 +264,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2207.12863.pdf)
   - Hui Xia, Xiugui Yang, Xiangyun Qian, and Rui Zhang. arXiv, 2022. 
 
+- Augmentation Backdoors.
+  [[pdf]](https://arxiv.org/pdf/2209.15139.pdf)
+  [[code]](https://github.com/slkdfjslkjfd/augmentation_backdoors)
+  - Joseph Rance, Yiren Zhao, Ilia Shumailov, and Robert Mullins. arXiv, 2022. 
+
 - Just Rotate it: Deploying Backdoor Attacks via Rotation Transformation.
   [[pdf]](https://arxiv.org/pdf/2207.10825.pdf)
   - Tong Wu, Tianhao Wang, Vikash Sehwag, Saeed Mahloujifar, and Prateek Mittal. arXiv, 2022. 
