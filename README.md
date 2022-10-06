@@ -11,7 +11,7 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
-* 2022/10/06: We add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** [Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints](https://arxiv.org/pdf/2210.01437) in [Federated Learning](#federated-learning), **(3)** 
+* 2022/10/06: We add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** [Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints](https://arxiv.org/pdf/2210.01437) in [Federated Learning](#federated-learning), **(3)** [Backdoor Attacks in the Supply Chain of Masked Image Modeling](https://arxiv.org/pdf/2210.01632.pdf) in [Semi-Supervised and Self-Supervised Learning](#semi-supervised-and-self-supervised-learning), **(4)**
 * 2022/09/30: We add a new NDSS'23 paper [The “Beatrix” Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/pdf/2209.11715.pdf) and its codes in [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense). 
 * 2022/09/30: We add a new NeurIPS'22 paper [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection) and its codes in [Poisoning-based Attack](#poisoning-based-attack) and [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes).
 * 2022/09/30: We update [BackdoorBench: A Comprehensive Benchmark of Backdoor Learning](https://arxiv.org/pdf/2206.12654.pdf) in [Evaluation and Discussion](#evaluation-and-discussion). It is accepted by NeurIPS'22 (Datasets and Benchmarks Track).
@@ -853,7 +853,6 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9882007)
   - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, Ziwei Song, and Chen Bian. *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
 
-
 - Complex Backdoor Detection by Symmetric Feature Differencing.
   [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Liu.pdf)
   [[code]](https://github.com/PurduePAML/Exray)
@@ -1505,6 +1504,10 @@ Markdown format:
 - DeHiB: Deep Hidden Backdoor Attack on Semi-supervised Learning via adversarial Perturbation.
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/17266)
   - Zhicong Yan, Gaolei Li, Yuan Tian, Jun Wu, Shenghong Li, Mingzhe Chen, and H. Vincent Poor. *AAAI*, 2021.
+
+- Backdoor Attacks in the Supply Chain of Masked Image Modeling.
+  [[pdf]](https://arxiv.org/pdf/2210.01632.pdf)
+  - Xinyue Shen, Xinlei He, Zheng Li, Yun Shen, Michael Backes, and Yang Zhang. arXiv, 2022.
 
 - Watermarking Pre-trained Encoders in Contrastive Learning.
   [[pdf]](https://arxiv.org/pdf/2201.08217.pdf)
