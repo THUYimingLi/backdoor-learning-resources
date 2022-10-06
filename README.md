@@ -11,7 +11,7 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
-* 2022/10/06: We add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** 
+* 2022/10/06: We add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** [Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints](https://arxiv.org/pdf/2210.01437) in [Federated Learning](#federated-learning), **(3)** 
 * 2022/09/30: We add a new NDSS'23 paper [The “Beatrix” Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/pdf/2209.11715.pdf) and its codes in [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense). 
 * 2022/09/30: We add a new NeurIPS'22 paper [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection) and its codes in [Poisoning-based Attack](#poisoning-based-attack) and [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes).
 * 2022/09/30: We update [BackdoorBench: A Comprehensive Benchmark of Backdoor Learning](https://arxiv.org/pdf/2206.12654.pdf) in [Evaluation and Discussion](#evaluation-and-discussion). It is accepted by NeurIPS'22 (Datasets and Benchmarks Track).
@@ -1277,6 +1277,10 @@ Markdown format:
 - Can You Really Backdoor Federated Learning?
   [[pdf]](https://arxiv.org/pdf/1911.07963.pdf)
   - Ziteng Sun, Peter Kairouz, Ananda Theertha Suresh, and H. Brendan McMahan. *NeurIPS Workshop*, 2019.
+
+- Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints.
+  [[pdf]](https://arxiv.org/pdf/2210.01437.pdf)
+  - Minghui Li, Wei Wan, Jianrong Lu, Shengshan Hu, Junyu Shi, and Leo Yu Zhang. arXiv, 2022.
 
 - Federated Zero-Shot Learning for Visual Recognition.
   [[pdf]](https://arxiv.org/pdf/2209.01994.pdf)
