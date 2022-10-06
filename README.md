@@ -11,6 +11,7 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
+* 2022/10/06: We add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** 
 * 2022/09/30: We add a new NDSS'23 paper [The “Beatrix” Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/pdf/2209.11715.pdf) and its codes in [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense). 
 * 2022/09/30: We add a new NeurIPS'22 paper [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection) and its codes in [Poisoning-based Attack](#poisoning-based-attack) and [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes).
 * 2022/09/30: We update [BackdoorBench: A Comprehensive Benchmark of Backdoor Learning](https://arxiv.org/pdf/2206.12654.pdf) in [Evaluation and Discussion](#evaluation-and-discussion). It is accepted by NeurIPS'22 (Datasets and Benchmarks Track).
@@ -604,6 +605,12 @@ Markdown format:
 
 
 #### Other Attacks
+- ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks.
+  [[pdf]](https://arxiv.org/pdf/2210.00108.pdf)
+  [[website]](https://mlbackdoors.soc.srcf.net)
+  [[code]](https://git.sr.ht/~tim-clifford/impnet_source)
+  - Tim Clifford, Ilia Shumailov, Yiren Zhao, Ross Anderson, and Robert Mullins. arXiv, 2022.
+
 - Don't Trigger Me! A Triggerless Backdoor Attack Against Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2010.03282.pdf)
   - Ahmed Salem, Michael Backes, and Yang Zhang. arXiv, 2020.
