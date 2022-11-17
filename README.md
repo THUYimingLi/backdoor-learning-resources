@@ -11,6 +11,7 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
+* 2022/11/17: I am deeply sorry that I have recently suspended the reading of related papers and the updates of this Repo, due to some personal issues such as job hunting. I will restart the update at the end of this month.
 * 2022/10/06: We add a new Applied Intelligence paper [Agent Manipulator: Stealthy Strategy Attacks on Deep
 Reinforcement Learning](https://link.springer.com/article/10.1007/s10489-022-03882-w) in [Reinforcement Learning](#reinforcement-learning).
 * 2022/10/06: We add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** [Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints](https://arxiv.org/pdf/2210.01437) in [Federated Learning](#federated-learning), **(3)** [Backdoor Attacks in the Supply Chain of Masked Image Modeling](https://arxiv.org/pdf/2210.01632.pdf) in [Semi-Supervised and Self-Supervised Learning](#semi-supervised-and-self-supervised-learning), and **(4)** [Invariant Aggregator for Defending Federated Backdoor Attacks](https://arxiv.org/pdf/2210.01834.pdf) in [Federated Learning](#federated-learning).
