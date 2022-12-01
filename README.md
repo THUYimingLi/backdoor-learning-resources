@@ -1246,6 +1246,19 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2102.00655.pdf)
   - Syed Zawad, Ahsan Ali, Pin-Yu Chen, Ali Anwar, Yi Zhou, Nathalie Baracaldo, Yuan Tian, and Feng Yan. *AAAI*, 2021.
 
+- Defending Against Backdoors in Federated Learning with Robust Learning Rate.
+  [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
+  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. *AAAI*, 2021.
+  
+
+- BaFFLe: Backdoor detection via Feedback-based Federated Learning.
+  [[pdf]](https://arxiv.org/pdf/2011.02167.pdf)
+  - ebastien Andreina, Giorgia Azzurra Marson, Helen Möllering, and Ghassan Karame. ICDCS, 2021.
+
+- PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion.
+  [[pdf]](https://arxiv.org/pdf/2110.10926.pdf)
+  - Shijie Zhang, Hongzhi Yin, Tong Chen, Zi Huang, Quoc Viet Hung Nguyen, and Lizhen Cui. *WSDM*, 2021.
+
 - Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2007.05084.pdf)
   - Hongyi Wang, Kartik Sreenivasan, Shashank Rajput, Harit Vishwakarma, Saurabh Agarwal, Jy-yong Sohn, Kangwook Lee, and Dimitris Papailiopoulos. *NeurIPS*, 2020.
@@ -1253,14 +1266,7 @@ Markdown format:
 - DBA: Distributed Backdoor Attacks against Federated Learning.
   [[pdf]](https://openreview.net/pdf?id=rkgyS0VFvr)
   - Chulin Xie, Keli Huang, Pinyu Chen, and Bo Li. *ICLR*, 2020.
-  
-- Defending Against Backdoors in Federated Learning with Robust Learning Rate.
-  [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
-  - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. *AAAI*, 2021.
 
-- PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion.
-  [[pdf]](https://arxiv.org/pdf/2110.10926.pdf)
-  - Shijie Zhang, Hongzhi Yin, Tong Chen, Zi Huang, Quoc Viet Hung Nguyen, and Lizhen Cui. *WSDM*, 2021.
 
 - The Limitations of Federated Learning in Sybil Settings.
   [[pdf]](https://www.cs.ubc.ca/~bestchai/papers/foolsgold-raid2020.pdf)
@@ -1403,10 +1409,6 @@ Markdown format:
 - Mitigating Backdoor Attacks in Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2011.01767.pdf)
   - Chen Wu, Xian Yang, Sencun Zhu, and Prasenjit Mitra. arXiv, 2020.
-
-- BaFFLe: Backdoor detection via Feedback-based Federated Learning.
-  [[pdf]](https://arxiv.org/pdf/2011.02167.pdf)
-  - ebastien Andreina, Giorgia Azzurra Marson, Helen Möllering, and Ghassan Karame. ICDCS, 2021 (arXiv 2020).
 
 - Learning to Detect Malicious Clients for Robust Federated Learning. 
   [[pdf]](https://arxiv.org/pdf/2002.00211.pdf)
