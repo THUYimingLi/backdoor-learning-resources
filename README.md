@@ -1559,7 +1559,12 @@ Markdown format:
   [[pdf]](https://openreview.net/forum?id=C7cv9fh8m-b)
   [[code]](https://github.com/thunlp/Moderate-fitting)
   - Biru Zhu, Yujia Qin, Ganqu Cui, Yangyi Chen, Weilin Zhao, Chong Fu, Yangdong Deng, Zhiyuan Liu, Jingang Wang, Wei Wu, Maosong Sun, and Ming Gu. *NeurIPS*, 2022.
-  
+
+- A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
+  [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
+  [[code]](https://github.com/thunlp/OpenBackdoor)
+  - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, and Maosong Sun. *NeurIPS*, 2022.  
+
 - Spinning Language Models: Risks of Propaganda-as-a-Service and Countermeasures
   [[pdf]](https://arxiv.org/abs/2112.05224)
   [[code]](https://github.com/ebagdasa/propaganda_as_a_service)
@@ -1683,11 +1688,6 @@ Markdown format:
 - PerD: Perturbation Sensitivity-based Neural Trojan Detection Framework on NLP Applications.
   [[pdf]](https://arxiv.org/pdf/2208.04943.pdf)
   - Diego Garcia-soto, Huili Chen, and Farinaz Koushanfar. arXiv, 2022.  
-
-- A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
-  [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
-  [[code]](https://github.com/thunlp/OpenBackdoor)
-  - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, and Maosong Sun. *NeurIPS*, 2022.  
 
 - Kallima: A Clean-label Framework for Textual Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2206.01832.pdf)
@@ -2011,6 +2011,11 @@ Markdown format:
   [[code]](https://github.com/SCLBD/backdoorbench)
   [[website]](https://backdoorbench.github.io/)
   - Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen, and Hongyuan Zha. *NeurIPS*, 2022.  
+
+- A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
+  [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
+  [[code]](https://github.com/thunlp/OpenBackdoor)
+  - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, and Maosong Sun. *NeurIPS*, 2022.  
 
 
 - Backdoor Defense via Decoupling the Training Process.
