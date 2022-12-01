@@ -1558,13 +1558,14 @@ Markdown format:
 - Moderate-fitting as a Natural Backdoor Defender for Pre-trained Language Models
   [[pdf]](https://openreview.net/forum?id=C7cv9fh8m-b)
   [[code]](https://github.com/thunlp/Moderate-fitting)
-  - Biru Zhu, Yujia Qin, Ganqu Cui, Yangyi Chen, Weilin Zhao, Chong Fu, Yangdong Deng, Zhiyuan Liu, Jingang Wang, Wei Wu, Maosong Sun, Ming Gu. *NeurIPS*, 2022 
+  - Biru Zhu, Yujia Qin, Ganqu Cui, Yangyi Chen, Weilin Zhao, Chong Fu, Yangdong Deng, Zhiyuan Liu, Jingang Wang, Wei Wu, Maosong Sun, and Ming Gu. *NeurIPS*, 2022.
+  
 - Spinning Language Models: Risks of Propaganda-as-a-Service and Countermeasures
   [[pdf]](https://arxiv.org/abs/2112.05224)
   [[code]](https://github.com/ebagdasa/propaganda_as_a_service)
-  - Eugene Bagdasaryan and Vitaly Shmatikov. *IEEE S&P*, 2022
+  - Eugene Bagdasaryan and Vitaly Shmatikov. *IEEE S&P*, 2022.
 
-- PICCOLO : Exposing Complex Backdoors in NLP Transformer Models.
+- PICCOLO: Exposing Complex Backdoors in NLP Transformer Models.
   [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/SP22_Liu.pdf)
   [[code]](https://github.com/PurduePAML/PICCOLO)
   - Yingqi Liu, Guangyu Shen, Guanhong Tao, Shengwei An, Shiqing Ma, and Xiangyu Zhang. *IEEE S&P*, 2022.
