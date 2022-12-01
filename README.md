@@ -1406,7 +1406,7 @@ Markdown format:
 
 - BaFFLe: Backdoor detection via Feedback-based Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2011.02167.pdf)
-  - ebastien Andreina, Giorgia Azzurra Marson, Helen Möllering, and Ghassan Karame. arXiv, 2020.
+  - ebastien Andreina, Giorgia Azzurra Marson, Helen Möllering, and Ghassan Karame. ICDCS, 2021 (arXiv 2020).
 
 - Learning to Detect Malicious Clients for Robust Federated Learning. 
   [[pdf]](https://arxiv.org/pdf/2002.00211.pdf)
