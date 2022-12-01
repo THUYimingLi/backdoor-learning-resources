@@ -1555,6 +1555,10 @@ Markdown format:
 
 
 ### Natural Language Processing
+- Moderate-fitting as a Natural Backdoor Defender for Pre-trained Language Models
+  [[pdf]](https://openreview.net/forum?id=C7cv9fh8m-b)
+  [[code]](https://github.com/thunlp/Moderate-fitting)
+  - Biru Zhu, Yujia Qin, Ganqu Cui, Yangyi Chen, Weilin Zhao, Chong Fu, Yangdong Deng, Zhiyuan Liu, Jingang Wang, Wei Wu, Maosong Sun, Ming Gu. *NeurIPS*, 2022 
 - Spinning Language Models: Risks of Propaganda-as-a-Service and Countermeasures
   [[pdf]](https://arxiv.org/abs/2112.05224)
   [[code]](https://github.com/ebagdasa/propaganda_as_a_service)
@@ -1682,7 +1686,7 @@ Markdown format:
 - A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
   [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
   [[code]](https://github.com/thunlp/OpenBackdoor)
-  - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, and Maosong Sun. arXiv, 2022.  
+  - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, and Maosong Sun. *NeurIPS*, 2022.  
 
 - Kallima: A Clean-label Framework for Textual Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2206.01832.pdf)
