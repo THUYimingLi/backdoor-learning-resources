@@ -1555,6 +1555,10 @@ Markdown format:
 
 
 ### Natural Language Processing
+- Moderate-fitting as a Natural Backdoor Defender for Pre-trained Language Models
+  [[pdf]](https://openreview.net/forum?id=C7cv9fh8m-b)
+  [[code]](https://github.com/thunlp/Moderate-fitting)
+  - Biru Zhu, Yujia Qin, Ganqu Cui, Yangyi Chen, Weilin Zhao, Chong Fu, Yangdong Deng, Zhiyuan Liu, Jingang Wang, Wei Wu, Maosong Sun, Ming Gu. *NeurIPS*, 2022 
 - Spinning Language Models: Risks of Propaganda-as-a-Service and Countermeasures
   [[pdf]](https://arxiv.org/abs/2112.05224)
   [[code]](https://github.com/ebagdasa/propaganda_as_a_service)
