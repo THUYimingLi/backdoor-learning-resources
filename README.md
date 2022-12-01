@@ -1686,7 +1686,7 @@ Markdown format:
 - A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
   [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
   [[code]](https://github.com/thunlp/OpenBackdoor)
-  - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, and Maosong Sun. arXiv, 2022.  
+  - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, and Maosong Sun. *NeurIPS*, 2022.  
 
 - Kallima: A Clean-label Framework for Textual Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2206.01832.pdf)
