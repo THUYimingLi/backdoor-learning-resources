@@ -202,6 +202,14 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2022
+- Can Adversarial Training Be Manipulated By Non-Robust Features? 
+  [[pdf]](https://openreview.net/pdf?id=TVlKuUk-uj9) 
+  - Lue Tao, Lei Feng, Hongxin Wei, Jinfeng Yi, Sheng-Jun Huang, Songcan Chen. *NeurIPS*, 2022.
+
+- Marksman Backdoor: Backdoor Attacks with Arbitrary Target Class. 
+  [[pdf]](https://openreview.net/pdf?id=i-k6J4VkCDq) 
+  - Khoa D Doan, Yingjie Lao, Ping Li. *NeurIPS*, 2022.
+
 - Poison Ink: Robust and Invisible Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2108.02488)
   - Jie Zhang, Dongdong Chen, Qidong Huang, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, and Nenghai Yu. *IEEE Transactions on Image Processing*, 2022.
@@ -521,6 +529,10 @@ Markdown format:
 
 ### Non-poisoning-based Attack 
 #### Weights-oriented Attack
+- Handcrafted Backdoors in Deep Neural Networks. 
+  [[pdf]](https://openreview.net/pdf?id=6yuil2_tn9a) 
+  - Sanghyun Hong, Nicholas Carlini, Alexey Kurakin. *NeurIPS*, 2022.
+
 - Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips.
   [[pdf]](https://arxiv.org/pdf/2207.13417.pdf)
   [[code]](https://github.com/jiawangbai/HPT)
@@ -857,6 +869,11 @@ Markdown format:
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
 #### Model Diagnosis based Empirical Defense
+- Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets. 
+  [[pdf]](https://openreview.net/pdf?id=TItRK4VP9X2) 
+  [[code]](https://github.com/VITA-Group/Random-Shuffling-BackdoorDetect)
+  - Ruisi Cai, Zhenyu Zhang, Tianlong Chen, Xiaohan Chen, Zhangyang Wang. *NeurIPS*, 2022.
+  
 - Critical Path-Based Backdoor Detection for Deep Neural Networks.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9882007)
   - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, Ziwei Song, and Chen Bian. *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
@@ -1463,6 +1480,10 @@ Markdown format:
   - Zhengyan Zhang, Guangxuan Xiao, Yongwei Li, Tian Lv, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Xin Jiang, and Maosong Sun. arXiv, 2021.
 
 ### Reinforcement Learning
+- Provable Defense against Backdoor Policies in Reinforcement Learning. 
+  [[pdf]](https://openreview.net/pdf?id=11WmFbrIt26) 
+  - Shubham Kumar Bharti, Xuezhou Zhang, Adish Singla, Jerry Zhu. *NeurIPS*, 2022.
+
 - MARNet: Backdoor Attacks against Cooperative Multi-Agent Reinforcement Learning.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9894692)
   - Yanjiao Chen, Zhicong Zheng, and Xueluan Gong. *IEEE Transactions on Dependable and Secure Computing*, 2022.
@@ -2156,6 +2177,12 @@ Markdown format:
   - N. Benjamin Erichson, Dane Taylor, Qixuan Wu, and Michael W. Mahoney. arXiv, 2020.
 
 ## Backdoor Attack for Positive Purposes
+
+- Autoregressive Perturbations for Data Poisoning
+  [[pdf]](https://openreview.net/pdf?id=1vusesyN7E) 
+  [[code]](https://github.com/psandovalsegura/autoregressive-poisoning)
+  - Pedro Sandoval-Segura, Vasu Singla, Jonas Geiping, Micah Goldblum, Tom Goldstein, David W. Jacobs. *NeurIPS*, 2022.
+
 - Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
   [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
   [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
