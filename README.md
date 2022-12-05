@@ -11,14 +11,12 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
-* 2022/12/05: We add three ECCV'22 papers. All papers for this conference should have been included now.
+* 2022/25/05: I slightly change the format of this repo by placing conference papers before journal papers. Specifically, in the same year, please place the conference paper before the journal paper, as journals are usually submitted a long time ago and therefore have some lag.
+* 2022/12/05: I add three ECCV'22 papers. All papers for this conference should have been included now.
 * 2022/12/01: I am deeply sorry that I have recently suspended the reading of related papers and the updates of this Repo, due to some personal issues such as job hunting and sickness. I will restart the update as soon as possible.
-* 2022/10/06: We add a new Applied Intelligence paper [Agent Manipulator: Stealthy Strategy Attacks on Deep
+* 2022/10/06: I add a new Applied Intelligence paper [Agent Manipulator: Stealthy Strategy Attacks on Deep
 Reinforcement Learning](https://link.springer.com/article/10.1007/s10489-022-03882-w) in [Reinforcement Learning](#reinforcement-learning).
-* 2022/10/06: We add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** [Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints](https://arxiv.org/pdf/2210.01437) in [Federated Learning](#federated-learning), **(3)** [Backdoor Attacks in the Supply Chain of Masked Image Modeling](https://arxiv.org/pdf/2210.01632.pdf) in [Semi-Supervised and Self-Supervised Learning](#semi-supervised-and-self-supervised-learning), and **(4)** [Invariant Aggregator for Defending Federated Backdoor Attacks](https://arxiv.org/pdf/2210.01834.pdf) in [Federated Learning](#federated-learning).
-* 2022/09/30: We add a new NDSS'23 paper [The “Beatrix” Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/pdf/2209.11715.pdf) and its codes in [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense). 
-* 2022/09/30: We add a new NeurIPS'22 paper [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection) and its codes in [Poisoning-based Attack](#poisoning-based-attack) and [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes).
-
+* 2022/10/06: I add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** [Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints](https://arxiv.org/pdf/2210.01437) in [Federated Learning](#federated-learning), **(3)** [Backdoor Attacks in the Supply Chain of Masked Image Modeling](https://arxiv.org/pdf/2210.01632.pdf) in [Semi-Supervised and Self-Supervised Learning](#semi-supervised-and-self-supervised-learning), and **(4)** [Invariant Aggregator for Defending Federated Backdoor Attacks](https://arxiv.org/pdf/2210.01834.pdf) in [Federated Learning](#federated-learning).
 
 
 ## Reference
@@ -681,14 +679,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2204.09975.pdf)
   - Jun Xia, Ting Wang, Jieping Ding, Xian Wei, and Mingsong Chen. *IJCAI*, 2022.
 
-- Interpretability-Guided Defense against Backdoor Attacks to Deep Neural Networks.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9530722/)
-  - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, and Ziwei Song. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
-
-- Boundary augment: A data augment method to defend poison attack.
-  [[link]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)
-  - Xuan Chen, Yuena Ma, Shiwei Lu, and Yu Yao. *IET Image Processing*, 2021.
-
 - Adversarial Neuron Pruning Purifies Backdoored Deep Models.
   [[pdf]](https://arxiv.org/pdf/2110.14430.pdf)
   [[code]](https://github.com/csdongxian/ANP_backdoor)
@@ -698,6 +688,14 @@ Markdown format:
   [[pdf]](https://openreview.net/pdf?id=9l0K4OM-oXE)
   [[code]](https://github.com/bboylyg/NAD)
   - Yige Li, Xingjun Ma, Nodens Koren, Lingjuan Lyu, Xixiang Lyu, and Bo Li. *ICLR*, 2021.
+
+- Interpretability-Guided Defense against Backdoor Attacks to Deep Neural Networks.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9530722/)
+  - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, and Ziwei Song. *IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems*, 2021.
+
+- Boundary augment: A data augment method to defend poison attack.
+  [[link]](https://ietresearch.onlinelibrary.wiley.com/doi/full/10.1049/ipr2.12325)
+  - Xuan Chen, Yuena Ma, Shiwei Lu, and Yu Yao. *IET Image Processing*, 2021.
 
 - Bridging Mode Connectivity in Loss Landscapes and Adversarial Robustness.
   [[pdf]](https://arxiv.org/pdf/2005.00060.pdf)
@@ -774,10 +772,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2201.09538.pdf)
   - Yang Liu, Mingyuan Fan, Cen Chen, Ximeng Liu, Zhuo Ma, Li Wang, and Jianfeng Ma. *INFOCOM*, 2022.
 
-- Detection of Backdoors in Trained Classiﬁers Without Access to the Training Set.
-  [[pdf]](http://arxiv.org/pdf/1908.10498)
-  - Z Xiang, DJ Miller, and G Kesidis. *IEEE Transactions on Neural Networks and Learning Systems*, 2020.
-
 - Black-box Detection of Backdoor Attacks with Limited Information and Data.
   [[pdf]](https://arxiv.org/pdf/2103.13127.pdf)
   - Yinpeng Dong, Xiao Yang, Zhijie Deng, Tianyu Pang, Zihao Xiao, Hang Su, and Jun Zhu. *ICCV*, 2021.
@@ -796,6 +790,10 @@ Markdown format:
 - GangSweep: Sweep out Neural Backdoors by GAN.
   [[pdf]](https://www.lions.odu.edu/~h1wu/paper/gangsweep.pdf)
   - Liuwan Zhu, Rui Ning, Cong Wang, Chunsheng Xin, and Hongyi Wu. *ACM MM*, 2020.
+
+- Detection of Backdoors in Trained Classiﬁers Without Access to the Training Set.
+  [[pdf]](http://arxiv.org/pdf/1908.10498)
+  - Z Xiang, DJ Miller, and G Kesidis. *IEEE Transactions on Neural Networks and Learning Systems*, 2020.
 
 - Neural Cleanse: Identifying and Mitigating Backdoor Attacks in Neural Networks.
   [[pdf]](https://gangw.web.illinois.edu/class/cs598/papers/sp19-poisoning-backdoor.pdf)
@@ -861,10 +859,6 @@ Markdown format:
   - Akshaj Kumar Veldanda, Kang Liu, Benjamin Tan, Prashanth Krishnamurthy, Farshad Khorrami, Ramesh Karri, Brendan Dolan-Gavitt, and Siddharth Garg. arXiv, 2020.
 
 #### Model Diagnosis based Empirical Defense
-- Critical Path-Based Backdoor Detection for Deep Neural Networks.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9882007)
-  - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, Ziwei Song, and Chen Bian. *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
-
 - Complex Backdoor Detection by Symmetric Feature Differencing.
   [[pdf]](https://www.cs.purdue.edu/homes/taog/docs/CVPR22_Liu.pdf)
   [[code]](https://github.com/PurduePAML/Exray)
@@ -878,6 +872,10 @@ Markdown format:
 - An Anomaly Detection Approach for Backdoored Neural Networks: Face Recognition as a Case Study.
   [[pdf]](https://arxiv.org/pdf/2208.10231.pdf)
   - Alexander Unnervik and Sébastien Marcel. *BIOSIG*, 2022.
+
+- Critical Path-Based Backdoor Detection for Deep Neural Networks.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9882007)
+  - Wei Jiang, Xiangyu Wen, Jinyu Zhan, Xupeng Wang, Ziwei Song, and Chen Bian. *IEEE Transactions on Neural Networks and Learning Systems*, 2022.
 
 - Detecting AI Trojans Using Meta Neural Analysis.
   [[pdf]](https://arxiv.org/pdf/1910.03137.pdf)
@@ -1018,6 +1016,16 @@ Markdown format:
 
 
 #### Sample Filtering based Empirical Defense
+- The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices.
+  [[pdf]](https://arxiv.org/pdf/2209.11715.pdf)
+  [[code]](https://github.com/wanlunsec/Beatrix)
+  - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, and Yang Xiang. *NDSS*, 2023.
+
+- Towards Effective and Robust Neural Trojan Defenses via Input Filtering.
+  [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650277.pdf)
+  [[code]](https://github.com/SoftWiser-group/FTrojan)
+  - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. **ECCV**, 2022.
+
 - Can We Mitigate Backdoor Attack Using Adversarial Detection Methods?
   [[link]](https://ieeexplore.ieee.org/abstract/document/9844276)
   - Kaidi Jin, Tianwei Zhang, Chao Shen, Yufei Chen, Ming Fan, Chenhao Lin, and Ting Liu. *IEEE Transactions on Dependable and Secure Computing*, 2022.
@@ -1030,15 +1038,9 @@ Markdown format:
   [[link]](https://www.sciencedirect.com/science/article/pii/S0020025522003279)
   - Ruitao Hou, Shan Ai, Qi Chen, Hongyang Yan, Teng Huang, and Kongyang Chen. *Information Sciences*, 2022.
 
-- The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices.
-  [[pdf]](https://arxiv.org/pdf/2209.11715.pdf)
-  [[code]](https://github.com/wanlunsec/Beatrix)
-  - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, and Yang Xiang. *NDSS*, 2023.
-
-- Towards Effective and Robust Neural Trojan Defenses via Input Filtering.
-  [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650277.pdf)
-  [[code]](https://github.com/SoftWiser-group/FTrojan)
-  - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. **ECCV**, 2022.
+- A Feature-Based On-Line Detector to Remove Adversarial-Backdoors by Iterative Demarcation.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9673744)
+  - Hao Fu, Akshaj Kumar Veldanda, Prashanth Krishnamurthy, Siddharth Garg, and Farshad Khorrami. *IEEE ACCESS*, 2022.
 
 - Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.
   [[pdf]](https://arxiv.org/pdf/2104.03413.pdf)
@@ -1054,10 +1056,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.11315.pdf)
   [[code]](https://github.com/SewoongLab/spectre-defense)
   - Jonathan Hayase, Weihao Kong, Raghav Somani, and Sewoong Oh. *ICML*, 2021.
-
-- A Feature-Based On-Line Detector to Remove Adversarial-Backdoors by Iterative Demarcation.
-  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9673744)
-  - Hao Fu, Akshaj Kumar Veldanda, Prashanth Krishnamurthy, Siddharth Garg, and Farshad Khorrami. *IEEE ACCESS*, 2022.
 
 - CLEANN: Accelerated Trojan Shield for Embedded Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2009.02326.pdf)
@@ -1200,31 +1198,6 @@ Markdown format:
 
 ## Attack and Defense Towards Other Paradigms and Tasks
 ### Federated Learning
-- Secure Partial Aggregation: Making Federated Learning More Robust for Industry 4.0 Applications.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9692911)
-  - Jiqiang Gao, Baolei Zhang, Xiaojie Guo, Thar Baker, Min Li, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2022.
-
-- Backdoor Attacks-resilient Aggregation based on Robust Filtering of Outliers in Federated Learning for Image Classification.
-  [[link]](https://www.sciencedirect.com/science/article/pii/S0950705122002635)
-  - Nuria Rodríguez-Barroso, Eugenio Martínez-Cámara, M. Victoria Luzónb, and Francisco Herrera. *Knowledge-Based Systems*, 2022.
-
-- Defense against Backdoor Attack in Federated Learning.
-  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822002139)
-  [[code]](https://github.com/lsw3130104597/Backdoor_detection)
-  - Shiwei Lu, Ruihu Li, Wenbin Liu, and Xuan Chen. *Computers & Security*, 2022.
-
-- Privacy-Enhanced Federated Learning against Poisoning Adversaries.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9524709/)
-  - Xiaoyuan Liu, Hongwei Li, Guowen Xu, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. *IEEE Transactions on Information Forensics and Security*, 2021.
-
-- Coordinated Backdoor Attacks against Federated Learning with Model-Dependent Triggers.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9713908)
-  - Xueluan Gong, Yanjiao Chen, Huayang Huang, Yuqing Liao, Shuai Wang, and Qian Wang. *IEEE Network*, 2022.
-
-- Mitigating the Backdoor Attack by Federated Filters for Industrial IoT Applications.
-  [[link]](https://ieeexplore.ieee.org/document/9536411/)
-  - Boyu Hou, Jiqiang Gao, Xiaojie Guo, Thar Baker, Ying Zhang, Yanlong Wen, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2021.
-
 - Neurotoxin: Durable Backdoors in Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2206.10341.pdf)
   - Zhengming Zhang, Ashwinee Panda, Linyue Song, Yaoqing Yang, Michael W. Mahoney, Joseph E. Gonzalez, Kannan Ramchandran, and Prateek Mittal. *ICML*, 2022.
@@ -1249,9 +1222,26 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747653)
   - Lu Miao, Wei Yang, Rong Hu, Lu Li, and Liusheng Huang. *ICASSP*, 2022.
 
-- Stability-Based Analysis and Defense against Backdoor Attacks on Edge Computing Services.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9354927)
-  - Yi Zhao, Ke Xu, Haiyang Wang, Bo Li, and Ruoxi Jia. *IEEE Network*, 2021.
+- Secure Partial Aggregation: Making Federated Learning More Robust for Industry 4.0 Applications.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9692911)
+  - Jiqiang Gao, Baolei Zhang, Xiaojie Guo, Thar Baker, Min Li, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2022.
+
+- Backdoor Attacks-resilient Aggregation based on Robust Filtering of Outliers in Federated Learning for Image Classification.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0950705122002635)
+  - Nuria Rodríguez-Barroso, Eugenio Martínez-Cámara, M. Victoria Luzónb, and Francisco Herrera. *Knowledge-Based Systems*, 2022.
+
+- Defense against Backdoor Attack in Federated Learning.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822002139)
+  [[code]](https://github.com/lsw3130104597/Backdoor_detection)
+  - Shiwei Lu, Ruihu Li, Wenbin Liu, and Xuan Chen. *Computers & Security*, 2022.
+
+- Privacy-Enhanced Federated Learning against Poisoning Adversaries.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9524709/)
+  - Xiaoyuan Liu, Hongwei Li, Guowen Xu, Zongqi Chen, Xiaoming Huang, and Rongxing Lu. *IEEE Transactions on Information Forensics and Security*, 2021.
+
+- Coordinated Backdoor Attacks against Federated Learning with Model-Dependent Triggers.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9713908)
+  - Xueluan Gong, Yanjiao Chen, Huayang Huang, Yuqing Liao, Shuai Wang, and Qian Wang. *IEEE Network*, 2022.
 
 - CRFL: Certifiably Robust Federated Learning against Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2106.08283.pdf)
@@ -1265,14 +1255,21 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2007.03767.pdf)
   - Mustafa Safa Ozdayi, Murat Kantarcioglu, and Yulia R. Gel. *AAAI*, 2021.
   
-
 - BaFFLe: Backdoor detection via Feedback-based Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2011.02167.pdf)
-  - ebastien Andreina, Giorgia Azzurra Marson, Helen Möllering, and Ghassan Karame. ICDCS, 2021.
+  - ebastien Andreina, Giorgia Azzurra Marson, Helen Möllering, and Ghassan Karame. *ICDCS*, 2021.
 
 - PipAttack: Poisoning Federated Recommender Systems for Manipulating Item Promotion.
   [[pdf]](https://arxiv.org/pdf/2110.10926.pdf)
   - Shijie Zhang, Hongzhi Yin, Tong Chen, Zi Huang, Quoc Viet Hung Nguyen, and Lizhen Cui. *WSDM*, 2021.
+
+- Mitigating the Backdoor Attack by Federated Filters for Industrial IoT Applications.
+  [[link]](https://ieeexplore.ieee.org/document/9536411/)
+  - Boyu Hou, Jiqiang Gao, Xiaojie Guo, Thar Baker, Ying Zhang, Yanlong Wen, and Zheli Liu. *IEEE Transactions on Industrial Informatics*, 2021.
+
+- Stability-Based Analysis and Defense against Backdoor Attacks on Edge Computing Services.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9354927)
+  - Yi Zhao, Ke Xu, Haiyang Wang, Bo Li, and Ruoxi Jia. *IEEE Network*, 2021.
 
 - Attack of the Tails: Yes, You Really Can Backdoor Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2007.05084.pdf)
@@ -1444,11 +1441,6 @@ Markdown format:
   [[link]](https://www.sciencedirect.com/science/article/pii/S002002552201043X)
   - Le Feng, Sheng Li, Zhenxing Qian, and Xinpeng Zhang. *Information Sciences*, 2022.
 
-
-- Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
-  [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
-  - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, and Tianle Chen. *IEEE Transactions on Services Computing*, 2020.
-
 - Anti-Distillation Backdoor Attacks: Backdoors Can Really Survive in Knowledge Distillation.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3474085.3475254)
   - Yunjie Ge, Qian Wang, Baolin Zheng, Xinlu Zhuang, Qi Li, Chao Shen, and Cong Wang. *ACM MM*, 2021.
@@ -1462,6 +1454,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
   [[code]](https://github.com/neulab/RIPPLe)
   - Keita Kurita, Paul Michel, and Graham Neubig. *ACL*, 2020.
+
+- Backdoor Attacks against Transfer Learning with Pre-trained Deep Learning Models.
+  [[pdf]](https://arxiv.org/pdf/2001.03274.pdf)
+  - Shuo Wang, Surya Nepal, Carsten Rudolph, Marthie Grobler, Shangyu Chen, and Tianle Chen. *IEEE Transactions on Services Computing*, 2020.
+
 
 - Latent Backdoor Attacks on Deep Neural Networks.
   [[pdf]](http://people.cs.uchicago.edu/~huiyingli/publication/fr292-yaoA.pdf)
@@ -1478,14 +1475,18 @@ Markdown format:
   - Zhengyan Zhang, Guangxuan Xiao, Yongwei Li, Tian Lv, Fanchao Qi, Zhiyuan Liu, Yasheng Wang, Xin Jiang, and Maosong Sun. arXiv, 2021.
 
 ### Reinforcement Learning
-- MARNet: Backdoor Attacks against Cooperative Multi-Agent Reinforcement Learning.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9894692)
-  - Yanjiao Chen, Zhicong Zheng, and Xueluan Gong. *IEEE Transactions on Dependable and Secure Computing*, 2022.
-
 - Provable Defense against Backdoor Policies in Reinforcement Learning.
   [[pdf]](https://openreview.net/pdf?id=11WmFbrIt26)
   [[code]](https://github.com/skbharti/Provable-Defense-in-RL)
   - Shubham Kumar Bharti, Xuezhou Zhang, Adish Singla, and Jerry Zhu. *NeurIPS*, 2022.
+
+- MARNet: Backdoor Attacks against Cooperative Multi-Agent Reinforcement Learning.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9894692)
+  - Yanjiao Chen, Zhicong Zheng, and Xueluan Gong. *IEEE Transactions on Dependable and Secure Computing*, 2022.
+
+- BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning.
+  [[pdf]](https://arxiv.org/pdf/2105.00579.pdf)
+  - Lun Wang, Zaynah Javed, Xian Wu, Wenbo Guo, Xinyu Xing, and Dawn Song. *IJCAI*, 2021.
 
 - Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-based Traffic Congestion Control Systems.
   [[pdf]](https://arxiv.org/pdf/2003.07859.pdf)
@@ -1494,10 +1495,6 @@ Markdown format:
 - Agent Manipulator: Stealthy Strategy Attacks on Deep Reinforcement Learning.
   [[link]](https://link.springer.com/article/10.1007/s10489-022-03882-w)
   - Jinyin Chen, Xueke Wang, Yan Zhang, Haibin Zheng, Shanqing Yu, and Liang Bao. *Applied Intelligence*, 2022.
-
-- BACKDOORL: Backdoor Attack against Competitive Reinforcement Learning.
-  [[pdf]](https://arxiv.org/pdf/2105.00579.pdf)
-  - Lun Wang, Zaynah Javed, Xian Wu, Wenbo Guo, Xinyu Xing, and Dawn Song. *IJCAI*, 2021.
 
 - TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning.
   [[pdf]](https://arxiv.org/pdf/1903.06638.pdf)
@@ -1536,13 +1533,13 @@ Markdown format:
   [[code]](https://github.com/jjy1994/BadEncoder)
   - Jinyuan Jia, Yupei Liu, and Neil Zhenqiang Gong. *IEEE S&P*, 2022.
 
-- Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9551983)
-  - Zhicong Yan, Jun Wu, Gaolei Li, Shenghong Li, and Mohsen Guizani. *IEEE Transactions on Information Forensics and Security*, 2021.
-
 - DeHiB: Deep Hidden Backdoor Attack on Semi-supervised Learning via adversarial Perturbation.
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/17266)
   - Zhicong Yan, Gaolei Li, Yuan Tian, Jun Wu, Shenghong Li, Mingzhe Chen, and H. Vincent Poor. *AAAI*, 2021.
+
+- Deep Neural Backdoor in Semi-Supervised Learning: Threats and Countermeasures.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9551983)
+  - Zhicong Yan, Jun Wu, Gaolei Li, Shenghong Li, and Mohsen Guizani. *IEEE Transactions on Information Forensics and Security*, 2021.
 
 - Backdoor Attacks in the Supply Chain of Masked Image Modeling.
   [[pdf]](https://arxiv.org/pdf/2210.01632.pdf)
@@ -1603,22 +1600,19 @@ Markdown format:
   [[code]](https://github.com/PurduePAML/PICCOLO)
   - Yingqi Liu, Guangyu Shen, Guanhong Tao, Shengwei An, Shiqing Ma, and Xiangyu Zhang. *IEEE S&P*, 2022.
 
-- The Triggers that Open the NLP Model Backdoors Are Hidden in the Adversarial Samples.
-  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001250)
-  - Kun Shao, Yu Zhang, Junan Yang, Xiaoshuai Li, and Hui Liu. *Computers & Security*, 2022.
-
 - Triggerless Backdoor Attack for NLP Tasks with Clean Labels.
   [[pdf]](https://arxiv.org/pdf/2111.07970.pdf)
-  - Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Shangwei Guo, and Chun Fan. NAACL, 2022.
+  - Leilei Gan, Jiwei Li, Tianwei Zhang, Xiaoya Li, Yuxian Meng, Fei Wu, Shangwei Guo, and Chun Fan. *NAACL*, 2022.
 
 - A Study of the Attention Abnormality in Trojaned BERTs.
   [[pdf]](https://arxiv.org/pdf/2205.08305.pdf)
   [[code]](https://github.com/weimin17/attention_abnormality_in_trojaned_berts)
   - Weimin Lyu, Songzhu Zheng, Tengfei Ma, and Chao Chen. *NAACL*, 2022.
 
-- Text Backdoor Detection Using An Interpretable RNN Abstract Model.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9508422)
-  - Ming Fan, Ziliang Si, Xiaofei Xie, Yang Liu, and Ting Liu. *IEEE Transactions on Information Forensics and Security*, 2021.
+
+- The Triggers that Open the NLP Model Backdoors Are Hidden in the Adversarial Samples.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001250)
+  - Kun Shao, Yu Zhang, Junan Yang, Xiaoshuai Li, and Hui Liu. *Computers & Security*, 2022.
 
 - BDDR: An Effective Defense Against Textual Backdoor Attacks.
   [[pdf]](https://www.sciencedirect.com/science/article/pii/S0167404821002571)
@@ -1687,10 +1681,6 @@ Markdown format:
   [[code]](https://github.com/dheeraj7596/BFClass)
   - Zichao Li, Dheeraj Mekala, Chengyu Dong, and Jingbo Shang. *EMNLP-Findings*, 2021.
 
-- Weight Poisoning Attacks on Pre-trained Models.
-  [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
-  [[code]](https://github.com/neulab/RIPPLe)
-  - Keita Kurita, Paul Michel, and Graham Neubig. *ACL*, 2020.
 
 - Be Careful about Poisoned Word Embeddings: Exploring the Vulnerability of the Embedding Layers in NLP Models.
   [[pdf]](https://arxiv.org/pdf/2103.15543.pdf)
@@ -1701,17 +1691,26 @@ Markdown format:
   [[pdf]](https://aclanthology.org/2021.naacl-main.430.pdf) 
   - Zhiyuan Zhang, Xuancheng Ren, Qi Su, Xu Sun, and Bin He. *NAACL-HLT*, 2021.
 
+- Text Backdoor Detection Using An Interpretable RNN Abstract Model.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9508422)
+  - Ming Fan, Ziliang Si, Xiaofei Xie, Yang Liu, and Ting Liu. *IEEE Transactions on Information Forensics and Security*, 2021.
+
 - Textual Backdoor Attack for the Text Classification System.
   [[pdf]](https://www.hindawi.com/journals/scn/2021/2938386/)
   - Hyun Kwon and Sanghyun Lee. *Security and Communication Networks*, 2021.
 
-- A Backdoor Attack Against LSTM-based Text Classification Systems.
-  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
-  - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access*, 2019.
+- Weight Poisoning Attacks on Pre-trained Models.
+  [[pdf]](https://arxiv.org/pdf/2004.06660.pdf)
+  [[code]](https://github.com/neulab/RIPPLe)
+  - Keita Kurita, Paul Michel, and Graham Neubig. *ACL*, 2020.
 
 - Poison Attacks against Text Datasets with Conditional Adversarially Regularized Autoencoder.
   [[pdf]](https://arxiv.org/pdf/2010.02684.pdf)
   - Alvin Chan, Yi Tay, Yew-Soon Ong, and Aston Zhang. *EMNLP-Findings*, 2020.
+
+- A Backdoor Attack Against LSTM-based Text Classification Systems.
+  [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8836465)
+  - Jiazhu Dai, Chuanshuai Chen, and Yufeng Li. *IEEE Access*, 2019.
 
 - PerD: Perturbation Sensitivity-based Neural Trojan Detection Framework on NLP Applications.
   [[pdf]](https://arxiv.org/pdf/2208.04943.pdf)
@@ -1837,7 +1836,6 @@ Markdown format:
   [[code]](https://github.com/zhaitongqing233/Backdoor-attack-against-speaker-verification)
   - Tongqing Zhai, Yiming Li, Ziqi Zhang, Baoyuan Wu, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2021.
 
-
 - DriNet: Dynamic Backdoor Attack against Automatic Speech Recognization Models.
   [[link]](https://www.mdpi.com/2076-3417/12/12/5786)
   - Jianbin Ye, Xiaoyuan Liu, Zheng You, Guowei Li, and Bo Liu. *Applied Sciences*, 2022.
@@ -1876,13 +1874,13 @@ Markdown format:
   [[code]](https://github.com/liuguangrui-hit/VulnerGAN-py)
   - Guangrui Liu, Weizhe Zhang, Xinjie Li, Kaisheng Fan, and Shui Yu. *Information Sciences*, 2022.
 
-- Backdoor Attack on Machine Learning Based Android Malware Detectors.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
-  - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
-
 - Explanation-Guided Backdoor Poisoning Attacks Against Malware Classifiers.
   [[pdf]](https://arxiv.org/pdf/2003.01031.pdf)
   - Giorgio Severi, Jim Meyer, Scott Coull, and Alina Oprea. *USENIX Security*, 2021.
+
+- Backdoor Attack on Machine Learning Based Android Malware Detectors.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9477038/)
+  - Chaoran Li, Xiao Chen, Derui Wang, Sheng Wen, Muhammad Ejaz Ahmed, Seyit Camtepe, and Yang Xiang. *IEEE Transactions on Dependable and Secure Computing*, 2021.
 
 - Jigsaw Puzzle: Selective Backdoor Attack to Subvert Malware Classifiers.
   [[pdf]](https://arxiv.org/pdf/2202.05470.pdf)
@@ -1898,15 +1896,6 @@ Markdown format:
 - Backdoor Attacks on Crowd Counting.
   [[pdf]](https://arxiv.org/pdf/2207.05641.pdf)
   - Yuhua Sun, Tailai Zhang, Xingjun Ma, Pan Zhou, Jian Lou, Zichuan Xu, Xing Di, Yu Cheng, and Lichao Sun. *ACM MM*, 2022.
-
-- An Interpretive Perspective: Adversarial Trojaning Attack on Neural-Architecture-Search Enabled Edge AI Systems.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9780600)
-  - Ship Peng Xu, Ke Wang, Md. Rafiul Hassan, Mohammad Mehedi Hassan, and Chien-Ming Chen. *IEEE Transactions on Industrial Informatics*, 2022.
-
-
-- A Triggerless Backdoor Attack and Defense Mechanism for Intelligent Task Offloading in Multi-UAV Systems.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9770193)
-  - Shafkat Islam, Shahriar Badsha, Ibrahim Khalil, Mohammed Atiquzzaman, and Charalambos Konstantinou. *IEEE Internet of Things Journal*, 2022.
 
 - Backdoor Attacks on the DNN Interpretation System.
   [[pdf]](https://arxiv.org/pdf/2011.10698.pdf)
@@ -1925,6 +1914,14 @@ Markdown format:
 - When Does Backdoor Attack Succeed in Image Reconstruction? A Study of Heuristics vs. Bi-Level Solution.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9746433)
   - Vardaan Taneja, Pin-Yu Chen, Yuguang Yao, and Sijia Liu. *ICASSP*, 2022.
+
+- An Interpretive Perspective: Adversarial Trojaning Attack on Neural-Architecture-Search Enabled Edge AI Systems.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9780600)
+  - Ship Peng Xu, Ke Wang, Md. Rafiul Hassan, Mohammad Mehedi Hassan, and Chien-Ming Chen. *IEEE Transactions on Industrial Informatics*, 2022.
+
+- A Triggerless Backdoor Attack and Defense Mechanism for Intelligent Task Offloading in Multi-UAV Systems.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9770193)
+  - Shafkat Islam, Shahriar Badsha, Ibrahim Khalil, Mohammed Atiquzzaman, and Charalambos Konstantinou. *IEEE Internet of Things Journal*, 2022.
 
 - Multi-Target Invisibly Trojaned Networks for Visual Recognition and Detection.
   [[pdf]](https://www.ijcai.org/proceedings/2021/0477.pdf)
