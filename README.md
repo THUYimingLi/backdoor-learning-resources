@@ -1491,6 +1491,7 @@ Markdown format:
 
 - TrojDRL: Evaluation of Backdoor Attacks on Deep Reinforcement Learning.
   [[pdf]](https://arxiv.org/pdf/1903.06638.pdf)
+  [[code]](https://github.com/pkiourti/rl_backdoor)
   - Panagiota Kiourti, Kacper Wardega, Susmit Jha, and Wenchao Li. *DAC*, 2020.
 
 - Poisoning Deep Reinforcement Learning Agents with In-Distribution Triggers.
