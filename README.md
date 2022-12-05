@@ -1472,6 +1472,11 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9894692)
   - Yanjiao Chen, Zhicong Zheng, and Xueluan Gong. *IEEE Transactions on Dependable and Secure Computing*, 2022.
 
+- Provable Defense against Backdoor Policies in Reinforcement Learning.
+  [[pdf]](https://openreview.net/pdf?id=11WmFbrIt26)
+  [[code]](https://github.com/skbharti/Provable-Defense-in-RL)
+  - Shubham Kumar Bharti, Xuezhou Zhang, Adish Singla, and Jerry Zhu. *NeurIPS*, 2022.
+
 - Stop-and-Go: Exploring Backdoor Attacks on Deep Reinforcement Learning-based Traffic Congestion Control Systems.
   [[pdf]](https://arxiv.org/pdf/2003.07859.pdf)
   - Yue Wang, Esha Sarkar, Michail Maniatakos, and Saif Eddin Jabari. *IEEE Transactions on Information Forensics and Security*, 2021.
