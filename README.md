@@ -202,30 +202,6 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2022
-- Poison Ink: Robust and Invisible Backdoor Attack.
-  [[pdf]](https://arxiv.org/pdf/2108.02488)
-  - Jie Zhang, Dongdong Chen, Qidong Huang, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, and Nenghai Yu. *IEEE Transactions on Image Processing*, 2022.
-
-- Enhancing Backdoor Attacks with Multi-Level MMD Regularization.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9743735)
-  - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.  
-
-- PTB: Robust Physical Backdoor Attacks against Deep Neural Networks in Real World.
-  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001213)
-  - Mingfu Xue, Can He, Yinghao Wu, Shichang Sun, Yushu Zhang, Jian Wang, and Weiqiang Liu. *Computers & Security*, 2022.
-
-- IBAttack: Being Cautious about Data Labels.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9891832/)
-  - Akshay Agarwal, Richa Singh, Mayank Vatsa, and Nalini Ratha. *IEEE Transactions on Artificial Intelligence*, 2022.
-
-- BlindNet Backdoor: Attack on Deep Neural Network using Blind Watermark.
-  [[link]](https://link.springer.com/article/10.1007/s11042-021-11135-0)
-  - Hyun Kwon and Yongchul Kim. *Multimedia Tools and Applications*, 2022.
-
-- Natural Backdoor Attacks on Deep Neural Networks via Raindrops.
-  [[link]](https://www.hindawi.com/journals/scn/2022/4593002/)
-  - Feng Zhao, Li Zhou, Qi Zhong, Rushi Lan, and Leo Yu Zhang. *Security and Communication Networks*, 2022.
-
 - Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
   [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
   [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
@@ -249,7 +225,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2003.03675.pdf)
   - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. *EuroS&P*, 2022. 
 
-
 - Imperceptible Backdoor Attack: From Input Space to Feature Representation.
   [[pdf]](https://arxiv.org/pdf/2205.03190.pdf)
   [[code]](https://github.com/Ekko-zn/IJCAI2022-Backdoor)
@@ -262,6 +237,30 @@ Markdown format:
 - Invisible and Efficient Backdoor Attacks for Compressed Deep Neural Networks.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747582)
   - Huy Phan, Yi Xie, Jian Liu, Yingying Chen, and Bo Yuan. *ICASSP*, 2022.
+
+- Poison Ink: Robust and Invisible Backdoor Attack.
+  [[pdf]](https://arxiv.org/pdf/2108.02488)
+  - Jie Zhang, Dongdong Chen, Qidong Huang, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, and Nenghai Yu. *IEEE Transactions on Image Processing*, 2022.
+
+- Enhancing Backdoor Attacks with Multi-Level MMD Regularization.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9743735)
+  - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.  
+
+- PTB: Robust Physical Backdoor Attacks against Deep Neural Networks in Real World.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001213)
+  - Mingfu Xue, Can He, Yinghao Wu, Shichang Sun, Yushu Zhang, Jian Wang, and Weiqiang Liu. *Computers & Security*, 2022.
+
+- IBAttack: Being Cautious about Data Labels.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9891832/)
+  - Akshay Agarwal, Richa Singh, Mayank Vatsa, and Nalini Ratha. *IEEE Transactions on Artificial Intelligence*, 2022.
+
+- BlindNet Backdoor: Attack on Deep Neural Network using Blind Watermark.
+  [[link]](https://link.springer.com/article/10.1007/s11042-021-11135-0)
+  - Hyun Kwon and Yongchul Kim. *Multimedia Tools and Applications*, 2022.
+
+- Natural Backdoor Attacks on Deep Neural Networks via Raindrops.
+  [[link]](https://www.hindawi.com/journals/scn/2022/4593002/)
+  - Feng Zhao, Li Zhou, Qi Zhong, Rushi Lan, and Leo Yu Zhang. *Security and Communication Networks*, 2022.
 
 - Dispersed Pixel Perturbation-based Imperceptible Backdoor Trigger for Image Classifier Models. 
   [[pdf]](https://arxiv.org/pdf/2208.09336.pdf)
@@ -341,10 +340,6 @@ Markdown format:
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Doan_LIRA_Learnable_Imperceptible_and_Robust_Backdoor_Attacks_ICCV_2021_paper.pdf)
   - Khoa Doan, Yingjie Lao, Weijie Zhao, and Ping Li. *ICCV*, 2021.
 
-- Defense-Resistant Backdoor Attacks against Deep Neural Networks in Outsourced Cloud Environment.
-  [[Link]](https://ieeexplore.ieee.org/abstract/document/9450029/authors#authors)
-  - Xueluan Gong, Yanjiao Chen, Qian Wang, Huayang Huang, Lingshuo Meng, Chao Shen, and Qian Zhang. *IEEE Journal on Selected Areas in Communications*, 2021.
-
 - Blind Backdoors in Deep Learning Models. 
   [[pdf]](https://arxiv.org/pdf/2005.03823.pdf)
   [[code]](https://github.com/ebagdasa/backdoors101)
@@ -378,7 +373,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2104.02361.pdf)
   [[extension]](https://arxiv.org/pdf/2004.04692.pdf)
   - Yiming Li, Tongqing Zhai, Yong Jiang, Zhifeng Li, and Shu-Tao Xia. *ICLR Workshop*, 2021.
- 
+
+- Defense-Resistant Backdoor Attacks against Deep Neural Networks in Outsourced Cloud Environment.
+  [[Link]](https://ieeexplore.ieee.org/abstract/document/9450029/authors#authors)
+  - Xueluan Gong, Yanjiao Chen, Qian Wang, Huayang Huang, Lingshuo Meng, Chao Shen, and Qian Zhang. *IEEE Journal on Selected Areas in Communications*, 2021.
+
 - A Master Key Backdoor for Universal Impersonation Attack against DNN-based Face Verification.
   [[link]](https://www.sciencedirect.com/science/article/pii/S0167865521000210)
   - WeiGuo, Benedetta Tondi, and Mauro Barni. *Pattern Recognition Letters*, 2021.
@@ -432,15 +431,6 @@ Markdown format:
  
 
 #### 2020
-- One-to-N & N-to-One: Two Advanced Backdoor Attacks against Deep Learning Models.
-  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9211729)
-  - Mingfu Xue, Can He, Jian Wang, and Weiqiang Liu. *IEEE Transactions on Dependable and Secure Computing*, 2020.
-
-- Invisible Backdoor Attacks on Deep Neural Networks via Steganography and Regularization.
-  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9186317/)
-  [[arXiv Version (2019)]](https://arxiv.org/pdf/1909.02742.pdf)
-  - Shaofeng Li, Minhui Xue, Benjamin Zi Hao Zhao, Haojin Zhu, and Xinpeng Zhang. *IEEE Transactions on Dependable and Secure Computing*, 2020.
-
 - Composite Backdoor Attack for Deep Neural Network by Mixing Existing Benign Features.
   [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3372297.3423362)
   - Junyu Lin, Lei Xu, Yingqi Liu, Xiangyu Zhang. *CCS*, 2020.
@@ -449,7 +439,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2010.08138.pdf)
   [[code]](https://github.com/VinAIResearch/input-aware-backdoor-attack-release)
   - Anh Nguyen, and Anh Tran. *NeurIPS, 2020*.
-
 
 - Bypassing Backdoor Detection Algorithms in Deep Learning.
   [[pdf]](https://arxiv.org/pdf/1905.13409.pdf)
@@ -481,6 +470,16 @@ Markdown format:
 - Backdooring and Poisoning Neural Networks with Image-Scaling Attacks.
   [[pdf]](https://arxiv.org/pdf/2003.08633.pdf)
   - Erwin Quiring, and Konrad Rieck. *IEEE S&P Workshop*, 2020.
+
+- One-to-N & N-to-One: Two Advanced Backdoor Attacks against Deep Learning Models.
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9211729)
+  - Mingfu Xue, Can He, Jian Wang, and Weiqiang Liu. *IEEE Transactions on Dependable and Secure Computing*, 2020.
+
+- Invisible Backdoor Attacks on Deep Neural Networks via Steganography and Regularization.
+  [[pdf]](https://ieeexplore.ieee.org/abstract/document/9186317/)
+  [[arXiv Version (2019)]](https://arxiv.org/pdf/1909.02742.pdf)
+  - Shaofeng Li, Minhui Xue, Benjamin Zi Hao Zhao, Haojin Zhu, and Xinpeng Zhang. *IEEE Transactions on Dependable and Secure Computing*, 2020.
+
 
 - HaS-Nets: A Heal and Select Mechanism to Defend DNNs Against Backdoor Attacks for Data Collection Scenarios.
   [[pdf]](https://arxiv.org/pdf/2012.07474.pdf)
@@ -568,15 +567,6 @@ Markdown format:
  
  
 #### Structure-modified Attack
-- Stealthy and Flexible Trojan in Deep Learning Framework.
-  [[link]](https://ieeexplore.ieee.org/abstract/document/9747995)
-  - Yajie Wang, Kongyang Chen, Yu-An Tan, Shuxin Huang, Wencong Ma, and Yuanzhang Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
-
-- FooBaR: Fault Fooling Backdoor Attack on Neural Network Training.
-  [[link]](https://ieeexplore.ieee.org/document/9756234)
-  [[code]](https://github.com/martin-ochoa/foobar)
-  - Jakub Breier, Xiaolu Hou, Martín Ochoa and Jesus Solano. *IEEE Transactions on Dependable and Secure Computing*, 2022.
-
 - LoneNeuron: a Highly-Effective Feature-Domain Neural Trojan Using Invisible and Polymorphic Watermarks.
   [[pdf]](https://www.ittc.ku.edu/~bluo/download/liu2022ccs.pdf)
   - Zeyan Liu, Fengjun Li, Zhu Li, and Bo Luo. *CCS*, 2022.
@@ -591,6 +581,16 @@ Markdown format:
   [[link]](https://dl.acm.org/doi/10.1145/3531536.3532966)
   [[code]](https://github.com/szegedai/hiding-needles-in-a-haystack)
   - Árpád Berta, Gábor Danner, István Hegedűs and Márk Jelasity. *ACM IH&MMSec*, 2022.
+
+- Stealthy and Flexible Trojan in Deep Learning Framework.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9747995)
+  - Yajie Wang, Kongyang Chen, Yu-An Tan, Shuxin Huang, Wencong Ma, and Yuanzhang Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
+
+- FooBaR: Fault Fooling Backdoor Attack on Neural Network Training.
+  [[link]](https://ieeexplore.ieee.org/document/9756234)
+  [[code]](https://github.com/martin-ochoa/foobar)
+  - Jakub Breier, Xiaolu Hou, Martín Ochoa and Jesus Solano. *IEEE Transactions on Dependable and Secure Computing*, 2022.
+
 
 - DeepPayload: Black-box Backdoor Attack on Deep Learning Models through Neural Payload Injection.
   [[pdf]](https://arxiv.org/pdf/2101.06896.pdf)
