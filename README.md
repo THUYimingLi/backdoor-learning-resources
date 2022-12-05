@@ -11,13 +11,13 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
+* 2022/12/05: We add three ECCV'22 papers. All papers for this conference should have been included now.
 * 2022/12/01: I am deeply sorry that I have recently suspended the reading of related papers and the updates of this Repo, due to some personal issues such as job hunting and sickness. I will restart the update as soon as possible.
 * 2022/10/06: We add a new Applied Intelligence paper [Agent Manipulator: Stealthy Strategy Attacks on Deep
 Reinforcement Learning](https://link.springer.com/article/10.1007/s10489-022-03882-w) in [Reinforcement Learning](#reinforcement-learning).
 * 2022/10/06: We add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** [Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints](https://arxiv.org/pdf/2210.01437) in [Federated Learning](#federated-learning), **(3)** [Backdoor Attacks in the Supply Chain of Masked Image Modeling](https://arxiv.org/pdf/2210.01632.pdf) in [Semi-Supervised and Self-Supervised Learning](#semi-supervised-and-self-supervised-learning), and **(4)** [Invariant Aggregator for Defending Federated Backdoor Attacks](https://arxiv.org/pdf/2210.01834.pdf) in [Federated Learning](#federated-learning).
 * 2022/09/30: We add a new NDSS'23 paper [The “Beatrix” Resurrections: Robust Backdoor Detection via Gram Matrices](https://arxiv.org/pdf/2209.11715.pdf) and its codes in [Sample Filtering based Empirical Defense](#sample-filtering-based-empirical-defense). 
 * 2022/09/30: We add a new NeurIPS'22 paper [Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection) and its codes in [Poisoning-based Attack](#poisoning-based-attack) and [Backdoor Attack for Positive Purposes](#backdoor-attack-for-positive-purposes).
-* 2022/09/30: We update [BackdoorBench: A Comprehensive Benchmark of Backdoor Learning](https://arxiv.org/pdf/2206.12654.pdf) in [Evaluation and Discussion](#evaluation-and-discussion). It is accepted by NeurIPS'22 (Datasets and Benchmarks Track).
 
 
 
@@ -208,26 +208,7 @@ Markdown format:
 
 - Enhancing Backdoor Attacks with Multi-Level MMD Regularization.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9743735)
-  - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.
-
-- Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
-  [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
-  [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
-  - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
-
-- DEFEAT: Deep Hidden Feature Backdoor Attacks by Imperceptible Perturbation and Latent Representation Constraints.
-  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_DEFEAT_Deep_Hidden_Feature_Backdoor_Attacks_by_Imperceptible_Perturbation_and_CVPR_2022_paper.pdf)
-  - Zhendong Zhao, Xiaojun Chen, Yuexin Xuan, Ye Dong, Dakui Wang, and Kaitai Liang. *CVPR*, 2022.
-  
-
-- BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning.
-  [[pdf]](https://arxiv.org/pdf/2205.13383.pdf)
-  [[code]](https://github.com/RU-System-Software-and-Security/BppAttack)
-  - Zhenting Wang, Juan Zhai, and Shiqing Ma. *CVPR*, 2022.
- 
-- Dynamic Backdoor Attacks Against Machine Learning Models. 
-  [[pdf]](https://arxiv.org/pdf/2003.03675.pdf)
-  - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. *EuroS&P*, 2022.   
+  - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. *IEEE Transactions on Dependable and Secure Computing*, 2022.  
 
 - PTB: Robust Physical Backdoor Attacks against Deep Neural Networks in Real World.
   [[link]](https://www.sciencedirect.com/science/article/pii/S0167404822001213)
@@ -244,6 +225,29 @@ Markdown format:
 - Natural Backdoor Attacks on Deep Neural Networks via Raindrops.
   [[link]](https://www.hindawi.com/journals/scn/2022/4593002/)
   - Feng Zhao, Li Zhou, Qi Zhong, Rushi Lan, and Leo Yu Zhang. *Security and Communication Networks*, 2022.
+
+- Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
+  [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
+  [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
+  - Yiming Li, Yang Bai, Yong Jiang, Yong Yang, Shu-Tao Xia, and Bo Li. *NeurIPS*, 2022.
+
+- DEFEAT: Deep Hidden Feature Backdoor Attacks by Imperceptible Perturbation and Latent Representation Constraints.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_DEFEAT_Deep_Hidden_Feature_Backdoor_Attacks_by_Imperceptible_Perturbation_and_CVPR_2022_paper.pdf)
+  - Zhendong Zhao, Xiaojun Chen, Yuexin Xuan, Ye Dong, Dakui Wang, and Kaitai Liang. *CVPR*, 2022.
+
+- An Invisible Black-box Backdoor Attack through Frequency Domain.
+  [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730396.pdf)
+  [[code]](https://github.com/SoftWiser-group/FTrojan)
+  - Tong Wang, Yuan Yao, Feng Xu, Shengwei An, Hanghang Tong, and Ting Wang. *ECCV*, 2022.
+
+- BppAttack: Stealthy and Efficient Trojan Attacks against Deep Neural Networks via Image Quantization and Contrastive Adversarial Learning.
+  [[pdf]](https://arxiv.org/pdf/2205.13383.pdf)
+  [[code]](https://github.com/RU-System-Software-and-Security/BppAttack)
+  - Zhenting Wang, Juan Zhai, and Shiqing Ma. *CVPR*, 2022.
+ 
+- Dynamic Backdoor Attacks Against Machine Learning Models. 
+  [[pdf]](https://arxiv.org/pdf/2003.03675.pdf)
+  - Ahmed Salem, Rui Wen, Michael Backes, Shiqing Ma, and Yang Zhang. *EuroS&P*, 2022. 
 
 
 - Imperceptible Backdoor Attack: From Input Space to Feature Representation.
