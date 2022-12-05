@@ -1149,6 +1149,11 @@ Markdown format:
   - Alvin Chan, and Yew-Soon Ong. arXiv, 2019.  
   
 #### Certificated Defense
+- BagFlip: A Certified Defense against Data Poisoning.
+  [[pdf]](https://openreview.net/pdf?id=ZidkM5b92G)
+  [[code]](https://github.com/ForeverZyh/defend_framework)
+  - Yuhao Zhang, Aws Albarghouthi, and Loris D'Antoni. *NeurIPS*, 2022.
+
 - RAB: Provable Robustness Against Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2003.08904.pdf)
   [[code]](https://github.com/AI-secure/Robustness-Against-Backdoor-Attacks)
