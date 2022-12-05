@@ -1568,6 +1568,11 @@ Markdown format:
 
 
 ### Natural Language Processing
+- BadPrompt: Backdoor Attacks on Continuous Prompts.
+  [[pdf]](https://openreview.net/pdf?id=rlN6fO3OrP)
+  [[code]](https://github.com/papersPapers/BadPrompt)
+  - Xiangrui Cai, haidong xu, Sihan Xu, Ying Zhang, and Xiaojie Yuan. *NeurIPS*, 2022.
+
 - Moderate-fitting as a Natural Backdoor Defender for Pre-trained Language Models
   [[pdf]](https://openreview.net/forum?id=C7cv9fh8m-b)
   [[code]](https://github.com/thunlp/Moderate-fitting)
