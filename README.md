@@ -280,7 +280,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2206.10673.pdf)
   - Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, and Ben Y. Zhao. arXiv, 2022.  
 
-
 - Backdoor Attacks on Vision Transformers.
   [[pdf]](https://arxiv.org/pdf/2206.08477.pdf)
   [[code]](https://github.com/UCDvision/backdoor_transformer.git)
@@ -961,6 +960,11 @@ Markdown format:
   [[pdf]](https://openreview.net/pdf?id=TySnJ-0RdKI)
   [[code]](https://github.com/SCLBD/DBD)
   - Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, and Kui Ren. *ICLR*, 2022.
+
+- Training with More Confidence: Mitigating Injected and Natural Backdoors During Training.
+  [[pdf]](https://openreview.net/pdf?id=yNPsd3oG_s)
+  [[code]](https://github.com/RU-System-Software-and-Security/NONE)
+  - Zhenting Wang, Zhenting_Wang, Hailun Ding, Juan Zhai, and Shiqing Ma. *NeurIPS*, 2022.
 
 - Anti-Backdoor Learning: Training Clean Models on Poisoned Data.
   [[pdf]](https://arxiv.org/pdf/2110.11571.pdf)
