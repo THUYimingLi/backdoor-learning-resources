@@ -1030,6 +1030,11 @@ Markdown format:
   [[code]](https://github.com/wanlunsec/Beatrix)
   - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, and Yang Xiang. *NDSS*, 2023.
 
+- Towards Effective and Robust Neural Trojan Defenses via Input Filtering.
+  [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650277.pdf)
+  [[code]](https://github.com/SoftWiser-group/FTrojan)
+  - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. **ECCV**, 2022.
+
 - Rethinking the Backdoor Attacks' Triggers: A Frequency Perspective.
   [[pdf]](https://arxiv.org/pdf/2104.03413.pdf)
   [[code]](https://github.com/YiZeng623/frequency-backdoor)
@@ -1099,10 +1104,6 @@ Markdown format:
 - PiDAn: A Coherence Optimization Approach for Backdoor Attack Detection and Mitigation in Deep Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2203.09289.pdf)
   - Yue Wang, Wenqing Li, Esha Sarkar, Muhammad Shafique, Michail Maniatakos, and Saif Eddin Jabari. arXiv, 2022.
-
-- Towards Effective and Robust Neural Trojan Defenses via Input Filtering.
-  [[pdf]](https://arxiv.org/pdf/2202.12154.pdf)
-  - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. arXiv, 2022.
 
 - Neural Network Trojans Analysis and Mitigation from the Input Domain.
   [[pdf]](https://arxiv.org/pdf/2202.06382.pdf)
