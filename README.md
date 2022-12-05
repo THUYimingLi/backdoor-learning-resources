@@ -45,8 +45,9 @@ Markdown format:
 - Paper Name. 
   [[pdf]](link) 
   [[code]](link)
-  - Author 1, Author 2, and Author 3. *Conference/Journal*, Year.
+  - Author 1, Author 2, **and** Author 3. *Conference/Journal*, Year.
 ```
+**Note**: In the same year, please place the conference paper before the journal paper, as journals are usually submitted a long time ago and therefore have some lag. (*i.e.*, Conferences-->Journals-->Preprints)
 
 
 ## Table of Contents
