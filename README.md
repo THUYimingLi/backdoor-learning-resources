@@ -522,6 +522,10 @@ Markdown format:
 
 ### Non-poisoning-based Attack 
 #### Weights-oriented Attack
+- Handcrafted Backdoors in Deep Neural Networks.
+  [[pdf]](https://openreview.net/pdf?id=6yuil2_tn9a)
+  - Sanghyun Hong, Nicholas Carlini, and Alexey Kurakin. *NeurIPS*, 2022. 
+
 - Hardly Perceptible Trojan Attack against Neural Networks with Bit Flips.
   [[pdf]](https://arxiv.org/pdf/2207.13417.pdf)
   [[code]](https://github.com/jiawangbai/HPT)
