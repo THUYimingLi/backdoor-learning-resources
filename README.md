@@ -1030,6 +1030,11 @@ Markdown format:
   [[code]](https://github.com/SoftWiser-group/FTrojan)
   - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. **ECCV**, 2022.
 
+- Effective Backdoor Defense by Exploiting Sensitivity of Poisoned Samples.
+  [[pdf]](https://openreview.net/pdf?id=AsH-Tx2U0Ug)
+  [[code]](https://github.com/SCLBD/Effective_backdoor_defense)
+  - Weixin Chen, Baoyuan Wu, and Haoqian Wang. *NeurIPS*, 2022.
+
 - Can We Mitigate Backdoor Attack Using Adversarial Detection Methods?
   [[link]](https://ieeexplore.ieee.org/abstract/document/9844276)
   - Kaidi Jin, Tianwei Zhang, Chao Shen, Yufei Chen, Ming Fan, Chenhao Lin, and Ting Liu. *IEEE Transactions on Dependable and Secure Computing*, 2022.
