@@ -1854,6 +1854,10 @@ Markdown format:
   [[code]](https://github.com/skoffas/ultrasonic_backdoor)
   - Stefanos Koffas, Jing Xu, Mauro Conti, and Stjepan Picek. *WiseML*, 2022.
 
+- Going in Style: Audio Backdoors Through Stylistic Transformations.
+  [[pdf]](https://arxiv.org/pdf/2211.03117)
+  - Stefanos Koffas, Luca Pajola, Stjepan Picek, and Mauro Conti. arXiv, 2021.
+
 
 
 ### Medical Science
