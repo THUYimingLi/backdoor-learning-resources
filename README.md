@@ -237,6 +237,10 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/abstract/document/9747582)
   - Huy Phan, Yi Xie, Jian Liu, Yingying Chen, and Bo Yuan. *ICASSP*, 2022.
 
+- Dynamic Backdoors with Global Average Pooling.
+  [[pdf]](https://arxiv.org/pdf/2203.02079.pdf)
+  - Stefanos Koffas, Stjepan Picek, and Mauro Conti. *AICAS*, 2022.
+
 - Poison Ink: Robust and Invisible Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2108.02488)
   - Jie Zhang, Dongdong Chen, Qidong Huang, Jing Liao, Weiming Zhang, Huamin Feng, Gang Hua, and Nenghai Yu. *IEEE Transactions on Image Processing*, 2022.
@@ -1782,6 +1786,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2207.00425.pdf)
   - Shuiqiao Yang, Bao Gia Doan, Paul Montague, Olivier De Vel, Tamas Abraham, Seyit Camtepe, Damith C. Ranasinghe, and Salil S. Kanhere. *RAID*, 2022.
 
+- More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks.
+  [[pdf]](https://arxiv.org/pdf/2202.03195.pdf)
+  - Jing Xu, Rui Wang, Kaitai Liang, and Stjepan Picek. *ACSAC*, 2022.
+
 - Graph Backdoor.
   [[pdf]](https://arxiv.org/pdf/2006.11890.pdf)
   [[code]](https://github.com/HarrialX/GraphBackdoor)
@@ -1799,10 +1807,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2208.06776.pdf)
   [[code]](https://github.com/Seaocn/Link-Backdoor)
   - Haibin Zheng, Haiyang Xiong, Haonan Ma, Guohan Huang, and Jinyin Chen. arXiv, 2022.
-
-- More is Better (Mostly): On the Backdoor Attacks in Federated Graph Neural Networks.
-  [[pdf]](https://arxiv.org/pdf/2202.03195.pdf)
-  - Jing Xu, Rui Wang, Kaitai Liang, and Stjepan Picek. arXiv, 2022.
 
 - Neighboring Backdoor Attacks on Graph Convolutional Network.
   [[pdf]](https://arxiv.org/pdf/2201.06202.pdf)
@@ -1856,7 +1860,7 @@ Markdown format:
 
 - Going in Style: Audio Backdoors Through Stylistic Transformations.
   [[pdf]](https://arxiv.org/pdf/2211.03117)
-  - Stefanos Koffas, Luca Pajola, Stjepan Picek, and Mauro Conti. arXiv, 2021.
+  - Stefanos Koffas, Luca Pajola, Stjepan Picek, and Mauro Conti. arXiv, 2022.
 
 
 
