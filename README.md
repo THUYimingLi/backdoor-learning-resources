@@ -11,9 +11,9 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
+* 2023/01/25: I am deeply sorry that I have recently suspended the reading of related papers and the updates of this Repo, due to some personal issues such as sickness and writing Ph.D. dissertation. I will restart the update as soon as possible.
 * 2022/12/05: I slightly change the repo format by placing conference papers before journal papers. Specifically, in the same year, please place the conference paper before the journal paper, as journals are usually submitted a long time ago and therefore have some lag.
 * 2022/12/05: I add three ECCV'22 papers. All papers for this conference should have been included now.
-* 2022/12/01: I am deeply sorry that I have recently suspended the reading of related papers and the updates of this Repo, due to some personal issues such as job hunting and sickness. I will restart the update as soon as possible.
 * 2022/10/06: I add a new Applied Intelligence paper [Agent Manipulator: Stealthy Strategy Attacks on Deep
 Reinforcement Learning](https://link.springer.com/article/10.1007/s10489-022-03882-w) in [Reinforcement Learning](#reinforcement-learning).
 * 2022/10/06: I add four new arXiv papers, including **(1)** [ImpNet: Imperceptible and blackbox-undetectable backdoors in compiled neural networks](https://arxiv.org/pdf/2210.00108.pdf) in [Other Attacks](#other-attacks), **(2)** [Shielding Federated Learning: Mitigating Byzantine Attacks with Less Constraints](https://arxiv.org/pdf/2210.01437) in [Federated Learning](#federated-learning), **(3)** [Backdoor Attacks in the Supply Chain of Masked Image Modeling](https://arxiv.org/pdf/2210.01632.pdf) in [Semi-Supervised and Self-Supervised Learning](#semi-supervised-and-self-supervised-learning), and **(4)** [Invariant Aggregator for Defending Federated Backdoor Attacks](https://arxiv.org/pdf/2210.01834.pdf) in [Federated Learning](#federated-learning).
