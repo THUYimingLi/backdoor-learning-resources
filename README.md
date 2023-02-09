@@ -774,6 +774,7 @@ Markdown format:
 
 - Trigger Hunting with a Topological Prior for Trojan Detection.
   [[pdf]](https://arxiv.org/pdf/2110.08335.pdf)
+  [[code]](https://github.com/HuXiaoling/TopoTrigger)
   - Xiaoling Hu, Xiao Lin, Michael Cogswell, Yi Yao, Susmit Jha, and Chao Chen. *ICLR*, 2022.
 
 - Backdoor Defense with Machine Unlearning.
