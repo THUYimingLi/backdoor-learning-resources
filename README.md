@@ -687,6 +687,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2204.09975.pdf)
   - Jun Xia, Ting Wang, Jieping Ding, Xian Wei, and Mingsong Chen. *IJCAI*, 2022.
 
+- Pre-activation Distributions Expose Backdoor Neurons.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/76917808731dae9e6d62c2a7a6afb542-Paper-Conference.pdf)
+  [[code]](https://github.com/RJ-T/NIPS2022_EP_BNP)
+  - Runkai Zheng, Rongjun Tang, Jianze Li, and Li Liu. *NeurIPS*, 2022.
+
 - Adversarial Neuron Pruning Purifies Backdoored Deep Models.
   [[pdf]](https://arxiv.org/pdf/2110.14430.pdf)
   [[code]](https://github.com/csdongxian/ANP_backdoor)
