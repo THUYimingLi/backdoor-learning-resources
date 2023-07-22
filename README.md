@@ -2058,18 +2058,21 @@ Markdown format:
   [[code]](https://github.com/ain-soph/trojanzoo)
   - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. *EuroS&P*, 2022.
 
-
-- BackdoorBench: A Comprehensive Benchmark of Backdoor Learning.
-  [[pdf]](https://arxiv.org/pdf/2206.12654.pdf)
-  [[code]](https://github.com/SCLBD/backdoorbench)
-  [[website]](https://backdoorbench.github.io/)
-  - Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen, and Hongyuan Zha. *NeurIPS*, 2022.  
+- Finding Naturally Occurring Physical Backdoors in Image Datasets.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/8af749935131cc8ea5dae4f6d8cdb304-Paper-Datasets_and_Benchmarks.pdf)
+  [[code]](https://github.com/uchicago-sandlab/naturalbackdoors)
+  - Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Heather Zheng, and Ben Zhao. *NeurIPS*, 2022. 
 
 - A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
   [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
   [[code]](https://github.com/thunlp/OpenBackdoor)
   - Ganqu Cui, Lifan Yuan, Bingxiang He, Yangyi Chen, Zhiyuan Liu, and Maosong Sun. *NeurIPS*, 2022.  
 
+- BackdoorBench: A Comprehensive Benchmark of Backdoor Learning.
+  [[pdf]](https://arxiv.org/pdf/2206.12654.pdf)
+  [[code]](https://github.com/SCLBD/backdoorbench)
+  [[website]](https://backdoorbench.github.io/)
+  - Baoyuan Wu, Hongrui Chen, Mingda Zhang, Zihao Zhu, Shaokui Wei, Danni Yuan, Chao Shen, and Hongyuan Zha. *NeurIPS*, 2022.  
 
 - Backdoor Defense via Decoupling the Training Process.
   [[pdf]](https://openreview.net/pdf?id=TySnJ-0RdKI)
@@ -2144,11 +2147,7 @@ Markdown format:
 - Auditing Visualizations: Transparency Methods Struggle to Detect Anomalous Behavior.
   [[pdf]](https://arxiv.org/pdf/2206.13498.pdf)
   [[code]](https://github.com/js-d/auditing-vis)
-  - Jean-Stanislas Denain and Jacob Steinhardt. arXiv, 2022.  
-
-- Natural Backdoor Datasets.
-  [[pdf]](https://arxiv.org/pdf/2206.10673.pdf)
-  - Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, and Ben Y. Zhao. arXiv, 2022.  
+  - Jean-Stanislas Denain and Jacob Steinhardt. arXiv, 2022.   
 
 - A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
   [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
