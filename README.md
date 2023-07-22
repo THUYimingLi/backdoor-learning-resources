@@ -772,6 +772,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2112.14889.pdf)
   - Jiyang Guan, Zhuozhuo Tu, Ran He, and Dacheng Tao. *CVPR*, 2022.
 
+- One-shot Neural Backdoor Erasing via Adversarial Weight Masking.
+  [[pdf]](https://arxiv.org/pdf/2207.04497)
+  [[code]](https://github.com/jinghuichen/AWM)
+  - Shuwen Chai and Jinghui Chen. *NeurIPS*, 2022.
+
 - AEVA: Black-box Backdoor Detection Using Adversarial Extreme Value Analysis.
   [[pdf]](https://arxiv.org/pdf/2110.14880.pdf)
   [[code]](https://github.com/JunfengGo/AEVA-Blackbox-Backdoor-Detection-main)
@@ -838,10 +843,6 @@ Markdown format:
 - Confidence Matters: Inspecting Backdoors in Deep Neural Networks via Distribution Transfer.
   [[pdf]](https://arxiv.org/pdf/2208.06592.pdf)
   - Tong Wang, Yuan Yao, Feng Xu, Miao Xu, Shengwei An, and Ting Wang. arXiv, 2022.
-
-- One-shot Neural Backdoor Erasing via Adversarial Weight Masking.
-  [[pdf]](https://arxiv.org/pdf/2207.04497)
-  - Shuwen Chai and Jinghui Chen. arXiv, 2022.
 
 - Defense Against Multi-target Trojan Attacks.
   [[pdf]](https://arxiv.org/pdf/2207.03895.pdf)
