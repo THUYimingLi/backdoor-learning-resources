@@ -1035,11 +1035,15 @@ Markdown format:
   [[code]](https://github.com/wanlunsec/Beatrix)
   - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, and Yang Xiang. *NDSS*, 2023.
 
+- Effective Backdoor Defense by Exploiting Sensitivity of Poisoned Samples.
+  [[pdf]](https://openreview.net/pdf?id=AsH-Tx2U0Ug)
+  [[code]](https://github.com/SCLBD/Effective_backdoor_defense)
+  - Weixin Chen, Baoyuan Wu, and Haoqian Wang. *NeurIPS*, 2022.
+
 - Towards Effective and Robust Neural Trojan Defenses via Input Filtering.
   [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650277.pdf)
   [[code]](https://github.com/SoftWiser-group/FTrojan)
   - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. *ECCV*, 2022.
-
 
 - Can We Mitigate Backdoor Attack Using Adversarial Detection Methods?
   [[link]](https://ieeexplore.ieee.org/abstract/document/9844276)
