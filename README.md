@@ -884,6 +884,11 @@ Markdown format:
   [[code]](https://github.com/zhenxianglance/2ClassBADetection)
   - Zhen Xiang, David J. Miller, and George Kesidis. *ICLR*, 2022.
 
+- Randomized Channel Shuffling: Minimal-Overhead Backdoor Attack Detection without Clean Datasets.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/db1d5c63576587fc1d40d33a75190c71-Paper-Conference.pdf)
+  [[code]](https://github.com/VITA-Group/Random-Shuffling-BackdoorDetect)
+  - Ruisi Cai, Zhenyu Zhang, Tianlong Chen, Xiaohan Chen, and Zhangyang Wang. *NeurIPS*, 2022.
+
 - An Anomaly Detection Approach for Backdoored Neural Networks: Face Recognition as a Case Study.
   [[pdf]](https://arxiv.org/pdf/2208.10231.pdf)
   - Alexander Unnervik and Sébastien Marcel. *BIOSIG*, 2022.
