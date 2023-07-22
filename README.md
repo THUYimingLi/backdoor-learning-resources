@@ -973,6 +973,11 @@ Markdown format:
   [[code]](https://github.com/SCLBD/DBD)
   - Kunzhe Huang, Yiming Li, Baoyuan Wu, Zhan Qin, and Kui Ren. *ICLR*, 2022.
 
+- Effective Backdoor Defense by Exploiting Sensitivity of Poisoned Samples.
+  [[pdf]](https://openreview.net/pdf?id=AsH-Tx2U0Ug)
+  [[code]](https://github.com/SCLBD/Effective_backdoor_defense)
+  - Weixin Chen, Baoyuan Wu, and Haoqian Wang. *NeurIPS*, 2022.
+
 - Training with More Confidence: Mitigating Injected and Natural Backdoors During Training.
   [[pdf]](https://openreview.net/pdf?id=yNPsd3oG_s)
   [[code]](https://github.com/RU-System-Software-and-Security/NONE)
@@ -1033,12 +1038,8 @@ Markdown format:
 - Towards Effective and Robust Neural Trojan Defenses via Input Filtering.
   [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136650277.pdf)
   [[code]](https://github.com/SoftWiser-group/FTrojan)
-  - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. **ECCV**, 2022.
+  - Kien Do, Haripriya Harikumar, Hung Le, Dung Nguyen, Truyen Tran, Santu Rana, Dang Nguyen, Willy Susilo, and Svetha Venkatesh. *ECCV*, 2022.
 
-- Effective Backdoor Defense by Exploiting Sensitivity of Poisoned Samples.
-  [[pdf]](https://openreview.net/pdf?id=AsH-Tx2U0Ug)
-  [[code]](https://github.com/SCLBD/Effective_backdoor_defense)
-  - Weixin Chen, Baoyuan Wu, and Haoqian Wang. *NeurIPS*, 2022.
 
 - Can We Mitigate Backdoor Attack Using Adversarial Detection Methods?
   [[link]](https://ieeexplore.ieee.org/abstract/document/9844276)
