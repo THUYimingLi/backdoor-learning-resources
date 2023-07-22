@@ -145,6 +145,10 @@ Markdown format:
 
 
 ## Dissertation and Thesis
+- Poisoning-based Backdoor Attacks in Computer Vision.
+  [[pdf]](https://www.researchgate.net/publication/370233769_Poisoning-based_Backdoor_Attacks_in_Computer_Vision)
+  - Yiming Li. *Ph.D. Dissertation at Tsinghua University*, 2023. 
+
 - Defense of Backdoor Attacks against Deep Neural Network Classifiers.
   [[pdf]](https://etda.libraries.psu.edu/files/final_submissions/26656)
   - Zhen Xiang. *Ph.D. Dissertation at The Pennsylvania State University*, 2022. 
@@ -209,6 +213,10 @@ Markdown format:
 - DEFEAT: Deep Hidden Feature Backdoor Attacks by Imperceptible Perturbation and Latent Representation Constraints.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhao_DEFEAT_Deep_Hidden_Feature_Backdoor_Attacks_by_Imperceptible_Perturbation_and_CVPR_2022_paper.pdf)
   - Zhendong Zhao, Xiaojun Chen, Yuexin Xuan, Ye Dong, Dakui Wang, and Kaitai Liang. *CVPR*, 2022.
+
+- Marksman Backdoor: Backdoor Attacks with Arbitrary Target Class.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/fa0126bb7ebad258bf4ffdbbac2dd787-Paper-Conference.pdf)
+  - Khoa D Doan, Yingjie Lao, and Ping Li. *NeurIPS*, 2022.
 
 - An Invisible Black-box Backdoor Attack through Frequency Domain.
   [[pdf]](https://www.ecva.net/papers/eccv_2022/papers_ECCV/papers/136730396.pdf)
