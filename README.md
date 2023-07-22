@@ -780,6 +780,11 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2112.14889.pdf)
   - Jiyang Guan, Zhuozhuo Tu, Ran He, and Dacheng Tao. *CVPR*, 2022.
 
+- Rethinking the Reverse-engineering of Trojan Triggers.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/3f9bf45ea04c98ad7cb857f951f499e2-Paper-Conference.pdf)
+  [[code]](https://github.com/RU-System-Software-and-Security/FeatureRE)
+  - Zhenting Wang, Kai Mei, Hailun Ding, Juan Zhai, and Shiqing Ma. *NeurIPS*, 2022.
+
 - One-shot Neural Backdoor Erasing via Adversarial Weight Masking.
   [[pdf]](https://arxiv.org/pdf/2207.04497)
   [[code]](https://github.com/jinghuichen/AWM)
