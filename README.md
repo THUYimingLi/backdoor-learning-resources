@@ -205,6 +205,10 @@ Markdown format:
 
 ## Image and Video Classification
 ### Poisoning-based Attack
+#### 2023
+
+
+
 #### 2022
 - Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
   [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
@@ -1064,6 +1068,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2209.11715.pdf)
   [[code]](https://github.com/wanlunsec/Beatrix)
   - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, and Yang Xiang. *NDSS*, 2023.
+
+- Defending Backdoor Attacks on Vision Transformer via Patch Processing.
+  [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/25125)
+  - Khoa D. Doan, Yingjie Lao, Peng Yang, and Ping Li. *AAAI*, 2023.
 
 - Effective Backdoor Defense by Exploiting Sensitivity of Poisoned Samples.
   [[pdf]](https://openreview.net/pdf?id=AsH-Tx2U0Ug)
