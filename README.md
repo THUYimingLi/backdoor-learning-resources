@@ -1973,6 +1973,11 @@ Markdown format:
   [[code]](https://github.com/HXZhong1997/FSBA)
   - Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, and Shu-Tao Xia. *ICLR*, 2022.
 
+- TAT: Targeted Backdoor Attacks against Visual Object Tracking.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0031320323003308)
+  [[code]](https://github.com/MisakaZipi/TAT)
+  - Ziyi Cheng, Baoyuan Wu, Zhenya Zhang, and Jianjun Zhao. *Pattern Recognition*, 2023.
+
 
 ### Others
 
