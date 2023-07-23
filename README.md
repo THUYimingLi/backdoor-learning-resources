@@ -1962,16 +1962,25 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2202.05470.pdf)
   - Limin Yang, Zhi Chen, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, and Gang Wang. arXiv, 2022.
 
-### Object Detection and Tracking
+### Detection and Tracking
 - Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only.
   [[pdf]](https://openreview.net/pdf?id=rFQfjDC9Mt)
   [[code]](https://github.com/RU-System-Software-and-Security/UNICORN)
   - Kangjie Chen, Xiaoxuan Lou, Guowen Xu, Jiwei Li, and Tianwei Zhang. *ICLR*, 2023.
 
+- Untargeted Backdoor Attack against Object Detection.
+  [[pdf]](https://arxiv.org/pdf/2211.05638)
+  [[code]](https://github.com/Chengxiao-Luo/Untargeted-Backdoor-Attack-against-Object-Detection)
+  - Chengxiao Luo, Yiming Li, Yong Jiang, and Shu-Tao Xia. *ICASSP*, 2023.
+
 - Few-Shot Backdoor Attacks on Visual Object Tracking.
   [[pdf]](https://openreview.net/pdf?id=qSV5CuSaK_a)
   [[code]](https://github.com/HXZhong1997/FSBA)
   - Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, and Shu-Tao Xia. *ICLR*, 2022.
+
+- Baddet: Backdoor attacks on object detection.
+  [[pdf]](https://arxiv.org/pdf/2205.14497.pdf)
+  - Shih-Han Chan, Yinpeng Dong, Jun Zhu, Xiaolu Zhang, and Jun Zhou. *ECCV Workshop*, 2022.
 
 - TAT: Targeted Backdoor Attacks against Visual Object Tracking.
   [[link]](https://www.sciencedirect.com/science/article/pii/S0031320323003308)
