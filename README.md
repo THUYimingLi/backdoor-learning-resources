@@ -1002,6 +1002,11 @@ Markdown format:
   [[code]](https://github.com/SCLBD/Effective_backdoor_defense)
   - Weixin Chen, Baoyuan Wu, and Haoqian Wang. *NeurIPS*, 2022.
 
+- Trap and Replace: Defending Backdoor Attacks by Trapping Them into an Easy-to-Replace Subnetwork.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/ea06e6e9e80f1c3d382317fff67041ac-Paper-Conference.pdf)
+  [[code]](https://github.com/VITA-Group/Trap-and-Replace-Backdoor-Defense)
+  - Haotao Wang, Junyuan Hong, Aston Zhang, Jiayu Zhou, and Zhangyang Wang. *NeurIPS*, 2022.
+
 - Training with More Confidence: Mitigating Injected and Natural Backdoors During Training.
   [[pdf]](https://openreview.net/pdf?id=yNPsd3oG_s)
   [[code]](https://github.com/RU-System-Software-and-Security/NONE)
