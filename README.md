@@ -205,7 +205,10 @@ Markdown format:
 ## Image and Video Classification
 ### Poisoning-based Attack
 #### 2023
-
+- Revisiting the Assumption of Latent Separability for Backdoor Defenses.
+  [[pdf]](https://openreview.net/pdf?id=_wSHsgrVali)
+  [[code]](https://github.com/Unispac/Circumventing-Backdoor-Defenses)
+  - Xiangyu Qi, Tinghao Xie, Yiming Li, Saeed Mahloujifar, and Prateek Mittal. *ICLR*, 2023.
 
 
 #### 2022
@@ -1959,12 +1962,19 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2202.05470.pdf)
   - Limin Yang, Zhi Chen, Jacopo Cortellazzi, Feargus Pendlebury, Kevin Tu, Fabio Pierazzi, Lorenzo Cavallaro, and Gang Wang. arXiv, 2022.
 
+### Object Detection and Tracking
+- Clean-image Backdoor: Attacking Multi-label Models with Poisoned Labels Only.
+  [[pdf]](https://openreview.net/pdf?id=rFQfjDC9Mt)
+  [[code]](https://github.com/RU-System-Software-and-Security/UNICORN)
+  - Kangjie Chen, Xiaoxuan Lou, Guowen Xu, Jiwei Li, and Tianwei Zhang. *ICLR*, 2023.
 
-### Others
 - Few-Shot Backdoor Attacks on Visual Object Tracking.
   [[pdf]](https://openreview.net/pdf?id=qSV5CuSaK_a)
   [[code]](https://github.com/HXZhong1997/FSBA)
   - Yiming Li, Haoxiang Zhong, Xingjun Ma, Yong Jiang, and Shu-Tao Xia. *ICLR*, 2022.
+
+
+### Others
 
 - Backdoor Attacks on Crowd Counting.
   [[pdf]](https://arxiv.org/pdf/2207.05641.pdf)
