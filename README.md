@@ -1255,6 +1255,10 @@ Markdown format:
 
 ## Attack and Defense Towards Other Paradigms and Tasks
 ### Federated Learning
+- Poisoning with Cerberus: Stealthy and Colluded Backdoor Attack against Federated Learning.
+  [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26083)
+  - Xiaoting Lyu, Yufei Han, Wei Wang, Jingkai Liu, Bin Wang, Jiqiang Liu, and Xiangliang Zhang. *AAAI*, 2023.
+
 - Neurotoxin: Durable Backdoors in Federated Learning.
   [[pdf]](https://arxiv.org/pdf/2206.10341.pdf)
   - Zhengming Zhang, Ashwinee Panda, Linyue Song, Yaoqing Yang, Michael W. Mahoney, Joseph E. Gonzalez, Kannan Ramchandran, and Prateek Mittal. *ICML*, 2022.
