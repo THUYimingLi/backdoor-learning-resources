@@ -1255,6 +1255,11 @@ Markdown format:
 
 ## Attack and Defense Towards Other Paradigms and Tasks
 ### Federated Learning
+- On the Vulnerability of Backdoor Defenses for Federated Learning.
+  [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26393)
+  [[code]](https://github.com/jinghuichen/Focused-Flip-Federated-Backdoor-Attack)
+  - Pei Fang and Jinghui Chen. *AAAI*, 2023.
+
 - Poisoning with Cerberus: Stealthy and Colluded Backdoor Attack against Federated Learning.
   [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26083)
   - Xiaoting Lyu, Yufei Han, Wei Wang, Jingkai Liu, Bin Wang, Jiqiang Liu, and Xiangliang Zhang. *AAAI*, 2023.
