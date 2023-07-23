@@ -11,10 +11,10 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
-* 2023/7/23: I add seven NeurIPS'22 papers. All papers for this conference should have been included now.
+* 2023/7/23: I add seven NeurIPS'22 papers. All papers from this conference should have been included now.
 * 2023/01/25: I am deeply sorry that I have recently suspended the reading of related papers and the updates of this Repo, due to some personal issues such as sickness and writing Ph.D. dissertation. I will restart the update after June 2023.
 * 2022/12/05: I slightly change the repo format by placing conference papers before journal papers. Specifically, in the same year, please place the conference paper before the journal paper, as journals are usually submitted a long time ago and therefore have some lag.
-* 2022/12/05: I add three ECCV'22 papers. All papers for this conference should have been included now.
+* 2022/12/05: I add three ECCV'22 papers. All papers from this conference should have been included now.
 * 2022/10/06: I add a new Applied Intelligence paper [Agent Manipulator: Stealthy Strategy Attacks on Deep
 Reinforcement Learning](https://link.springer.com/article/10.1007/s10489-022-03882-w) in [Reinforcement Learning](#reinforcement-learning).
 
