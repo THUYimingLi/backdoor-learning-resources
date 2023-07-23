@@ -77,6 +77,7 @@ Markdown format:
   - [Point Cloud](#point-cloud)
   - [Acoustics Signal Processing](#acoustics-signal-processing)
   - [Medical Science](#medical-science)
+  - [Detection and Tracking](#detection-and-tracking)
   - [Cybersecurity](#cybersecurity)
   - [Others](#others)
 - [Evaluation and Discussion](#evaluation-and-discussion)
