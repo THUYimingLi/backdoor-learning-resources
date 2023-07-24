@@ -11,7 +11,7 @@ Note: 'Backdoor' is also commonly called the 'Neural Trojan' or 'Trojan'.
 
 
 ## News
-* 2023/7/24: I add eight ICLR'23 papers. 
+* 2023/7/24: I add nine ICLR'23 papers. 
 * 2023/7/23: I add seven NeurIPS'22 papers and four AAAI'23 papers. All papers from these conferences should have been included now.
 * 2023/01/25: I am deeply sorry that I have recently suspended the reading of related papers and the updates of this Repo, due to some personal issues such as sickness and writing Ph.D. dissertation. I will restart the update after June 2023.
 * 2022/12/05: I slightly change the repo format by placing conference papers before journal papers. Specifically, in the same year, please place the conference paper before the journal paper, as journals are usually submitted a long time ago and therefore have some lag.
@@ -1081,6 +1081,11 @@ Markdown format:
   [[pdf]](https://openreview.net/pdf?id=o0LFPcoFKnr)
   [[code]](https://github.com/JunfengGo/SCALE-UP)
   - Junfeng Guo, Yiming Li, Xun Chen, Hanqing Guo, Lichao Sun, and Cong Liu. *ICLR*, 2023.
+
+- Incompatibility Clustering as a Defense Against Backdoor Poisoning Attacks.
+  [[pdf]](https://openreview.net/pdf?id=mkJm5Uy4HrQ)
+  [[code]](https://github.com/charlesjin/compatibility_clustering/)
+  - Charles Jin, Melinda Sun, and Martin Rinard. *ICLR*, 2023.
 
 - The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices.
   [[pdf]](https://arxiv.org/pdf/2209.11715.pdf)
