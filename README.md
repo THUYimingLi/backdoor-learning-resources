@@ -1268,6 +1268,11 @@ Markdown format:
 
 ## Attack and Defense Towards Other Paradigms and Tasks
 ### Federated Learning
+- FLIP: A Provable Defense Framework for Backdoor Mitigation in Federated Learning.
+  [[pdf]](https://openreview.net/pdf?id=Xo2E217_M4n)
+  [[code]](https://github.com/KaiyuanZh/FLIP)
+  - Kaiyuan Zhang, Guanhong Tao, Qiuling Xu, Siyuan Cheng, Shengwei An, Yingqi Liu, Shiwei Feng, Guangyu Shen, Pin-Yu Chen, Shiqing Ma, and Xiangyu Zhang. *ICLR*, 2023.
+
 - On the Vulnerability of Backdoor Defenses for Federated Learning.
   [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/26393)
   [[code]](https://github.com/jinghuichen/Focused-Flip-Federated-Backdoor-Attack)
