@@ -1227,6 +1227,11 @@ Markdown format:
   - Alvin Chan, and Yew-Soon Ong. arXiv, 2019.  
   
 #### Certificated Defense
+- Towards Robustness Certification Against Universal Perturbations.
+  [[pdf]](https://openreview.net/pdf?id=7GEvPKxjtt)
+  [[code]](https://github.com/ruoxi-jia-group/Universal_Pert_Cert)
+  - Yi Zeng, Zhouxing Shi, Ming Jin, Feiyang Kang, Lingjuan Lyu, Cho-Jui Hsieh, and Ruoxi Jia. *ICLR*, 2023.
+
 - BagFlip: A Certified Defense against Data Poisoning.
   [[pdf]](https://openreview.net/pdf?id=ZidkM5b92G)
   [[code]](https://github.com/ForeverZyh/defend_framework)
@@ -1659,6 +1664,11 @@ Markdown format:
 
 
 ### Natural Language Processing
+- TrojText: Test-time Invisible Textual Trojan Insertion.
+  [[pdf]](https://openreview.net/pdf?id=ja4Lpp5mqc2)
+  [[code]](https://github.com/UCF-ML-Research/TrojText)
+  - Qian Lou, Yepeng Liu, and Bo Feng. *ICLR*, 2023.
+
 - Defending against Backdoor Attacks in Natural Language Generation.
   [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/25656)
   - Xiaofei Sun, Xiaoya Li, Yuxian Meng, Xiang Ao, Lingjuan Lyu, Jiwei Li, and Tianwei Zhang. *AAAI*, 2023.
