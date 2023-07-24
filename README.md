@@ -211,6 +211,10 @@ Markdown format:
   [[code]](https://github.com/Unispac/Circumventing-Backdoor-Defenses)
   - Xiangyu Qi, Tinghao Xie, Yiming Li, Saeed Mahloujifar, and Prateek Mittal. *ICLR*, 2023.
 
+- Few-shot Backdoor Attacks via Neural Tangent Kernels.
+  [[pdf]](https://openreview.net/pdf?id=a70lGJ-rwy)
+  - Jonathan Hayase and Sewoong Oh. *ICLR*, 2023.
+  
 
 #### 2022
 - Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
