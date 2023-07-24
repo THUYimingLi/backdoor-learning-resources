@@ -213,6 +213,7 @@ Markdown format:
 
 - Few-shot Backdoor Attacks via Neural Tangent Kernels.
   [[pdf]](https://openreview.net/pdf?id=a70lGJ-rwy)
+  [[code]](https://github.com/SewoongLab/ntk-backdoor)
   - Jonathan Hayase and Sewoong Oh. *ICLR*, 2023.
   
 
