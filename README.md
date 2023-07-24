@@ -1072,6 +1072,11 @@ Markdown format:
 
 
 #### Sample Filtering based Empirical Defense
+- SCALE-UP: An Efficient Black-box Input-level Backdoor Detection via Analyzing Scaled Prediction Consistency.
+  [[pdf]](https://openreview.net/pdf?id=o0LFPcoFKnr)
+  [[code]](https://github.com/JunfengGo/SCALE-UP)
+  - Junfeng Guo, Yiming Li, Xun Chen, Hanqing Guo, Lichao Sun, and Cong Liu. *ICLR*, 2023.
+
 - The "Beatrix'' Resurrections: Robust Backdoor Detection via Gram Matrices.
   [[pdf]](https://arxiv.org/pdf/2209.11715.pdf)
   [[code]](https://github.com/wanlunsec/Beatrix)
