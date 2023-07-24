@@ -2000,6 +2000,10 @@ Markdown format:
 
 
 ### Others
+- The Dark Side of AutoML: Towards Architectural Backdoor Search.
+  [[pdf]](https://openreview.net/pdf?id=bsZULlDGXe)
+  [[code]](https://github.com/ain-soph/nas_backdoor)
+  - Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, and Ting Wang. *ICLR*, 2023.
 
 - Backdoor Attacks on Crowd Counting.
   [[pdf]](https://arxiv.org/pdf/2207.05641.pdf)
