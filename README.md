@@ -779,10 +779,15 @@ Markdown format:
 
 
 #### Trigger Synthesis based Empirical Defense
+- Distilling Cognitive Backdoor Patterns within an Image.
+  [[pdf]](https://openreview.net/pdf?id=S3D9NLzjnQ5)
+  [[code]](https://github.com/HanxunH/CognitiveDistillation)
+  - Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, and James Bailey. *ICLR*, 2023.
+
 - UNICORN: A Unified Backdoor Trigger Inversion Framework.
   [[pdf]](https://openreview.net/pdf?id=Mj7K4lglGyj)
   [[code]](https://github.com/RU-System-Software-and-Security/UNICORN)
-  - Zhenting Wang, Zhenting Wang, Kai Mei, Juan Zhai, and Shiqing Ma. *ICLR*, 2022.
+  - Zhenting Wang, Zhenting Wang, Kai Mei, Juan Zhai, and Shiqing Ma. *ICLR*, 2023.
 
 - Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Quarantine_Sparsity_Can_Uncover_the_Trojan_Attack_Trigger_for_Free_CVPR_2022_paper.pdf)
@@ -1081,6 +1086,11 @@ Markdown format:
   [[pdf]](https://openreview.net/pdf?id=o0LFPcoFKnr)
   [[code]](https://github.com/JunfengGo/SCALE-UP)
   - Junfeng Guo, Yiming Li, Xun Chen, Hanqing Guo, Lichao Sun, and Cong Liu. *ICLR*, 2023.
+
+- Distilling Cognitive Backdoor Patterns within an Image.
+  [[pdf]](https://openreview.net/pdf?id=S3D9NLzjnQ5)
+  [[code]](https://github.com/HanxunH/CognitiveDistillation)
+  - Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, and James Bailey. *ICLR*, 2023.
 
 - Incompatibility Clustering as a Defense Against Backdoor Poisoning Attacks.
   [[pdf]](https://openreview.net/pdf?id=mkJm5Uy4HrQ)
@@ -2162,15 +2172,25 @@ Markdown format:
 
 
 ## Evaluation and Discussion
-- TROJANZOO: Everything You Ever Wanted to Know about Neural Backdoors (But were Afraid to Ask).
-  [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
-  [[code]](https://github.com/ain-soph/trojanzoo)
-  - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. *EuroS&P*, 2022.
+- Distilling Cognitive Backdoor Patterns within an Image.
+  [[pdf]](https://openreview.net/pdf?id=S3D9NLzjnQ5)
+  [[code]](https://github.com/HanxunH/CognitiveDistillation)
+  - Hanxun Huang, Xingjun Ma, Sarah Monazam Erfani, and James Bailey. *ICLR*, 2023.
 
 - Finding Naturally Occurring Physical Backdoors in Image Datasets.
   [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/8af749935131cc8ea5dae4f6d8cdb304-Paper-Datasets_and_Benchmarks.pdf)
   [[code]](https://github.com/uchicago-sandlab/naturalbackdoors)
   - Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Heather Zheng, and Ben Zhao. *NeurIPS*, 2022. 
+
+- BackdoorBox: A Python Toolbox for Backdoor Learning.
+  [[pdf]](https://www.researchgate.net/publication/359439455_BackdoorBox_A_Python_Toolbox_for_Backdoor_Learning)
+  [[code]](https://github.com/THUYimingLi/BackdoorBox)
+  - Yiming Li, Mengxi Ya, Yang Bai, Yong Jiang, Shu-Tao Xia. *ICLR Workshop*, 2023.
+
+- TROJANZOO: Everything You Ever Wanted to Know about Neural Backdoors (But were Afraid to Ask).
+  [[pdf]](https://arxiv.org/pdf/2012.09302.pdf)
+  [[code]](https://github.com/ain-soph/trojanzoo)
+  - Ren Pang, Zheng Zhang, Xiangshan Gao, Zhaohan Xi, Shouling Ji, Peng Cheng, and Ting Wang. *EuroS&P*, 2022.
 
 - A Unified Evaluation of Textual Backdoor Learning: Frameworks and Benchmarks.
   [[pdf]](https://arxiv.org/pdf/2206.08514.pdf)
