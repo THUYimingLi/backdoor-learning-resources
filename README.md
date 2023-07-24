@@ -774,6 +774,11 @@ Markdown format:
 
 
 #### Trigger Synthesis based Empirical Defense
+- UNICORN: A Unified Backdoor Trigger Inversion Framework.
+  [[pdf]](https://openreview.net/pdf?id=Mj7K4lglGyj)
+  [[code]](https://github.com/RU-System-Software-and-Security/UNICORN)
+  - Zhenting Wang, Zhenting Wang, Kai Mei, Juan Zhai, and Shiqing Ma. *ICLR*, 2022.
+
 - Quarantine: Sparsity Can Uncover the Trojan Attack Trigger for Free.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Chen_Quarantine_Sparsity_Can_Uncover_the_Trojan_Attack_Trigger_for_Free_CVPR_2022_paper.pdf)
   [[code]](https://github.com/VITA-Group/Backdoor-LTH)
