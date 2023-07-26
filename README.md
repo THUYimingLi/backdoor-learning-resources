@@ -222,12 +222,9 @@ Markdown format:
   [[code]](https://github.com/SewoongLab/ntk-backdoor)
   - Jonathan Hayase and Sewoong Oh. *ICLR*, 2023.
 
-  
 - Color Backdoor: A Robust Poisoning Attack in Color Space.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Color_Backdoor_A_Robust_Poisoning_Attack_in_Color_Space_CVPR_2023_paper.pdf)
   - Wenbo Jiang, Hongwei Li, Guowen Xu, and Tianwei Zhang. *CVPR*, 2023.
-
-
 
 
 #### 2022
@@ -431,11 +428,6 @@ Markdown format:
   [[link]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9506313)
   - Yankun Ren, Longfei Li, and Jun Zhou. *ICIP*, 2021.
 
-- DBIA: Data-free Backdoor Injection Attack against Transformer Networks.
-  [[pdf]](https://arxiv.org/pdf/2111.11870.pdf)
-  [[code]](https://anonymous.4open.science/r/DBIA-825D)
-  - Peizhuo Lv, Hualong Ma, Jiachen Zhou, Ruigang Liang, Kai Chen, Shengzhi Zhang, and Yunfei Yang. arXiv, 2021.
-
 - A Statistical Difference Reduction Method for Escaping Backdoor Detection.
   [[pdf]](https://arxiv.org/pdf/2111.05077.pdf)
   - Pengfei Xia, Hongjing Niu, Ziqiang Li, and Bin Li. arXiv, 2021.
@@ -581,10 +573,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2008.01761.pdf)
   - Siddhant Garg, Adarsh Kumar, Vibhor Goel, and Yingyu Liang. *CIKM*, 2020.
 
-- TrojViT: Trojan Insertion in Vision Transformers.
-  [[pdf]](https://arxiv.org/pdf/2208.13049.pdf)
-  - Mengxin Zheng, Qian Lou, and Lei Jiang. arXiv, 2022.
-
 - Versatile Weight Attack via Flipping Limited Bits.
   [[pdf]](https://arxiv.org/pdf/2207.12405.pdf)
   - Jiawang Bai, Baoyuan Wu, Zhifeng Li, and Shu-Tao Xia. arXiv, 2022.
@@ -688,10 +676,6 @@ Markdown format:
 - Defending Deep Neural Networks against Backdoor Attack by Using De-trigger Autoencoder.
   [[pdf]](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9579062)
   - Hyun Kwon. *IEEE Access*, 2021.
-
-- Defending Backdoor Attacks on Vision Transformer via Patch Processing.
-  [[pdf]](https://arxiv.org/pdf/2206.12381.pdf)
-  - Khoa D. Doan, Yingjie Lao, Peng Yang, and Ping Li. arXiv, 2022.
 
 - ConFoc: Content-Focus Protection Against Trojan Attacks on Neural Networks.
   [[pdf]](https://arxiv.org/pdf/2007.00711.pdf)
@@ -975,10 +959,6 @@ Markdown format:
   [[pdf]](https://aisecure-workshop.github.io/aml-iclr2021/papers/17.pdf)
   - Peter Bajcsy and Michael Majurski. *ICLR Workshop*, 2021.
 
-- Attention Hijacking in Trojan Transformers.
-  [[pdf]](https://arxiv.org/pdf/2208.04946.pdf)
-  - Weimin Lyu, Songzhu Zheng, Tengfei Ma, Haibin Ling, and Chao Chen. arXiv, 2022.
-
 - Universal Post-Training Backdoor Detection.
   [[pdf]](https://arxiv.org/pdf/2205.06900.pdf)
   - Hang Wang, Zhen Xiang, David J. Miller, and George Kesidis. arXiv, 2022.
@@ -1109,10 +1089,6 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2209.11715.pdf)
   [[code]](https://github.com/wanlunsec/Beatrix)
   - Wanlun Ma, Derui Wang, Ruoxi Sun, Minhui Xue, Sheng Wen, and Yang Xiang. *NDSS*, 2023.
-
-- Defending Backdoor Attacks on Vision Transformer via Patch Processing.
-  [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/25125)
-  - Khoa D. Doan, Yingjie Lao, Peng Yang, and Ping Li. *AAAI*, 2023.
 
 - Effective Backdoor Defense by Exploiting Sensitivity of Poisoned Samples.
   [[pdf]](https://openreview.net/pdf?id=AsH-Tx2U0Ug)
@@ -1976,7 +1952,6 @@ Markdown format:
   - Stefanos Koffas, Luca Pajola, Stjepan Picek, and Mauro Conti. arXiv, 2022.
 
 
-
 ### Medical Science
 - FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis.
   [[pdf]](https://arxiv.org/pdf/2112.01148.pdf)
@@ -2007,10 +1982,27 @@ Markdown format:
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2023_paper.pdf)
   - Mengxin Zheng, Qian Lou, and Lei Jiang. *CVPR*, 2023.
 
+- Defending Backdoor Attacks on Vision Transformer via Patch Processing.
+  [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/25125)
+  - Khoa D. Doan, Yingjie Lao, Peng Yang, and Ping Li. *AAAI*, 2023.
+
 - Backdoor Attacks on Vision Transformers.
   [[pdf]](https://arxiv.org/pdf/2206.08477.pdf)
   [[code]](https://github.com/UCDvision/backdoor_transformer.git)
   - Akshayvarun Subramanya, Aniruddha Saha, Soroush Abbasi Koohpayegani, Ajinkya Tejankar, and Hamed Pirsiavash. arXiv, 2022.
+
+- TrojViT: Trojan Insertion in Vision Transformers.
+  [[pdf]](https://arxiv.org/pdf/2208.13049.pdf)
+  - Mengxin Zheng, Qian Lou, and Lei Jiang. arXiv, 2022.
+
+- Attention Hijacking in Trojan Transformers.
+  [[pdf]](https://arxiv.org/pdf/2208.04946.pdf)
+  - Weimin Lyu, Songzhu Zheng, Tengfei Ma, Haibin Ling, and Chao Chen. arXiv, 2022.
+
+- DBIA: Data-free Backdoor Injection Attack against Transformer Networks.
+  [[pdf]](https://arxiv.org/pdf/2111.11870.pdf)
+  [[code]](https://anonymous.4open.science/r/DBIA-825D)
+  - Peizhuo Lv, Hualong Ma, Jiachen Zhou, Ruigang Liang, Kai Chen, Shengzhi Zhang, and Yunfei Yang. arXiv, 2021.
   
 
 ### Diffusion Model
