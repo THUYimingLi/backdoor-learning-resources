@@ -1953,11 +1953,23 @@ Markdown format:
 
 - Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound.
   [[pdf]](https://arxiv.org/abs/2307.08208.pdf)
-  - Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, Yiming Li. arXiv, 2023
+  - Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, Yiming Li. arXiv, 2023.
+
+- Stealthy Backdoor Attack Against Speaker Recognition Using Phase-Injection Hidden Trigger.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/10175571)
+  - Zhe Ye, Diqun Yan, Li Dong, Jiacheng Deng, Shui Yu. *SPL*, 2023.
+
+- Fake the Real: Backdoor Attack on Deep Speech Classification via Voice Conversion.
+  [[pdf]](https://arxiv.org/abs/2306.15875)
+  - Zhe Ye, Terui Mao, Li Dong, Diqun Yan. arXiv, 2023.
 
 - VenoMave: Targeted Poisoning Against Speech Recognition.
   [[pdf]](https://arxiv.org/pdf/2010.10682.pdf)
-  - Hojjat Aghakhani, Lea Schönherr, Thorsten Eisenhofer, Dorothea Kolossa, Thorsten Holz, Christopher Kruegel, Giovanni Vigna. *SaTML*, 2023
+  - Hojjat Aghakhani, Lea Schönherr, Thorsten Eisenhofer, Dorothea Kolossa, Thorsten Holz, Christopher Kruegel, Giovanni Vigna. *SaTML*, 2023.
+
+- Natural Backdoor Attacks on Speech Recognition Models.
+  [[link]](https://link.springer.com/chapter/10.1007/978-3-031-20096-0_45)
+  - Jinwen Xin, Xixiang Lyu, Jing Ma. *ML4CS*, 2022.
     
 - Adversarial Audio: A New Information Hiding Method and Backdoor for DNN-based Speech Recognition Models.
   [[pdf]](https://arxiv.org/abs/1904.03829.pdf)
@@ -1975,7 +1987,7 @@ Markdown format:
 
 - A Novel Trojan Attack against Co-learning Based ASR DNN System.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9437669)
-  - Mingxuan Li, Xiao Wang, Dongdong Huo, Han Wang, Chao Liu, Yazhe Wang, Yu Wang, Zhen Xu. *CSCWD*, 2021
+  - Mingxuan Li, Xiao Wang, Dongdong Huo, Han Wang, Chao Liu, Yazhe Wang, Yu Wang, Zhen Xu. *CSCWD*, 2021.
 
 ### Medical Science
 - FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis.
