@@ -1957,7 +1957,7 @@ Markdown format:
 
 - Stealthy Backdoor Attack Against Speaker Recognition Using Phase-Injection Hidden Trigger.
   [[link]](https://ieeexplore.ieee.org/abstract/document/10175571)
-  - Zhe Ye, Diqun Yan, Li Dong, Jiacheng Deng, Shui Yu. *SPL*, 2023.
+  - Zhe Ye, Diqun Yan, Li Dong, Jiacheng Deng, Shui Yu. *IEEE Signal Processing Letters*, 2023.
 
 - Fake the Real: Backdoor Attack on Deep Speech Classification via Voice Conversion.
   [[pdf]](https://arxiv.org/abs/2306.15875)
