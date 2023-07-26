@@ -216,9 +216,15 @@ Markdown format:
   [[code]](https://github.com/SewoongLab/ntk-backdoor)
   - Jonathan Hayase and Sewoong Oh. *ICLR*, 2023.
 
+- You Are Catching My Attention: Are Vision Transformers Bad Learners Under Backdoor Attacks?
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yuan_You_Are_Catching_My_Attention_Are_Vision_Transformers_Bad_Learners_CVPR_2023_paper.pdf)
+  - Zenghui Yuan, Pan Zhou, Kai Zou, and Yu Cheng. *CVPR*, 2023.
+  
 - Color Backdoor: A Robust Poisoning Attack in Color Space.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Color_Backdoor_A_Robust_Poisoning_Attack_in_Color_Space_CVPR_2023_paper.pdf)
   - Wenbo Jiang, Hongwei Li, Guowen Xu, and Tianwei Zhang. *CVPR*, 2023.
+
+
 
 
 #### 2022
