@@ -78,6 +78,7 @@ Markdown format:
   - [Acoustics Signal Processing](#acoustics-signal-processing)
   - [Medical Science](#medical-science)
   - [Detection and Tracking](#detection-and-tracking)
+  - [Diffusion Models](#diffusion-models)
   - [Cybersecurity](#cybersecurity)
   - [Others](#others)
 - [Evaluation and Discussion](#evaluation-and-discussion)
@@ -2003,6 +2004,17 @@ Markdown format:
 - TRAPDOOR: Repurposing Backdoors to Detect Dataset Bias in Machine Learning-based Genomic Analysis.
   [[pdf]](https://arxiv.org/pdf/2108.10132.pdf)
   - Esha Sarkar and Michail Maniatakos. arXiv, 2021.
+
+### Diffusion Models
+- How to Backdoor Diffusion Models?
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chou_How_to_Backdoor_Diffusion_Models_CVPR_2023_paper.pdf)
+  [[code]](https://github.com/IBM/BadDiffusion)
+  - Sheng-Yen Chou, Pin-Yu Chen, and Tsung-Yi Ho. *CVPR*, 2023.
+
+- TrojDiff: Trojan Attacks on Diffusion Models With Diverse Targets.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_TrojDiff_Trojan_Attacks_on_Diffusion_Models_With_Diverse_Targets_CVPR_2023_paper.pdf)
+  [[code]](https://github.com/chenweixin107/TrojDiff)
+  - Weixin Chen, Dawn Song, and Bo Li. *CVPR*, 2023.
 
 ### Cybersecurity
 - VulnerGAN: A Backdoor Attack through Vulnerability Amplification against Machine Learning-based Network Intrusion Detection Systems.
