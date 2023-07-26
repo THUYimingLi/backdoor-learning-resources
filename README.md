@@ -215,7 +215,11 @@ Markdown format:
   [[pdf]](https://openreview.net/pdf?id=a70lGJ-rwy)
   [[code]](https://github.com/SewoongLab/ntk-backdoor)
   - Jonathan Hayase and Sewoong Oh. *ICLR*, 2023.
-  
+
+- Color Backdoor: A Robust Poisoning Attack in Color Space.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Color_Backdoor_A_Robust_Poisoning_Attack_in_Color_Space_CVPR_2023_paper.pdf)
+  - Wenbo Jiang, Hongwei Li, Guowen Xu, and Tianwei Zhang. *CVPR*, 2023.
+
 
 #### 2022
 - Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
@@ -2039,6 +2043,14 @@ Markdown format:
   [[pdf]](https://openreview.net/pdf?id=bsZULlDGXe)
   [[code]](https://github.com/ain-soph/nas_backdoor)
   - Ren Pang, Changjiang Li, Zhaohan Xi, Shouling Ji, and Ting Wang. *ICLR*, 2023.
+
+- Backdoor Attacks Against Deep Image Compression via Adaptive Frequency Trigger.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Tan_Backdoor_Attacks_Against_Deep_Image_Compression_via_Adaptive_Frequency_Trigger_CVPR_2023_paper.pdf)
+  Yi Yu, Yufei Wang, Wenhan Yang, Shijian Lu, Yap-Peng Tan, and Alex C. Kot. *CVPR*, 2023.
+
+- The Dark Side of Dynamic Routing Neural Networks: Towards Efficiency Backdoor Injection.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chen_The_Dark_Side_of_Dynamic_Routing_Neural_Networks_Towards_Efficiency_CVPR_2023_paper.pdf)
+  - Simin Chen, Hanlin Chen, Mirazul Haque, Cong Liu, and Wei Yang. *CVPR*, 2023.
 
 - Backdoor Attacks on Crowd Counting.
   [[pdf]](https://arxiv.org/pdf/2207.05641.pdf)
