@@ -78,7 +78,8 @@ Markdown format:
   - [Acoustics Signal Processing](#acoustics-signal-processing)
   - [Medical Science](#medical-science)
   - [Detection and Tracking](#detection-and-tracking)
-  - [Diffusion Models](#diffusion-models)
+  - [Transformer](#transformer)
+  - [Diffusion Model](#diffusion-model)
   - [Cybersecurity](#cybersecurity)
   - [Others](#others)
 - [Evaluation and Discussion](#evaluation-and-discussion)
@@ -221,9 +222,6 @@ Markdown format:
   [[code]](https://github.com/SewoongLab/ntk-backdoor)
   - Jonathan Hayase and Sewoong Oh. *ICLR*, 2023.
 
-- You Are Catching My Attention: Are Vision Transformers Bad Learners Under Backdoor Attacks?
-  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yuan_You_Are_Catching_My_Attention_Are_Vision_Transformers_Bad_Learners_CVPR_2023_paper.pdf)
-  - Zenghui Yuan, Pan Zhou, Kai Zou, and Yu Cheng. *CVPR*, 2023.
   
 - Color Backdoor: A Robust Poisoning Attack in Color Space.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Jiang_Color_Backdoor_A_Robust_Poisoning_Attack_in_Color_Space_CVPR_2023_paper.pdf)
@@ -321,11 +319,6 @@ Markdown format:
 - Natural Backdoor Datasets.
   [[pdf]](https://arxiv.org/pdf/2206.10673.pdf)
   - Emily Wenger, Roma Bhattacharjee, Arjun Nitin Bhagoji, Josephine Passananti, Emilio Andere, Haitao Zheng, and Ben Y. Zhao. arXiv, 2022.  
-
-- Backdoor Attacks on Vision Transformers.
-  [[pdf]](https://arxiv.org/pdf/2206.08477.pdf)
-  [[code]](https://github.com/UCDvision/backdoor_transformer.git)
-  - Akshayvarun Subramanya, Aniruddha Saha, Soroush Abbasi Koohpayegani, Ajinkya Tejankar, and Hamed Pirsiavash. arXiv, 2022.
 
 - Enhancing Clean Label Backdoor Attack with Two-phase Specific Triggers.
   [[pdf]](https://arxiv.org/pdf/2206.04881.pdf)
@@ -2005,7 +1998,22 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2108.10132.pdf)
   - Esha Sarkar and Michail Maniatakos. arXiv, 2021.
 
-### Diffusion Models
+### Transformer
+- You Are Catching My Attention: Are Vision Transformers Bad Learners Under Backdoor Attacks?
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Yuan_You_Are_Catching_My_Attention_Are_Vision_Transformers_Bad_Learners_CVPR_2023_paper.pdf)
+  - Zenghui Yuan, Pan Zhou, Kai Zou, and Yu Cheng. *CVPR*, 2023.
+
+- TrojViT: Trojan Insertion in Vision Transformers.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zheng_TrojViT_Trojan_Insertion_in_Vision_Transformers_CVPR_2023_paper.pdf)
+  - Mengxin Zheng, Qian Lou, and Lei Jiang. *CVPR*, 2023.
+
+- Backdoor Attacks on Vision Transformers.
+  [[pdf]](https://arxiv.org/pdf/2206.08477.pdf)
+  [[code]](https://github.com/UCDvision/backdoor_transformer.git)
+  - Akshayvarun Subramanya, Aniruddha Saha, Soroush Abbasi Koohpayegani, Ajinkya Tejankar, and Hamed Pirsiavash. arXiv, 2022.
+  
+
+### Diffusion Model
 - How to Backdoor Diffusion Models?
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Chou_How_to_Backdoor_Diffusion_Models_CVPR_2023_paper.pdf)
   [[code]](https://github.com/IBM/BadDiffusion)
