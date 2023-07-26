@@ -118,6 +118,10 @@ Markdown format:
   [[pdf]](https://eprint.iacr.org/2020/201.pdf)
   - Yuntao Liu, Ankit Mondal, Abhishek Chakraborty, Michael Zuzak, Nina Jacobsen, Daniel Xing, and Ankur Srivastava. *ISQED*, 2020.
 
+- Backdoor Attacks against Voice Recognition Systems: A Survey.
+  [[pdf]](https://arxiv.org/pdf/2307.13643)
+  - Baochen Yan, Jiahe Lan, and Zheng Yan. arXiv, 2023.
+
 - A Survey of Neural Trojan Attacks and Defenses in Deep Learning.
   [[pdf]](https://arxiv.org/pdf/2202.07183.pdf)
   - Jie Wang, Ghulam Mubashar Hassan, and Naveed Akhtar. arXiv, 2022.
