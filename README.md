@@ -1951,19 +1951,31 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2211.03117)
   - Stefanos Koffas, Luca Pajola, Stjepan Picek, and Mauro Conti. arXiv, 2022.
 
+- Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound.
+  [[pdf]](https://arxiv.org/abs/2307.08208.pdf)
+  - Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, Yiming Li. arXiv, 2023
+
+- VenoMave: Targeted Poisoning Against Speech Recognition.
+  [[pdf]](https://arxiv.org/pdf/2010.10682.pdf)
+  - Hojjat Aghakhani, Lea Schönherr, Thorsten Eisenhofer, Dorothea Kolossa, Thorsten Holz, Christopher Kruegel, Giovanni Vigna. *SaTML*, 2023
+    
 - Adversarial Audio: A New Information Hiding Method and Backdoor for DNN-based Speech Recognition Models.
-  [[pdf]](https://arxiv.org/abs/1904.03829)
+  [[pdf]](https://arxiv.org/abs/1904.03829.pdf)
+  [[code]](https://github.com/HanboCai/BadSpeech_SoE)
   - Yehao Kong, Jiliang Zhang. arXiv, 2022.
 
 - Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems.
   [[link]](https://dl.acm.org/doi/abs/10.1145/3503161.3548261)
   [[code]](https://github.com/lqsunshine/DABA)
-  - Qiang Liu, Tongqing Zhou, Zhiping Cai, Yonghao Tang
+  - Qiang Liu, Tongqing Zhou, Zhiping Cai, Yonghao Tang. *ACM MM*, 2022.
 
 - Audio-domain position-independent backdoor attack via unnoticeable triggers.
   [[pdf]](https://web.njit.edu/~cs638/paper/Audio-domain%20Position-independent%20Backdoor%20Attack%20via%20Unnoticeable%20Triggers.pdf)
-  
+  - Cong Shi, Tianfang Zhang, Zhuohang Li, Huy Phan, Tianming Zhao, Yan Wang, Jian Liu, Bo Yuan, Yingying Chen. *ACM MobiCom*, 2022.
 
+- A Novel Trojan Attack against Co-learning Based ASR DNN System.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/9437669)
+  - Mingxuan Li, Xiao Wang, Dongdong Huo, Han Wang, Chao Liu, Yazhe Wang, Yu Wang, Zhen Xu. *CSCWD*, 2021
 
 ### Medical Science
 - FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis.
