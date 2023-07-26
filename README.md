@@ -1951,6 +1951,19 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2211.03117)
   - Stefanos Koffas, Luca Pajola, Stjepan Picek, and Mauro Conti. arXiv, 2022.
 
+- Adversarial Audio: A New Information Hiding Method and Backdoor for DNN-based Speech Recognition Models.
+  [[pdf]](https://arxiv.org/abs/1904.03829)
+  - Yehao Kong, Jiliang Zhang. arXiv, 2022.
+
+- Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems.
+  [[link]](https://dl.acm.org/doi/abs/10.1145/3503161.3548261)
+  [[code]](https://github.com/lqsunshine/DABA)
+  - Qiang Liu, Tongqing Zhou, Zhiping Cai, Yonghao Tang
+
+- Audio-domain position-independent backdoor attack via unnoticeable triggers.
+  [[pdf]](https://web.njit.edu/~cs638/paper/Audio-domain%20Position-independent%20Backdoor%20Attack%20via%20Unnoticeable%20Triggers.pdf)
+  
+
 
 ### Medical Science
 - FIBA: Frequency-Injection based Backdoor Attack in Medical Image Analysis.
