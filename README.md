@@ -686,6 +686,11 @@ Markdown format:
   - Sakshi Udeshi, Shanshan Peng, Gerald Woo, Lionell Loh, Louth Rawshan, and Sudipta Chattopadhyay. arXiv, 2019.
 
 #### Model Reconstruction based Empirical Defense
+- Backdoor Cleansing with Unlabeled Data.
+  [[pdf]](https://arxiv.org/pdf/2211.12044.pdf)
+  [[code]](https://github.com/luluppang/BCU)
+  - Lu Pang, Tao Sun, Haibin Ling, and Chao Chen. *CVPR*, 2023.
+
 - Adversarial Unlearning of Backdoors via Implicit Hypergradient.
   [[pdf]](https://arxiv.org/pdf/2110.03735.pdf)
   [[code]](https://github.com/YiZeng623/I-BAU_Adversarial_Unlearning_of-Backdoors_via_implicit_Hypergradient)
@@ -1003,6 +1008,11 @@ Markdown format:
 
 
 #### Poison Suppression based Empirical Defense
+- Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder.
+  [[pdf]](https://arxiv.org/pdf/2303.15564.pdf)
+  [[code]](https://github.com/tsun/BDMAE)
+  - Tao Sun, Lu Pang, Chao Chen, and Haibin Ling. *arXiv*, 2023.
+
 - Backdoor Defense via Decoupling the Training Process.
   [[pdf]](https://openreview.net/pdf?id=TySnJ-0RdKI)
   [[code]](https://github.com/SCLBD/DBD)
