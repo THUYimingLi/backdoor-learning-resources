@@ -1008,11 +1008,6 @@ Markdown format:
 
 
 #### Poison Suppression based Empirical Defense
-- Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder.
-  [[pdf]](https://arxiv.org/pdf/2303.15564.pdf)
-  [[code]](https://github.com/tsun/BDMAE)
-  - Tao Sun, Lu Pang, Chao Chen, and Haibin Ling. *arXiv*, 2023.
-
 - Backdoor Defense via Decoupling the Training Process.
   [[pdf]](https://openreview.net/pdf?id=TySnJ-0RdKI)
   [[code]](https://github.com/SCLBD/DBD)
@@ -1055,6 +1050,11 @@ Markdown format:
 - Removing Backdoor-Based Watermarks in Neural Networks with Limited Data.
   [[pdf]](https://arxiv.org/pdf/2008.00407.pdf)
   - Xuankai Liu, Fengting Li, Bihan Wen, and Qi Li. *ICPR*, 2021. 
+
+- Mask and Restore: Blind Backdoor Defense at Test Time with Masked Autoencoder.
+  [[pdf]](https://arxiv.org/pdf/2303.15564.pdf)
+  [[code]](https://github.com/tsun/BDMAE)
+  - Tao Sun, Lu Pang, Chao Chen, and Haibin Ling. *arXiv*, 2023.
 
 - On the Effectiveness of Adversarial Training against Backdoor Attacks.
   [[pdf]](https://arxiv.org/pdf/2202.10627.pdf)
