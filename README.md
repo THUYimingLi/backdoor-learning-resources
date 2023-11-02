@@ -2102,6 +2102,10 @@ Markdown format:
   [[pdf]](https://arxiv.org/pdf/2205.14497.pdf)
   - Shih-Han Chan, Yinpeng Dong, Jun Zhu, Xiaolu Zhang, and Jun Zhou. *ECCV Workshop*, 2022.
 
+- Attacking by Aligning: Clean-Label Backdoor Attacks on Object Detection
+  [[pdf]](https://arxiv.org/pdf/2307.10487.pdf)
+  - Yize Cheng, Wenbin Hu, Minhao Cheng. arXiv, 2023
+
 - TAT: Targeted Backdoor Attacks against Visual Object Tracking.
   [[link]](https://www.sciencedirect.com/science/article/pii/S0031320323003308)
   [[code]](https://github.com/MisakaZipi/TAT)
