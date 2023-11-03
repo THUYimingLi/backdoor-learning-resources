@@ -1678,6 +1678,10 @@ Markdown format:
 
 
 ### Natural Language Processing
+- Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training.
+  [[pdf]](https://openreview.net/forum?id=JKuBOuzntQ)
+  [[code]](https://github.com/thunlp/RECIPE)
+  - Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu. *TACL*, 2023.
 - TrojText: Test-time Invisible Textual Trojan Insertion.
   [[pdf]](https://openreview.net/pdf?id=ja4Lpp5mqc2)
   [[code]](https://github.com/UCF-ML-Research/TrojText)
