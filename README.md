@@ -1678,10 +1678,7 @@ Markdown format:
 
 
 ### Natural Language Processing
-- Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training.
-  [[pdf]](https://openreview.net/forum?id=JKuBOuzntQ)
-  [[code]](https://github.com/thunlp/RECIPE)
-  - Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu. *TACL*, 2023.
+  
 - TrojText: Test-time Invisible Textual Trojan Insertion.
   [[pdf]](https://openreview.net/pdf?id=ja4Lpp5mqc2)
   [[code]](https://github.com/UCF-ML-Research/TrojText)
@@ -1690,6 +1687,12 @@ Markdown format:
 - Defending against Backdoor Attacks in Natural Language Generation.
   [[link]](https://ojs.aaai.org/index.php/AAAI/article/view/25656)
   - Xiaofei Sun, Xiaoya Li, Yuxian Meng, Xiang Ao, Lingjuan Lyu, Jiwei Li, and Tianwei Zhang. *AAAI*, 2023.
+
+- Removing Backdoors in Pre-trained Models by Regularized Continual Pre-training.
+  [[pdf]](https://openreview.net/forum?id=JKuBOuzntQ)
+  [[code]](https://github.com/thunlp/RECIPE)
+  - Biru Zhu, Ganqu Cui, Yangyi Chen, Yujia Qin, Lifan Yuan, Chong Fu, Yangdong Deng, Zhiyuan Liu, Maosong Sun, Ming Gu. *Transactions of the Association for Computational Linguistics*, 2023.
+
 
 - BadPrompt: Backdoor Attacks on Continuous Prompts.
   [[pdf]](https://openreview.net/pdf?id=rlN6fO3OrP)
