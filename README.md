@@ -1964,7 +1964,7 @@ Markdown format:
 
 - The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems.
   [[link]](https://dl.acm.org/doi/abs/10.1145/3581783.3613843)
-  - Zhicong Zheng, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu. *ACM MM*, 2024
+  - Zhicong Zheng, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu. *ACM MM*, 2023.
 
 - Going in Style: Audio Backdoors Through Stylistic Transformations.
   [[pdf]](https://arxiv.org/pdf/2211.03117)
