@@ -1950,6 +1950,22 @@ Markdown format:
   - Guiyu Tian, Wenhao Jiang, Wei Liu, and Yadong Mu. arXiv, 2021.
 
 ### Acoustics Signal Processing
+- Devil in the Room: Triggering Audio Backdoors in the Physical World.
+  [[pdf]](https://www.usenix.org/system/files/sec23winter-prepub-166-chen.pdf)
+  - Meng Chen, Xiangyu Xu, Li Lu, Zhongjie Ba, Feng Lin, and Kui Ren. *USENIX*, 2023
+
+- Breaking Speaker Recognition with Paddingback.
+  [[link]](https://ieeexplore.ieee.org/abstract/document/10448169)
+  - Zhe Ye, Diqun Yan, Li Dong, Kailai Shen. *ICASSP*, 2024.
+
+- Inaudible Backdoor Attack via Stealthy Frequency Trigger Injection in Audio Spectrogram.
+  [[link]](https://dl.acm.org/doi/abs/10.1145/3636534.3649345)
+  - Tianfang Zhang, Huy Phan, Zijie Tang, Cong Shi, Yan Wang, Bo Yuan, Yingying Chen. *ACM MobiCom*, 2024.
+
+- The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems.
+  [[link]](https://dl.acm.org/doi/abs/10.1145/3581783.3613843)
+  - Zhicong Zheng, Xinfeng Li, Chen Yan, Xiaoyu Ji, Wenyuan Xu. *ACM MM*, 2024
+
 - Going in Style: Audio Backdoors Through Stylistic Transformations.
   [[pdf]](https://arxiv.org/pdf/2211.03117)
   - Stefanos Koffas, Luca Pajola, Stjepan Picek, and Mauro Conti. *ICASSP*, 2023.
