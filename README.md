@@ -1950,9 +1950,10 @@ Markdown format:
   - Guiyu Tian, Wenhao Jiang, Wei Liu, and Yadong Mu. arXiv, 2021.
 
 ### Acoustics Signal Processing
-- Devil in the Room: Triggering Audio Backdoors in the Physical World.
-  [[pdf]](https://www.usenix.org/system/files/sec23winter-prepub-166-chen.pdf)
-  - Meng Chen, Xiangyu Xu, Li Lu, Zhongjie Ba, Feng Lin, and Kui Ren. *USENIX*, 2023
+- Toward Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound.
+  [[pdf]](https://arxiv.org/abs/2307.08208.pdf)
+  [[code]](https://github.com/HanboCai/BadSpeech_SoE)
+  - Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, Yiming Li. *IEEE Transactions on Information Forensics and Security*, 2024.
 
 - Breaking Speaker Recognition with Paddingback.
   [[link]](https://ieeexplore.ieee.org/abstract/document/10448169)
@@ -1961,6 +1962,14 @@ Markdown format:
 - Inaudible Backdoor Attack via Stealthy Frequency Trigger Injection in Audio Spectrogram.
   [[link]](https://dl.acm.org/doi/abs/10.1145/3636534.3649345)
   - Tianfang Zhang, Huy Phan, Zijie Tang, Cong Shi, Yan Wang, Bo Yuan, Yingying Chen. *ACM MobiCom*, 2024.
+ 
+- SilentTrig: An imperceptible backdoor attack against speaker identification with hidden triggers.
+  [[link]](https://www.sciencedirect.com/science/article/pii/S0167865523003495)
+  - Yu Tang, Lijuan Sun, Xiaolong Xu. *Pattern Recognition Letters*, 2024.
+
+- Devil in the Room: Triggering Audio Backdoors in the Physical World.
+  [[pdf]](https://www.usenix.org/system/files/sec23winter-prepub-166-chen.pdf)
+  - Meng Chen, Xiangyu Xu, Li Lu, Zhongjie Ba, Feng Lin, and Kui Ren. *USENIX*, 2023.
 
 - The Silent Manipulator: A Practical and Inaudible Backdoor Attack against Speech Recognition Systems.
   [[link]](https://dl.acm.org/doi/abs/10.1145/3581783.3613843)
@@ -1977,6 +1986,10 @@ Markdown format:
 - Stealthy Backdoor Attack Against Speaker Recognition Using Phase-Injection Hidden Trigger.
   [[link]](https://ieeexplore.ieee.org/abstract/document/10175571)
   - Zhe Ye, Diqun Yan, Li Dong, Jiacheng Deng, Shui Yu. *IEEE Signal Processing Letters*, 2023.
+
+- Fake the Real: Backdoor Attack on Deep Speech Classification via Voice Conversion.
+  [[pdf]](https://arxiv.org/abs/2306.15875)
+  - Zhe Ye, Terui Mao, Li Dong, Diqun Yan. arXiv, 2023.
 
 - Opportunistic Backdoor Attacks: Exploring Human-imperceptible Vulnerabilities on Speech Recognition Systems.
   [[link]](https://dl.acm.org/doi/abs/10.1145/3503161.3548261)
@@ -1996,6 +2009,11 @@ Markdown format:
   [[link]](https://link.springer.com/chapter/10.1007/978-3-031-20096-0_45)
   - Jinwen Xin, Xixiang Lyu, Jing Ma. *ML4CS*, 2022.
 
+- Adversarial Audio: A New Information Hiding Method and Backdoor for DNN-based Speech Recognition Models.
+  [[pdf]](https://arxiv.org/abs/1904.03829.pdf)
+  [[code]](https://github.com/HanboCai/BadSpeech_SoE)
+  - Yehao Kong, Jiliang Zhang. arXiv, 2022.
+
 - DriNet: Dynamic Backdoor Attack against Automatic Speech Recognization Models.
   [[link]](https://www.mdpi.com/2076-3417/12/12/5786)
   - Jianbin Ye, Xiaoyuan Liu, Zheng You, Guowei Li, and Bo Liu. *Applied Sciences*, 2022.
@@ -2008,19 +2026,7 @@ Markdown format:
 - A Novel Trojan Attack against Co-learning Based ASR DNN System.
   [[link]](https://ieeexplore.ieee.org/abstract/document/9437669)
   - Mingxuan Li, Xiao Wang, Dongdong Huo, Han Wang, Chao Liu, Yazhe Wang, Yu Wang, Zhen Xu. *CSCWD*, 2021.
-
-- Towards Stealthy Backdoor Attacks against Speech Recognition via Elements of Sound.
-  [[pdf]](https://arxiv.org/abs/2307.08208.pdf)
-  - Hanbo Cai, Pengcheng Zhang, Hai Dong, Yan Xiao, Stefanos Koffas, Yiming Li. arXiv, 2023.
-
-- Fake the Real: Backdoor Attack on Deep Speech Classification via Voice Conversion.
-  [[pdf]](https://arxiv.org/abs/2306.15875)
-  - Zhe Ye, Terui Mao, Li Dong, Diqun Yan. arXiv, 2023.
     
-- Adversarial Audio: A New Information Hiding Method and Backdoor for DNN-based Speech Recognition Models.
-  [[pdf]](https://arxiv.org/abs/1904.03829.pdf)
-  [[code]](https://github.com/HanboCai/BadSpeech_SoE)
-  - Yehao Kong, Jiliang Zhang. arXiv, 2022.
 
 
 ### Medical Science
