@@ -228,6 +228,11 @@ Markdown format:
 
 
 #### 2022
+- Data-Efficient Backdoor Attacks
+  [[pdf]](https://www.ijcai.org/proceedings/2022/0554.pdf)
+  [[code]](https://github.com/xpf/Data-Efficient-Backdoor-Attacks)
+  - Pengfei Xia, Ziqiang Li, Wei Zhang, and Bin L *IJCAI*, 2022.
+
 - Untargeted Backdoor Watermark: Towards Harmless and Stealthy Dataset Copyright Protection.
   [[pdf]](https://www.researchgate.net/publication/363766436_Untargeted_Backdoor_Watermark_Towards_Harmless_and_Stealthy_Dataset_Copyright_Protection)
   [[code]](https://github.com/THUYimingLi/Untargeted_Backdoor_Watermark)
@@ -271,6 +276,10 @@ Markdown format:
 - Dynamic Backdoors with Global Average Pooling.
   [[pdf]](https://arxiv.org/pdf/2203.02079.pdf)
   - Stefanos Koffas, Stjepan Picek, and Mauro Conti. *AICAS*, 2022.
+ 
+- Not All Samples Are Born Equal: Towards Effective Clean-Label Backdoor Attacks. 
+  [[pdf]](https://www.sciencedirect.com/science/article/pii/S0031320323002121) 
+  - Yinghua Gao, Yiming Li, Linghui Zhu, Dongxian Wu, Yong Jiang, and Shu-Tao Xia. *Pattern Recognition*, 2022.
 
 - Poison Ink: Robust and Invisible Backdoor Attack.
   [[pdf]](https://arxiv.org/pdf/2108.02488)
